@@ -19,15 +19,15 @@ export default function CharactersPage() {
   const [mode, setMode] = useState<Mode>("review");
   const [words, setWords] = useState<HskWord[]>([]);
   const [browseIndex, setBrowseIndex] = useState(0);
-  const [seeded, setSeeded] = useState(false);
   const review = useReview("characters");
 
   useTTS();
 
-  // Load vocab and seed SRS cards for current level
+  // Load vocab, seed SRS cards, then load review cards for current level
   useEffect(() => {
-    setSeeded(false);
     setBrowseIndex(0);
+
+    const levelPrefix = `hsk${level}-`;
 
     loadVocabulary(level)
       .then(async (vocab) => {
@@ -40,8 +40,6 @@ export default function CharactersPage() {
           ).map((c) => c.id)
         );
 
-        // Only seed cards for the current level
-        const levelPrefix = `hsk${level}-`;
         const newCards = vocab
           .filter((w) => w.id.startsWith(levelPrefix) && !existingIds.has(w.id))
           .map((w) => createNewSrsCard(w.id, "characters"));
@@ -50,12 +48,11 @@ export default function CharactersPage() {
           await db.srsCards.bulkPut(newCards);
         }
 
-        setSeeded(true);
-        review.reload();
+        // Load review cards filtered to this level
+        await review.loadCards(levelPrefix);
       })
       .catch(() => {
         setWords([]);
-        setSeeded(true);
       });
   }, [level]);
 
@@ -92,7 +89,7 @@ export default function CharactersPage() {
 
       {mode === "review" && (
         <>
-          {!seeded ? (
+          {!review.loaded ? (
             <p className="text-center text-muted-foreground py-8">
               Loading...
             </p>
@@ -106,7 +103,7 @@ export default function CharactersPage() {
                   : "No cards due for review. Come back later or tap Check again."}
               </p>
               <button
-                onClick={review.reload}
+                onClick={() => review.loadCards(`hsk${level}-`)}
                 className="mt-4 px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm"
               >
                 Check again

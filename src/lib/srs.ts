@@ -75,22 +75,34 @@ export function reviewCard(
 
 export async function getDueCards(
   module: SrsCardState["module"],
-  limit = 20
+  limit = 20,
+  idPrefix?: string
 ): Promise<SrsCardState[]> {
   const now = new Date();
-  return db.srsCards
+  let cards = await db.srsCards
     .where("[module+due]")
     .between([module, Dexie.minKey], [module, now], true, true)
-    .limit(limit)
     .toArray();
+
+  if (idPrefix) {
+    cards = cards.filter((c) => c.id.startsWith(idPrefix));
+  }
+
+  return cards.slice(0, limit);
 }
 
 export async function getNewCards(
   module: SrsCardState["module"],
-  limit = 10
+  limit = 10,
+  idPrefix?: string
 ): Promise<SrsCardState[]> {
-  return db.srsCards
+  let cards = await db.srsCards
     .where({ module, state: 0 })
-    .limit(limit)
     .toArray();
+
+  if (idPrefix) {
+    cards = cards.filter((c) => c.id.startsWith(idPrefix));
+  }
+
+  return cards.slice(0, limit);
 }

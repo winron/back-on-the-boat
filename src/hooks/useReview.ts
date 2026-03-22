@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback, useEffect } from "react";
+import { useState, useCallback, useRef } from "react";
 import { db } from "@/lib/db";
 import {
   reviewCard as reviewSrsCard,
@@ -31,25 +31,35 @@ export function useReview(module: SrsCardState["module"]) {
     totalReviewed: 0,
     correctCount: 0,
   });
+  const [loaded, setLoaded] = useState(false);
 
-  const loadCards = useCallback(async () => {
-    const due = await getDueCards(module, 20);
-    const newCards = due.length < 5 ? await getNewCards(module, 10 - Math.min(due.length, 5)) : [];
-    const allCards = [...due, ...newCards];
+  // Store the latest idPrefix so reload() can reuse it
+  const prefixRef = useRef<string | undefined>(undefined);
 
-    setSession({
-      cards: allCards,
-      currentIndex: 0,
-      isFlipped: false,
-      isComplete: allCards.length === 0,
-      totalReviewed: 0,
-      correctCount: 0,
-    });
-  }, [module]);
+  const loadCards = useCallback(
+    async (idPrefix?: string) => {
+      const prefix = idPrefix ?? prefixRef.current;
+      prefixRef.current = prefix;
 
-  useEffect(() => {
-    loadCards();
-  }, [loadCards]);
+      const due = await getDueCards(module, 20, prefix);
+      const newCards =
+        due.length < 5
+          ? await getNewCards(module, 10 - Math.min(due.length, 5), prefix)
+          : [];
+      const allCards = [...due, ...newCards];
+
+      setSession({
+        cards: allCards,
+        currentIndex: 0,
+        isFlipped: false,
+        isComplete: allCards.length === 0,
+        totalReviewed: 0,
+        correctCount: 0,
+      });
+      setLoaded(true);
+    },
+    [module]
+  );
 
   const flip = useCallback(() => {
     setSession((s) => ({ ...s, isFlipped: true }));
@@ -87,12 +97,13 @@ export function useReview(module: SrsCardState["module"]) {
     currentCard,
     isFlipped: session.isFlipped,
     isComplete: session.isComplete,
+    loaded,
     totalReviewed: session.totalReviewed,
     correctCount: session.correctCount,
     totalCards: session.cards.length,
     flip,
     rate,
-    reload: loadCards,
+    loadCards,
   };
 }
 
