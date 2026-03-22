@@ -1,0 +1,192 @@
+[
+  {
+    "id": "g1-001",
+    "hskLevel": 1,
+    "title": "Basic sentence with 是 (shì)",
+    "structure": "A + 是 + B",
+    "explanation": "The verb 是 (shì) means \"to be\" and is used to link a subject to a noun or noun phrase.",
+    "examples": [
+      {
+        "chinese": "我是学生。",
+        "pinyin": "Wǒ shì xuéshēng.",
+        "english": "I am a student."
+      },
+      {
+        "chinese": "他是老师。",
+        "pinyin": "Tā shì lǎoshī.",
+        "english": "He is a teacher."
+      }
+    ]
+  },
+  {
+    "id": "g1-002",
+    "hskLevel": 1,
+    "title": "Negation with 不 (bù)",
+    "structure": "Subject + 不 + Verb/Adj",
+    "explanation": "不 (bù) is placed before a verb or adjective to negate it. It changes to bú before a 4th tone.",
+    "examples": [
+      {
+        "chinese": "我不喝咖啡。",
+        "pinyin": "Wǒ bù hē kāfēi.",
+        "english": "I don't drink coffee."
+      },
+      {
+        "chinese": "她不是中国人。",
+        "pinyin": "Tā bú shì Zhōngguó rén.",
+        "english": "She is not Chinese."
+      }
+    ]
+  },
+  {
+    "id": "g1-003",
+    "hskLevel": 1,
+    "title": "Questions with 吗 (ma)",
+    "structure": "Statement + 吗？",
+    "explanation": "Adding 吗 to the end of a statement turns it into a yes/no question.",
+    "examples": [
+      {
+        "chinese": "你好吗？",
+        "pinyin": "Nǐ hǎo ma?",
+        "english": "How are you?"
+      },
+      {
+        "chinese": "你是中国人吗？",
+        "pinyin": "Nǐ shì Zhōngguó rén ma?",
+        "english": "Are you Chinese?"
+      }
+    ]
+  },
+  {
+    "id": "g1-004",
+    "hskLevel": 1,
+    "title": "Subject + 很 + Adjective",
+    "structure": "Subject + 很 + Adj",
+    "explanation": "In Chinese, adjectives can act as verbs. 很 (hěn, \"very\") is often used before adjectives, but sometimes it just serves as a grammatical filler with a weakened meaning.",
+    "examples": [
+      {
+        "chinese": "她很漂亮。",
+        "pinyin": "Tā hěn piàoliang.",
+        "english": "She is very pretty."
+      },
+      {
+        "chinese": "中文很难。",
+        "pinyin": "Zhōngwén hěn nán.",
+        "english": "Chinese is (very) hard."
+      }
+    ]
+  },
+  {
+    "id": "g1-005",
+    "hskLevel": 1,
+    "title": "Possessive with 的 (de)",
+    "structure": "Noun/Pronoun + 的 + Noun",
+    "explanation": "的 indicates possession, similar to 's in English or the word \"of\".",
+    "examples": [
+      {
+        "chinese": "我的书。",
+        "pinyin": "Wǒ de shū.",
+        "english": "My book."
+      },
+      {
+        "chinese": "这是谁的电脑？",
+        "pinyin": "Zhè shì shéi de diànnǎo?",
+        "english": "Whose computer is this?"
+      }
+    ]
+  },
+  {
+    "id": "g1-006",
+    "hskLevel": 1,
+    "title": "Measure words with 个 (gè)",
+    "structure": "Number + 个 + Noun",
+    "explanation": "In Chinese, you need a measure word between a number and a noun. 个 (gè) is the most common and general-purpose measure word.",
+    "examples": [
+      {
+        "chinese": "三个人。",
+        "pinyin": "Sān gè rén.",
+        "english": "Three people."
+      },
+      {
+        "chinese": "我有两个朋友。",
+        "pinyin": "Wǒ yǒu liǎng gè péngyǒu.",
+        "english": "I have two friends."
+      }
+    ]
+  },
+  {
+    "id": "g1-007",
+    "hskLevel": 1,
+    "title": "Asking questions with 什么 (shénme)",
+    "structure": "Subject + Verb + 什么？",
+    "explanation": "什么 means \"what\" and replaces the unknown thing in the sentence.",
+    "examples": [
+      {
+        "chinese": "你叫什么名字？",
+        "pinyin": "Nǐ jiào shénme míngzì?",
+        "english": "What is your name?"
+      },
+      {
+        "chinese": "你喜欢吃什么？",
+        "pinyin": "Nǐ xǐhuān chī shénme?",
+        "english": "What do you like to eat?"
+      }
+    ]
+  },
+  {
+    "id": "g1-008",
+    "hskLevel": 1,
+    "title": "Expressing existence with 有 (yǒu)",
+    "structure": "Subject + 有 + Object",
+    "explanation": "有 (yǒu) means \"to have\" or \"there is/are\". It is negated with 没 (méi), not 不.",
+    "examples": [
+      {
+        "chinese": "我有一本书。",
+        "pinyin": "Wǒ yǒu yì běn shū.",
+        "english": "I have a book."
+      },
+      {
+        "chinese": "我没有钱。",
+        "pinyin": "Wǒ méiyǒu qián.",
+        "english": "I don't have money."
+      }
+    ]
+  },
+  {
+    "id": "g1-009",
+    "hskLevel": 1,
+    "title": "Time words in sentences",
+    "structure": "Subject + Time + Verb + Object",
+    "explanation": "Time words come before the verb in Chinese, typically after the subject.",
+    "examples": [
+      {
+        "chinese": "我今天很忙。",
+        "pinyin": "Wǒ jīntiān hěn máng.",
+        "english": "I am very busy today."
+      },
+      {
+        "chinese": "他明天去北京。",
+        "pinyin": "Tā míngtiān qù Běijīng.",
+        "english": "He is going to Beijing tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "g1-010",
+    "hskLevel": 1,
+    "title": "Location with 在 (zài)",
+    "structure": "Subject + 在 + Place",
+    "explanation": "在 (zài) means \"to be at/in\" and indicates location.",
+    "examples": [
+      {
+        "chinese": "他在家。",
+        "pinyin": "Tā zài jiā.",
+        "english": "He is at home."
+      },
+      {
+        "chinese": "书在桌子上。",
+        "pinyin": "Shū zài zhuōzi shàng.",
+        "english": "The book is on the table."
+      }
+    ]
+  }
+]

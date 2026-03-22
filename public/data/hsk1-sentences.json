@@ -1,0 +1,113 @@
+[
+  {
+    "id": "s1-001",
+    "hskLevel": 1,
+    "targetSentence": "我是学生。",
+    "targetPinyin": "Wǒ shì xuéshēng.",
+    "targetMeaning": "I am a student.",
+    "wordBank": [
+      "我",
+      "是",
+      "学生",
+      "。"
+    ]
+  },
+  {
+    "id": "s1-002",
+    "hskLevel": 1,
+    "targetSentence": "他不喝茶。",
+    "targetPinyin": "Tā bù hē chá.",
+    "targetMeaning": "He doesn't drink tea.",
+    "wordBank": [
+      "他",
+      "不",
+      "喝",
+      "茶",
+      "。"
+    ]
+  },
+  {
+    "id": "s1-003",
+    "hskLevel": 1,
+    "targetSentence": "你叫什么名字？",
+    "targetPinyin": "Nǐ jiào shénme míngzì?",
+    "targetMeaning": "What is your name?",
+    "wordBank": [
+      "你",
+      "叫",
+      "什么",
+      "名字",
+      "？"
+    ]
+  },
+  {
+    "id": "s1-004",
+    "hskLevel": 1,
+    "targetSentence": "我有两个朋友。",
+    "targetPinyin": "Wǒ yǒu liǎng gè péngyǒu.",
+    "targetMeaning": "I have two friends.",
+    "wordBank": [
+      "我",
+      "有",
+      "两个",
+      "朋友",
+      "。"
+    ]
+  },
+  {
+    "id": "s1-005",
+    "hskLevel": 1,
+    "targetSentence": "她很漂亮。",
+    "targetPinyin": "Tā hěn piàoliang.",
+    "targetMeaning": "She is very pretty.",
+    "wordBank": [
+      "她",
+      "很",
+      "漂亮",
+      "。"
+    ]
+  },
+  {
+    "id": "s1-006",
+    "hskLevel": 1,
+    "targetSentence": "今天天气很好。",
+    "targetPinyin": "Jīntiān tiānqì hěn hǎo.",
+    "targetMeaning": "The weather is very good today.",
+    "wordBank": [
+      "今天",
+      "天气",
+      "很",
+      "好",
+      "。"
+    ]
+  },
+  {
+    "id": "s1-007",
+    "hskLevel": 1,
+    "targetSentence": "你喜欢吃什么？",
+    "targetPinyin": "Nǐ xǐhuān chī shénme?",
+    "targetMeaning": "What do you like to eat?",
+    "wordBank": [
+      "你",
+      "喜欢",
+      "吃",
+      "什么",
+      "？"
+    ]
+  },
+  {
+    "id": "s1-008",
+    "hskLevel": 1,
+    "targetSentence": "我的书在桌子上。",
+    "targetPinyin": "Wǒ de shū zài zhuōzi shàng.",
+    "targetMeaning": "My book is on the table.",
+    "wordBank": [
+      "我的",
+      "书",
+      "在",
+      "桌子",
+      "上",
+      "。"
+    ]
+  }
+]

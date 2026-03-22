@@ -1,0 +1,198 @@
+[
+  {
+    "id": "d1-001",
+    "hskLevel": 1,
+    "title": "Meeting Someone New",
+    "context": "At school",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你好！",
+        "pinyin": "Nǐ hǎo!",
+        "english": "Hello!"
+      },
+      {
+        "speaker": "B",
+        "chinese": "你好！你叫什么名字？",
+        "pinyin": "Nǐ hǎo! Nǐ jiào shénme míngzì?",
+        "english": "Hello! What's your name?"
+      },
+      {
+        "speaker": "A",
+        "chinese": "我叫李明。你呢？",
+        "pinyin": "Wǒ jiào Lǐ Míng. Nǐ ne?",
+        "english": "My name is Li Ming. And you?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "我叫王小红。认识你很高兴！",
+        "pinyin": "Wǒ jiào Wáng Xiǎohóng. Rènshí nǐ hěn gāoxìng!",
+        "english": "My name is Wang Xiaohong. Nice to meet you!"
+      },
+      {
+        "speaker": "A",
+        "chinese": "认识你我也很高兴！",
+        "pinyin": "Rènshí nǐ wǒ yě hěn gāoxìng!",
+        "english": "Nice to meet you too!"
+      }
+    ]
+  },
+  {
+    "id": "d1-002",
+    "hskLevel": 1,
+    "title": "At a Restaurant",
+    "context": "Ordering food",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你好，请问你想吃什么？",
+        "pinyin": "Nǐ hǎo, qǐngwèn nǐ xiǎng chī shénme?",
+        "english": "Hello, what would you like to eat?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "我想吃米饭。",
+        "pinyin": "Wǒ xiǎng chī mǐfàn.",
+        "english": "I'd like to eat rice."
+      },
+      {
+        "speaker": "A",
+        "chinese": "好的。你想喝什么？",
+        "pinyin": "Hǎo de. Nǐ xiǎng hē shénme?",
+        "english": "OK. What would you like to drink?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "我喝水，谢谢。",
+        "pinyin": "Wǒ hē shuǐ, xièxiè.",
+        "english": "I'll have water, thank you."
+      },
+      {
+        "speaker": "A",
+        "chinese": "好的，请等一下。",
+        "pinyin": "Hǎo de, qǐng děng yíxià.",
+        "english": "OK, please wait a moment."
+      }
+    ]
+  },
+  {
+    "id": "d1-003",
+    "hskLevel": 1,
+    "title": "What Day Is It?",
+    "context": "Asking about the date",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "今天星期几？",
+        "pinyin": "Jīntiān xīngqī jǐ?",
+        "english": "What day is it today?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "今天星期三。",
+        "pinyin": "Jīntiān xīngqī sān.",
+        "english": "Today is Wednesday."
+      },
+      {
+        "speaker": "A",
+        "chinese": "明天你有时间吗？",
+        "pinyin": "Míngtiān nǐ yǒu shíjiān ma?",
+        "english": "Do you have time tomorrow?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "有，你想做什么？",
+        "pinyin": "Yǒu, nǐ xiǎng zuò shénme?",
+        "english": "Yes, what do you want to do?"
+      },
+      {
+        "speaker": "A",
+        "chinese": "我们去看电影吧！",
+        "pinyin": "Wǒmen qù kàn diànyǐng ba!",
+        "english": "Let's go see a movie!"
+      },
+      {
+        "speaker": "B",
+        "chinese": "好的！几点？",
+        "pinyin": "Hǎo de! Jǐ diǎn?",
+        "english": "OK! What time?"
+      }
+    ]
+  },
+  {
+    "id": "d1-004",
+    "hskLevel": 1,
+    "title": "Shopping",
+    "context": "At a store",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "这个多少钱？",
+        "pinyin": "Zhège duōshǎo qián?",
+        "english": "How much is this?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "五十块。",
+        "pinyin": "Wǔshí kuài.",
+        "english": "50 yuan."
+      },
+      {
+        "speaker": "A",
+        "chinese": "太贵了！便宜一点吧。",
+        "pinyin": "Tài guì le! Piányi yìdiǎn ba.",
+        "english": "Too expensive! Make it cheaper."
+      },
+      {
+        "speaker": "B",
+        "chinese": "四十块，可以吗？",
+        "pinyin": "Sìshí kuài, kěyǐ ma?",
+        "english": "40 yuan, OK?"
+      },
+      {
+        "speaker": "A",
+        "chinese": "好的，我买了。",
+        "pinyin": "Hǎo de, wǒ mǎi le.",
+        "english": "OK, I'll buy it."
+      }
+    ]
+  },
+  {
+    "id": "d1-005",
+    "hskLevel": 1,
+    "title": "Where Are You From?",
+    "context": "Getting to know each other",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你是哪国人？",
+        "pinyin": "Nǐ shì nǎ guó rén?",
+        "english": "What country are you from?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "我是美国人。你呢？",
+        "pinyin": "Wǒ shì Měiguó rén. Nǐ ne?",
+        "english": "I'm American. And you?"
+      },
+      {
+        "speaker": "A",
+        "chinese": "我是中国人。你会说中文吗？",
+        "pinyin": "Wǒ shì Zhōngguó rén. Nǐ huì shuō Zhōngwén ma?",
+        "english": "I'm Chinese. Can you speak Chinese?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "我会说一点。",
+        "pinyin": "Wǒ huì shuō yìdiǎn.",
+        "english": "I can speak a little."
+      },
+      {
+        "speaker": "A",
+        "chinese": "你说得很好！",
+        "pinyin": "Nǐ shuō de hěn hǎo!",
+        "english": "You speak very well!"
+      }
+    ]
+  }
+]

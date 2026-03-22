@@ -1,0 +1,81 @@
+"use client";
+
+import { Rating } from "ts-fsrs";
+import type { Grade } from "ts-fsrs";
+import PinyinDisplay from "@/components/shared/PinyinDisplay";
+import AudioButton from "@/components/shared/AudioButton";
+import type { HskWord } from "@/types";
+
+interface ReviewCardProps {
+  word: HskWord;
+  isFlipped: boolean;
+  onFlip: () => void;
+  onRate: (grade: Grade) => void;
+}
+
+const ratingButtons: { grade: Grade; label: string; color: string }[] = [
+  { grade: Rating.Again, label: "Again", color: "bg-red-500 hover:bg-red-600" },
+  { grade: Rating.Hard, label: "Hard", color: "bg-orange-500 hover:bg-orange-600" },
+  { grade: Rating.Good, label: "Good", color: "bg-green-500 hover:bg-green-600" },
+  { grade: Rating.Easy, label: "Easy", color: "bg-blue-500 hover:bg-blue-600" },
+];
+
+export default function ReviewCard({
+  word,
+  isFlipped,
+  onFlip,
+  onRate,
+}: ReviewCardProps) {
+  return (
+    <div className="space-y-4">
+      <div
+        className="bg-card rounded-2xl p-8 border border-border text-center min-h-[280px] flex flex-col items-center justify-center cursor-pointer select-none"
+        onClick={() => !isFlipped && onFlip()}
+      >
+        <p className="text-7xl font-normal mb-4">{word.simplified}</p>
+
+        {isFlipped ? (
+          <div className="space-y-3 animate-in fade-in">
+            <PinyinDisplay pinyin={word.pinyin} className="text-xl" />
+            <p className="text-lg text-muted-foreground">{word.meaning}</p>
+            {word.exampleSentence && (
+              <div className="mt-4 pt-4 border-t border-border text-left">
+                <p className="text-base">{word.exampleSentence}</p>
+                {word.examplePinyin && (
+                  <PinyinDisplay
+                    pinyin={word.examplePinyin}
+                    className="text-sm"
+                  />
+                )}
+                {word.exampleMeaning && (
+                  <p className="text-sm text-muted-foreground">
+                    {word.exampleMeaning}
+                  </p>
+                )}
+              </div>
+            )}
+            <div className="flex justify-center mt-2">
+              <AudioButton text={word.simplified} />
+            </div>
+          </div>
+        ) : (
+          <p className="text-sm text-muted-foreground">Tap to reveal answer</p>
+        )}
+      </div>
+
+      {isFlipped && (
+        <div className="grid grid-cols-4 gap-2">
+          {ratingButtons.map((btn) => (
+            <button
+              key={btn.label}
+              onClick={() => onRate(btn.grade)}
+              className={`${btn.color} text-white py-3 rounded-xl text-sm font-medium transition-colors`}
+            >
+              {btn.label}
+            </button>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}

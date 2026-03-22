@@ -1,0 +1,1178 @@
+[
+  {
+    "id": "hsk2-001",
+    "simplified": "吧",
+    "pinyin": "bā",
+    "meaning": "bar (loanword) (serving drinks, or providing Internet access etc); to puff (on a pipe etc); (onom.) bang; abbr. for 贴吧",
+    "hskLevel": 2,
+    "partOfSpeech": "y"
+  },
+  {
+    "id": "hsk2-002",
+    "simplified": "白",
+    "pinyin": "Bái",
+    "meaning": "surname Bai",
+    "hskLevel": 2,
+    "partOfSpeech": "a, nr, d, b, v, g"
+  },
+  {
+    "id": "hsk2-003",
+    "simplified": "百",
+    "pinyin": "Bǎi",
+    "meaning": "surname Bai",
+    "hskLevel": 2,
+    "partOfSpeech": "m, t"
+  },
+  {
+    "id": "hsk2-004",
+    "simplified": "帮助",
+    "pinyin": "bāng zhù",
+    "meaning": "assistance; aid; to help; to assist",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-005",
+    "simplified": "报纸",
+    "pinyin": "bào zhǐ",
+    "meaning": "newspaper; newsprint",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-006",
+    "simplified": "比",
+    "pinyin": "Bǐ",
+    "meaning": "Belgium; Belgian; abbr. for 比利时",
+    "hskLevel": 2,
+    "partOfSpeech": "p, v, n, b"
+  },
+  {
+    "id": "hsk2-007",
+    "simplified": "便宜",
+    "pinyin": "biàn yí",
+    "meaning": "convenient",
+    "hskLevel": 2,
+    "partOfSpeech": "a, v, an"
+  },
+  {
+    "id": "hsk2-008",
+    "simplified": "别",
+    "pinyin": "Bié",
+    "meaning": "surname Bie",
+    "hskLevel": 2,
+    "partOfSpeech": "d, v, r, vn"
+  },
+  {
+    "id": "hsk2-009",
+    "simplified": "唱歌",
+    "pinyin": "chàng gē",
+    "meaning": "to sing a song",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-010",
+    "simplified": "出",
+    "pinyin": "chū",
+    "meaning": "to go out; to come out; to occur; to produce; to go beyond; to rise; to put forth; to happen; (used after a verb to indicate an outward direction or a positive result); classifier for dramas, plays, operas etc",
+    "hskLevel": 2,
+    "partOfSpeech": "v, q"
+  },
+  {
+    "id": "hsk2-011",
+    "simplified": "穿",
+    "pinyin": "chuān",
+    "meaning": "to wear; to put on; to dress; to bore through; to pierce; to perforate; to penetrate; to pass through; to thread",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-012",
+    "simplified": "船",
+    "pinyin": "chuán",
+    "meaning": "variant of 船",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-013",
+    "simplified": "次",
+    "pinyin": "cì",
+    "meaning": "next in sequence; second; the second (day, time etc); secondary; vice-; sub-; infra-; inferior quality; substandard; order; sequence; hypo- (chemistry); classifier for enumerated events: time",
+    "hskLevel": 2,
+    "partOfSpeech": "qv, a, g"
+  },
+  {
+    "id": "hsk2-014",
+    "simplified": "从",
+    "pinyin": "cóng",
+    "meaning": "variant of 从",
+    "hskLevel": 2,
+    "partOfSpeech": "p, g"
+  },
+  {
+    "id": "hsk2-015",
+    "simplified": "错",
+    "pinyin": "Cuò",
+    "meaning": "surname Cuo",
+    "hskLevel": 2,
+    "partOfSpeech": "v, n"
+  },
+  {
+    "id": "hsk2-016",
+    "simplified": "打篮球",
+    "pinyin": "dǎ lán qiú",
+    "meaning": "to play basketball",
+    "hskLevel": 2,
+    "partOfSpeech": ""
+  },
+  {
+    "id": "hsk2-017",
+    "simplified": "大家",
+    "pinyin": "dà jiā",
+    "meaning": "everyone; influential family; great expert",
+    "hskLevel": 2,
+    "partOfSpeech": "r, n"
+  },
+  {
+    "id": "hsk2-018",
+    "simplified": "但是",
+    "pinyin": "dàn shì",
+    "meaning": "but; however",
+    "hskLevel": 2,
+    "partOfSpeech": "c"
+  },
+  {
+    "id": "hsk2-019",
+    "simplified": "到",
+    "pinyin": "dào",
+    "meaning": "to reach; to arrive; to leave for; to go to; to (a place); until (a time); up to (a point); (verb complement indicating arriving at a place or reaching a point); considerate; thoughtful; thorough",
+    "hskLevel": 2,
+    "partOfSpeech": "v, p"
+  },
+  {
+    "id": "hsk2-020",
+    "simplified": "得",
+    "pinyin": "dé",
+    "meaning": "to obtain; to get; to gain; to catch (a disease); proper; suitable; proud; contented; to allow; to permit; ready; finished",
+    "hskLevel": 2,
+    "partOfSpeech": "u, v"
+  },
+  {
+    "id": "hsk2-021",
+    "simplified": "弟弟",
+    "pinyin": "dì di",
+    "meaning": "younger brother",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-022",
+    "simplified": "第一",
+    "pinyin": "dì yī",
+    "meaning": "first; number one; primary",
+    "hskLevel": 2,
+    "partOfSpeech": "m"
+  },
+  {
+    "id": "hsk2-023",
+    "simplified": "懂",
+    "pinyin": "dǒng",
+    "meaning": "to understand; to comprehend",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-024",
+    "simplified": "房间",
+    "pinyin": "fáng jiān",
+    "meaning": "room",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-025",
+    "simplified": "非常",
+    "pinyin": "fēi cháng",
+    "meaning": "very; really; unusual; extraordinary",
+    "hskLevel": 2,
+    "partOfSpeech": "d, b"
+  },
+  {
+    "id": "hsk2-026",
+    "simplified": "服务员",
+    "pinyin": "fú wù yuán",
+    "meaning": "waiter; waitress; attendant; customer service personnel",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-027",
+    "simplified": "高",
+    "pinyin": "Gāo",
+    "meaning": "surname Gao",
+    "hskLevel": 2,
+    "partOfSpeech": "a, ad, v, g"
+  },
+  {
+    "id": "hsk2-028",
+    "simplified": "告诉",
+    "pinyin": "gào sù",
+    "meaning": "to press charges; to file a complaint",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-029",
+    "simplified": "哥哥",
+    "pinyin": "gē ge",
+    "meaning": "older brother",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-030",
+    "simplified": "给",
+    "pinyin": "gěi",
+    "meaning": "to; for; for the benefit of; to give; to allow; to do sth (for sb); (grammatical equivalent of 被); (grammatical equivalent of 把); (sentence intensifier)",
+    "hskLevel": 2,
+    "partOfSpeech": "p, v, u"
+  },
+  {
+    "id": "hsk2-031",
+    "simplified": "公共汽车",
+    "pinyin": "gōng gòng qì chē",
+    "meaning": "bus",
+    "hskLevel": 2,
+    "partOfSpeech": ""
+  },
+  {
+    "id": "hsk2-032",
+    "simplified": "公斤",
+    "pinyin": "gōng jīn",
+    "meaning": "kilogram (kg)",
+    "hskLevel": 2,
+    "partOfSpeech": "q"
+  },
+  {
+    "id": "hsk2-033",
+    "simplified": "公司",
+    "pinyin": "gōng sī",
+    "meaning": "company; firm; corporation",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-034",
+    "simplified": "贵",
+    "pinyin": "guì",
+    "meaning": "expensive; noble; precious; (honorific) your",
+    "hskLevel": 2,
+    "partOfSpeech": "a, r, b, g"
+  },
+  {
+    "id": "hsk2-035",
+    "simplified": "还",
+    "pinyin": "Huán",
+    "meaning": "surname Huan",
+    "hskLevel": 2,
+    "partOfSpeech": "d, v"
+  },
+  {
+    "id": "hsk2-036",
+    "simplified": "孩子",
+    "pinyin": "hái zi",
+    "meaning": "child",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-037",
+    "simplified": "好吃",
+    "pinyin": "hǎo chī",
+    "meaning": "tasty; delicious",
+    "hskLevel": 2,
+    "partOfSpeech": "a"
+  },
+  {
+    "id": "hsk2-038",
+    "simplified": "号",
+    "pinyin": "háo",
+    "meaning": "roar; cry",
+    "hskLevel": 2,
+    "partOfSpeech": "q, n, v"
+  },
+  {
+    "id": "hsk2-039",
+    "simplified": "黑",
+    "pinyin": "Hēi",
+    "meaning": "abbr. for Heilongjiang province 黑龙江",
+    "hskLevel": 2,
+    "partOfSpeech": "a, g, b"
+  },
+  {
+    "id": "hsk2-040",
+    "simplified": "红",
+    "pinyin": "Hóng",
+    "meaning": "surname Hong",
+    "hskLevel": 2,
+    "partOfSpeech": "a, v, g"
+  },
+  {
+    "id": "hsk2-041",
+    "simplified": "欢迎",
+    "pinyin": "huān yíng",
+    "meaning": "to welcome; welcome",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-042",
+    "simplified": "回答",
+    "pinyin": "huí dá",
+    "meaning": "to reply; to answer; reply; answer",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-043",
+    "simplified": "机场",
+    "pinyin": "jī chǎng",
+    "meaning": "airport; airfield; (slang) service provider for Shadowsocks or similar software for circumventing Internet censorship",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-044",
+    "simplified": "鸡蛋",
+    "pinyin": "jī dàn",
+    "meaning": "(chicken) egg; hen's egg",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-045",
+    "simplified": "件",
+    "pinyin": "jiàn",
+    "meaning": "item; component; classifier for events, things, clothes etc",
+    "hskLevel": 2,
+    "partOfSpeech": "q, g"
+  },
+  {
+    "id": "hsk2-046",
+    "simplified": "教室",
+    "pinyin": "jiào shì",
+    "meaning": "classroom",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-047",
+    "simplified": "介绍",
+    "pinyin": "jiè shào",
+    "meaning": "to introduce (sb to sb); to give a presentation; to present (sb for a job etc); introduction",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-048",
+    "simplified": "姐姐",
+    "pinyin": "jiě jie",
+    "meaning": "older sister",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-049",
+    "simplified": "近",
+    "pinyin": "jìn",
+    "meaning": "near; close to; approximately",
+    "hskLevel": 2,
+    "partOfSpeech": "a, v"
+  },
+  {
+    "id": "hsk2-050",
+    "simplified": "进",
+    "pinyin": "jìn",
+    "meaning": "to go forward; to advance; to go in; to enter; to put in; to submit; to take in; to admit; (math.) base of a number system; classifier for sections in a building or residential compound",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-051",
+    "simplified": "就",
+    "pinyin": "jiù",
+    "meaning": "(after a suppositional clause) in that case; then; (after a clause of action) as soon as; immediately after; (same as 是) merely; nothing else but; simply; just; precisely; exactly; only; as little as; as much as; as many as; to approach; to move towards; to undertake; to engage in; (often followed by 着) taking advantage of; (of food) to go with; with regard to; concerning; (pattern: 就 ... 也 ...) even if ... still ...; (pattern: 不 ... 就 ...) if not ... then must be ...",
+    "hskLevel": 2,
+    "partOfSpeech": "d, p, c, v"
+  },
+  {
+    "id": "hsk2-052",
+    "simplified": "觉得",
+    "pinyin": "jué de",
+    "meaning": "to think that ...; to feel that ...; to feel (uncomfortable etc)",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-053",
+    "simplified": "咖啡",
+    "pinyin": "kā fēi",
+    "meaning": "coffee (loanword)",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-054",
+    "simplified": "开始",
+    "pinyin": "kāi shǐ",
+    "meaning": "to begin; beginning; to start; initial",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-055",
+    "simplified": "考试",
+    "pinyin": "kǎo shì",
+    "meaning": "to take an exam; exam",
+    "hskLevel": 2,
+    "partOfSpeech": "vn, v"
+  },
+  {
+    "id": "hsk2-056",
+    "simplified": "可能",
+    "pinyin": "kě néng",
+    "meaning": "might (happen); possible; probable; possibility; probability; maybe; perhaps",
+    "hskLevel": 2,
+    "partOfSpeech": "v, n"
+  },
+  {
+    "id": "hsk2-057",
+    "simplified": "可以",
+    "pinyin": "kě yǐ",
+    "meaning": "can; may; possible; able to; not bad; pretty good",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-058",
+    "simplified": "课",
+    "pinyin": "kè",
+    "meaning": "subject; course; class; lesson; to levy; tax; form of divination",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-059",
+    "simplified": "快",
+    "pinyin": "kuài",
+    "meaning": "rapid; quick; speed; rate; soon; almost; to make haste; clever; sharp (of knives or wits); forthright; plainspoken; gratified; pleased; pleasant",
+    "hskLevel": 2,
+    "partOfSpeech": "a, d, g"
+  },
+  {
+    "id": "hsk2-060",
+    "simplified": "快乐",
+    "pinyin": "kuài lè",
+    "meaning": "happy; joyful",
+    "hskLevel": 2,
+    "partOfSpeech": "a, an"
+  },
+  {
+    "id": "hsk2-061",
+    "simplified": "累",
+    "pinyin": "lěi",
+    "meaning": "to accumulate; to involve or implicate (Taiwan pr. [lèi]); continuous; repeated",
+    "hskLevel": 2,
+    "partOfSpeech": "a, v, an"
+  },
+  {
+    "id": "hsk2-062",
+    "simplified": "离",
+    "pinyin": "chī",
+    "meaning": "mythical beast (archaic)",
+    "hskLevel": 2,
+    "partOfSpeech": "v, p"
+  },
+  {
+    "id": "hsk2-063",
+    "simplified": "两",
+    "pinyin": "liǎng",
+    "meaning": "two; both; some; a few; tael, unit of weight equal to 50 grams (modern) or 1⁄16 of a catty 斤 (old)",
+    "hskLevel": 2,
+    "partOfSpeech": "m, t"
+  },
+  {
+    "id": "hsk2-064",
+    "simplified": "路",
+    "pinyin": "Lù",
+    "meaning": "surname Lu",
+    "hskLevel": 2,
+    "partOfSpeech": "n, qv"
+  },
+  {
+    "id": "hsk2-065",
+    "simplified": "旅游",
+    "pinyin": "lǚ yóu",
+    "meaning": "trip; journey; tourism; travel; tour; to travel",
+    "hskLevel": 2,
+    "partOfSpeech": "vn, v"
+  },
+  {
+    "id": "hsk2-066",
+    "simplified": "卖",
+    "pinyin": "mài",
+    "meaning": "to sell; to betray; to spare no effort; to show off or flaunt",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-067",
+    "simplified": "慢",
+    "pinyin": "màn",
+    "meaning": "slow",
+    "hskLevel": 2,
+    "partOfSpeech": "a, ad"
+  },
+  {
+    "id": "hsk2-068",
+    "simplified": "忙",
+    "pinyin": "máng",
+    "meaning": "busy; hurriedly; to hurry; to rush",
+    "hskLevel": 2,
+    "partOfSpeech": "v, a, ad, g, an"
+  },
+  {
+    "id": "hsk2-069",
+    "simplified": "每",
+    "pinyin": "měi",
+    "meaning": "each; every",
+    "hskLevel": 2,
+    "partOfSpeech": "r"
+  },
+  {
+    "id": "hsk2-070",
+    "simplified": "妹妹",
+    "pinyin": "mèi mei",
+    "meaning": "younger sister; young woman",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-071",
+    "simplified": "门",
+    "pinyin": "Mén",
+    "meaning": "surname Men",
+    "hskLevel": 2,
+    "partOfSpeech": "n, q"
+  },
+  {
+    "id": "hsk2-072",
+    "simplified": "男人",
+    "pinyin": "nán rén",
+    "meaning": "a man; a male; men",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-073",
+    "simplified": "您",
+    "pinyin": "nín",
+    "meaning": "you (courteous, as opposed to informal 你)",
+    "hskLevel": 2,
+    "partOfSpeech": "r"
+  },
+  {
+    "id": "hsk2-074",
+    "simplified": "牛奶",
+    "pinyin": "niú nǎi",
+    "meaning": "cow's milk",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-075",
+    "simplified": "女人",
+    "pinyin": "nǚ rén",
+    "meaning": "woman",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-076",
+    "simplified": "旁边",
+    "pinyin": "páng biān",
+    "meaning": "side; adjacent place",
+    "hskLevel": 2,
+    "partOfSpeech": "f"
+  },
+  {
+    "id": "hsk2-077",
+    "simplified": "跑步",
+    "pinyin": "pǎo bù",
+    "meaning": "to run; to jog; (military) to march at the double",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-078",
+    "simplified": "票",
+    "pinyin": "piào",
+    "meaning": "ticket; ballot; banknote; person held for ransom; amateur performance of Chinese opera; classifier for groups, batches, business transactions",
+    "hskLevel": 2,
+    "partOfSpeech": "n, q"
+  },
+  {
+    "id": "hsk2-079",
+    "simplified": "妻子",
+    "pinyin": "qī zǐ",
+    "meaning": "wife and children",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-080",
+    "simplified": "起床",
+    "pinyin": "qǐ chuáng",
+    "meaning": "to get out of bed; to get up",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-081",
+    "simplified": "千",
+    "pinyin": "qiān",
+    "meaning": "thousand",
+    "hskLevel": 2,
+    "partOfSpeech": "m, t"
+  },
+  {
+    "id": "hsk2-082",
+    "simplified": "晴",
+    "pinyin": "qíng",
+    "meaning": "clear; fine (weather)",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-083",
+    "simplified": "去年",
+    "pinyin": "qù nián",
+    "meaning": "last year",
+    "hskLevel": 2,
+    "partOfSpeech": "t"
+  },
+  {
+    "id": "hsk2-084",
+    "simplified": "让",
+    "pinyin": "ràng",
+    "meaning": "to yield; to permit; to let sb do sth; to have sb do sth; to make sb (feel sad etc); by (indicates the agent in a passive clause, like 被)",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-085",
+    "simplified": "上班",
+    "pinyin": "shàng bān",
+    "meaning": "to go to work; to be on duty; to start work; to go to the office",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-086",
+    "simplified": "身体",
+    "pinyin": "shēn tǐ",
+    "meaning": "the body; one's health; in person",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-087",
+    "simplified": "生病",
+    "pinyin": "shēng bìng",
+    "meaning": "to fall ill",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-088",
+    "simplified": "生日",
+    "pinyin": "shēng rì",
+    "meaning": "birthday",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-089",
+    "simplified": "时间",
+    "pinyin": "shí jiān",
+    "meaning": "time; period",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-090",
+    "simplified": "事情",
+    "pinyin": "shì qing",
+    "meaning": "affair; matter; thing; business",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-091",
+    "simplified": "手表",
+    "pinyin": "shǒu biǎo",
+    "meaning": "wristwatch",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-092",
+    "simplified": "手机",
+    "pinyin": "shǒu jī",
+    "meaning": "cell phone; mobile phone",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-093",
+    "simplified": "送",
+    "pinyin": "sòng",
+    "meaning": "to send; to deliver; to transmit; to give (as a present); to see (sb) off; to accompany; to go along with",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-094",
+    "simplified": "所以",
+    "pinyin": "suǒ yǐ",
+    "meaning": "therefore; as a result; so; the reason why",
+    "hskLevel": 2,
+    "partOfSpeech": "c"
+  },
+  {
+    "id": "hsk2-095",
+    "simplified": "它",
+    "pinyin": "tā",
+    "meaning": "it",
+    "hskLevel": 2,
+    "partOfSpeech": "r"
+  },
+  {
+    "id": "hsk2-096",
+    "simplified": "踢",
+    "pinyin": "tī",
+    "meaning": "to kick; to play (e.g. soccer); (slang) butch (in a lesbian relationship)",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-097",
+    "simplified": "题",
+    "pinyin": "Tí",
+    "meaning": "surname Ti",
+    "hskLevel": 2,
+    "partOfSpeech": "n, v"
+  },
+  {
+    "id": "hsk2-098",
+    "simplified": "跳舞",
+    "pinyin": "tiào wǔ",
+    "meaning": "to dance",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-099",
+    "simplified": "外",
+    "pinyin": "wài",
+    "meaning": "outside; in addition; foreign; external",
+    "hskLevel": 2,
+    "partOfSpeech": "f"
+  },
+  {
+    "id": "hsk2-100",
+    "simplified": "完",
+    "pinyin": "wán",
+    "meaning": "to finish; to be over; whole; complete; entire",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-101",
+    "simplified": "玩",
+    "pinyin": "wán",
+    "meaning": "to play; to have fun; to trifle with; toy; sth used for amusement; curio or antique (Taiwan pr. [wàn]); to keep sth for entertainment",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-102",
+    "simplified": "晚上",
+    "pinyin": "wǎn shang",
+    "meaning": "evening; night; in the evening",
+    "hskLevel": 2,
+    "partOfSpeech": "t"
+  },
+  {
+    "id": "hsk2-103",
+    "simplified": "为",
+    "pinyin": "wéi",
+    "meaning": "as (in the capacity of); to take sth as; to act as; to serve as; to behave as; to become; to be; to do; by (in the passive voice)",
+    "hskLevel": 2,
+    "partOfSpeech": "p, v"
+  },
+  {
+    "id": "hsk2-104",
+    "simplified": "问",
+    "pinyin": "wèn",
+    "meaning": "to ask; to inquire",
+    "hskLevel": 2,
+    "partOfSpeech": "v, g, vn"
+  },
+  {
+    "id": "hsk2-105",
+    "simplified": "问题",
+    "pinyin": "wèn tí",
+    "meaning": "question; problem; issue; topic",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-106",
+    "simplified": "希望",
+    "pinyin": "xī wàng",
+    "meaning": "to hope; a hope; a wish",
+    "hskLevel": 2,
+    "partOfSpeech": "v, n, vn"
+  },
+  {
+    "id": "hsk2-107",
+    "simplified": "洗",
+    "pinyin": "xǐ",
+    "meaning": "to wash; to bathe; to develop (photographs); to shuffle (cards etc); to erase (a recording)",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-108",
+    "simplified": "西瓜",
+    "pinyin": "xī guā",
+    "meaning": "watermelon",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-109",
+    "simplified": "向",
+    "pinyin": "Xiàng",
+    "meaning": "surname Xiang",
+    "hskLevel": 2,
+    "partOfSpeech": "p, v, g"
+  },
+  {
+    "id": "hsk2-110",
+    "simplified": "小时",
+    "pinyin": "xiǎo shí",
+    "meaning": "hour",
+    "hskLevel": 2,
+    "partOfSpeech": "n, q"
+  },
+  {
+    "id": "hsk2-111",
+    "simplified": "笑",
+    "pinyin": "xiào",
+    "meaning": "old variant of 笑",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-112",
+    "simplified": "新",
+    "pinyin": "Xīn",
+    "meaning": "abbr. for Xinjiang 疆 or Singapore 坡; surname Xin",
+    "hskLevel": 2,
+    "partOfSpeech": "a, d, b"
+  },
+  {
+    "id": "hsk2-113",
+    "simplified": "姓",
+    "pinyin": "xìng",
+    "meaning": "family name; surname; to be surnamed",
+    "hskLevel": 2,
+    "partOfSpeech": "v, n"
+  },
+  {
+    "id": "hsk2-114",
+    "simplified": "休息",
+    "pinyin": "xiū xi",
+    "meaning": "rest; to rest",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-115",
+    "simplified": "雪",
+    "pinyin": "Xuě",
+    "meaning": "surname Xue",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-116",
+    "simplified": "颜色",
+    "pinyin": "yán sè",
+    "meaning": "color; countenance; appearance; facial expression; pigment; dyestuff",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-117",
+    "simplified": "眼睛",
+    "pinyin": "yǎn jing",
+    "meaning": "eye",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-118",
+    "simplified": "羊肉",
+    "pinyin": "yáng ròu",
+    "meaning": "mutton; goat meat",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-119",
+    "simplified": "药",
+    "pinyin": "yào",
+    "meaning": "leaf of the iris; variant of 药",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-120",
+    "simplified": "要",
+    "pinyin": "yāo",
+    "meaning": "(bound form) to demand; to coerce",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-121",
+    "simplified": "也",
+    "pinyin": "Yě",
+    "meaning": "surname Ye",
+    "hskLevel": 2,
+    "partOfSpeech": "d, y, u, b"
+  },
+  {
+    "id": "hsk2-122",
+    "simplified": "一起",
+    "pinyin": "yī qǐ",
+    "meaning": "in the same place; together; with; altogether (in total)",
+    "hskLevel": 2,
+    "partOfSpeech": "s, d, nr"
+  },
+  {
+    "id": "hsk2-123",
+    "simplified": "已经",
+    "pinyin": "yǐ jīng",
+    "meaning": "already",
+    "hskLevel": 2,
+    "partOfSpeech": "d"
+  },
+  {
+    "id": "hsk2-124",
+    "simplified": "意思",
+    "pinyin": "yì si",
+    "meaning": "idea; opinion; meaning; wish; desire; interest; fun; token of appreciation, affection etc; to give as a small token; to do sth as a gesture of goodwill etc",
+    "hskLevel": 2,
+    "partOfSpeech": "n, v"
+  },
+  {
+    "id": "hsk2-125",
+    "simplified": "因为",
+    "pinyin": "yīn wèi",
+    "meaning": "because; owing to; on account of",
+    "hskLevel": 2,
+    "partOfSpeech": "p, c"
+  },
+  {
+    "id": "hsk2-126",
+    "simplified": "阴",
+    "pinyin": "Yīn",
+    "meaning": "surname Yin",
+    "hskLevel": 2,
+    "partOfSpeech": "a, g, ad, b"
+  },
+  {
+    "id": "hsk2-127",
+    "simplified": "游泳",
+    "pinyin": "yóu yǒng",
+    "meaning": "swimming; to swim",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-128",
+    "simplified": "右边",
+    "pinyin": "yòu bian",
+    "meaning": "right side; right, to the right",
+    "hskLevel": 2,
+    "partOfSpeech": "f"
+  },
+  {
+    "id": "hsk2-129",
+    "simplified": "鱼",
+    "pinyin": "Yú",
+    "meaning": "surname Yu",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-130",
+    "simplified": "元",
+    "pinyin": "Yuán",
+    "meaning": "surname Yuan; the Yuan or Mongol dynasty (1279-1368)",
+    "hskLevel": 2,
+    "partOfSpeech": "q, tg"
+  },
+  {
+    "id": "hsk2-131",
+    "simplified": "远",
+    "pinyin": "yuǎn",
+    "meaning": "far; distant; remote; (intensifier in a comparison) by far; much (lower etc)",
+    "hskLevel": 2,
+    "partOfSpeech": "a, ad"
+  },
+  {
+    "id": "hsk2-132",
+    "simplified": "运动",
+    "pinyin": "yùn dòng",
+    "meaning": "to move; to exercise; sports; exercise; motion; movement; campaign",
+    "hskLevel": 2,
+    "partOfSpeech": "vn, n, v"
+  },
+  {
+    "id": "hsk2-133",
+    "simplified": "再",
+    "pinyin": "zài",
+    "meaning": "again; once more; re-; second; another; then (after sth, and not until then); no matter how ... (followed by an adjective or verb, and then (usually) 也 or 都 for emphasis)",
+    "hskLevel": 2,
+    "partOfSpeech": "d, g"
+  },
+  {
+    "id": "hsk2-134",
+    "simplified": "早上",
+    "pinyin": "zǎo shang",
+    "meaning": "early morning",
+    "hskLevel": 2,
+    "partOfSpeech": "t"
+  },
+  {
+    "id": "hsk2-135",
+    "simplified": "张",
+    "pinyin": "Zhāng",
+    "meaning": "surname Zhang",
+    "hskLevel": 2,
+    "partOfSpeech": "q, nr, v, g"
+  },
+  {
+    "id": "hsk2-136",
+    "simplified": "长",
+    "pinyin": "cháng",
+    "meaning": "length; long; forever; always; constantly",
+    "hskLevel": 2,
+    "partOfSpeech": "a, v, ad, g"
+  },
+  {
+    "id": "hsk2-137",
+    "simplified": "丈夫",
+    "pinyin": "zhàng fu",
+    "meaning": "husband",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-138",
+    "simplified": "找",
+    "pinyin": "zhǎo",
+    "meaning": "to try to find; to look for; to call on sb; to find; to seek; to return; to give change",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-139",
+    "simplified": "着",
+    "pinyin": "zhāo",
+    "meaning": "(chess) move; trick; all right!; (dialect) to add",
+    "hskLevel": 2,
+    "partOfSpeech": "u, v, n, q"
+  },
+  {
+    "id": "hsk2-140",
+    "simplified": "真",
+    "pinyin": "zhēn",
+    "meaning": "really; truly; indeed; real; true; genuine",
+    "hskLevel": 2,
+    "partOfSpeech": "d, a, g"
+  },
+  {
+    "id": "hsk2-141",
+    "simplified": "正在",
+    "pinyin": "zhèng zài",
+    "meaning": "just at (that time); right in (that place); right in the middle of (doing sth)",
+    "hskLevel": 2,
+    "partOfSpeech": "d"
+  },
+  {
+    "id": "hsk2-142",
+    "simplified": "知道",
+    "pinyin": "zhī dào",
+    "meaning": "to know; to become aware of; also pr. [zhī dao]",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-143",
+    "simplified": "准备",
+    "pinyin": "zhǔn bèi",
+    "meaning": "preparation; to prepare; to intend; to be about to; reserve (fund)",
+    "hskLevel": 2,
+    "partOfSpeech": "v, vn"
+  },
+  {
+    "id": "hsk2-144",
+    "simplified": "自行车",
+    "pinyin": "zì xíng chē",
+    "meaning": "bicycle; bike",
+    "hskLevel": 2,
+    "partOfSpeech": "n"
+  },
+  {
+    "id": "hsk2-145",
+    "simplified": "走",
+    "pinyin": "zǒu",
+    "meaning": "to walk; to go; to run; to move (of vehicle); to visit; to leave; to go away; to die (euph.); from; through; away (in compound verbs, such as 走); to change (shape, form, meaning)",
+    "hskLevel": 2,
+    "partOfSpeech": "v"
+  },
+  {
+    "id": "hsk2-146",
+    "simplified": "最",
+    "pinyin": "zuì",
+    "meaning": "variant of 最",
+    "hskLevel": 2,
+    "partOfSpeech": "d, g"
+  },
+  {
+    "id": "hsk2-147",
+    "simplified": "左边",
+    "pinyin": "zuǒ bian",
+    "meaning": "left; the left side; to the left of",
+    "hskLevel": 2,
+    "partOfSpeech": "f"
+  }
+]
