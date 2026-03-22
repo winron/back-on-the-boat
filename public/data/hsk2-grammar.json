@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "id": "g2-001",
+    "hskLevel": 2,
+    "title": "Completed action with 了 (le)",
+    "structure": "Subject + Verb + 了 + Object",
+    "explanation": "了 (le) placed after a verb indicates a completed action. It focuses on the fact that something has been done.",
+    "examples": [
+      {
+        "chinese": "我吃了早饭。",
+        "pinyin": "Wǒ chī le zǎofàn.",
+        "english": "I ate breakfast."
+      },
+      {
+        "chinese": "他买了一本书。",
+        "pinyin": "Tā mǎi le yì běn shū.",
+        "english": "He bought a book."
+      }
+    ]
+  },
+  {
+    "id": "g2-002",
+    "hskLevel": 2,
+    "title": "Experience with 过 (guò)",
+    "structure": "Subject + Verb + 过 + Object",
+    "explanation": "过 (guò) after a verb indicates that someone has had the experience of doing something at some point in the past.",
+    "examples": [
+      {
+        "chinese": "我去过中国。",
+        "pinyin": "Wǒ qù guò Zhōngguó.",
+        "english": "I have been to China."
+      },
+      {
+        "chinese": "你吃过北京烤鸭吗？",
+        "pinyin": "Nǐ chī guò Běijīng kǎoyā ma?",
+        "english": "Have you ever eaten Peking duck?"
+      }
+    ]
+  },
+  {
+    "id": "g2-003",
+    "hskLevel": 2,
+    "title": "Progressive with 正在 (zhèngzài)",
+    "structure": "Subject + 正在 + Verb + (Object)",
+    "explanation": "正在 (zhèngzài) indicates an action is in progress right now, similar to the English present continuous tense.",
+    "examples": [
+      {
+        "chinese": "他正在看书。",
+        "pinyin": "Tā zhèngzài kàn shū.",
+        "english": "He is reading a book right now."
+      },
+      {
+        "chinese": "妈妈正在做饭。",
+        "pinyin": "Māma zhèngzài zuò fàn.",
+        "english": "Mom is cooking right now."
+      }
+    ]
+  },
+  {
+    "id": "g2-004",
+    "hskLevel": 2,
+    "title": "Comparison with 比 (bǐ)",
+    "structure": "A + 比 + B + Adj",
+    "explanation": "比 (bǐ) is used to compare two things. A is [more adjective] than B.",
+    "examples": [
+      {
+        "chinese": "他比我高。",
+        "pinyin": "Tā bǐ wǒ gāo.",
+        "english": "He is taller than me."
+      },
+      {
+        "chinese": "今天比昨天冷。",
+        "pinyin": "Jīntiān bǐ zuótiān lěng.",
+        "english": "Today is colder than yesterday."
+      }
+    ]
+  },
+  {
+    "id": "g2-005",
+    "hskLevel": 2,
+    "title": "From...to with 从...到 (cóng...dào)",
+    "structure": "从 + Start + 到 + End",
+    "explanation": "从...到 expresses a range of time or place, meaning \"from...to\".",
+    "examples": [
+      {
+        "chinese": "从北京到上海要五个小时。",
+        "pinyin": "Cóng Běijīng dào Shànghǎi yào wǔ gè xiǎoshí.",
+        "english": "It takes five hours from Beijing to Shanghai."
+      },
+      {
+        "chinese": "我从九点到十二点上课。",
+        "pinyin": "Wǒ cóng jiǔ diǎn dào shí'èr diǎn shàng kè.",
+        "english": "I have class from 9 to 12."
+      }
+    ]
+  },
+  {
+    "id": "g2-006",
+    "hskLevel": 2,
+    "title": "About to happen with 要...了 (yào...le)",
+    "structure": "Subject + 要 + Verb + 了",
+    "explanation": "要...了 indicates something is about to happen soon.",
+    "examples": [
+      {
+        "chinese": "火车要开了。",
+        "pinyin": "Huǒchē yào kāi le.",
+        "english": "The train is about to depart."
+      },
+      {
+        "chinese": "要下雨了。",
+        "pinyin": "Yào xià yǔ le.",
+        "english": "It's about to rain."
+      }
+    ]
+  },
+  {
+    "id": "g2-007",
+    "hskLevel": 2,
+    "title": "Ability with 可以, 能, 会",
+    "structure": "Subject + 可以/能/会 + Verb",
+    "explanation": "可以 expresses permission, 能 expresses ability or possibility, and 会 expresses a learned skill. All translate roughly to \"can\".",
+    "examples": [
+      {
+        "chinese": "我会说中文。",
+        "pinyin": "Wǒ huì shuō Zhōngwén.",
+        "english": "I can speak Chinese. (learned skill)"
+      },
+      {
+        "chinese": "这里不能抽烟。",
+        "pinyin": "Zhèlǐ bù néng chōuyān.",
+        "english": "You can't smoke here. (not allowed/possible)"
+      }
+    ]
+  },
+  {
+    "id": "g2-008",
+    "hskLevel": 2,
+    "title": "Complement of degree with 得 (de)",
+    "structure": "Verb + 得 + Adj/Description",
+    "explanation": "得 (de) links a verb to a description of how the action is performed.",
+    "examples": [
+      {
+        "chinese": "她唱得很好。",
+        "pinyin": "Tā chàng de hěn hǎo.",
+        "english": "She sings very well."
+      },
+      {
+        "chinese": "他跑得很快。",
+        "pinyin": "Tā pǎo de hěn kuài.",
+        "english": "He runs very fast."
+      }
+    ]
+  },
+  {
+    "id": "g2-009",
+    "hskLevel": 2,
+    "title": "还是 vs 或者 (háishi vs huòzhě)",
+    "structure": "A + 还是/或者 + B",
+    "explanation": "还是 is used in questions offering a choice. 或者 is used in statements meaning \"or\".",
+    "examples": [
+      {
+        "chinese": "你喝咖啡还是茶？",
+        "pinyin": "Nǐ hē kāfēi háishi chá?",
+        "english": "Do you drink coffee or tea? (question)"
+      },
+      {
+        "chinese": "周末我看书或者看电影。",
+        "pinyin": "Zhōumò wǒ kàn shū huòzhě kàn diànyǐng.",
+        "english": "On weekends I read or watch movies. (statement)"
+      }
+    ]
+  },
+  {
+    "id": "g2-010",
+    "hskLevel": 2,
+    "title": "一点儿 vs 有点儿 (yìdiǎnr vs yǒudiǎnr)",
+    "structure": "Verb + 一点儿 / 有点儿 + Adj",
+    "explanation": "一点儿 means \"a little\" and modifies nouns or follows adjectives in comparisons. 有点儿 means \"somewhat\" and is used before adjectives, often with a negative nuance.",
+    "examples": [
+      {
+        "chinese": "请说慢一点儿。",
+        "pinyin": "Qǐng shuō màn yìdiǎnr.",
+        "english": "Please speak a little slower."
+      },
+      {
+        "chinese": "今天有点儿冷。",
+        "pinyin": "Jīntiān yǒudiǎnr lěng.",
+        "english": "It's a bit cold today."
+      }
+    ]
+  }
+]

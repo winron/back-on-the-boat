@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "id": "s5-001",
+    "hskLevel": 5,
+    "targetSentence": "与其抱怨，不如行动。",
+    "targetPinyin": "Yǔqí bàoyuàn, bùrú xíngdòng.",
+    "targetMeaning": "Rather than complaining, it's better to take action.",
+    "wordBank": [
+      "与其",
+      "抱怨",
+      "，",
+      "不如",
+      "行动",
+      "。"
+    ]
+  },
+  {
+    "id": "s5-002",
+    "hskLevel": 5,
+    "targetSentence": "贵的东西未必好。",
+    "targetPinyin": "Guì de dōngxi wèibì hǎo.",
+    "targetMeaning": "Expensive things are not necessarily good.",
+    "wordBank": [
+      "贵的",
+      "东西",
+      "未必",
+      "好",
+      "。"
+    ]
+  },
+  {
+    "id": "s5-003",
+    "hskLevel": 5,
+    "targetSentence": "一旦决定了，就不要后悔。",
+    "targetPinyin": "Yídàn juédìng le, jiù búyào hòuhuǐ.",
+    "targetMeaning": "Once you've decided, don't regret it.",
+    "wordBank": [
+      "一旦",
+      "决定",
+      "了",
+      "，",
+      "就",
+      "不要",
+      "后悔",
+      "。"
+    ]
+  },
+  {
+    "id": "s5-004",
+    "hskLevel": 5,
+    "targetSentence": "因为堵车，我不得不走路去。",
+    "targetPinyin": "Yīnwèi dǔchē, wǒ bùdébù zǒulù qù.",
+    "targetMeaning": "Because of the traffic jam, I had no choice but to walk.",
+    "wordBank": [
+      "因为",
+      "堵车",
+      "，",
+      "我",
+      "不得不",
+      "走路",
+      "去",
+      "。"
+    ]
+  },
+  {
+    "id": "s5-005",
+    "hskLevel": 5,
+    "targetSentence": "凡是去过那里的人都说好。",
+    "targetPinyin": "Fánshì qù guò nàlǐ de rén dōu shuō hǎo.",
+    "targetMeaning": "Everyone who has been there says it's great.",
+    "wordBank": [
+      "凡是",
+      "去过",
+      "那里",
+      "的人",
+      "都",
+      "说好",
+      "。"
+    ]
+  },
+  {
+    "id": "s5-006",
+    "hskLevel": 5,
+    "targetSentence": "尽管很辛苦，他还是坚持了下来。",
+    "targetPinyin": "Jǐnguǎn hěn xīnkǔ, tā háishi jiānchí le xiàlái.",
+    "targetMeaning": "Despite the hardship, he still persevered.",
+    "wordBank": [
+      "尽管",
+      "很",
+      "辛苦",
+      "，",
+      "他",
+      "还是",
+      "坚持",
+      "了",
+      "下来",
+      "。"
+    ]
+  },
+  {
+    "id": "s5-007",
+    "hskLevel": 5,
+    "targetSentence": "这个地区以农业为主。",
+    "targetPinyin": "Zhège dìqū yǐ nóngyè wéi zhǔ.",
+    "targetMeaning": "This area is primarily focused on agriculture.",
+    "wordBank": [
+      "这个",
+      "地区",
+      "以",
+      "农业",
+      "为主",
+      "。"
+    ]
+  },
+  {
+    "id": "s5-008",
+    "hskLevel": 5,
+    "targetSentence": "大人都觉得难，何况小孩子。",
+    "targetPinyin": "Dàrén dōu juéde nán, hékuàng xiǎo háizi.",
+    "targetMeaning": "Even adults find it hard, let alone children.",
+    "wordBank": [
+      "大人",
+      "都",
+      "觉得",
+      "难",
+      "，",
+      "何况",
+      "小孩子",
+      "。"
+    ]
+  }
+]

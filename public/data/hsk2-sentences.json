@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "id": "s2-001",
+    "hskLevel": 2,
+    "targetSentence": "我吃了早饭。",
+    "targetPinyin": "Wǒ chī le zǎofàn.",
+    "targetMeaning": "I ate breakfast.",
+    "wordBank": [
+      "我",
+      "吃",
+      "了",
+      "早饭",
+      "。"
+    ]
+  },
+  {
+    "id": "s2-002",
+    "hskLevel": 2,
+    "targetSentence": "他比我高。",
+    "targetPinyin": "Tā bǐ wǒ gāo.",
+    "targetMeaning": "He is taller than me.",
+    "wordBank": [
+      "他",
+      "比",
+      "我",
+      "高",
+      "。"
+    ]
+  },
+  {
+    "id": "s2-003",
+    "hskLevel": 2,
+    "targetSentence": "你去过中国吗？",
+    "targetPinyin": "Nǐ qù guò Zhōngguó ma?",
+    "targetMeaning": "Have you been to China?",
+    "wordBank": [
+      "你",
+      "去",
+      "过",
+      "中国",
+      "吗",
+      "？"
+    ]
+  },
+  {
+    "id": "s2-004",
+    "hskLevel": 2,
+    "targetSentence": "妈妈正在做饭。",
+    "targetPinyin": "Māma zhèngzài zuò fàn.",
+    "targetMeaning": "Mom is cooking right now.",
+    "wordBank": [
+      "妈妈",
+      "正在",
+      "做饭",
+      "。"
+    ]
+  },
+  {
+    "id": "s2-005",
+    "hskLevel": 2,
+    "targetSentence": "火车要开了。",
+    "targetPinyin": "Huǒchē yào kāi le.",
+    "targetMeaning": "The train is about to depart.",
+    "wordBank": [
+      "火车",
+      "要",
+      "开",
+      "了",
+      "。"
+    ]
+  },
+  {
+    "id": "s2-006",
+    "hskLevel": 2,
+    "targetSentence": "她唱得很好。",
+    "targetPinyin": "Tā chàng de hěn hǎo.",
+    "targetMeaning": "She sings very well.",
+    "wordBank": [
+      "她",
+      "唱",
+      "得",
+      "很好",
+      "。"
+    ]
+  },
+  {
+    "id": "s2-007",
+    "hskLevel": 2,
+    "targetSentence": "你喝咖啡还是茶？",
+    "targetPinyin": "Nǐ hē kāfēi háishi chá?",
+    "targetMeaning": "Do you drink coffee or tea?",
+    "wordBank": [
+      "你",
+      "喝",
+      "咖啡",
+      "还是",
+      "茶",
+      "？"
+    ]
+  },
+  {
+    "id": "s2-008",
+    "hskLevel": 2,
+    "targetSentence": "今天有点儿冷。",
+    "targetPinyin": "Jīntiān yǒudiǎnr lěng.",
+    "targetMeaning": "It's a bit cold today.",
+    "wordBank": [
+      "今天",
+      "有点儿",
+      "冷",
+      "。"
+    ]
+  }
+]

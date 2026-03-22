@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "id": "g3-001",
+    "hskLevel": 3,
+    "title": "把 construction (bǎ)",
+    "structure": "Subject + 把 + Object + Verb + Complement",
+    "explanation": "The 把 construction moves the object before the verb to emphasize what happens to it. The verb usually needs a complement or other element after it.",
+    "examples": [
+      {
+        "chinese": "请把门关上。",
+        "pinyin": "Qǐng bǎ mén guān shàng.",
+        "english": "Please close the door."
+      },
+      {
+        "chinese": "他把作业做完了。",
+        "pinyin": "Tā bǎ zuòyè zuò wán le.",
+        "english": "He finished the homework."
+      }
+    ]
+  },
+  {
+    "id": "g3-002",
+    "hskLevel": 3,
+    "title": "Passive with 被 (bèi)",
+    "structure": "Subject + 被 + (Agent) + Verb + Complement",
+    "explanation": "被 (bèi) marks the passive voice. The subject receives the action. Often used for unpleasant or unexpected events.",
+    "examples": [
+      {
+        "chinese": "我的手机被偷了。",
+        "pinyin": "Wǒ de shǒujī bèi tōu le.",
+        "english": "My phone was stolen."
+      },
+      {
+        "chinese": "蛋糕被弟弟吃了。",
+        "pinyin": "Dàngāo bèi dìdi chī le.",
+        "english": "The cake was eaten by my younger brother."
+      }
+    ]
+  },
+  {
+    "id": "g3-003",
+    "hskLevel": 3,
+    "title": "More and more with 越来越 (yuèláiyuè)",
+    "structure": "Subject + 越来越 + Adj/Verb",
+    "explanation": "越来越 expresses that something is becoming more and more of a quality over time.",
+    "examples": [
+      {
+        "chinese": "天气越来越冷了。",
+        "pinyin": "Tiānqì yuèláiyuè lěng le.",
+        "english": "The weather is getting colder and colder."
+      },
+      {
+        "chinese": "他的中文越来越好。",
+        "pinyin": "Tā de Zhōngwén yuèláiyuè hǎo.",
+        "english": "His Chinese is getting better and better."
+      }
+    ]
+  },
+  {
+    "id": "g3-004",
+    "hskLevel": 3,
+    "title": "除了...以外 (chúle...yǐwài) - Besides/Except",
+    "structure": "除了 + A + 以外，(都/也) + ...",
+    "explanation": "除了...以外 means \"besides\" (with 也/还) or \"except\" (with 都). It sets apart one item from the rest.",
+    "examples": [
+      {
+        "chinese": "除了中文以外，我也学日语。",
+        "pinyin": "Chúle Zhōngwén yǐwài, wǒ yě xué Rìyǔ.",
+        "english": "Besides Chinese, I also study Japanese."
+      },
+      {
+        "chinese": "除了他以外，大家都来了。",
+        "pinyin": "Chúle tā yǐwài, dàjiā dōu lái le.",
+        "english": "Except for him, everyone came."
+      }
+    ]
+  },
+  {
+    "id": "g3-005",
+    "hskLevel": 3,
+    "title": "不但...而且 (búdàn...érqiě) - Not only...but also",
+    "structure": "不但 + A，而且 + B",
+    "explanation": "不但...而且 is used to add information, meaning \"not only A, but also B.\"",
+    "examples": [
+      {
+        "chinese": "她不但聪明，而且很努力。",
+        "pinyin": "Tā búdàn cōngmíng, érqiě hěn nǔlì.",
+        "english": "She is not only smart, but also very hardworking."
+      },
+      {
+        "chinese": "这个菜不但好吃，而且便宜。",
+        "pinyin": "Zhège cài búdàn hǎochī, érqiě piányi.",
+        "english": "This dish is not only delicious, but also cheap."
+      }
+    ]
+  },
+  {
+    "id": "g3-006",
+    "hskLevel": 3,
+    "title": "虽然...但是 (suīrán...dànshì) - Although...but",
+    "structure": "虽然 + A，但是 + B",
+    "explanation": "虽然...但是 means \"although A, but B.\" Unlike English, Chinese uses both \"although\" and \"but\" together.",
+    "examples": [
+      {
+        "chinese": "虽然很累，但是我很开心。",
+        "pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn.",
+        "english": "Although I'm tired, I'm very happy."
+      },
+      {
+        "chinese": "虽然下雨了，但是我们还是去了。",
+        "pinyin": "Suīrán xià yǔ le, dànshì wǒmen háishi qù le.",
+        "english": "Although it rained, we still went."
+      }
+    ]
+  },
+  {
+    "id": "g3-007",
+    "hskLevel": 3,
+    "title": "如果...就 (rúguǒ...jiù) - If...then",
+    "structure": "如果 + Condition，就 + Result",
+    "explanation": "如果...就 expresses a conditional relationship: \"if A, then B.\"",
+    "examples": [
+      {
+        "chinese": "如果明天下雨，我们就不去了。",
+        "pinyin": "Rúguǒ míngtiān xià yǔ, wǒmen jiù bú qù le.",
+        "english": "If it rains tomorrow, we won't go."
+      },
+      {
+        "chinese": "如果你有问题，就问老师。",
+        "pinyin": "Rúguǒ nǐ yǒu wèntí, jiù wèn lǎoshī.",
+        "english": "If you have questions, ask the teacher."
+      }
+    ]
+  },
+  {
+    "id": "g3-008",
+    "hskLevel": 3,
+    "title": "一边...一边 (yìbiān...yìbiān) - While doing...also doing",
+    "structure": "Subject + 一边 + V1 + 一边 + V2",
+    "explanation": "一边...一边 indicates two actions happening simultaneously.",
+    "examples": [
+      {
+        "chinese": "他一边吃饭一边看电视。",
+        "pinyin": "Tā yìbiān chī fàn yìbiān kàn diànshì.",
+        "english": "He eats while watching TV."
+      },
+      {
+        "chinese": "她一边走一边听音乐。",
+        "pinyin": "Tā yìbiān zǒu yìbiān tīng yīnyuè.",
+        "english": "She listens to music while walking."
+      }
+    ]
+  },
+  {
+    "id": "g3-009",
+    "hskLevel": 3,
+    "title": "对...来说 (duì...lái shuō) - For/To someone",
+    "structure": "对 + Person + 来说，...",
+    "explanation": "对...来说 means \"for someone\" or \"as far as someone is concerned.\"",
+    "examples": [
+      {
+        "chinese": "对我来说，学中文很有意思。",
+        "pinyin": "Duì wǒ lái shuō, xué Zhōngwén hěn yǒu yìsi.",
+        "english": "For me, learning Chinese is very interesting."
+      },
+      {
+        "chinese": "对外国人来说，汉字很难。",
+        "pinyin": "Duì wàiguó rén lái shuō, hànzì hěn nán.",
+        "english": "For foreigners, Chinese characters are very difficult."
+      }
+    ]
+  },
+  {
+    "id": "g3-010",
+    "hskLevel": 3,
+    "title": "连...都/也 (lián...dōu/yě) - Even",
+    "structure": "连 + Noun/Verb + 都/也 + ...",
+    "explanation": "连...都/也 emphasizes something surprising or extreme, meaning \"even.\"",
+    "examples": [
+      {
+        "chinese": "他连自己的名字都不会写。",
+        "pinyin": "Tā lián zìjǐ de míngzì dōu bú huì xiě.",
+        "english": "He can't even write his own name."
+      },
+      {
+        "chinese": "我忙得连饭都没吃。",
+        "pinyin": "Wǒ máng de lián fàn dōu méi chī.",
+        "english": "I was so busy that I didn't even eat."
+      }
+    ]
+  }
+]

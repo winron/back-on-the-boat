@@ -1,1 +1,137 @@
-[]
+[
+  {
+    "id": "s6-001",
+    "hskLevel": 6,
+    "targetSentence": "他太忙了，以至于忘了吃饭。",
+    "targetPinyin": "Tā tài máng le, yǐzhìyú wàng le chī fàn.",
+    "targetMeaning": "He was so busy that he forgot to eat.",
+    "wordBank": [
+      "他",
+      "太忙",
+      "了",
+      "，",
+      "以至于",
+      "忘了",
+      "吃饭",
+      "。"
+    ]
+  },
+  {
+    "id": "s6-002",
+    "hskLevel": 6,
+    "targetSentence": "归根结底，教育是最重要的投资。",
+    "targetPinyin": "Guīgēnjiédǐ, jiàoyù shì zuì zhòngyào de tóuzī.",
+    "targetMeaning": "In the final analysis, education is the most important investment.",
+    "wordBank": [
+      "归根结底",
+      "，",
+      "教育",
+      "是",
+      "最重要的",
+      "投资",
+      "。"
+    ]
+  },
+  {
+    "id": "s6-003",
+    "hskLevel": 6,
+    "targetSentence": "你早点出发，以免迟到。",
+    "targetPinyin": "Nǐ zǎo diǎn chūfā, yǐmiǎn chídào.",
+    "targetMeaning": "Leave early so as not to be late.",
+    "wordBank": [
+      "你",
+      "早点",
+      "出发",
+      "，",
+      "以免",
+      "迟到",
+      "。"
+    ]
+  },
+  {
+    "id": "s6-004",
+    "hskLevel": 6,
+    "targetSentence": "出于安全考虑，这条路已经封闭。",
+    "targetPinyin": "Chūyú ānquán kǎolǜ, zhè tiáo lù yǐjīng fēngbì.",
+    "targetMeaning": "Due to safety concerns, this road has been closed.",
+    "wordBank": [
+      "出于",
+      "安全",
+      "考虑",
+      "，",
+      "这条",
+      "路",
+      "已经",
+      "封闭",
+      "。"
+    ]
+  },
+  {
+    "id": "s6-005",
+    "hskLevel": 6,
+    "targetSentence": "就质量而言，这个产品是最好的。",
+    "targetPinyin": "Jiù zhìliàng éryán, zhège chǎnpǐn shì zuì hǎo de.",
+    "targetMeaning": "In terms of quality, this product is the best.",
+    "wordBank": [
+      "就",
+      "质量",
+      "而言",
+      "，",
+      "这个",
+      "产品",
+      "是",
+      "最好的",
+      "。"
+    ]
+  },
+  {
+    "id": "s6-006",
+    "hskLevel": 6,
+    "targetSentence": "他迫不得已才卖掉了房子。",
+    "targetPinyin": "Tā pòbùdéyǐ cái mài diào le fángzi.",
+    "targetMeaning": "He had absolutely no choice but to sell the house.",
+    "wordBank": [
+      "他",
+      "迫不得已",
+      "才",
+      "卖掉",
+      "了",
+      "房子",
+      "。"
+    ]
+  },
+  {
+    "id": "s6-007",
+    "hskLevel": 6,
+    "targetSentence": "这件事影响了整个城市，乃至全国。",
+    "targetPinyin": "Zhè jiàn shì yǐngxiǎng le zhěnggè chéngshì, nǎizhì quánguó.",
+    "targetMeaning": "This matter affected the entire city, and even the whole country.",
+    "wordBank": [
+      "这件事",
+      "影响",
+      "了",
+      "整个",
+      "城市",
+      "，",
+      "乃至",
+      "全国",
+      "。"
+    ]
+  },
+  {
+    "id": "s6-008",
+    "hskLevel": 6,
+    "targetSentence": "请仔细检查，以免出错。",
+    "targetPinyin": "Qǐng zǐxì jiǎnchá, yǐmiǎn chū cuò.",
+    "targetMeaning": "Please check carefully to avoid making mistakes.",
+    "wordBank": [
+      "请",
+      "仔细",
+      "检查",
+      "，",
+      "以免",
+      "出错",
+      "。"
+    ]
+  }
+]

@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "id": "g5-001",
+    "hskLevel": 5,
+    "title": "以...为主 (yǐ...wéi zhǔ) - Mainly/Primarily",
+    "structure": "以 + Noun + 为主",
+    "explanation": "以...为主 means \"to take something as the main focus\" or \"primarily.\"",
+    "examples": [
+      {
+        "chinese": "这个地区以农业为主。",
+        "pinyin": "Zhège dìqū yǐ nóngyè wéi zhǔ.",
+        "english": "This area is primarily focused on agriculture."
+      },
+      {
+        "chinese": "我们的饮食以米饭为主。",
+        "pinyin": "Wǒmen de yǐnshí yǐ mǐfàn wéi zhǔ.",
+        "english": "Our diet is mainly rice-based."
+      }
+    ]
+  },
+  {
+    "id": "g5-002",
+    "hskLevel": 5,
+    "title": "不得不 (bùdébù) - Have no choice but to",
+    "structure": "Subject + 不得不 + Verb",
+    "explanation": "不得不 expresses that someone has no choice but to do something, implying reluctance.",
+    "examples": [
+      {
+        "chinese": "因为堵车，我不得不走路去。",
+        "pinyin": "Yīnwèi dǔchē, wǒ bùdébù zǒulù qù.",
+        "english": "Because of the traffic jam, I had no choice but to walk."
+      },
+      {
+        "chinese": "他不得不接受这个事实。",
+        "pinyin": "Tā bùdébù jiēshòu zhège shìshí.",
+        "english": "He had no choice but to accept this fact."
+      }
+    ]
+  },
+  {
+    "id": "g5-003",
+    "hskLevel": 5,
+    "title": "难免 (nánmiǎn) - Hard to avoid/Inevitable",
+    "structure": "难免 + (会) + Verb/Adj",
+    "explanation": "难免 indicates that something is hard to avoid or inevitable.",
+    "examples": [
+      {
+        "chinese": "刚开始学，难免会犯错。",
+        "pinyin": "Gāng kāishǐ xué, nánmiǎn huì fàn cuò.",
+        "english": "When you first start learning, mistakes are inevitable."
+      },
+      {
+        "chinese": "一个人在外面，难免会想家。",
+        "pinyin": "Yí gè rén zài wàimiàn, nánmiǎn huì xiǎng jiā.",
+        "english": "Being alone away from home, it's hard not to feel homesick."
+      }
+    ]
+  },
+  {
+    "id": "g5-004",
+    "hskLevel": 5,
+    "title": "未必 (wèibì) - Not necessarily",
+    "structure": "未必 + Verb/Adj",
+    "explanation": "未必 means \"not necessarily\" and is used to express doubt about an assumption.",
+    "examples": [
+      {
+        "chinese": "贵的东西未必好。",
+        "pinyin": "Guì de dōngxi wèibì hǎo.",
+        "english": "Expensive things are not necessarily good."
+      },
+      {
+        "chinese": "他说的未必是真的。",
+        "pinyin": "Tā shuō de wèibì shì zhēn de.",
+        "english": "What he said is not necessarily true."
+      }
+    ]
+  },
+  {
+    "id": "g5-005",
+    "hskLevel": 5,
+    "title": "何况 (hékuàng) - Let alone/Not to mention",
+    "structure": "..., 何况 + ...",
+    "explanation": "何况 means \"let alone\" or \"not to mention,\" used to emphasize that if the first point is true, the second is even more so.",
+    "examples": [
+      {
+        "chinese": "大人都觉得难，何况小孩子。",
+        "pinyin": "Dàrén dōu juéde nán, hékuàng xiǎo háizi.",
+        "english": "Even adults find it hard, let alone children."
+      },
+      {
+        "chinese": "我连中文都不会，何况日文。",
+        "pinyin": "Wǒ lián Zhōngwén dōu bú huì, hékuàng Rìwén.",
+        "english": "I can't even speak Chinese, let alone Japanese."
+      }
+    ]
+  },
+  {
+    "id": "g5-006",
+    "hskLevel": 5,
+    "title": "尽管...还是 (jǐnguǎn...háishi) - Despite...still",
+    "structure": "尽管 + A，还是 + B",
+    "explanation": "尽管...还是 means \"despite A, B still happens,\" expressing a concession.",
+    "examples": [
+      {
+        "chinese": "尽管很辛苦，他还是坚持了下来。",
+        "pinyin": "Jǐnguǎn hěn xīnkǔ, tā háishi jiānchí le xiàlái.",
+        "english": "Despite the hardship, he still persevered."
+      },
+      {
+        "chinese": "尽管医生不建议，她还是去上班了。",
+        "pinyin": "Jǐnguǎn yīshēng bú jiànyì, tā háishi qù shàngbān le.",
+        "english": "Despite the doctor's advice, she still went to work."
+      }
+    ]
+  },
+  {
+    "id": "g5-007",
+    "hskLevel": 5,
+    "title": "与其...不如 (yǔqí...bùrú) - Rather than...better to",
+    "structure": "与其 + A，不如 + B",
+    "explanation": "与其...不如 means \"rather than A, it would be better to B.\"",
+    "examples": [
+      {
+        "chinese": "与其抱怨，不如行动。",
+        "pinyin": "Yǔqí bàoyuàn, bùrú xíngdòng.",
+        "english": "Rather than complaining, it's better to take action."
+      },
+      {
+        "chinese": "与其在家等着，不如出去找。",
+        "pinyin": "Yǔqí zài jiā děng zhe, bùrú chūqù zhǎo.",
+        "english": "Rather than waiting at home, it's better to go out and look."
+      }
+    ]
+  },
+  {
+    "id": "g5-008",
+    "hskLevel": 5,
+    "title": "宁可...也不 (nìngkě...yě bù) - Would rather...than",
+    "structure": "宁可 + A，也不 + B",
+    "explanation": "宁可...也不 means \"would rather A than B,\" expressing a strong preference.",
+    "examples": [
+      {
+        "chinese": "他宁可走路，也不坐公交车。",
+        "pinyin": "Tā nìngkě zǒulù, yě bú zuò gōngjiāochē.",
+        "english": "He would rather walk than take the bus."
+      },
+      {
+        "chinese": "我宁可少吃一顿，也不浪费食物。",
+        "pinyin": "Wǒ nìngkě shǎo chī yí dùn, yě bù làngfèi shíwù.",
+        "english": "I would rather skip a meal than waste food."
+      }
+    ]
+  },
+  {
+    "id": "g5-009",
+    "hskLevel": 5,
+    "title": "一旦...就 (yídàn...jiù) - Once...then",
+    "structure": "一旦 + Condition，就 + Result",
+    "explanation": "一旦...就 means \"once something happens, then...\" It implies that once the condition occurs, the result follows quickly or inevitably.",
+    "examples": [
+      {
+        "chinese": "一旦决定了，就不要后悔。",
+        "pinyin": "Yídàn juédìng le, jiù búyào hòuhuǐ.",
+        "english": "Once you've decided, don't regret it."
+      },
+      {
+        "chinese": "一旦发现问题，就要马上解决。",
+        "pinyin": "Yídàn fāxiàn wèntí, jiù yào mǎshàng jiějué.",
+        "english": "Once a problem is found, it must be solved immediately."
+      }
+    ]
+  },
+  {
+    "id": "g5-010",
+    "hskLevel": 5,
+    "title": "凡是...都 (fánshì...dōu) - All/Every...without exception",
+    "structure": "凡是 + Noun/Condition + 都 + ...",
+    "explanation": "凡是...都 means \"every\" or \"all without exception,\" emphasizing universality.",
+    "examples": [
+      {
+        "chinese": "凡是去过那里的人都说好。",
+        "pinyin": "Fánshì qù guò nàlǐ de rén dōu shuō hǎo.",
+        "english": "Everyone who has been there says it's great."
+      },
+      {
+        "chinese": "凡是认识他的人都喜欢他。",
+        "pinyin": "Fánshì rènshi tā de rén dōu xǐhuān tā.",
+        "english": "Everyone who knows him likes him."
+      }
+    ]
+  }
+]

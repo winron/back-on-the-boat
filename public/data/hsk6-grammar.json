@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "id": "g6-001",
+    "hskLevel": 6,
+    "title": "以至于 (yǐzhìyú) - So much so that",
+    "structure": "..., 以至于 + Result",
+    "explanation": "以至于 introduces an extreme result or consequence of a preceding situation, meaning \"so much so that\" or \"to the extent that.\"",
+    "examples": [
+      {
+        "chinese": "他太忙了，以至于忘了吃饭。",
+        "pinyin": "Tā tài máng le, yǐzhìyú wàng le chī fàn.",
+        "english": "He was so busy that he forgot to eat."
+      },
+      {
+        "chinese": "污染严重，以至于河里的鱼都死了。",
+        "pinyin": "Wūrǎn yánzhòng, yǐzhìyú hé lǐ de yú dōu sǐ le.",
+        "english": "The pollution was so severe that all the fish in the river died."
+      }
+    ]
+  },
+  {
+    "id": "g6-002",
+    "hskLevel": 6,
+    "title": "有鉴于此 (yǒu jiàn yú cǐ) - In view of this",
+    "structure": "有鉴于此，...",
+    "explanation": "有鉴于此 is a formal expression meaning \"in view of this\" or \"given these circumstances,\" used to introduce a conclusion or action based on prior reasoning.",
+    "examples": [
+      {
+        "chinese": "近年来事故频发。有鉴于此，我们加强了安全管理。",
+        "pinyin": "Jìnnián lái shìgù pín fā. Yǒu jiàn yú cǐ, wǒmen jiāqiáng le ānquán guǎnlǐ.",
+        "english": "Accidents have been frequent in recent years. In view of this, we have strengthened safety management."
+      },
+      {
+        "chinese": "成本不断上升。有鉴于此，公司决定调整价格。",
+        "pinyin": "Chéngběn búduàn shàngshēng. Yǒu jiàn yú cǐ, gōngsī juédìng tiáozhěng jiàgé.",
+        "english": "Costs keep rising. In view of this, the company decided to adjust prices."
+      }
+    ]
+  },
+  {
+    "id": "g6-003",
+    "hskLevel": 6,
+    "title": "归根结底 (guīgēnjiédǐ) - In the final analysis",
+    "structure": "归根结底，...",
+    "explanation": "归根结底 means \"in the final analysis\" or \"when all is said and done.\" It introduces the fundamental reason or conclusion.",
+    "examples": [
+      {
+        "chinese": "归根结底，教育是最重要的投资。",
+        "pinyin": "Guīgēnjiédǐ, jiàoyù shì zuì zhòngyào de tóuzī.",
+        "english": "In the final analysis, education is the most important investment."
+      },
+      {
+        "chinese": "归根结底，问题出在管理上。",
+        "pinyin": "Guīgēnjiédǐ, wèntí chū zài guǎnlǐ shàng.",
+        "english": "Ultimately, the problem lies in management."
+      }
+    ]
+  },
+  {
+    "id": "g6-004",
+    "hskLevel": 6,
+    "title": "迫不得已 (pòbùdéyǐ) - Have no alternative",
+    "structure": "迫不得已 + (才) + Verb",
+    "explanation": "迫不得已 means one is forced by circumstances with absolutely no alternative. Stronger than 不得不.",
+    "examples": [
+      {
+        "chinese": "他迫不得已才卖掉了房子。",
+        "pinyin": "Tā pòbùdéyǐ cái mài diào le fángzi.",
+        "english": "He had absolutely no choice but to sell the house."
+      },
+      {
+        "chinese": "迫不得已的情况下，我们只能推迟计划。",
+        "pinyin": "Pòbùdéyǐ de qíngkuàng xià, wǒmen zhǐ néng tuīchí jìhuà.",
+        "english": "Under unavoidable circumstances, we can only postpone the plan."
+      }
+    ]
+  },
+  {
+    "id": "g6-005",
+    "hskLevel": 6,
+    "title": "出于 (chūyú) - Out of/Due to",
+    "structure": "出于 + Reason/Motive",
+    "explanation": "出于 means \"out of\" or \"due to\" and is used to state the reason or motive behind an action.",
+    "examples": [
+      {
+        "chinese": "他出于好奇打开了那扇门。",
+        "pinyin": "Tā chūyú hàoqí dǎkāi le nà shàn mén.",
+        "english": "He opened that door out of curiosity."
+      },
+      {
+        "chinese": "出于安全考虑，这条路已经封闭。",
+        "pinyin": "Chūyú ānquán kǎolǜ, zhè tiáo lù yǐjīng fēngbì.",
+        "english": "Due to safety concerns, this road has been closed."
+      }
+    ]
+  },
+  {
+    "id": "g6-006",
+    "hskLevel": 6,
+    "title": "鉴于 (jiànyú) - In light of/Given that",
+    "structure": "鉴于 + Situation，...",
+    "explanation": "鉴于 means \"in light of\" or \"given that\" and is used in formal contexts to state a reason before a decision or suggestion.",
+    "examples": [
+      {
+        "chinese": "鉴于目前的情况，会议推迟到下周。",
+        "pinyin": "Jiànyú mùqián de qíngkuàng, huìyì tuīchí dào xià zhōu.",
+        "english": "Given the current situation, the meeting is postponed to next week."
+      },
+      {
+        "chinese": "鉴于他的表现，公司决定给他升职。",
+        "pinyin": "Jiànyú tā de biǎoxiàn, gōngsī juédìng gěi tā shēng zhí.",
+        "english": "In light of his performance, the company decided to promote him."
+      }
+    ]
+  },
+  {
+    "id": "g6-007",
+    "hskLevel": 6,
+    "title": "就...而言 (jiù...éryán) - As far as...is concerned",
+    "structure": "就 + Topic + 而言，...",
+    "explanation": "就...而言 means \"as far as...is concerned\" or \"in terms of,\" used to limit the scope of a statement.",
+    "examples": [
+      {
+        "chinese": "就质量而言，这个产品是最好的。",
+        "pinyin": "Jiù zhìliàng éryán, zhège chǎnpǐn shì zuì hǎo de.",
+        "english": "In terms of quality, this product is the best."
+      },
+      {
+        "chinese": "就目前而言，计划进展顺利。",
+        "pinyin": "Jiù mùqián éryán, jìhuà jìnzhǎn shùnlì.",
+        "english": "As far as the current situation goes, the plan is progressing smoothly."
+      }
+    ]
+  },
+  {
+    "id": "g6-008",
+    "hskLevel": 6,
+    "title": "乃至 (nǎizhì) - And even/Up to",
+    "structure": "A，乃至 + B",
+    "explanation": "乃至 means \"and even\" or \"up to and including,\" indicating an escalation from A to B.",
+    "examples": [
+      {
+        "chinese": "这件事影响了整个城市，乃至全国。",
+        "pinyin": "Zhè jiàn shì yǐngxiǎng le zhěnggè chéngshì, nǎizhì quánguó.",
+        "english": "This matter affected the entire city, and even the whole country."
+      },
+      {
+        "chinese": "他的研究影响了学术界，乃至社会各界。",
+        "pinyin": "Tā de yánjiū yǐngxiǎng le xuéshù jiè, nǎizhì shèhuì gè jiè.",
+        "english": "His research influenced academia, and even all sectors of society."
+      }
+    ]
+  },
+  {
+    "id": "g6-009",
+    "hskLevel": 6,
+    "title": "以免 (yǐmiǎn) - In order to avoid/Lest",
+    "structure": "..., 以免 + Undesired Result",
+    "explanation": "以免 means \"in order to avoid\" or \"so as not to.\" It introduces something one wants to prevent.",
+    "examples": [
+      {
+        "chinese": "你早点出发，以免迟到。",
+        "pinyin": "Nǐ zǎo diǎn chūfā, yǐmiǎn chídào.",
+        "english": "Leave early so as not to be late."
+      },
+      {
+        "chinese": "请仔细检查，以免出错。",
+        "pinyin": "Qǐng zǐxì jiǎnchá, yǐmiǎn chū cuò.",
+        "english": "Please check carefully to avoid making mistakes."
+      }
+    ]
+  },
+  {
+    "id": "g6-010",
+    "hskLevel": 6,
+    "title": "不可避免地 (bùkě bìmiǎn de) - Inevitably",
+    "structure": "不可避免地 + Verb",
+    "explanation": "不可避免地 is an adverb meaning \"inevitably\" or \"unavoidably,\" used in formal writing to indicate something cannot be prevented.",
+    "examples": [
+      {
+        "chinese": "全球化不可避免地改变了人们的生活方式。",
+        "pinyin": "Quánqiúhuà bùkě bìmiǎn de gǎibiàn le rénmen de shēnghuó fāngshì.",
+        "english": "Globalization has inevitably changed people's way of life."
+      },
+      {
+        "chinese": "技术进步不可避免地带来了新的挑战。",
+        "pinyin": "Jìshù jìnbù bùkě bìmiǎn de dàilái le xīn de tiǎozhàn.",
+        "english": "Technological progress inevitably brings new challenges."
+      }
+    ]
+  }
+]

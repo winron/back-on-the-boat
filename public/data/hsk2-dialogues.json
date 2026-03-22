@@ -1,1 +1,148 @@
-[]
+[
+  {
+    "id": "d2-001",
+    "hskLevel": 2,
+    "title": "Taking the Bus",
+    "context": "Asking for directions on public transport",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "请问，去火车站坐几路车？",
+        "pinyin": "Qǐngwèn, qù huǒchēzhàn zuò jǐ lù chē?",
+        "english": "Excuse me, which bus goes to the train station?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "你可以坐三路车。",
+        "pinyin": "Nǐ kěyǐ zuò sān lù chē.",
+        "english": "You can take bus number 3."
+      },
+      {
+        "speaker": "A",
+        "chinese": "从这里到火车站要多长时间？",
+        "pinyin": "Cóng zhèlǐ dào huǒchēzhàn yào duō cháng shíjiān?",
+        "english": "How long does it take from here to the train station?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "大概二十分钟。",
+        "pinyin": "Dàgài èrshí fēnzhōng.",
+        "english": "About twenty minutes."
+      },
+      {
+        "speaker": "A",
+        "chinese": "谢谢你！",
+        "pinyin": "Xièxiè nǐ!",
+        "english": "Thank you!"
+      }
+    ]
+  },
+  {
+    "id": "d2-002",
+    "hskLevel": 2,
+    "title": "Talking About the Weather",
+    "context": "Daily conversation between friends",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "今天比昨天冷多了。",
+        "pinyin": "Jīntiān bǐ zuótiān lěng duō le.",
+        "english": "Today is much colder than yesterday."
+      },
+      {
+        "speaker": "B",
+        "chinese": "是啊，要下雨了。",
+        "pinyin": "Shì a, yào xià yǔ le.",
+        "english": "Yeah, it's about to rain."
+      },
+      {
+        "speaker": "A",
+        "chinese": "你带伞了吗？",
+        "pinyin": "Nǐ dài sǎn le ma?",
+        "english": "Did you bring an umbrella?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "没有，我忘了。",
+        "pinyin": "Méiyǒu, wǒ wàng le.",
+        "english": "No, I forgot."
+      },
+      {
+        "speaker": "A",
+        "chinese": "我有两把，给你一把吧。",
+        "pinyin": "Wǒ yǒu liǎng bǎ, gěi nǐ yì bǎ ba.",
+        "english": "I have two, let me give you one."
+      }
+    ]
+  },
+  {
+    "id": "d2-003",
+    "hskLevel": 2,
+    "title": "At the Doctor's Office",
+    "context": "Describing symptoms",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你哪儿不舒服？",
+        "pinyin": "Nǐ nǎr bù shūfu?",
+        "english": "Where do you feel uncomfortable?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "我头疼，还有点儿发烧。",
+        "pinyin": "Wǒ tóu téng, hái yǒudiǎnr fāshāo.",
+        "english": "I have a headache, and I have a slight fever."
+      },
+      {
+        "speaker": "A",
+        "chinese": "你是什么时候开始不舒服的？",
+        "pinyin": "Nǐ shì shénme shíhòu kāishǐ bù shūfu de?",
+        "english": "When did you start feeling unwell?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "昨天晚上开始的。",
+        "pinyin": "Zuótiān wǎnshang kāishǐ de.",
+        "english": "It started last night."
+      },
+      {
+        "speaker": "A",
+        "chinese": "你要多喝水，多休息。",
+        "pinyin": "Nǐ yào duō hē shuǐ, duō xiūxi.",
+        "english": "You should drink more water and rest more."
+      }
+    ]
+  },
+  {
+    "id": "d2-004",
+    "hskLevel": 2,
+    "title": "Weekend Plans",
+    "context": "Making plans with a friend",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "周末你想做什么？",
+        "pinyin": "Zhōumò nǐ xiǎng zuò shénme?",
+        "english": "What do you want to do this weekend?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "我正在想去爬山还是去游泳。",
+        "pinyin": "Wǒ zhèngzài xiǎng qù pá shān háishi qù yóuyǒng.",
+        "english": "I'm thinking about whether to go hiking or swimming."
+      },
+      {
+        "speaker": "A",
+        "chinese": "我觉得爬山比游泳有意思。",
+        "pinyin": "Wǒ juéde pá shān bǐ yóuyǒng yǒu yìsi.",
+        "english": "I think hiking is more fun than swimming."
+      },
+      {
+        "speaker": "B",
+        "chinese": "好的，那我们一起去吧！",
+        "pinyin": "Hǎo de, nà wǒmen yìqǐ qù ba!",
+        "english": "OK, let's go together then!"
+      }
+    ]
+  }
+]

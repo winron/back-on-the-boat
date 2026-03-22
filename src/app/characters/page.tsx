@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useReview, createNewSrsCard } from "@/hooks/useReview";
 import { loadVocabulary } from "@/lib/data-loader";
@@ -19,30 +19,44 @@ export default function CharactersPage() {
   const [mode, setMode] = useState<Mode>("review");
   const [words, setWords] = useState<HskWord[]>([]);
   const [browseIndex, setBrowseIndex] = useState(0);
+  const [seeded, setSeeded] = useState(false);
   const review = useReview("characters");
 
   useTTS();
 
   // Load vocab and seed SRS cards for current level
   useEffect(() => {
-    loadVocabulary(level).then(async (vocab) => {
-      setWords(vocab);
-      // Seed SRS cards for words that don't exist yet
-      const existingIds = new Set(
-        (await db.srsCards.where("module").equals("characters").toArray()).map(
-          (c) => c.id
-        )
-      );
-      const newCards = vocab
-        .filter((w) => !existingIds.has(w.id))
-        .map((w) => createNewSrsCard(w.id, "characters"));
-      if (newCards.length > 0) {
-        await db.srsCards.bulkPut(newCards);
+    setSeeded(false);
+    setBrowseIndex(0);
+
+    loadVocabulary(level)
+      .then(async (vocab) => {
+        setWords(vocab);
+
+        // Seed SRS cards for words that don't exist yet
+        const existingIds = new Set(
+          (
+            await db.srsCards.where("module").equals("characters").toArray()
+          ).map((c) => c.id)
+        );
+
+        // Only seed cards for the current level
+        const levelPrefix = `hsk${level}-`;
+        const newCards = vocab
+          .filter((w) => w.id.startsWith(levelPrefix) && !existingIds.has(w.id))
+          .map((w) => createNewSrsCard(w.id, "characters"));
+
+        if (newCards.length > 0) {
+          await db.srsCards.bulkPut(newCards);
+        }
+
+        setSeeded(true);
         review.reload();
-      }
-    }).catch(() => {
-      // Data not yet available
-    });
+      })
+      .catch(() => {
+        setWords([]);
+        setSeeded(true);
+      });
   }, [level]);
 
   const currentWord = review.currentCard
@@ -78,14 +92,18 @@ export default function CharactersPage() {
 
       {mode === "review" && (
         <>
-          {review.isComplete ? (
+          {!seeded ? (
+            <p className="text-center text-muted-foreground py-8">
+              Loading...
+            </p>
+          ) : review.isComplete ? (
             <div className="text-center py-12">
               <p className="text-4xl mb-4">🎉</p>
               <p className="text-lg font-medium">All caught up!</p>
               <p className="text-muted-foreground text-sm mt-1">
                 {review.totalReviewed > 0
                   ? `Reviewed ${review.totalReviewed} cards (${review.correctCount} correct)`
-                  : "No cards due for review"}
+                  : "No cards due for review. Come back later or tap Check again."}
               </p>
               <button
                 onClick={review.reload}
@@ -108,7 +126,7 @@ export default function CharactersPage() {
             </div>
           ) : (
             <p className="text-center text-muted-foreground py-8">
-              Loading...
+              Loading cards...
             </p>
           )}
         </>
@@ -142,6 +160,12 @@ export default function CharactersPage() {
         </div>
       )}
 
+      {mode === "learn" && !browseWord && words.length === 0 && (
+        <p className="text-center text-muted-foreground py-8">
+          No vocabulary data available for this level.
+        </p>
+      )}
+
       {mode === "browse" && (
         <div className="space-y-3">
           {words.map((word) => (
@@ -162,7 +186,7 @@ export default function CharactersPage() {
           ))}
           {words.length === 0 && (
             <p className="text-center text-muted-foreground py-8">
-              No vocabulary data available yet. Run the data preparation script.
+              No vocabulary data available for this level.
             </p>
           )}
         </div>

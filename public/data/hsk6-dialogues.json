@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "id": "d6-001",
+    "hskLevel": 6,
+    "title": "Urban Development",
+    "context": "Discussing city planning and modernization",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "这座城市的发展速度太快了，以至于很多老建筑都消失了。",
+        "pinyin": "Zhè zuò chéngshì de fāzhǎn sùdù tài kuài le, yǐzhìyú hěn duō lǎo jiànzhù dōu xiāoshī le.",
+        "english": "This city has developed so fast that many old buildings have disappeared."
+      },
+      {
+        "speaker": "B",
+        "chinese": "归根结底，是因为经济利益和文化保护之间的矛盾。",
+        "pinyin": "Guīgēnjiédǐ, shì yīnwèi jīngjì lìyì hé wénhuà bǎohù zhījiān de máodùn.",
+        "english": "Ultimately, it's due to the contradiction between economic interests and cultural preservation."
+      },
+      {
+        "speaker": "A",
+        "chinese": "鉴于目前的情况，政府已经出台了新的保护政策。",
+        "pinyin": "Jiànyú mùqián de qíngkuàng, zhèngfǔ yǐjīng chūtái le xīn de bǎohù zhèngcè.",
+        "english": "Given the current situation, the government has issued new protection policies."
+      },
+      {
+        "speaker": "B",
+        "chinese": "就长远而言，我们需要在发展和保护之间找到平衡。",
+        "pinyin": "Jiù chángyuǎn éryán, wǒmen xūyào zài fāzhǎn hé bǎohù zhījiān zhǎo dào pínghéng.",
+        "english": "In the long run, we need to find a balance between development and preservation."
+      },
+      {
+        "speaker": "A",
+        "chinese": "必须仔细规划，以免将来后悔。",
+        "pinyin": "Bìxū zǐxì guīhuà, yǐmiǎn jiānglái hòuhuǐ.",
+        "english": "We must plan carefully to avoid regrets in the future."
+      }
+    ]
+  },
+  {
+    "id": "d6-002",
+    "hskLevel": 6,
+    "title": "Technology and Society",
+    "context": "Debating the impact of AI on employment",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "人工智能的发展不可避免地改变了就业市场。",
+        "pinyin": "Réngōng zhìnéng de fāzhǎn bùkě bìmiǎn de gǎibiàn le jiùyè shìchǎng.",
+        "english": "The development of artificial intelligence has inevitably changed the job market."
+      },
+      {
+        "speaker": "B",
+        "chinese": "这件事不仅影响了制造业，乃至服务行业也受到了冲击。",
+        "pinyin": "Zhè jiàn shì bùjǐn yǐngxiǎng le zhìzàoyè, nǎizhì fúwù hángyè yě shòu dào le chōngjī.",
+        "english": "This has not only affected manufacturing, but even the service industry has been impacted."
+      },
+      {
+        "speaker": "A",
+        "chinese": "出于对未来的担忧，很多人开始学习新技能。",
+        "pinyin": "Chūyú duì wèilái de dānyōu, hěn duō rén kāishǐ xuéxí xīn jìnéng.",
+        "english": "Out of concern for the future, many people are starting to learn new skills."
+      },
+      {
+        "speaker": "B",
+        "chinese": "有鉴于此，教育体系也应该做出相应的调整。",
+        "pinyin": "Yǒu jiàn yú cǐ, jiàoyù tǐxì yě yīnggāi zuò chū xiāngyìng de tiáozhěng.",
+        "english": "In view of this, the education system should also make corresponding adjustments."
+      },
+      {
+        "speaker": "A",
+        "chinese": "迫不得已的时候，转行也是一种选择。",
+        "pinyin": "Pòbùdéyǐ de shíhòu, zhuǎnháng yě shì yì zhǒng xuǎnzé.",
+        "english": "When there's absolutely no alternative, changing careers is also an option."
+      }
+    ]
+  },
+  {
+    "id": "d6-003",
+    "hskLevel": 6,
+    "title": "Healthcare Reform",
+    "context": "Discussing public health policy",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "就医疗水平而言，城市和农村的差距还是很大。",
+        "pinyin": "Jiù yīliáo shuǐpíng éryán, chéngshì hé nóngcūn de chājù háishi hěn dà.",
+        "english": "In terms of medical standards, the gap between urban and rural areas is still very large."
+      },
+      {
+        "speaker": "B",
+        "chinese": "归根结底，这是资源分配不均的问题。",
+        "pinyin": "Guīgēnjiédǐ, zhè shì zīyuán fēnpèi bù jūn de wèntí.",
+        "english": "Ultimately, this is a problem of unequal resource distribution."
+      },
+      {
+        "speaker": "A",
+        "chinese": "鉴于农村地区医生严重不足，政府鼓励年轻医生去基层工作。",
+        "pinyin": "Jiànyú nóngcūn dìqū yīshēng yánzhòng bùzú, zhèngfǔ gǔlì niánqīng yīshēng qù jīcéng gōngzuò.",
+        "english": "Given the severe shortage of doctors in rural areas, the government encourages young doctors to work at the grassroots level."
+      },
+      {
+        "speaker": "B",
+        "chinese": "这个政策的效果如何，还有待观察，以免过早下结论。",
+        "pinyin": "Zhège zhèngcè de xiàoguǒ rúhé, hái yǒu dài guānchá, yǐmiǎn guò zǎo xià jiélùn.",
+        "english": "The effectiveness of this policy remains to be seen, to avoid drawing conclusions too early."
+      }
+    ]
+  }
+]

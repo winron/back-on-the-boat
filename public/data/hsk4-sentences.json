@@ -1,1 +1,126 @@
-[]
+[
+  {
+    "id": "s4-001",
+    "hskLevel": 4,
+    "targetSentence": "即使下雨，我也要去。",
+    "targetPinyin": "Jíshǐ xià yǔ, wǒ yě yào qù.",
+    "targetMeaning": "Even if it rains, I will still go.",
+    "wordBank": [
+      "即使",
+      "下雨",
+      "，",
+      "我",
+      "也",
+      "要去",
+      "。"
+    ]
+  },
+  {
+    "id": "s4-002",
+    "hskLevel": 4,
+    "targetSentence": "无论多忙，他都坚持锻炼。",
+    "targetPinyin": "Wúlùn duō máng, tā dōu jiānchí duànliàn.",
+    "targetMeaning": "No matter how busy, he always keeps exercising.",
+    "wordBank": [
+      "无论",
+      "多忙",
+      "，",
+      "他",
+      "都",
+      "坚持",
+      "锻炼",
+      "。"
+    ]
+  },
+  {
+    "id": "s4-003",
+    "hskLevel": 4,
+    "targetSentence": "这个餐厅既便宜又好吃。",
+    "targetPinyin": "Zhège cāntīng jì piányi yòu hǎochī.",
+    "targetMeaning": "This restaurant is both cheap and delicious.",
+    "wordBank": [
+      "这个",
+      "餐厅",
+      "既",
+      "便宜",
+      "又",
+      "好吃",
+      "。"
+    ]
+  },
+  {
+    "id": "s4-004",
+    "hskLevel": 4,
+    "targetSentence": "门开着。",
+    "targetPinyin": "Mén kāi zhe.",
+    "targetMeaning": "The door is open.",
+    "wordBank": [
+      "门",
+      "开",
+      "着",
+      "。"
+    ]
+  },
+  {
+    "id": "s4-005",
+    "hskLevel": 4,
+    "targetSentence": "那棵树被风吹倒了。",
+    "targetPinyin": "Nà kē shù bèi fēng chuī dǎo le.",
+    "targetMeaning": "That tree was blown down by the wind.",
+    "wordBank": [
+      "那棵",
+      "树",
+      "被",
+      "风",
+      "吹倒",
+      "了",
+      "。"
+    ]
+  },
+  {
+    "id": "s4-006",
+    "hskLevel": 4,
+    "targetSentence": "他高兴得跳了起来。",
+    "targetPinyin": "Tā gāoxìng de tiào le qǐlái.",
+    "targetMeaning": "He was so happy that he jumped up.",
+    "wordBank": [
+      "他",
+      "高兴",
+      "得",
+      "跳了",
+      "起来",
+      "。"
+    ]
+  },
+  {
+    "id": "s4-007",
+    "hskLevel": 4,
+    "targetSentence": "这是我所知道的。",
+    "targetPinyin": "Zhè shì wǒ suǒ zhīdào de.",
+    "targetMeaning": "This is what I know.",
+    "wordBank": [
+      "这",
+      "是",
+      "我",
+      "所",
+      "知道",
+      "的",
+      "。"
+    ]
+  },
+  {
+    "id": "s4-008",
+    "hskLevel": 4,
+    "targetSentence": "墙上挂着一幅画。",
+    "targetPinyin": "Qiáng shàng guà zhe yì fú huà.",
+    "targetMeaning": "A painting is hanging on the wall.",
+    "wordBank": [
+      "墙上",
+      "挂",
+      "着",
+      "一幅",
+      "画",
+      "。"
+    ]
+  }
+]

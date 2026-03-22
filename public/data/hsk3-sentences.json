@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "id": "s3-001",
+    "hskLevel": 3,
+    "targetSentence": "请把门关上。",
+    "targetPinyin": "Qǐng bǎ mén guān shàng.",
+    "targetMeaning": "Please close the door.",
+    "wordBank": [
+      "请",
+      "把",
+      "门",
+      "关上",
+      "。"
+    ]
+  },
+  {
+    "id": "s3-002",
+    "hskLevel": 3,
+    "targetSentence": "我的手机被偷了。",
+    "targetPinyin": "Wǒ de shǒujī bèi tōu le.",
+    "targetMeaning": "My phone was stolen.",
+    "wordBank": [
+      "我的",
+      "手机",
+      "被",
+      "偷",
+      "了",
+      "。"
+    ]
+  },
+  {
+    "id": "s3-003",
+    "hskLevel": 3,
+    "targetSentence": "天气越来越冷了。",
+    "targetPinyin": "Tiānqì yuèláiyuè lěng le.",
+    "targetMeaning": "The weather is getting colder and colder.",
+    "wordBank": [
+      "天气",
+      "越来越",
+      "冷",
+      "了",
+      "。"
+    ]
+  },
+  {
+    "id": "s3-004",
+    "hskLevel": 3,
+    "targetSentence": "虽然很累，但是我很开心。",
+    "targetPinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn.",
+    "targetMeaning": "Although I'm tired, I'm very happy.",
+    "wordBank": [
+      "虽然",
+      "很累",
+      "，",
+      "但是",
+      "我",
+      "很",
+      "开心",
+      "。"
+    ]
+  },
+  {
+    "id": "s3-005",
+    "hskLevel": 3,
+    "targetSentence": "如果明天下雨，我们就不去了。",
+    "targetPinyin": "Rúguǒ míngtiān xià yǔ, wǒmen jiù bú qù le.",
+    "targetMeaning": "If it rains tomorrow, we won't go.",
+    "wordBank": [
+      "如果",
+      "明天",
+      "下雨",
+      "，",
+      "我们",
+      "就",
+      "不去",
+      "了",
+      "。"
+    ]
+  },
+  {
+    "id": "s3-006",
+    "hskLevel": 3,
+    "targetSentence": "他一边吃饭一边看电视。",
+    "targetPinyin": "Tā yìbiān chī fàn yìbiān kàn diànshì.",
+    "targetMeaning": "He eats while watching TV.",
+    "wordBank": [
+      "他",
+      "一边",
+      "吃饭",
+      "一边",
+      "看电视",
+      "。"
+    ]
+  },
+  {
+    "id": "s3-007",
+    "hskLevel": 3,
+    "targetSentence": "除了中文以外，我也学日语。",
+    "targetPinyin": "Chúle Zhōngwén yǐwài, wǒ yě xué Rìyǔ.",
+    "targetMeaning": "Besides Chinese, I also study Japanese.",
+    "wordBank": [
+      "除了",
+      "中文",
+      "以外",
+      "，",
+      "我",
+      "也",
+      "学",
+      "日语",
+      "。"
+    ]
+  },
+  {
+    "id": "s3-008",
+    "hskLevel": 3,
+    "targetSentence": "对我来说，学中文很有意思。",
+    "targetPinyin": "Duì wǒ lái shuō, xué Zhōngwén hěn yǒu yìsi.",
+    "targetMeaning": "For me, learning Chinese is very interesting.",
+    "wordBank": [
+      "对",
+      "我",
+      "来说",
+      "，",
+      "学中文",
+      "很",
+      "有意思",
+      "。"
+    ]
+  }
+]

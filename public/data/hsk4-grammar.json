@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "id": "g4-001",
+    "hskLevel": 4,
+    "title": "不仅...而且 (bùjǐn...érqiě) - Not only...but also",
+    "structure": "不仅 + A，而且 + B",
+    "explanation": "不仅...而且 is a more formal version of 不但...而且, used to add emphasis in written and spoken Chinese.",
+    "examples": [
+      {
+        "chinese": "他不仅会说英语，而且会说法语。",
+        "pinyin": "Tā bùjǐn huì shuō Yīngyǔ, érqiě huì shuō Fǎyǔ.",
+        "english": "He not only speaks English, but also speaks French."
+      },
+      {
+        "chinese": "这个城市不仅漂亮，而且很安全。",
+        "pinyin": "Zhège chéngshì bùjǐn piàoliang, érqiě hěn ānquán.",
+        "english": "This city is not only beautiful, but also very safe."
+      }
+    ]
+  },
+  {
+    "id": "g4-002",
+    "hskLevel": 4,
+    "title": "即使...也 (jíshǐ...yě) - Even if...still",
+    "structure": "即使 + Condition，也 + Result",
+    "explanation": "即使...也 expresses that even if a condition is true, the result remains unchanged.",
+    "examples": [
+      {
+        "chinese": "即使下雨，我也要去。",
+        "pinyin": "Jíshǐ xià yǔ, wǒ yě yào qù.",
+        "english": "Even if it rains, I will still go."
+      },
+      {
+        "chinese": "即使很难，他也不放弃。",
+        "pinyin": "Jíshǐ hěn nán, tā yě bú fàngqì.",
+        "english": "Even if it's hard, he won't give up."
+      }
+    ]
+  },
+  {
+    "id": "g4-003",
+    "hskLevel": 4,
+    "title": "无论...都 (wúlùn...dōu) - No matter...all",
+    "structure": "无论 + Question Word/Choice，都 + ...",
+    "explanation": "无论...都 means \"no matter what/how/when, the result is always the same.\"",
+    "examples": [
+      {
+        "chinese": "无论多忙，他都坚持锻炼。",
+        "pinyin": "Wúlùn duō máng, tā dōu jiānchí duànliàn.",
+        "english": "No matter how busy, he always keeps exercising."
+      },
+      {
+        "chinese": "无论你去哪儿，我都跟你去。",
+        "pinyin": "Wúlùn nǐ qù nǎr, wǒ dōu gēn nǐ qù.",
+        "english": "No matter where you go, I'll go with you."
+      }
+    ]
+  },
+  {
+    "id": "g4-004",
+    "hskLevel": 4,
+    "title": "既...又 (jì...yòu) - Both...and",
+    "structure": "既 + A + 又 + B",
+    "explanation": "既...又 indicates two qualities or states coexist at the same time.",
+    "examples": [
+      {
+        "chinese": "这个餐厅既便宜又好吃。",
+        "pinyin": "Zhège cāntīng jì piányi yòu hǎochī.",
+        "english": "This restaurant is both cheap and delicious."
+      },
+      {
+        "chinese": "她既聪明又漂亮。",
+        "pinyin": "Tā jì cōngmíng yòu piàoliang.",
+        "english": "She is both smart and pretty."
+      }
+    ]
+  },
+  {
+    "id": "g4-005",
+    "hskLevel": 4,
+    "title": "之所以...是因为 (zhīsuǒyǐ...shì yīnwèi)",
+    "structure": "之所以 + Result，是因为 + Reason",
+    "explanation": "之所以...是因为 states a result first and then explains the reason, meaning \"the reason why...is because.\"",
+    "examples": [
+      {
+        "chinese": "他之所以成功，是因为他很努力。",
+        "pinyin": "Tā zhīsuǒyǐ chénggōng, shì yīnwèi tā hěn nǔlì.",
+        "english": "The reason he succeeded is because he worked very hard."
+      },
+      {
+        "chinese": "我之所以迟到，是因为路上堵车了。",
+        "pinyin": "Wǒ zhīsuǒyǐ chídào, shì yīnwèi lùshang dǔchē le.",
+        "english": "The reason I was late is because there was a traffic jam."
+      }
+    ]
+  },
+  {
+    "id": "g4-006",
+    "hskLevel": 4,
+    "title": "以...为 (yǐ...wéi) - Take...as",
+    "structure": "以 + A + 为 + B",
+    "explanation": "以...为 means \"to take A as B\" or \"to regard A as B.\" It is commonly used in formal contexts.",
+    "examples": [
+      {
+        "chinese": "我们以北京为中心开展工作。",
+        "pinyin": "Wǒmen yǐ Běijīng wéi zhōngxīn kāizhǎn gōngzuò.",
+        "english": "We carry out work with Beijing as the center."
+      },
+      {
+        "chinese": "他以教书为乐。",
+        "pinyin": "Tā yǐ jiāo shū wéi lè.",
+        "english": "He takes pleasure in teaching."
+      }
+    ]
+  },
+  {
+    "id": "g4-007",
+    "hskLevel": 4,
+    "title": "Result complement with 得 (de)",
+    "structure": "Verb + 得 + Result Description",
+    "explanation": "得 (de) connects a verb to a more detailed result complement describing the extent or outcome of the action.",
+    "examples": [
+      {
+        "chinese": "他高兴得跳了起来。",
+        "pinyin": "Tā gāoxìng de tiào le qǐlái.",
+        "english": "He was so happy that he jumped up."
+      },
+      {
+        "chinese": "她累得说不出话来。",
+        "pinyin": "Tā lèi de shuō bù chū huà lái.",
+        "english": "She was so tired she couldn't speak."
+      }
+    ]
+  },
+  {
+    "id": "g4-008",
+    "hskLevel": 4,
+    "title": "Extended passive with 被 (bèi)",
+    "structure": "Subject + 被 + Agent + Verb + Other Elements",
+    "explanation": "The extended 被 passive can include more complex verb phrases with complements, 了, and other elements.",
+    "examples": [
+      {
+        "chinese": "那棵树被风吹倒了。",
+        "pinyin": "Nà kē shù bèi fēng chuī dǎo le.",
+        "english": "That tree was blown down by the wind."
+      },
+      {
+        "chinese": "他的建议被大家接受了。",
+        "pinyin": "Tā de jiànyì bèi dàjiā jiēshòu le.",
+        "english": "His suggestion was accepted by everyone."
+      }
+    ]
+  },
+  {
+    "id": "g4-009",
+    "hskLevel": 4,
+    "title": "Nominalizer 所 (suǒ)",
+    "structure": "所 + Verb → Noun Phrase",
+    "explanation": "所 (suǒ) is placed before a verb to nominalize it, creating a noun phrase. Often used in formal or written Chinese.",
+    "examples": [
+      {
+        "chinese": "这是我所知道的。",
+        "pinyin": "Zhè shì wǒ suǒ zhīdào de.",
+        "english": "This is what I know."
+      },
+      {
+        "chinese": "他所说的话很有道理。",
+        "pinyin": "Tā suǒ shuō de huà hěn yǒu dàolǐ.",
+        "english": "What he said makes a lot of sense."
+      }
+    ]
+  },
+  {
+    "id": "g4-010",
+    "hskLevel": 4,
+    "title": "Continuous state with 着 (zhe)",
+    "structure": "Verb + 着",
+    "explanation": "着 (zhe) indicates a continuous or ongoing state resulting from an action, rather than an action in progress.",
+    "examples": [
+      {
+        "chinese": "门开着。",
+        "pinyin": "Mén kāi zhe.",
+        "english": "The door is open. (state)"
+      },
+      {
+        "chinese": "墙上挂着一幅画。",
+        "pinyin": "Qiáng shàng guà zhe yì fú huà.",
+        "english": "A painting is hanging on the wall."
+      }
+    ]
+  }
+]

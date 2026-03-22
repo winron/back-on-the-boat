@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "id": "d3-001",
+    "hskLevel": 3,
+    "title": "Renting an Apartment",
+    "context": "Discussing housing options",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你找到房子了吗？",
+        "pinyin": "Nǐ zhǎo dào fángzi le ma?",
+        "english": "Have you found an apartment?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "还没有。虽然看了很多，但是都太贵了。",
+        "pinyin": "Hái méiyǒu. Suīrán kàn le hěn duō, dànshì dōu tài guì le.",
+        "english": "Not yet. Although I've looked at many, they're all too expensive."
+      },
+      {
+        "speaker": "A",
+        "chinese": "如果你想便宜一点，就住远一点吧。",
+        "pinyin": "Rúguǒ nǐ xiǎng piányi yìdiǎn, jiù zhù yuǎn yìdiǎn ba.",
+        "english": "If you want cheaper, then live a bit farther away."
+      },
+      {
+        "speaker": "B",
+        "chinese": "对我来说，上班方便比较重要。",
+        "pinyin": "Duì wǒ lái shuō, shàngbān fāngbiàn bǐjiào zhòngyào.",
+        "english": "For me, a convenient commute is more important."
+      },
+      {
+        "speaker": "A",
+        "chinese": "那你可以一边找房子一边住我这儿。",
+        "pinyin": "Nà nǐ kěyǐ yìbiān zhǎo fángzi yìbiān zhù wǒ zhèr.",
+        "english": "Then you can stay at my place while you keep looking."
+      }
+    ]
+  },
+  {
+    "id": "d3-002",
+    "hskLevel": 3,
+    "title": "Learning Chinese",
+    "context": "Discussing study experiences",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你的中文越来越好了！",
+        "pinyin": "Nǐ de Zhōngwén yuèláiyuè hǎo le!",
+        "english": "Your Chinese is getting better and better!"
+      },
+      {
+        "speaker": "B",
+        "chinese": "谢谢！不过汉字太难了，我连简单的都记不住。",
+        "pinyin": "Xièxiè! Búguò hànzì tài nán le, wǒ lián jiǎndān de dōu jì bú zhù.",
+        "english": "Thanks! But characters are too hard, I can't even remember the simple ones."
+      },
+      {
+        "speaker": "A",
+        "chinese": "除了多写以外，你也可以用手机软件学。",
+        "pinyin": "Chúle duō xiě yǐwài, nǐ yě kěyǐ yòng shǒujī ruǎnjiàn xué.",
+        "english": "Besides writing more, you can also use phone apps to study."
+      },
+      {
+        "speaker": "B",
+        "chinese": "好主意！你能不能推荐一个？",
+        "pinyin": "Hǎo zhǔyi! Nǐ néng bù néng tuījiàn yí gè?",
+        "english": "Good idea! Can you recommend one?"
+      },
+      {
+        "speaker": "A",
+        "chinese": "当然可以，我把链接发给你。",
+        "pinyin": "Dāngrán kěyǐ, wǒ bǎ liànjiē fā gěi nǐ.",
+        "english": "Of course, I'll send you the link."
+      }
+    ]
+  },
+  {
+    "id": "d3-003",
+    "hskLevel": 3,
+    "title": "A Bad Day",
+    "context": "Sharing daily frustrations",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你今天怎么了？看起来不太高兴。",
+        "pinyin": "Nǐ jīntiān zěnme le? Kàn qǐlái bú tài gāoxìng.",
+        "english": "What happened today? You don't look very happy."
+      },
+      {
+        "speaker": "B",
+        "chinese": "别提了。我的钱包被人偷了。",
+        "pinyin": "Bié tí le. Wǒ de qiánbāo bèi rén tōu le.",
+        "english": "Don't even mention it. My wallet was stolen."
+      },
+      {
+        "speaker": "A",
+        "chinese": "真的吗？你报警了吗？",
+        "pinyin": "Zhēn de ma? Nǐ bào jǐng le ma?",
+        "english": "Really? Did you call the police?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "报了，但是他们说很难找回来。",
+        "pinyin": "Bào le, dànshì tāmen shuō hěn nán zhǎo huílái.",
+        "english": "Yes, but they said it would be hard to get it back."
+      },
+      {
+        "speaker": "A",
+        "chinese": "虽然很倒霉，但是人没事就好。",
+        "pinyin": "Suīrán hěn dǎoméi, dànshì rén méi shì jiù hǎo.",
+        "english": "Although it's unlucky, as long as you're OK, that's what matters."
+      }
+    ]
+  }
+]

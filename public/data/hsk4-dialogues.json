@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "id": "d4-001",
+    "hskLevel": 4,
+    "title": "Job Interview",
+    "context": "Discussing career goals",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "请你简单介绍一下自己。",
+        "pinyin": "Qǐng nǐ jiǎndān jièshào yíxià zìjǐ.",
+        "english": "Please briefly introduce yourself."
+      },
+      {
+        "speaker": "B",
+        "chinese": "我大学学的是计算机，毕业后在一家公司工作了三年。",
+        "pinyin": "Wǒ dàxué xué de shì jìsuànjī, bìyè hòu zài yì jiā gōngsī gōngzuò le sān nián.",
+        "english": "I studied computer science in college and worked at a company for three years after graduation."
+      },
+      {
+        "speaker": "A",
+        "chinese": "你之所以想换工作，是因为什么？",
+        "pinyin": "Nǐ zhīsuǒyǐ xiǎng huàn gōngzuò, shì yīnwèi shénme?",
+        "english": "What is the reason you want to change jobs?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "我希望找一个既有挑战性又有发展空间的工作。",
+        "pinyin": "Wǒ xīwàng zhǎo yí gè jì yǒu tiǎozhànxìng yòu yǒu fāzhǎn kōngjiān de gōngzuò.",
+        "english": "I hope to find a job that is both challenging and has room for growth."
+      },
+      {
+        "speaker": "A",
+        "chinese": "无论遇到什么困难，你都能坚持吗？",
+        "pinyin": "Wúlùn yù dào shénme kùnnán, nǐ dōu néng jiānchí ma?",
+        "english": "No matter what difficulties you face, can you persevere?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "当然。即使任务很难，我也不会放弃。",
+        "pinyin": "Dāngrán. Jíshǐ rènwù hěn nán, wǒ yě bú huì fàngqì.",
+        "english": "Of course. Even if the task is difficult, I won't give up."
+      }
+    ]
+  },
+  {
+    "id": "d4-002",
+    "hskLevel": 4,
+    "title": "Environmental Issues",
+    "context": "Discussing pollution and solutions",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你觉得我们城市的空气质量怎么样？",
+        "pinyin": "Nǐ juéde wǒmen chéngshì de kōngqì zhìliàng zěnmeyàng?",
+        "english": "What do you think about the air quality in our city?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "不太好。空气污染越来越严重了。",
+        "pinyin": "Bú tài hǎo. Kōngqì wūrǎn yuèláiyuè yánzhòng le.",
+        "english": "Not great. Air pollution is getting worse and worse."
+      },
+      {
+        "speaker": "A",
+        "chinese": "他所说的话很有道理：保护环境是大家的责任。",
+        "pinyin": "Tā suǒ shuō de huà hěn yǒu dàolǐ: bǎohù huánjìng shì dàjiā de zérèn.",
+        "english": "What he said makes sense: protecting the environment is everyone's responsibility."
+      },
+      {
+        "speaker": "B",
+        "chinese": "不仅政府要采取措施，而且每个人都应该行动。",
+        "pinyin": "Bùjǐn zhèngfǔ yào cǎiqǔ cuòshī, érqiě měi gè rén dōu yīnggāi xíngdòng.",
+        "english": "Not only should the government take measures, but everyone should act."
+      },
+      {
+        "speaker": "A",
+        "chinese": "说得对。门口挂着一个环保标语呢。",
+        "pinyin": "Shuō de duì. Ménkǒu guà zhe yí gè huánbǎo biāoyǔ ne.",
+        "english": "Well said. There's an environmental slogan hanging at the entrance."
+      }
+    ]
+  },
+  {
+    "id": "d4-003",
+    "hskLevel": 4,
+    "title": "A Traditional Festival",
+    "context": "Discussing Chinese Mid-Autumn Festival",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你吃过月饼吗？",
+        "pinyin": "Nǐ chī guò yuèbǐng ma?",
+        "english": "Have you ever eaten mooncakes?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "吃过。中秋节的时候，大家都吃月饼。",
+        "pinyin": "Chī guò. Zhōngqiūjié de shíhòu, dàjiā dōu chī yuèbǐng.",
+        "english": "Yes. During the Mid-Autumn Festival, everyone eats mooncakes."
+      },
+      {
+        "speaker": "A",
+        "chinese": "这个节日以赏月为主要活动，对吧？",
+        "pinyin": "Zhège jiérì yǐ shǎng yuè wéi zhǔyào huódòng, duì ba?",
+        "english": "The main activity of this festival is moon-gazing, right?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "对，一家人坐着一边赏月一边聊天。",
+        "pinyin": "Duì, yì jiā rén zuò zhe yìbiān shǎng yuè yìbiān liáo tiān.",
+        "english": "Right, the family sits together gazing at the moon and chatting."
+      }
+    ]
+  }
+]

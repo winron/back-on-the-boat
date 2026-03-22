@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "id": "d5-001",
+    "hskLevel": 5,
+    "title": "Work-Life Balance",
+    "context": "Colleagues discussing overwork",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你最近看起来很累，怎么回事？",
+        "pinyin": "Nǐ zuìjìn kàn qǐlái hěn lèi, zěnme huí shì?",
+        "english": "You look really tired lately, what's going on?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "尽管已经很累了，我还是每天加班到很晚。",
+        "pinyin": "Jǐnguǎn yǐjīng hěn lèi le, wǒ háishi měitiān jiābān dào hěn wǎn.",
+        "english": "Despite being very tired already, I still work overtime until late every day."
+      },
+      {
+        "speaker": "A",
+        "chinese": "与其这样拼命工作，不如注意一下身体。",
+        "pinyin": "Yǔqí zhèyàng pīnmìng gōngzuò, bùrú zhùyì yíxià shēntǐ.",
+        "english": "Rather than working yourself to death like this, you should take care of your health."
+      },
+      {
+        "speaker": "B",
+        "chinese": "我也知道，但是不得不这样做，项目下周就要交了。",
+        "pinyin": "Wǒ yě zhīdào, dànshì bùdébù zhèyàng zuò, xiàngmù xià zhōu jiù yào jiāo le.",
+        "english": "I know, but I have no choice. The project is due next week."
+      },
+      {
+        "speaker": "A",
+        "chinese": "一旦交了项目，你就好好休息吧。",
+        "pinyin": "Yídàn jiāo le xiàngmù, nǐ jiù hǎohǎo xiūxi ba.",
+        "english": "Once you submit the project, take a good rest."
+      }
+    ]
+  },
+  {
+    "id": "d5-002",
+    "hskLevel": 5,
+    "title": "Choosing a University",
+    "context": "Parent and child discussing education",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "你想学什么专业？",
+        "pinyin": "Nǐ xiǎng xué shénme zhuānyè?",
+        "english": "What major do you want to study?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "我想学艺术，但是大家都说未必能找到好工作。",
+        "pinyin": "Wǒ xiǎng xué yìshù, dànshì dàjiā dōu shuō wèibì néng zhǎo dào hǎo gōngzuò.",
+        "english": "I want to study art, but everyone says you may not find a good job."
+      },
+      {
+        "speaker": "A",
+        "chinese": "凡是热爱自己专业的人，都会做得很好。",
+        "pinyin": "Fánshì rè'ài zìjǐ zhuānyè de rén, dōu huì zuò de hěn hǎo.",
+        "english": "Everyone who loves their field will do well."
+      },
+      {
+        "speaker": "B",
+        "chinese": "宁可做自己喜欢的事，我也不想为了钱选一个不喜欢的专业。",
+        "pinyin": "Nìngkě zuò zìjǐ xǐhuān de shì, wǒ yě bù xiǎng wèile qián xuǎn yí gè bù xǐhuān de zhuānyè.",
+        "english": "I would rather do what I love than choose a major I don't like just for money."
+      },
+      {
+        "speaker": "A",
+        "chinese": "刚开始工作，难免会辛苦一些，但是值得。",
+        "pinyin": "Gāng kāishǐ gōngzuò, nánmiǎn huì xīnkǔ yìxiē, dànshì zhíde.",
+        "english": "Starting out will inevitably be harder, but it's worth it."
+      }
+    ]
+  },
+  {
+    "id": "d5-003",
+    "hskLevel": 5,
+    "title": "Regional Cuisine",
+    "context": "Friends discussing food culture",
+    "lines": [
+      {
+        "speaker": "A",
+        "chinese": "四川菜以辣为主，你吃得惯吗？",
+        "pinyin": "Sìchuān cài yǐ là wéi zhǔ, nǐ chī de guàn ma?",
+        "english": "Sichuan food is mainly spicy. Can you handle it?"
+      },
+      {
+        "speaker": "B",
+        "chinese": "我连不太辣的都受不了，何况正宗的四川菜。",
+        "pinyin": "Wǒ lián bú tài là de dōu shòu bù liǎo, hékuàng zhèngzōng de Sìchuān cài.",
+        "english": "I can't even handle mildly spicy food, let alone authentic Sichuan cuisine."
+      },
+      {
+        "speaker": "A",
+        "chinese": "不过尽管很辣，味道还是非常好的。",
+        "pinyin": "Búguò jǐnguǎn hěn là, wèidào háishi fēicháng hǎo de.",
+        "english": "But despite being very spicy, the flavor is really excellent."
+      },
+      {
+        "speaker": "B",
+        "chinese": "那我试试吧。与其怕辣不敢吃，不如大胆尝一尝。",
+        "pinyin": "Nà wǒ shìshi ba. Yǔqí pà là bù gǎn chī, bùrú dàdǎn cháng yì cháng.",
+        "english": "Then let me try. Rather than being afraid of spice and not daring to eat, I should be bold and give it a taste."
+      }
+    ]
+  }
+]
