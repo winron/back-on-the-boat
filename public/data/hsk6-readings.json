@@ -1,0 +1,526 @@
+[
+  {
+    "id": "r6-001",
+    "hskLevel": 6,
+    "title": "The Paradox of Progress",
+    "titleZh": "进步的悖论",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "人类文明的进步是一个充满矛盾的过程。一方面，科技的飞速发展极大地提升了生产效率，物质生活水平达到了前所未有的高度。另一方面，伴随着进步而来的是环境恶化、资源枯竭以及日益加剧的社会焦虑。",
+        "pinyin": "Rénlèi wénmíng de jìnbù shì yí ge chōngmǎn máodùn de guòchéng. Yì fāngmiàn, kējì de fēisù fāzhǎn jídà de tíshēng le shēngchǎn xiàolǜ, wùzhì shēnghuó shuǐpíng dádào le qiánsuǒwèiyǒu de gāodù. Lìng yì fāngmiàn, bànsuí zhe jìnbù ér lái de shì huánjìng èhuà, zīyuán kūjié yǐjí rìyì jiājù de shèhuì jiāolǜ.",
+        "english": "The progress of human civilization is a process full of contradictions. On one hand, the rapid development of technology has greatly improved production efficiency, and material living standards have reached unprecedented heights. On the other hand, what comes with progress is environmental degradation, resource depletion, and ever-increasing social anxiety."
+      },
+      {
+        "chinese": "这种悖论的根源在于，人们在追求经济增长的过程中，往往忽视了发展的可持续性。工业化虽然创造了巨大的财富，却也付出了沉重的生态代价。温室效应、生物多样性丧失、水源污染等问题已经对人类的长远发展构成了严峻威胁。",
+        "pinyin": "Zhè zhǒng bèilùn de gēnyuán zàiyú, rénmen zài zhuīqiú jīngjì zēngzhǎng de guòchéng zhōng, wǎngwǎng hūshì le fāzhǎn de kě chíxùxìng. Gōngyèhuà suīrán chuàngzào le jùdà de cáifù, què yě fùchū le chénzhòng de shēngtài dàijià. Wēnshì xiàoyìng, shēngwù duōyàngxìng sàngshī, shuǐyuán wūrǎn děng wèntí yǐjīng duì rénlèi de chángyuǎn fāzhǎn gòuchéng le yánjùn wēixié.",
+        "english": "The root of this paradox lies in the fact that in the pursuit of economic growth, people often overlook the sustainability of development. Although industrialization has created enormous wealth, it has also paid a heavy ecological price. Problems such as the greenhouse effect, loss of biodiversity, and water pollution have already posed severe threats to humanity's long-term development."
+      },
+      {
+        "chinese": "更为深层的问题是，物质生活的丰富并没有带来相应的精神满足。研究表明，当基本需求得到满足之后，收入的增加与幸福感的提升之间并不存在线性关系。相反，消费主义文化催生了一种永不满足的心态，人们在无休止的攀比中迷失了自我。",
+        "pinyin": "Gèng wéi shēncéng de wèntí shì, wùzhì shēnghuó de fēngfù bìng méiyǒu dàilái xiāngyìng de jīngshén mǎnzú. Yánjiū biǎomíng, dāng jīběn xūqiú dédào mǎnzú zhīhòu, shōurù de zēngjiā yǔ xìngfúgǎn de tíshēng zhī jiān bìng bù cúnzài xiànxìng guānxi. Xiāngfǎn, xiāofèi zhǔyì wénhuà cuīshēng le yì zhǒng yǒng bù mǎnzú de xīntài, rénmen zài wú xiūzhǐ de pānbǐ zhōng míshī le zìwǒ.",
+        "english": "A deeper issue is that the abundance of material life has not brought corresponding spiritual fulfillment. Research shows that after basic needs are met, there is no linear relationship between increased income and improved sense of happiness. On the contrary, consumerist culture has given rise to an attitude of never being satisfied, as people lose themselves in endless comparison."
+      },
+      {
+        "chinese": "要化解进步的悖论，我们需要重新审视发展的内涵。真正的进步不应仅仅体现在经济指标上，还应包括社会公平、生态平衡和人的全面发展。唯有如此，文明的进步才不会成为一把双刃剑。",
+        "pinyin": "Yào huàjiě jìnbù de bèilùn, wǒmen xūyào chóngxīn shěnshì fāzhǎn de nèihán. Zhēnzhèng de jìnbù bù yīng jǐnjǐn tǐxiàn zài jīngjì zhǐbiāo shang, hái yīng bāokuò shèhuì gōngpíng, shēngtài pínghéng hé rén de quánmiàn fāzhǎn. Wéi yǒu rúcǐ, wénmíng de jìnbù cái bú huì chéngwéi yì bǎ shuāng rèn jiàn.",
+        "english": "To resolve the paradox of progress, we need to reexamine the meaning of development. True progress should not only be reflected in economic indicators but should also include social equity, ecological balance, and the comprehensive development of human beings. Only in this way will the progress of civilization not become a double-edged sword."
+      }
+    ],
+    "vocabHighlights": [
+      "悖论",
+      "矛盾",
+      "恶化",
+      "枯竭",
+      "可持续性",
+      "生态",
+      "多样性",
+      "构成",
+      "催生",
+      "攀比",
+      "审视",
+      "双刃剑"
+    ]
+  },
+  {
+    "id": "r6-002",
+    "hskLevel": 6,
+    "title": "Ancient Wisdom, Modern Application",
+    "titleZh": "古为今用",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "中华文明绵延五千余年，积淀了无数宝贵的思想遗产。在科技日新月异的今天，如何将古代智慧与现代生活相融合，已经成为学术界和社会各界热议的话题。",
+        "pinyin": "Zhōnghuá wénmíng miányán wǔ qiān yú nián, jīdiàn le wúshù bǎoguì de sīxiǎng yíchǎn. Zài kējì rìxīn yuèyì de jīntiān, rúhé jiāng gǔdài zhìhuì yǔ xiàndài shēnghuó xiāng rónghé, yǐjīng chéngwéi xuéshùjiè hé shèhuì gèjiè rèyì de huàtí.",
+        "english": "Chinese civilization has lasted over five thousand years, accumulating countless precious intellectual legacies. In today's world where technology changes rapidly, how to integrate ancient wisdom with modern life has become a hot topic in academic circles and all sectors of society."
+      },
+      {
+        "chinese": "以中医为例，这一源自古代的医疗体系在现代社会中焕发出新的生机。中医强调整体观念和辨证施治，与现代医学的精准化治疗形成互补。针灸、推拿等传统疗法在缓解慢性疼痛和调节亚健康状态方面，已经得到了国际医学界的认可。",
+        "pinyin": "Yǐ zhōngyī wéi lì, zhè yì yuánzì gǔdài de yīliáo tǐxì zài xiàndài shèhuì zhōng huànfā chū xīn de shēngjī. Zhōngyī qiángdiào zhěngtǐ guānniàn hé biànzhèng shīzhì, yǔ xiàndài yīxué de jīngzhǔnhuà zhìliáo xíngchéng hùbǔ. Zhēnjiǔ, tuīná děng chuántǒng liáofǎ zài huǎnjiě mànxìng téngtòng hé tiáojié yà jiànkāng zhuàngtài fāngmiàn, yǐjīng dédào le guójì yīxuéjiè de rènkě.",
+        "english": "Take traditional Chinese medicine as an example. This medical system originating from ancient times has shown new vitality in modern society. TCM emphasizes holistic concepts and treatment based on syndrome differentiation, complementing the precision treatment of modern medicine. Traditional therapies such as acupuncture and massage have gained recognition from the international medical community in relieving chronic pain and regulating sub-health conditions."
+      },
+      {
+        "chinese": "同样，古代哲学中的许多理念也为现代管理学提供了有益的借鉴。孙子兵法中的战略思维被广泛应用于商业竞争，老子的无为而治思想启发了现代领导力理论中的授权管理模式。这些古老的智慧经过重新诠释，在新的时代背景下展现出了强大的适用性。",
+        "pinyin": "Tóngyàng, gǔdài zhéxué zhōng de xǔduō lǐniàn yě wèi xiàndài guǎnlǐxué tígōng le yǒuyì de jièjiàn. Sūnzǐ Bīngfǎ zhōng de zhànlüè sīwéi bèi guǎngfàn yìngyòng yú shāngyè jìngzhēng, Lǎozǐ de wúwéi ér zhì sīxiǎng qǐfā le xiàndài lǐngdǎolì lǐlùn zhōng de shòuquán guǎnlǐ móshì. Zhèxiē gǔlǎo de zhìhuì jīngguò chóngxīn quánshì, zài xīn de shídài bèijǐng xià zhǎnxiàn chū le qiángdà de shìyòngxìng.",
+        "english": "Similarly, many concepts from ancient philosophy have also provided useful references for modern management. The strategic thinking in Sun Tzu's Art of War is widely applied in business competition, and Laozi's philosophy of governing through non-action has inspired the delegation management model in modern leadership theory. Through reinterpretation, this ancient wisdom has demonstrated strong applicability in a new era."
+      },
+      {
+        "chinese": "然而，古为今用并不意味着生搬硬套。对传统智慧的继承需要批判性的思考，取其精华，去其糟粕，使之适应当代社会的需求。唯有在传承与创新之间找到恰当的平衡点，古代智慧才能真正焕发出持久的光芒。",
+        "pinyin": "Rán'ér, gǔ wéi jīn yòng bìng bù yìwèi zhe shēng bān yìng tào. Duì chuántǒng zhìhuì de jìchéng xūyào pīpànxìng de sīkǎo, qǔ qí jīnghuá, qù qí zāopò, shǐ zhī shìyìng dāngdài shèhuì de xūqiú. Wéi yǒu zài chuánchéng yǔ chuàngxīn zhī jiān zhǎodào qiàdàng de pínghéng diǎn, gǔdài zhìhuì cái néng zhēnzhèng huànfā chū chíjiǔ de guāngmáng.",
+        "english": "However, applying ancient wisdom to modern use does not mean copying mechanically. Inheriting traditional wisdom requires critical thinking — extracting the essence and discarding the dross — to make it suitable for the needs of contemporary society. Only by finding the right balance between inheritance and innovation can ancient wisdom truly radiate lasting brilliance."
+      }
+    ],
+    "vocabHighlights": [
+      "绵延",
+      "积淀",
+      "遗产",
+      "日新月异",
+      "焕发",
+      "辨证施治",
+      "互补",
+      "借鉴",
+      "诠释",
+      "生搬硬套",
+      "精华",
+      "糟粕"
+    ]
+  },
+  {
+    "id": "r6-003",
+    "hskLevel": 6,
+    "title": "The Digital Divide",
+    "titleZh": "数字鸿沟",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "数字技术的迅猛发展在带来便利的同时，也加剧了社会的分化。所谓数字鸿沟，是指不同群体在信息技术获取和使用能力上的差距。这一现象不仅存在于发达国家与发展中国家之间，也存在于同一社会的不同阶层之间。",
+        "pinyin": "Shùzì jìshù de xùnměng fāzhǎn zài dàilái biànlì de tóngshí, yě jiājù le shèhuì de fēnhuà. Suǒwèi shùzì hónggōu, shì zhǐ bùtóng qúntǐ zài xìnxī jìshù huòqǔ hé shǐyòng nénglì shang de chājù. Zhè yī xiànxiàng bùjǐn cúnzài yú fādá guójiā yǔ fāzhǎn zhōng guójiā zhī jiān, yě cúnzài yú tóngyī shèhuì de bùtóng jiēcéng zhī jiān.",
+        "english": "The rapid development of digital technology, while bringing convenience, has also intensified social division. The so-called digital divide refers to the gap between different groups in their access to and ability to use information technology. This phenomenon exists not only between developed and developing countries but also between different social strata within the same society."
+      },
+      {
+        "chinese": "老年群体是数字鸿沟中最突出的弱势群体之一。在移动支付、网上预约、电子政务日益普及的背景下，许多老年人因为不会使用智能设备而陷入了窘境。他们在医院挂号、乘坐交通工具甚至购买日用品时都面临着重重障碍。",
+        "pinyin": "Lǎonián qúntǐ shì shùzì hónggōu zhōng zuì tūchū de ruòshì qúntǐ zhī yī. Zài yídòng zhīfù, wǎngshàng yùyuē, diànzǐ zhèngwù rìyì pǔjí de bèijǐng xià, xǔduō lǎonián rén yīnwèi bú huì shǐyòng zhìnéng shèbèi ér xiànrù le jiǒngjìng. Tāmen zài yīyuàn guàhào, chéngzuò jiāotōng gōngjù shènzhì gòumǎi rìyòngpǐn shí dōu miànlín zhe chóngchóng zhàng'ài.",
+        "english": "The elderly are one of the most prominent vulnerable groups in the digital divide. Against the backdrop of the increasing prevalence of mobile payment, online booking, and e-government services, many elderly people find themselves in difficult situations because they cannot use smart devices. They face numerous obstacles when registering at hospitals, taking public transportation, or even buying daily necessities."
+      },
+      {
+        "chinese": "弥合数字鸿沟需要多方协力。政府应当在推进数字化的同时保留传统服务渠道，确保技术进步不会将任何群体边缘化。科技企业有责任开发更加友好、易用的产品，降低技术使用的门槛。社区和家庭也应发挥作用，帮助弱势群体提升数字素养。",
+        "pinyin": "Míhé shùzì hónggōu xūyào duō fāng xiélì. Zhèngfǔ yīngdāng zài tuījìn shùzìhuà de tóngshí bǎoliú chuántǒng fúwù qúdào, quèbǎo jìshù jìnbù bú huì jiāng rènhé qúntǐ biānyuánhuà. Kējì qǐyè yǒu zérèn kāifā gèngjiā yǒuhǎo, yìyòng de chǎnpǐn, jiàngdī jìshù shǐyòng de ménkǎn. Shèqū hé jiātíng yě yīng fāhuī zuòyòng, bāngzhù ruòshì qúntǐ tíshēng shùzì sùyǎng.",
+        "english": "Bridging the digital divide requires multi-party collaboration. The government should preserve traditional service channels while advancing digitalization, ensuring that technological progress does not marginalize any group. Technology companies have a responsibility to develop more user-friendly products and lower the threshold for technology use. Communities and families should also play their role in helping vulnerable groups improve their digital literacy."
+      },
+      {
+        "chinese": "归根结底，技术应当服务于人，而非成为制造不平等的工具。一个真正先进的社会，应当能够让每一位成员平等地分享技术进步带来的红利。",
+        "pinyin": "Guīgēn jiédǐ, jìshù yīngdāng fúwù yú rén, ér fēi chéngwéi zhìzào bù píngděng de gōngjù. Yí ge zhēnzhèng xiānjìn de shèhuì, yīngdāng nénggòu ràng měi yí wèi chéngyuán píngděng de fēnxiǎng jìshù jìnbù dàilái de hónglì.",
+        "english": "Ultimately, technology should serve people rather than become a tool for creating inequality. A truly advanced society should be able to let every member equally share in the dividends brought by technological progress."
+      }
+    ],
+    "vocabHighlights": [
+      "鸿沟",
+      "迅猛",
+      "分化",
+      "阶层",
+      "弱势",
+      "窘境",
+      "障碍",
+      "弥合",
+      "协力",
+      "边缘化",
+      "门槛",
+      "红利"
+    ]
+  },
+  {
+    "id": "r6-004",
+    "hskLevel": 6,
+    "title": "Sustainable Development",
+    "titleZh": "可持续发展",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "可持续发展理念的提出，是人类反思自身发展模式的重要里程碑。它要求我们在满足当代人需求的同时，不损害后代人满足其需求的能力。这一理念涵盖了经济、社会和环境三个相互关联的维度。",
+        "pinyin": "Kě chíxù fāzhǎn lǐniàn de tíchū, shì rénlèi fǎnsī zìshēn fāzhǎn móshì de zhòngyào lǐchéngbēi. Tā yāoqiú wǒmen zài mǎnzú dāngdài rén xūqiú de tóngshí, bù sǔnhài hòudài rén mǎnzú qí xūqiú de nénglì. Zhè yī lǐniàn hángài le jīngjì, shèhuì hé huánjìng sān ge xiānghù guānlián de wéidù.",
+        "english": "The proposal of the sustainable development concept is an important milestone in humanity's reflection on its own development model. It requires us to meet the needs of the present generation without compromising the ability of future generations to meet their needs. This concept encompasses three interconnected dimensions: economic, social, and environmental."
+      },
+      {
+        "chinese": "在实践层面，可持续发展面临诸多挑战。发展中国家在脱贫与环保之间艰难抉择，发达国家则需要在维持高生活水平的同时大幅削减碳排放。全球范围内，气候谈判的进展缓慢，各国在减排责任的分担上存在严重分歧。",
+        "pinyin": "Zài shíjiàn céngmiàn, kě chíxù fāzhǎn miànlín zhūduō tiǎozhàn. Fāzhǎn zhōng guójiā zài tuōpín yǔ huánbǎo zhī jiān jiānnán juézé, fādá guójiā zé xūyào zài wéichí gāo shēnghuó shuǐpíng de tóngshí dàfú xuējiǎn tàn páifàng. Quánqiú fànwéi nèi, qìhòu tánpàn de jìnzhǎn huǎnmàn, gè guó zài jiǎn pái zérèn de fēndān shang cúnzài yánzhòng fēnqí.",
+        "english": "At the practical level, sustainable development faces numerous challenges. Developing countries must make difficult choices between poverty alleviation and environmental protection, while developed countries need to significantly reduce carbon emissions while maintaining high living standards. Globally, progress in climate negotiations has been slow, with serious disagreements among countries on the sharing of emission reduction responsibilities."
+      },
+      {
+        "chinese": "值得欣慰的是，可持续发展的理念正在逐渐深入人心。越来越多的企业将环境、社会和治理因素纳入战略规划，绿色金融和循环经济蓬勃兴起。在消费端，公众的环保意识也在稳步提升，低碳生活方式逐渐成为一种新的潮流。",
+        "pinyin": "Zhíde xīnwèi de shì, kě chíxù fāzhǎn de lǐniàn zhèngzài zhújiàn shēnrù rénxīn. Yuèláiyuè duō de qǐyè jiāng huánjìng, shèhuì hé zhìlǐ yīnsù nàrù zhànlüè guīhuà, lǜsè jīnróng hé xúnhuán jīngjì péngbó xīngqǐ. Zài xiāofèi duān, gōngzhòng de huánbǎo yìshí yě zài wěnbù tíshēng, dītàn shēnghuó fāngshì zhújiàn chéngwéi yì zhǒng xīn de cháoliú.",
+        "english": "What is gratifying is that the concept of sustainable development is gradually gaining widespread acceptance. More and more enterprises are incorporating environmental, social, and governance factors into their strategic planning, and green finance and circular economy are flourishing. On the consumer side, public environmental awareness is also steadily improving, and low-carbon lifestyles are gradually becoming a new trend."
+      },
+      {
+        "chinese": "可持续发展不是一个遥不可及的愿景，而是需要每个人、每个组织和每个国家付诸行动的紧迫使命。地球的承载能力是有限的，唯有转变发展方式，人类才能在这颗蓝色星球上长久繁衍下去。",
+        "pinyin": "Kě chíxù fāzhǎn bú shì yí ge yáo bù kě jí de yuànjǐng, ér shì xūyào měi ge rén, měi ge zǔzhī hé měi ge guójiā fùzhū xíngdòng de jǐnpò shǐmìng. Dìqiú de chéngzài nénglì shì yǒuxiàn de, wéi yǒu zhuǎnbiàn fāzhǎn fāngshì, rénlèi cái néng zài zhè kē lánsè xīngqiú shang chángjiǔ fányǎn xiàqù.",
+        "english": "Sustainable development is not an unattainable vision but an urgent mission that requires action from every individual, every organization, and every country. The Earth's carrying capacity is limited, and only by transforming our development approach can humanity continue to thrive on this blue planet for the long term."
+      }
+    ],
+    "vocabHighlights": [
+      "可持续",
+      "里程碑",
+      "涵盖",
+      "维度",
+      "抉择",
+      "削减",
+      "分歧",
+      "欣慰",
+      "纳入",
+      "蓬勃",
+      "承载",
+      "繁衍"
+    ]
+  },
+  {
+    "id": "r6-005",
+    "hskLevel": 6,
+    "title": "Cross-Cultural Communication",
+    "titleZh": "跨文化交际",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "在全球化程度不断加深的今天，跨文化交际能力已经成为一项不可或缺的素质。无论是商务谈判、学术交流还是日常交往，不同文化背景的人之间的沟通都充满了潜在的误解和冲突。",
+        "pinyin": "Zài quánqiúhuà chéngdù bùduàn jiāshēn de jīntiān, kuà wénhuà jiāojì nénglì yǐjīng chéngwéi yí xiàng bùkě huòquē de sùzhì. Wúlùn shì shāngwù tánpàn, xuéshù jiāoliú háishi rìcháng jiāowǎng, bùtóng wénhuà bèijǐng de rén zhī jiān de gōutōng dōu chōngmǎn le qiánzài de wùjiě hé chōngtū.",
+        "english": "In today's ever-deepening globalization, cross-cultural communication skills have become an indispensable quality. Whether in business negotiations, academic exchanges, or daily interactions, communication between people of different cultural backgrounds is full of potential misunderstandings and conflicts."
+      },
+      {
+        "chinese": "文化差异的表现形式多种多样。高语境文化和低语境文化在信息传递方式上存在本质区别：前者依赖含蓄的表达和丰富的非语言暗示，后者则倾向于直接、明确的言语沟通。对时间观念、权力距离和个人空间的不同理解，也常常导致跨文化交际中的摩擦。",
+        "pinyin": "Wénhuà chāyì de biǎoxiàn xíngshì duōzhǒng duōyàng. Gāo yǔjìng wénhuà hé dī yǔjìng wénhuà zài xìnxī chuándì fāngshì shang cúnzài běnzhì qūbié: qiánzhě yīlài hánxù de biǎodá hé fēngfù de fēi yǔyán ànshì, hòuzhě zé qīngxiàng yú zhíjiē, míngquè de yányǔ gōutōng. Duì shíjiān guānniàn, quánlì jùlí hé gèrén kōngjiān de bùtóng lǐjiě, yě chángcháng dǎozhì kuà wénhuà jiāojì zhōng de mócā.",
+        "english": "Cultural differences manifest in various forms. There is a fundamental distinction between high-context and low-context cultures in how information is conveyed: the former relies on implicit expression and rich non-verbal cues, while the latter tends toward direct, explicit verbal communication. Different understandings of time concepts, power distance, and personal space also often lead to friction in cross-cultural communication."
+      },
+      {
+        "chinese": "提升跨文化交际能力的关键在于培养文化敏感性和同理心。这意味着不仅要了解他者的文化规范和行为准则，更要在交往中保持谦逊和好奇心，避免用自己的文化标准去评判他人。有效的跨文化沟通者能够在尊重差异的前提下，找到共同的价值基础。",
+        "pinyin": "Tíshēng kuà wénhuà jiāojì nénglì de guānjiàn zàiyú péiyǎng wénhuà mǐngǎnxìng hé tónglǐxīn. Zhè yìwèi zhe bùjǐn yào liǎojiě tāzhě de wénhuà guīfàn hé xíngwéi zhǔnzé, gèng yào zài jiāowǎng zhōng bǎochí qiānxùn hé hàoqíxīn, bìmiǎn yòng zìjǐ de wénhuà biāozhǔn qù píngjudge tārén. Yǒuxiào de kuà wénhuà gōutōng zhě nénggòu zài zūnzhòng chāyì de qiántí xià, zhǎodào gòngtóng de jiàzhí jīchǔ.",
+        "english": "The key to improving cross-cultural communication skills lies in cultivating cultural sensitivity and empathy. This means not only understanding others' cultural norms and behavioral standards but also maintaining humility and curiosity in interactions, avoiding judging others by one's own cultural standards. Effective cross-cultural communicators can find common value foundations while respecting differences."
+      }
+    ],
+    "vocabHighlights": [
+      "跨文化",
+      "不可或缺",
+      "潜在",
+      "语境",
+      "含蓄",
+      "暗示",
+      "摩擦",
+      "敏感性",
+      "同理心",
+      "规范",
+      "谦逊",
+      "评判"
+    ]
+  },
+  {
+    "id": "r6-006",
+    "hskLevel": 6,
+    "title": "The Role of Media",
+    "titleZh": "媒体的角色",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "在信息爆炸的时代，媒体扮演着举足轻重的角色。它不仅是信息传播的载体，更是塑造公众舆论和社会认知的重要力量。然而，随着媒体生态的急剧变化，其公信力和社会责任正面临前所未有的考验。",
+        "pinyin": "Zài xìnxī bàozhà de shídài, méitǐ bànyǎn zhe jǔzúqīngzhòng de juésè. Tā bùjǐn shì xìnxī chuánbō de zàitǐ, gèng shì sùzào gōngzhòng yúlùn hé shèhuì rènzhī de zhòngyào lìliàng. Rán'ér, suízhe méitǐ shēngtài de jíjù biànhuà, qí gōngxìnlì hé shèhuì zérèn zhèng miànlín qiánsuǒwèiyǒu de kǎoyàn.",
+        "english": "In the era of information explosion, media plays a pivotal role. It is not only a carrier of information dissemination but also an important force in shaping public opinion and social cognition. However, with the rapid changes in the media ecosystem, its credibility and social responsibility are facing unprecedented tests."
+      },
+      {
+        "chinese": "自媒体的兴起打破了传统媒体的垄断地位，使得每个人都可以成为信息的发布者。这种去中心化的传播模式固然促进了言论多元化，但也为虚假信息和谣言的扩散提供了温床。在缺乏有效把关机制的情况下，情绪化的标题和片面的叙事往往比客观报道获得更多的关注。",
+        "pinyin": "Zì méitǐ de xīngqǐ dǎpò le chuántǒng méitǐ de lǒngduàn dìwèi, shǐ de měi ge rén dōu kěyǐ chéngwéi xìnxī de fābù zhě. Zhè zhǒng qù zhōngxīnhuà de chuánbō móshì gùrán cùjìn le yánlùn duōyuánhuà, dàn yě wèi xūjiǎ xìnxī hé yáoyán de kuòsàn tígōng le wēnchuáng. Zài quēfá yǒuxiào bǎguān jīzhì de qíngkuàng xià, qíngxùhuà de biāotí hé piànmiàn de xùshì wǎngwǎng bǐ kèguān bàodào huòdé gèng duō de guānzhù.",
+        "english": "The rise of self-media has broken the monopoly of traditional media, enabling everyone to become an information publisher. While this decentralized dissemination model has indeed promoted diversity of speech, it has also provided a breeding ground for the spread of misinformation and rumors. In the absence of effective gatekeeping mechanisms, sensationalized headlines and one-sided narratives often receive more attention than objective reporting."
+      },
+      {
+        "chinese": "重建媒体的公信力需要全社会的共同努力。新闻从业者应坚守职业操守，以事实为依据进行报道。受众也需要提升媒介素养，学会辨别信息的真伪，不盲目转发未经核实的内容。同时，平台方有义务承担相应的审核责任，建立健全的内容治理体系。",
+        "pinyin": "Chóngjiàn méitǐ de gōngxìnlì xūyào quán shèhuì de gòngtóng nǔlì. Xīnwén cóngyè zhě yīng jiānshǒu zhíyè cāoshǒu, yǐ shìshí wéi yījù jìnxíng bàodào. Shòuzhòng yě xūyào tíshēng méijiè sùyǎng, xuéhuì biànbié xìnxī de zhēnwěi, bù mángmù zhuǎnfā wèi jīng héshí de nèiróng. Tóngshí, píngtái fāng yǒu yìwù chéngdān xiāngyìng de shěnhé zérèn, jiànlì jiànquán de nèiróng zhìlǐ tǐxì.",
+        "english": "Rebuilding media credibility requires the collective effort of the entire society. Journalists should uphold professional ethics and report based on facts. Audiences also need to improve their media literacy, learn to distinguish true from false information, and not blindly share unverified content. At the same time, platform operators have an obligation to assume corresponding review responsibilities and establish a sound content governance system."
+      }
+    ],
+    "vocabHighlights": [
+      "举足轻重",
+      "舆论",
+      "公信力",
+      "考验",
+      "垄断",
+      "去中心化",
+      "温床",
+      "叙事",
+      "操守",
+      "辨别",
+      "核实",
+      "治理"
+    ]
+  },
+  {
+    "id": "r6-007",
+    "hskLevel": 6,
+    "title": "Innovation and Tradition",
+    "titleZh": "创新与传统",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "创新与传统之间的张力是人类社会发展中永恒的主题。一味墨守成规会导致停滞不前，而脱离传统的盲目创新则可能带来灾难性的后果。如何在二者之间寻求动态的平衡，是每一个时代都必须面对的课题。",
+        "pinyin": "Chuàngxīn yǔ chuántǒng zhī jiān de zhānglì shì rénlèi shèhuì fāzhǎn zhōng yǒnghéng de zhǔtí. Yíwèi mòshǒu chéngguī huì dǎozhì tíngzhì bù qián, ér tuōlí chuántǒng de mángmù chuàngxīn zé kěnéng dàilái zāinànxìng de hòuguǒ. Rúhé zài èr zhě zhī jiān xúnqiú dòngtài de pínghéng, shì měi yí ge shídài dōu bìxū miànduì de kètí.",
+        "english": "The tension between innovation and tradition is an eternal theme in human social development. Blindly sticking to conventions leads to stagnation, while reckless innovation divorced from tradition may bring catastrophic consequences. How to seek dynamic balance between the two is a question every era must face."
+      },
+      {
+        "chinese": "以建筑领域为例，许多成功的现代建筑在设计中巧妙地融入了传统元素。它们既采用了先进的材料和工程技术，又在形式和理念上向本土建筑传统致敬。这种做法不是简单的复古，而是在对传统进行深入理解的基础上，创造出富有时代气息又不失文化底蕴的作品。",
+        "pinyin": "Yǐ jiànzhù lǐngyù wéi lì, xǔduō chénggōng de xiàndài jiànzhù zài shèjì zhōng qiǎomiào de róngrù le chuántǒng yuánsù. Tāmen jì cǎiyòng le xiānjìn de cáiliào hé gōngchéng jìshù, yòu zài xíngshì hé lǐniàn shang xiàng běntǔ jiànzhù chuántǒng zhìjìng. Zhè zhǒng zuòfǎ bú shì jiǎndān de fùgǔ, ér shì zài duì chuántǒng jìnxíng shēnrù lǐjiě de jīchǔ shang, chuàngzào chū fùyǒu shídài qìxī yòu bùshī wénhuà dǐyùn de zuòpǐn.",
+        "english": "Taking the field of architecture as an example, many successful modern buildings skillfully incorporate traditional elements in their design. They adopt advanced materials and engineering techniques while paying tribute to local architectural traditions in form and concept. This approach is not simple nostalgia but rather, based on a deep understanding of tradition, creates works that are both contemporary and rich in cultural heritage."
+      },
+      {
+        "chinese": "在更广泛的层面上，创新往往根植于对传统的深刻领悟。牛顿曾言，他之所以看得更远，是因为站在巨人的肩膀上。科学史上的每一次重大突破，都是在继承前人成果的基础上实现的。抛弃传统去追求所谓的颠覆性创新，无异于缘木求鱼。",
+        "pinyin": "Zài gèng guǎngfàn de céngmiàn shang, chuàngxīn wǎngwǎng gēnzhí yú duì chuántǒng de shēnkè lǐngwù. Niúdùn céng yán, tā zhī suǒyǐ kàn de gèng yuǎn, shì yīnwèi zhàn zài jùrén de jiānbǎng shang. Kēxué shǐ shang de měi yí cì zhòngdà tūpò, dōu shì zài jìchéng qiánrén chéngguǒ de jīchǔ shang shíxiàn de. Pāoqì chuántǒng qù zhuīqiú suǒwèi de diānfùxìng chuàngxīn, wúyì yú yuánmù qiúyú.",
+        "english": "On a broader level, innovation is often rooted in a deep understanding of tradition. Newton once said that the reason he could see further was that he stood on the shoulders of giants. Every major breakthrough in the history of science was achieved on the basis of inheriting predecessors' achievements. Abandoning tradition to pursue so-called disruptive innovation is tantamount to climbing a tree to catch fish."
+      },
+      {
+        "chinese": "因此，最具生命力的创新并非对传统的否定，而是对传统的超越和升华。在充分吸收传统养分的基础上，以开放的视野和批判的精神进行创造，才是推动社会持续进步的正途。",
+        "pinyin": "Yīncǐ, zuì jù shēngmìnglì de chuàngxīn bìng fēi duì chuántǒng de fǒudìng, ér shì duì chuántǒng de chāoyuè hé shēnghuá. Zài chōngfèn xīshōu chuántǒng yǎngfèn de jīchǔ shang, yǐ kāifàng de shìyě hé pīpàn de jīngshén jìnxíng chuàngzào, cái shì tuīdòng shèhuì chíxù jìnbù de zhèngtú.",
+        "english": "Therefore, the most vital innovation is not a negation of tradition but a transcendence and sublimation of it. Creating with an open perspective and critical spirit on the basis of fully absorbing the nourishment of tradition is the right path to driving sustained social progress."
+      }
+    ],
+    "vocabHighlights": [
+      "张力",
+      "墨守成规",
+      "停滞",
+      "灾难性",
+      "致敬",
+      "底蕴",
+      "根植",
+      "领悟",
+      "颠覆",
+      "缘木求鱼",
+      "升华",
+      "正途"
+    ]
+  },
+  {
+    "id": "r6-008",
+    "hskLevel": 6,
+    "title": "Global Citizenship",
+    "titleZh": "全球公民意识",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "在一个日益互联互通的世界中，全球公民意识正成为教育和社会发展的核心议题。它超越了国家、民族和文化的界限，倡导人们以更加广阔的视角看待世界，承担起对全人类共同福祉的责任。",
+        "pinyin": "Zài yí ge rìyì hùlián hùtōng de shìjiè zhōng, quánqiú gōngmín yìshí zhèng chéngwéi jiàoyù hé shèhuì fāzhǎn de héxīn yìtí. Tā chāoyuè le guójiā, mínzú hé wénhuà de jièxiàn, chàngdǎo rénmen yǐ gèngjiā guǎngkuò de shìjiǎo kàndài shìjiè, chéngdān qǐ duì quán rénlèi gòngtóng fúzhǐ de zérèn.",
+        "english": "In an increasingly interconnected world, global citizenship awareness is becoming a core issue in education and social development. It transcends the boundaries of nations, ethnicities, and cultures, advocating that people view the world from a broader perspective and take responsibility for the common well-being of all humanity."
+      },
+      {
+        "chinese": "培养全球公民意识的核心在于建立一种跨越差异的共情能力。这要求个体不仅关注自身所在社区的事务，还要对远方的不公正、贫困和灾难保持敏感和关切。气候变化、传染病蔓延、难民危机等全球性问题的解决，离不开这种超越国界的责任感。",
+        "pinyin": "Péiyǎng quánqiú gōngmín yìshí de héxīn zàiyú jiànlì yì zhǒng kuàyuè chāyì de gòngqíng nénglì. Zhè yāoqiú gètǐ bùjǐn guānzhù zìshēn suǒzài shèqū de shìwù, hái yào duì yuǎnfāng de bù gōngzhèng, pínkùn hé zāinàn bǎochí mǐngǎn hé guānqiè. Qìhòu biànhuà, chuánrǎnbìng mányán, nànmín wéijī děng quánqiúxìng wèntí de jiějué, lí bù kāi zhè zhǒng chāoyuè guójiè de zérèngǎn.",
+        "english": "The core of cultivating global citizenship awareness lies in building the capacity for empathy that transcends differences. This requires individuals to not only care about the affairs of their own community but also maintain sensitivity and concern for injustice, poverty, and disasters in distant places. Solving global issues such as climate change, the spread of infectious diseases, and refugee crises requires this sense of responsibility that transcends national borders."
+      },
+      {
+        "chinese": "然而，全球公民意识并不意味着抹杀个人的文化归属感和国家认同。恰恰相反，一个真正的全球公民应当在深深扎根于自身文化的同时，以包容和尊重的态度面对多元世界。正是不同文化之间的对话与交融，赋予了全球公民意识以丰富的内涵和鲜活的生命力。",
+        "pinyin": "Rán'ér, quánqiú gōngmín yìshí bìng bù yìwèi zhe mǒshā gèrén de wénhuà guīshǔgǎn hé guójiā rèntóng. Qiàqià xiāngfǎn, yí ge zhēnzhèng de quánqiú gōngmín yīngdāng zài shēnshēn zhāgēn yú zìshēn wénhuà de tóngshí, yǐ bāoróng hé zūnzhòng de tàidù miànduì duōyuán shìjiè. Zhèng shì bùtóng wénhuà zhī jiān de duìhuà yǔ jiāoróng, fùyǔ le quánqiú gōngmín yìshí yǐ fēngfù de nèihán hé xiānhuó de shēngmìnglì.",
+        "english": "However, global citizenship awareness does not mean erasing one's cultural sense of belonging and national identity. On the contrary, a true global citizen should be deeply rooted in their own culture while facing the diverse world with an attitude of tolerance and respect. It is precisely the dialogue and fusion between different cultures that endows global citizenship awareness with rich connotations and vibrant vitality."
+      }
+    ],
+    "vocabHighlights": [
+      "互联互通",
+      "议题",
+      "界限",
+      "福祉",
+      "共情",
+      "敏感",
+      "蔓延",
+      "抹杀",
+      "归属感",
+      "包容",
+      "交融",
+      "赋予"
+    ]
+  },
+  {
+    "id": "r6-101",
+    "hskLevel": 6,
+    "title": "The Collector",
+    "titleZh": "收藏家",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "周承志的书房里摆满了各种各样的古董。青花瓷瓶、紫砂壶、玉雕摆件——每一件都是他花了大量时间和金钱淘来的心爱之物。在外人看来，他是一个成功的收藏家；但在妻子眼中，他不过是一个对旧物有着近乎偏执的痴迷者。",
+        "pinyin": "Zhōu Chéngzhì de shūfáng lǐ bǎi mǎn le gèzhǒng gèyàng de gǔdǒng. Qīnghuā cí píng, zǐshā hú, yù diāo bǎijiàn — měi yí jiàn dōu shì tā huā le dàliàng shíjiān hé jīnqián táo lái de xīn'ài zhī wù. Zài wàirén kàn lái, tā shì yí ge chénggōng de shōucángjiā; dàn zài qīzi yǎn zhōng, tā bùguò shì yí ge duì jiùwù yǒu zhe jìnhū piānzhí de chīmí zhě.",
+        "english": "Zhou Chengzhi's study was filled with all kinds of antiques. Blue-and-white porcelain vases, Yixing clay teapots, jade carvings — each one was a beloved item he had spent considerable time and money finding. In the eyes of outsiders, he was a successful collector; but in his wife's eyes, he was nothing more than someone with an almost obsessive fascination with old objects."
+      },
+      {
+        "chinese": "他和妻子刘芳为此争吵过无数次。刘芳是一个务实的人，她不明白那些落满灰尘的旧物究竟有什么价值。「你每个月花在这些破烂上的钱，够孩子上一个学期的辅导班了。」她常常这样抱怨。",
+        "pinyin": "Tā hé qīzi Liú Fāng wèi cǐ zhēngchǎo guo wúshù cì. Liú Fāng shì yí ge wùshí de rén, tā bù míngbai nàxiē luò mǎn huīchén de jiùwù jiūjìng yǒu shénme jiàzhí. 「Nǐ měi ge yuè huā zài zhèxiē pòlàn shang de qián, gòu háizi shàng yí ge xuéqī de fǔdǎo bān le.」 Tā chángcháng zhèyàng bàoyuàn.",
+        "english": "He and his wife Liu Fang had argued about this countless times. Liu Fang was a practical person who couldn't understand what value those dust-covered old objects could possibly have. 'The money you spend on this junk every month is enough for a semester of the child's tutoring classes,' she often complained."
+      },
+      {
+        "chinese": "周承志知道妻子的不满，但他无法放弃收藏。对他来说，每一件古董都承载着一段历史，蕴含着古人的审美情趣和生活智慧。当他手捧一只宋代的茶盏，仿佛能穿越时空，与千年前的匠人进行一场无声的对话。",
+        "pinyin": "Zhōu Chéngzhì zhīdao qīzi de bùmǎn, dàn tā wúfǎ fàngqì shōucáng. Duì tā lái shuō, měi yí jiàn gǔdǒng dōu chéngzài zhe yí duàn lìshǐ, yùnhán zhe gǔrén de shěnměi qíngqù hé shēnghuó zhìhuì. Dāng tā shǒu pěng yì zhī Sòng dài de chá zhǎn, fǎngfú néng chuānyuè shíkōng, yǔ qiān nián qián de jiàngrén jìnxíng yì chǎng wúshēng de duìhuà.",
+        "english": "Zhou Chengzhi knew of his wife's dissatisfaction, but he couldn't give up collecting. To him, every antique carried a piece of history, containing the aesthetic sensibilities and life wisdom of the ancients. When he held a Song Dynasty tea cup in his hands, it was as if he could travel through time and space, having a silent conversation with the craftsman from a thousand years ago."
+      },
+      {
+        "chinese": "转折发生在一个普通的周末。周承志在古玩市场偶然发现了一只造型别致的明代香炉。凭借多年的经验，他断定这是一件珍品。他倾其所有买下了它，甚至动用了家里的应急储蓄。",
+        "pinyin": "Zhuǎnzhé fāshēng zài yí ge pǔtōng de zhōumò. Zhōu Chéngzhì zài gǔwán shìchǎng ǒurán fāxiàn le yì zhī zàoxíng biézhì de Míng dài xiānglú. Píngjiè duō nián de jīngyàn, tā duàndìng zhè shì yí jiàn zhēnpǐn. Tā qīng qí suǒyǒu mǎi xià le tā, shènzhì dòngyòng le jiā lǐ de yìngjí chǔxù.",
+        "english": "The turning point came on an ordinary weekend. Zhou Chengzhi happened upon an exquisitely shaped Ming Dynasty incense burner at an antique market. Drawing on years of experience, he was certain it was a genuine treasure. He spent everything he had to buy it, even dipping into the family's emergency savings."
+      },
+      {
+        "chinese": "刘芳知道后大发雷霆。她下了最后通牒：要么卖掉所有收藏品，要么她带着孩子离开。那天晚上，周承志一个人坐在书房里，看着满屋子的珍藏，心里五味杂陈。",
+        "pinyin": "Liú Fāng zhīdao hòu dà fā léitíng. Tā xià le zuìhòu tōngdié: yàome mài diào suǒyǒu shōucángpǐn, yàome tā dài zhe háizi líkāi. Nà tiān wǎnshang, Zhōu Chéngzhì yí ge rén zuò zài shūfáng lǐ, kàn zhe mǎn wūzi de zhēncáng, xīnli wǔwèi záchén.",
+        "english": "When Liu Fang found out, she was furious. She issued an ultimatum: either sell all the collectibles or she would leave with their child. That evening, Zhou Chengzhi sat alone in his study, looking at the room full of treasures, his heart a mix of conflicting emotions."
+      },
+      {
+        "chinese": "就在他犹豫不决的时候，一位老朋友介绍了一个机会：当地博物馆正在筹建一个民间收藏展厅，需要征集有品质的藏品。如果他愿意将部分藏品借展，博物馆不仅会给予一笔可观的费用，还会为每件展品标注他的名字。",
+        "pinyin": "Jiù zài tā yóuyù bù jué de shíhou, yí wèi lǎo péngyou jièshào le yí ge jīhuì: dāngdì bówùguǎn zhèngzài chóujiàn yí ge mínjiān shōucáng zhǎntīng, xūyào zhēngjí yǒu pǐnzhì de cángpǐn. Rúguǒ tā yuànyì jiāng bùfen cángpǐn jiè zhǎn, bówùguǎn bùjǐn huì jǐyǔ yì bǐ kěguān de fèiyòng, hái huì wèi měi jiàn zhǎnpǐn biāozhù tā de míngzi.",
+        "english": "Just as he was wavering, an old friend introduced an opportunity: the local museum was building a folk collection exhibition hall and needed to solicit quality artifacts. If he was willing to lend some of his collection for exhibition, the museum would not only provide a considerable fee but would also label each exhibit with his name."
+      },
+      {
+        "chinese": "周承志欣然接受了这个提议。他精心挑选了几十件藏品送往博物馆。展览开幕后，反响热烈，许多参观者对那只明代香炉赞不绝口。刘芳也带着孩子去看了展览，当她看到丈夫的名字出现在展品标牌上时，脸上第一次露出了理解的微笑。",
+        "pinyin": "Zhōu Chéngzhì xīnrán jiēshòu le zhè ge tíyì. Tā jīngxīn tiāoxuǎn le jǐ shí jiàn cángpǐn sòng wǎng bówùguǎn. Zhǎnlǎn kāimù hòu, fǎnxiǎng rèliè, xǔduō cānguān zhě duì nà zhī Míng dài xiānglú zàn bù jué kǒu. Liú Fāng yě dài zhe háizi qù kàn le zhǎnlǎn, dāng tā kàndào zhàngfu de míngzi chūxiàn zài zhǎnpǐn biāopái shang shí, liǎn shang dì yī cì lùchū le lǐjiě de wéixiào.",
+        "english": "Zhou Chengzhi gladly accepted the proposal. He carefully selected dozens of pieces from his collection and sent them to the museum. After the exhibition opened, the response was enthusiastic, and many visitors praised the Ming Dynasty incense burner highly. Liu Fang also brought their child to see the exhibition, and when she saw her husband's name appearing on the exhibit labels, a smile of understanding appeared on her face for the first time."
+      },
+      {
+        "chinese": "周承志终于明白，收藏的最高境界不是独自占有，而是与世人分享。他的藏品不再只是堆放在书房里的旧物，而是成为了连接过去与现在、个人与公众的文化纽带。在热爱与责任之间，他找到了一条两全其美的道路。",
+        "pinyin": "Zhōu Chéngzhì zhōngyú míngbai, shōucáng de zuì gāo jìngjiè bú shì dúzì zhànyǒu, ér shì yǔ shìrén fēnxiǎng. Tā de cángpǐn bú zài zhǐshì duīfàng zài shūfáng lǐ de jiùwù, ér shì chéngwéi le liánjiē guòqù yǔ xiànzài, gèrén yǔ gōngzhòng de wénhuà niǔdài. Zài rè'ài yǔ zérèn zhī jiān, tā zhǎodào le yì tiáo liǎngquán qí měi de dàolù.",
+        "english": "Zhou Chengzhi finally understood that the highest realm of collecting is not possessing alone but sharing with the world. His collection was no longer just old objects piled up in his study but had become a cultural bond connecting the past with the present, the individual with the public. Between passion and responsibility, he had found a path that served both well."
+      }
+    ],
+    "vocabHighlights": [
+      "偏执",
+      "痴迷",
+      "蕴含",
+      "审美",
+      "珍品",
+      "大发雷霆",
+      "最后通牒",
+      "五味杂陈",
+      "筹建",
+      "征集",
+      "境界",
+      "纽带",
+      "两全其美"
+    ]
+  },
+  {
+    "id": "r6-102",
+    "hskLevel": 6,
+    "title": "Across the Strait",
+    "titleZh": "海峡两岸",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "八十七岁的陈伯勋坐在台北的老公寓里，手里紧紧攥着一封泛黄的信。这封信是他一九四九年离开大陆时，母亲塞进他口袋里的。七十多年来，他一直没有舍得拆开。",
+        "pinyin": "Bāshíqī suì de Chén Bóxūn zuò zài Táiběi de lǎo gōngyù lǐ, shǒu lǐ jǐnjǐn zuàn zhe yì fēng fàn huáng de xìn. Zhè fēng xìn shì tā yī jiǔ sì jiǔ nián líkāi dàlù shí, mǔqīn sāi jìn tā kǒudai lǐ de. Qīshí duō nián lái, tā yìzhí méiyǒu shěde chāi kāi.",
+        "english": "Eighty-seven-year-old Chen Boxun sat in his old apartment in Taipei, clutching a yellowed letter tightly in his hands. This letter was one his mother had slipped into his pocket when he left the mainland in 1949. For more than seventy years, he had never been willing to open it."
+      },
+      {
+        "chinese": "一九四九年的那个冬天，十五岁的陈伯勋跟随叔父匆忙离开了福建老家。码头上人山人海，母亲被人潮挡在了栅栏外面。他只来得及看了母亲最后一眼，就被推上了开往台湾的船。母亲的哭喊声很快就被海浪的声音淹没了。",
+        "pinyin": "Yī jiǔ sì jiǔ nián de nà ge dōngtiān, shíwǔ suì de Chén Bóxūn gēnsuí shūfù cōngmáng líkāi le Fújiàn lǎojiā. Mǎtóu shang rénshān rénhǎi, mǔqīn bèi réncháo dǎng zài le zhàlán wàimian. Tā zhǐ láidejí kàn le mǔqīn zuìhòu yì yǎn, jiù bèi tuī shang le kāi wǎng Táiwān de chuán. Mǔqīn de kū hǎn shēng hěn kuài jiù bèi hǎilàng de shēngyīn yānmò le.",
+        "english": "In the winter of 1949, fifteen-year-old Chen Boxun hurriedly left his hometown in Fujian, following his uncle. The dock was packed with people, and his mother was blocked behind the fence by the crowd. He only had time for one last look at his mother before being pushed onto the ship bound for Taiwan. His mother's cries were soon drowned out by the sound of the waves."
+      },
+      {
+        "chinese": "此后的岁月里，海峡成了一道不可逾越的天堑。陈伯勋在台湾成家立业，娶妻生子，但每逢中秋和春节，他总会独自站在阳台上，望着西边的天空出神。妻子知道他在想什么，却从不打扰他。",
+        "pinyin": "Cǐhòu de suìyuè lǐ, hǎixiá chéng le yí dào bùkě yúyuè de tiānqiàn. Chén Bóxūn zài Táiwān chéngjiā lìyè, qǔ qī shēngzǐ, dàn měi féng Zhōngqiū hé Chūnjié, tā zǒng huì dúzì zhàn zài yángtái shang, wàng zhe xī biān de tiānkōng chūshén. Qīzi zhīdao tā zài xiǎng shénme, què cóng bù dǎrǎo tā.",
+        "english": "In the years that followed, the strait became an impassable chasm. Chen Boxun established his career and started a family in Taiwan, marrying and having children, but every Mid-Autumn Festival and Spring Festival, he would always stand alone on the balcony, gazing at the western sky in a trance. His wife knew what he was thinking about but never disturbed him."
+      },
+      {
+        "chinese": "二零零八年，两岸实现了直航。已经七十四岁的陈伯勋终于踏上了回乡之路。飞机降落在厦门机场时，他的双手止不住地颤抖。他知道母亲早已不在人世——一九七六年，辗转收到的一封信告诉了他这个消息。",
+        "pinyin": "Èr líng líng bā nián, liǎng'àn shíxiàn le zhíháng. Yǐjīng qīshísì suì de Chén Bóxūn zhōngyú tà shang le huí xiāng zhī lù. Fēijī jiàngluò zài Xiàmén jīchǎng shí, tā de shuāng shǒu zhǐ bú zhù de chàndǒu. Tā zhīdao mǔqīn zǎo yǐ bú zài rénshì — yī jiǔ qī liù nián, zhǎnzhuǎn shōudào de yì fēng xìn gàosu le tā zhè ge xiāoxi.",
+        "english": "In 2008, direct flights were established across the strait. The now seventy-four-year-old Chen Boxun finally set foot on the road home. When the plane landed at Xiamen airport, his hands trembled uncontrollably. He knew his mother had long since passed away — in 1976, a letter that had reached him through circuitous channels had delivered this news."
+      },
+      {
+        "chinese": "侄子陈建国到机场接他。两个人站在到达大厅里，四目相对，泪流满面，却说不出一句完整的话。陈建国带他回到了老家的祖屋。房子早已翻新，但院子里那棵龙眼树还在，只是比记忆中高大了许多。",
+        "pinyin": "Zhízi Chén Jiànguó dào jīchǎng jiē tā. Liǎng ge rén zhàn zài dàodá dàtīng lǐ, sì mù xiāngduì, lèi liú mǎn miàn, què shuō bù chū yí jù wánzhěng de huà. Chén Jiànguó dài tā huí dào le lǎojiā de zǔwū. Fángzi zǎo yǐ fānxīn, dàn yuànzi lǐ nà kē lóngyǎn shù hái zài, zhǐshì bǐ jìyì zhōng gāodà le xǔduō.",
+        "english": "His nephew Chen Jianguo came to pick him up at the airport. The two stood in the arrival hall, looking at each other with tears streaming down their faces, unable to say a single complete sentence. Chen Jianguo took him back to the ancestral home in the old village. The house had long been renovated, but the longan tree in the courtyard was still there, just much taller than he remembered."
+      },
+      {
+        "chinese": "在母亲的墓前，陈伯勋终于拆开了那封保存了七十多年的信。信纸已经脆得几乎碎裂，上面的字迹模糊不清。但他还是认出了母亲那歪歪扭扭的笔迹。信上只写了短短几行字：儿啊，无论你走到哪里，记得回家的路。妈等你。",
+        "pinyin": "Zài mǔqīn de mù qián, Chén Bóxūn zhōngyú chāi kāi le nà fēng bǎocún le qīshí duō nián de xìn. Xìnzhǐ yǐjīng cuì de jīhū suìliè, shàngmian de zìjì móhu bù qīng. Dàn tā háishi rèn chū le mǔqīn nà wāiwāi niǔniǔ de bǐjì. Xìn shang zhǐ xiě le duǎnduǎn jǐ háng zì: ér a, wúlùn nǐ zǒu dào nǎlǐ, jìde huí jiā de lù. Mā děng nǐ.",
+        "english": "At his mother's grave, Chen Boxun finally opened the letter he had kept for more than seventy years. The paper was so brittle it nearly crumbled, and the writing on it was blurred. But he could still make out his mother's shaky handwriting. The letter had only a few short lines: Son, no matter where you go, remember the way home. Mom will wait for you."
+      },
+      {
+        "chinese": "老人跪在墓前，泣不成声。七十年的分离，一湾浅浅的海峡，隔断了多少骨肉亲情。他用颤抖的声音轻声说：「妈，我回来了。对不起，让您等了这么久。」",
+        "pinyin": "Lǎorén guì zài mù qián, qì bù chéng shēng. Qīshí nián de fēnlí, yì wān qiǎnqiǎn de hǎixiá, gé duàn le duōshao gǔròu qīnqíng. Tā yòng chàndǒu de shēngyīn qīngshēng shuō: 「Mā, wǒ huílái le. Duìbuqǐ, ràng nín děng le zhème jiǔ.」",
+        "english": "The old man knelt before the grave, weeping so hard he could barely make a sound. Seventy years of separation — a shallow strait had severed so many ties of flesh and blood. In a trembling voice, he whispered: 'Mom, I'm back. I'm sorry for making you wait so long.'"
+      },
+      {
+        "chinese": "回台北后，陈伯勋把母亲的信装进了相框，挂在客厅最显眼的位置。每天早上，他都会站在那封信前静静地站一会儿。他知道，有些等待虽然跨越了一生，但爱从未因距离和时间而消逝。",
+        "pinyin": "Huí Táiběi hòu, Chén Bóxūn bǎ mǔqīn de xìn zhuāng jìn le xiàngkuàng, guà zài kètīng zuì xiǎnyǎn de wèizhi. Měi tiān zǎoshang, tā dōu huì zhàn zài nà fēng xìn qián jìngjìng de zhàn yíhuìr. Tā zhīdao, yǒuxiē děngdài suīrán kuàyuè le yìshēng, dàn ài cóng wèi yīn jùlí hé shíjiān ér xiāoshì.",
+        "english": "After returning to Taipei, Chen Boxun framed his mother's letter and hung it in the most prominent spot in the living room. Every morning, he would stand quietly before the letter for a while. He knew that some waits, though they span a lifetime, do not diminish love — it never fades because of distance or time."
+      }
+    ],
+    "vocabHighlights": [
+      "攥",
+      "泛黄",
+      "匆忙",
+      "淹没",
+      "逾越",
+      "天堑",
+      "颤抖",
+      "辗转",
+      "翻新",
+      "泣不成声",
+      "骨肉",
+      "消逝"
+    ]
+  },
+  {
+    "id": "r6-103",
+    "hskLevel": 6,
+    "title": "The Turning Point",
+    "titleZh": "转折点",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "许晨光是一名才华横溢的外科医生，在省城最好的医院担任主刀。他的手术成功率极高，业内声誉斐然。然而，在光鲜亮丽的职业表象之下，他正经历着一场深刻的内心危机。",
+        "pinyin": "Xǔ Chénguāng shì yì míng cáihuá héngyì de wàikē yīshēng, zài shěngchéng zuì hǎo de yīyuàn dānrèn zhǔdāo. Tā de shǒushù chénggōng lǜ jí gāo, yènèi shēngyù fěirán. Rán'ér, zài guāngxiān liànglì de zhíyè biǎoxiàng zhī xià, tā zhèng jīnglì zhe yì chǎng shēnkè de nèixīn wēijī.",
+        "english": "Xu Chenguang was a brilliantly talented surgeon who served as the lead surgeon at the best hospital in the provincial capital. His surgical success rate was extremely high, and he had an outstanding reputation in the field. However, beneath the glamorous professional facade, he was experiencing a profound inner crisis."
+      },
+      {
+        "chinese": "三个月前，一台本该万无一失的手术出了意外。患者是一位年仅四十岁的母亲，因为术中突发的大出血，最终没能抢救过来。虽然医学鉴定认定这属于不可预见的并发症，但许晨光始终无法原谅自己。",
+        "pinyin": "Sān ge yuè qián, yì tái běn gāi wànwúyīshī de shǒushù chū le yìwài. Huànzhě shì yí wèi nián jǐn sìshí suì de mǔqīn, yīnwèi shù zhōng tūfā de dà chūxuè, zuìzhōng méi néng qiǎngjiù guòlái. Suīrán yīxué jiàndìng rèndìng zhè shǔyú bùkě yùjiàn de bìngfāzhèng, dàn Xǔ Chénguāng shǐzhōng wúfǎ yuánliàng zìjǐ.",
+        "english": "Three months ago, a surgery that should have been foolproof went wrong. The patient was a mother only forty years old. Due to sudden massive bleeding during the operation, she ultimately could not be saved. Although the medical assessment determined it was an unforeseeable complication, Xu Chenguang could never forgive himself."
+      },
+      {
+        "chinese": "从那以后，每次走进手术室，他的手都会不由自主地微微颤抖。他开始频繁失眠，半夜常常被噩梦惊醒。在同事面前，他依然保持着沉稳的外表，但只有他自己知道，内心的恐惧正在一点点吞噬他的信心。",
+        "pinyin": "Cóng nà yǐhòu, měi cì zǒu jìn shǒushùshì, tā de shǒu dōu huì bùyóuzìzhǔ de wēiwēi chàndǒu. Tā kāishǐ pínfán shīmián, bànyè chángcháng bèi èmèng jīngxǐng. Zài tóngshì miànqián, tā yīrán bǎochí zhe chénwěn de wàibiǎo, dàn zhǐyǒu tā zìjǐ zhīdao, nèixīn de kǒngjù zhèngzài yìdiǎndiǎn tūnshì tā de xìnxīn.",
+        "english": "From then on, every time he walked into the operating room, his hands would tremble involuntarily. He began suffering frequent insomnia, often woken in the middle of the night by nightmares. In front of colleagues, he still maintained a composed exterior, but only he knew that the fear inside was gradually devouring his confidence."
+      },
+      {
+        "chinese": "院长注意到了他的异常，建议他休假一段时间。许晨光拒绝了。在他看来，休假等同于认输，等同于承认自己不再适合当医生。他选择用更加疯狂的工作来麻痹自己，每天在医院待到深夜。",
+        "pinyin": "Yuànzhǎng zhùyì dào le tā de yìcháng, jiànyì tā xiūjià yí duàn shíjiān. Xǔ Chénguāng jùjué le. Zài tā kàn lái, xiūjià děngtóng yú rènshū, děngtóng yú chéngrèn zìjǐ bú zài shìhé dāng yīshēng. Tā xuǎnzé yòng gèngjiā fēngkuáng de gōngzuò lái mábì zìjǐ, měi tiān zài yīyuàn dāi dào shēnyè.",
+        "english": "The hospital director noticed his abnormality and suggested he take some time off. Xu Chenguang refused. In his view, taking a leave was equivalent to admitting defeat, equivalent to admitting he was no longer fit to be a doctor. He chose to numb himself with even more frantic work, staying at the hospital until late every night."
+      },
+      {
+        "chinese": "直到有一天，他在走廊里偶然遇到了那位已故患者的女儿。女孩大约十岁，手里拿着一幅画，是她妈妈住院时画的全家福。女孩认出了他，轻声说：「许医生，妈妈走之前跟我说，不要怪任何人。她说您已经尽力了。」",
+        "pinyin": "Zhídào yǒu yì tiān, tā zài zǒuláng lǐ ǒurán yùdào le nà wèi yǐgù huànzhě de nǚ'ér. Nǚhái dàyuē shí suì, shǒu lǐ ná zhe yì fú huà, shì tā māma zhùyuàn shí huà de quánjiā fú. Nǚhái rèn chū le tā, qīngshēng shuō: 「Xǔ yīshēng, māma zǒu zhīqián gēn wǒ shuō, bú yào guài rènhé rén. Tā shuō nín yǐjīng jìnlì le.」",
+        "english": "Until one day, he happened to run into the deceased patient's daughter in the hallway. The girl was about ten years old, holding a painting — a family portrait her mother had drawn while hospitalized. The girl recognized him and said softly: 'Doctor Xu, before my mom passed away, she told me not to blame anyone. She said you had already done your best.'"
+      },
+      {
+        "chinese": "那一刻，许晨光感到胸口像是被重重击了一拳。他蹲下身子，与女孩平视，嘴唇哆嗦了好半天才挤出几个字：「谢谢你，告诉我这些。」",
+        "pinyin": "Nà yí kè, Xǔ Chénguāng gǎndào xiōngkǒu xiàng shì bèi zhòngzhòng jī le yì quán. Tā dūn xià shēnzi, yǔ nǚhái píngshì, zuǐchún duōsuo le hǎo bàntiān cái jǐ chū jǐ ge zì: 「Xièxie nǐ, gàosu wǒ zhèxiē.」",
+        "english": "In that moment, Xu Chenguang felt as if he had been punched hard in the chest. He crouched down to the girl's eye level, his lips quivering for a long time before he could squeeze out a few words: 'Thank you for telling me this.'"
+      },
+      {
+        "chinese": "那天晚上，许晨光独自开车去了郊外。他把车停在一片空旷的田野边，关掉了引擎。四周万籁俱寂，头顶的星空辽阔无垠。他靠在座椅上，第一次允许自己痛痛快快地哭了一场。",
+        "pinyin": "Nà tiān wǎnshang, Xǔ Chénguāng dúzì kāi chē qù le jiāowài. Tā bǎ chē tíng zài yí piàn kōngkuàng de tiányě biān, guān diào le yǐnqíng. Sìzhōu wànlài jù jì, tóudǐng de xīngkōng liáokuò wúyín. Tā kào zài zuòyǐ shang, dì yī cì yǔnxǔ zìjǐ tòng tòng kuài kuài de kū le yì chǎng.",
+        "english": "That evening, Xu Chenguang drove out to the suburbs alone. He parked beside an open field and turned off the engine. All around was dead silence, and the starry sky overhead stretched endlessly. He leaned back in his seat and, for the first time, allowed himself to cry his heart out."
+      },
+      {
+        "chinese": "泪水冲刷掉的不仅是三个月来积压的自责和痛苦，还有他多年来强加给自己的那层坚不可摧的铠甲。他终于承认，自己不是无所不能的。作为医生，他能做的是竭尽全力，但生死有时并不在人的掌控之中。",
+        "pinyin": "Lèishuǐ chōngshuā diào de bùjǐn shì sān ge yuè lái jīyā de zìzé hé tòngkǔ, hái yǒu tā duō nián lái qiáng jiā gěi zìjǐ de nà céng jiānbùkěcuī de kǎijiǎ. Tā zhōngyú chéngrèn, zìjǐ bú shì wúsuǒbùnéng de. Zuòwéi yīshēng, tā néng zuò de shì jiéjìn quánlì, dàn shēngsǐ yǒushí bìng bú zài rén de zhǎngkòng zhī zhōng.",
+        "english": "The tears washed away not only the guilt and pain accumulated over three months but also the impenetrable armor he had imposed on himself over the years. He finally admitted that he was not omnipotent. As a doctor, what he could do was give his absolute best, but life and death are sometimes beyond human control."
+      },
+      {
+        "chinese": "第二天早上，许晨光走进了院长的办公室。他平静地说，自己需要休息一段时间，也想接受专业的心理辅导。院长沉默了片刻，然后重重地点了点头。三个月后，许晨光重返手术台。他的手不再颤抖了。不是因为恐惧消失了，而是因为他学会了与恐惧共处。他知道，这才是作为一名医者真正的成熟。",
+        "pinyin": "Dì èr tiān zǎoshang, Xǔ Chénguāng zǒu jìn le yuànzhǎng de bàngōngshì. Tā píngjìng de shuō, zìjǐ xūyào xiūxi yí duàn shíjiān, yě xiǎng jiēshòu zhuānyè de xīnlǐ fǔdǎo. Yuànzhǎng chénmò le piànkè, ránhòu zhòngzhòng de diǎn le diǎn tóu. Sān ge yuè hòu, Xǔ Chénguāng chóng fǎn shǒushù tái. Tā de shǒu bú zài chàndǒu le. Bú shì yīnwèi kǒngjù xiāoshī le, ér shì yīnwèi tā xuéhuì le yǔ kǒngjù gòngchǔ. Tā zhīdao, zhè cái shì zuòwéi yì míng yīzhě zhēnzhèng de chéngshú.",
+        "english": "The next morning, Xu Chenguang walked into the director's office. He calmly said that he needed some time to rest and wanted to receive professional psychological counseling. The director was silent for a moment, then nodded solemnly. Three months later, Xu Chenguang returned to the operating table. His hands no longer trembled. Not because the fear had disappeared, but because he had learned to coexist with it. He knew that this was what true maturity meant for a physician."
+      }
+    ],
+    "vocabHighlights": [
+      "才华横溢",
+      "斐然",
+      "万无一失",
+      "并发症",
+      "吞噬",
+      "麻痹",
+      "已故",
+      "万籁俱寂",
+      "坚不可摧",
+      "铠甲",
+      "竭尽全力",
+      "共处"
+    ]
+  }
+]

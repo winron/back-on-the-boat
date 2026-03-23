@@ -2,190 +2,2686 @@
   {
     "id": "g3-001",
     "hskLevel": 3,
-    "title": "把 construction (bǎ)",
-    "structure": "Subject + 把 + Object + Verb + Complement",
-    "explanation": "The 把 construction moves the object before the verb to emphasize what happens to it. The verb usually needs a complement or other element after it.",
+    "title": "Adjectives with '-ji le'",
+    "structure": "Subj. + Adj. + 极了",
+    "explanation": "Adjectives with '-ji le'. Used for expressing degree, emphasizing.",
     "examples": [
       {
-        "chinese": "请把门关上。",
-        "pinyin": "Qǐng bǎ mén guān shàng.",
-        "english": "Please close the door."
+        "chinese": "味道好极了!",
+        "pinyin": "wèidào hǎo jíle !",
+        "english": "It tastes great!"
       },
       {
-        "chinese": "他把作业做完了。",
-        "pinyin": "Tā bǎ zuòyè zuò wán le.",
-        "english": "He finished the homework."
+        "chinese": "他的英文棒极了。",
+        "pinyin": "tā de yīngwén bàng jíle 。",
+        "english": "His English is excellent."
+      },
+      {
+        "chinese": "婚礼热闹极了。",
+        "pinyin": "hūnlǐ rènào jíle 。",
+        "english": "The wedding was very lively."
+      },
+      {
+        "chinese": "一点声音都没有，安静极了。",
+        "pinyin": "yīdiǎn shēngyīn dū méiyǒu ，ānjìng jíle 。",
+        "english": "There was no sound at all, and it was extremely quiet."
+      },
+      {
+        "chinese": "昨天的派对无聊极了!",
+        "pinyin": "zuótiān de pàidùi wúliáo jíle !",
+        "english": "Yesterday's party was very boring!"
       }
     ]
   },
   {
     "id": "g3-002",
     "hskLevel": 3,
-    "title": "Passive with 被 (bèi)",
-    "structure": "Subject + 被 + (Agent) + Verb + Complement",
-    "explanation": "被 (bèi) marks the passive voice. The subject receives the action. Often used for unpleasant or unexpected events.",
+    "title": "Reduplication of adjectives",
+    "structure": "Adj. + Adj. + 的 (+ Noun)",
+    "explanation": "Reduplication of adjectives. Used for expressing quality.",
     "examples": [
       {
-        "chinese": "我的手机被偷了。",
-        "pinyin": "Wǒ de shǒujī bèi tōu le.",
-        "english": "My phone was stolen."
+        "chinese": "你的脸红红的。",
+        "pinyin": "nǐ de liǎn hóng hóng de 。",
+        "english": "Your face is red."
       },
       {
-        "chinese": "蛋糕被弟弟吃了。",
-        "pinyin": "Dàngāo bèi dìdi chī le.",
-        "english": "The cake was eaten by my younger brother."
+        "chinese": "宝宝的眼睛大大的。",
+        "pinyin": "bǎobǎo de yǎnjīng dà dà de 。",
+        "english": "The baby's eyes are big."
+      },
+      {
+        "chinese": "今晚的月亮圆圆的。",
+        "pinyin": "jīnwǎn de yuèliàng yuán yuán de 。",
+        "english": "The moon tonight is round."
+      },
+      {
+        "chinese": "她爸爸高高胖胖的。",
+        "pinyin": "tā bàbà gāo gāo pàng pàng de 。",
+        "english": "Her father is tall and fat."
+      },
+      {
+        "chinese": "我妹妹瘦瘦小小的。",
+        "pinyin": "wǒ mèimèi shòu shòu xiǎo xiǎo de 。",
+        "english": "My sister is thin and small."
       }
     ]
   },
   {
     "id": "g3-003",
     "hskLevel": 3,
-    "title": "More and more with 越来越 (yuèláiyuè)",
-    "structure": "Subject + 越来越 + Adj/Verb",
-    "explanation": "越来越 expresses that something is becoming more and more of a quality over time.",
+    "title": "Turning adjectives into adverbs",
+    "structure": "Subj. + Adj. + 地 + Verb",
+    "explanation": "Turning adjectives into adverbs. Used for describing actions, indicating conditions.",
     "examples": [
       {
-        "chinese": "天气越来越冷了。",
-        "pinyin": "Tiānqì yuèláiyuè lěng le.",
-        "english": "The weather is getting colder and colder."
+        "chinese": "你要努力地学习。",
+        "pinyin": "nǐ yào nǔlì dì xuéxí 。",
+        "english": "You have to study hard."
       },
       {
-        "chinese": "他的中文越来越好。",
-        "pinyin": "Tā de Zhōngwén yuèláiyuè hǎo.",
-        "english": "His Chinese is getting better and better."
+        "chinese": "雨天地滑，慢慢地走。",
+        "pinyin": "yǔtiān dì huá ，màn màn dì zǒu 。",
+        "english": "Sliding in the rain and walking slowly."
+      },
+      {
+        "chinese": "他顺利地通过考试了。",
+        "pinyin": "tā shùnlì dì tōngguò kǎoshì le 。",
+        "english": "He passed the exam successfully."
+      },
+      {
+        "chinese": "他认真地对我说：“我喜欢你。",
+        "pinyin": "tā rènzhēn dì dùi wǒ shuō ：“wǒ xǐhuān nǐ 。",
+        "english": "He said to me seriously: \"I like you."
+      },
+      {
+        "chinese": "他热情地拥抱了我。",
+        "pinyin": "tā rèqíng dì yǒngbào le wǒ 。",
+        "english": "He embraced me warmly."
       }
     ]
   },
   {
     "id": "g3-004",
     "hskLevel": 3,
-    "title": "除了...以外 (chúle...yǐwài) - Besides/Except",
-    "structure": "除了 + A + 以外，(都/也) + ...",
-    "explanation": "除了...以外 means \"besides\" (with 也/还) or \"except\" (with 都). It sets apart one item from the rest.",
+    "title": "Expressing 'again' in the past with 'you'",
+    "structure": "(Subj. +) 又 + Verb + 了",
+    "explanation": "Expressing 'again' in the past with 'you'. Used for referring to the past, expressing time and date.",
     "examples": [
       {
-        "chinese": "除了中文以外，我也学日语。",
-        "pinyin": "Chúle Zhōngwén yǐwài, wǒ yě xué Rìyǔ.",
-        "english": "Besides Chinese, I also study Japanese."
+        "chinese": "又下雨了！",
+        "pinyin": "yòu xiàyǔ le ！",
+        "english": "It's raining again!"
       },
       {
-        "chinese": "除了他以外，大家都来了。",
-        "pinyin": "Chúle tā yǐwài, dàjiā dōu lái le.",
-        "english": "Except for him, everyone came."
+        "chinese": "你又迟到了。",
+        "pinyin": "nǐ yòu chídào le 。",
+        "english": "You are late again."
+      },
+      {
+        "chinese": "宝宝又哭了。",
+        "pinyin": "bǎobǎo yòu kū le 。",
+        "english": "The baby cried again."
+      },
+      {
+        "chinese": "我又忘了。",
+        "pinyin": "wǒ yòu wàng le 。",
+        "english": "I forgot again."
+      },
+      {
+        "chinese": "他又没来上课。",
+        "pinyin": "tā yòu méi lái shàngkè 。",
+        "english": "He didn't come to class again."
       }
     ]
   },
   {
     "id": "g3-005",
     "hskLevel": 3,
-    "title": "不但...而且 (búdàn...érqiě) - Not only...but also",
-    "structure": "不但 + A，而且 + B",
-    "explanation": "不但...而且 is used to add information, meaning \"not only A, but also B.\"",
+    "title": "Expressing 'all along' with 'yizhi'",
+    "structure": "Subj. + 一直 + Predicate",
+    "explanation": "Expressing 'all along' with 'yizhi'. Used for describing actions, referring to habitual actions, expressing frequency, expressing time and date.",
     "examples": [
       {
-        "chinese": "她不但聪明，而且很努力。",
-        "pinyin": "Tā búdàn cōngmíng, érqiě hěn nǔlì.",
-        "english": "She is not only smart, but also very hardworking."
+        "chinese": "我一直在学习中文。",
+        "pinyin": "wǒ yīzhí zài xuéxí zhōngwén 。",
+        "english": "I have been learning Chinese."
       },
       {
-        "chinese": "这个菜不但好吃，而且便宜。",
-        "pinyin": "Zhège cài búdàn hǎochī, érqiě piányi.",
-        "english": "This dish is not only delicious, but also cheap."
+        "chinese": "昨天晚上我一直在做作业。",
+        "pinyin": "zuótiān wǎnshàng wǒ yīzhí zài zuòzuòyè 。",
+        "english": "I have been doing my homework last night."
+      },
+      {
+        "chinese": "老板一直很忙。",
+        "pinyin": "lǎobǎn yīzhí hěn máng 。",
+        "english": "The boss has been very busy."
+      },
+      {
+        "chinese": "我一直很喜欢你。",
+        "pinyin": "wǒ yīzhí hěn xǐhuān nǐ 。",
+        "english": "I have always liked you."
+      },
+      {
+        "chinese": "爸爸一直都不抽烟。",
+        "pinyin": "bàbà yīzhí dū bù chōuyān 。",
+        "english": "Dad never smokes."
       }
     ]
   },
   {
     "id": "g3-006",
     "hskLevel": 3,
-    "title": "虽然...但是 (suīrán...dànshì) - Although...but",
-    "structure": "虽然 + A，但是 + B",
-    "explanation": "虽然...但是 means \"although A, but B.\" Unlike English, Chinese uses both \"although\" and \"but\" together.",
+    "title": "Expressing 'always' with 'zongshi'",
+    "structure": "Subj. + 总是 + Verb  /  总是 + Adv. + Adj.",
+    "explanation": "Expressing 'always' with 'zongshi'. Used for expressing frequency.",
     "examples": [
       {
-        "chinese": "虽然很累，但是我很开心。",
-        "pinyin": "Suīrán hěn lèi, dànshì wǒ hěn kāixīn.",
-        "english": "Although I'm tired, I'm very happy."
+        "chinese": "他总是迟到。",
+        "pinyin": "tā zǒngshì chídào 。",
+        "english": "He is always late."
       },
       {
-        "chinese": "虽然下雨了，但是我们还是去了。",
-        "pinyin": "Suīrán xià yǔ le, dànshì wǒmen háishi qù le.",
-        "english": "Although it rained, we still went."
+        "chinese": "我总是忘记这个词。",
+        "pinyin": "wǒ zǒngshì wàngjì zhè gè cí 。",
+        "english": "I always forget this word."
+      },
+      {
+        "chinese": "他总是一个人吃饭。",
+        "pinyin": "tā zǒngshì yīgèrén chīfàn 。",
+        "english": "He always eats alone."
+      },
+      {
+        "chinese": "你男朋友总是说脏话。",
+        "pinyin": "nǐ nánpéngyǒu zǒngshì shuō zānghuà 。",
+        "english": "Your boyfriend always swears."
+      },
+      {
+        "chinese": "我的学生总是问我很多有意思的问题。",
+        "pinyin": "wǒ de xuéshēng zǒngshì wèn wǒ hěnduō yǒuyìsī de wèntí 。",
+        "english": "My students always ask me many interesting questions."
       }
     ]
   },
   {
     "id": "g3-007",
     "hskLevel": 3,
-    "title": "如果...就 (rúguǒ...jiù) - If...then",
-    "structure": "如果 + Condition，就 + Result",
-    "explanation": "如果...就 expresses a conditional relationship: \"if A, then B.\"",
+    "title": "Expressing duration of inaction",
+    "structure": "Subj. + (已经 +) Duration + 没 + Verb + 了",
+    "explanation": "Expressing duration of inaction. Used for referring to the past, expressing duration.",
     "examples": [
       {
-        "chinese": "如果明天下雨，我们就不去了。",
-        "pinyin": "Rúguǒ míngtiān xià yǔ, wǒmen jiù bú qù le.",
-        "english": "If it rains tomorrow, we won't go."
+        "chinese": "他们已经两天没吃东西了。",
+        "pinyin": "tāmen yǐjīng liǎng tiān méi chī dōngxī le 。",
+        "english": "They haven't eaten for two days."
       },
       {
-        "chinese": "如果你有问题，就问老师。",
-        "pinyin": "Rúguǒ nǐ yǒu wèntí, jiù wèn lǎoshī.",
-        "english": "If you have questions, ask the teacher."
+        "chinese": "我们已经十年没见了。",
+        "pinyin": "wǒmen yǐjīng shí nián méi jiàn le 。",
+        "english": "We haven't seen it in ten years."
+      },
+      {
+        "chinese": "他已经一个星期没洗澡了。",
+        "pinyin": "tā yǐjīng yī gè xīngqī méi xǐzǎo le 。",
+        "english": "He hasn't bathed in a week."
+      },
+      {
+        "chinese": "你多长时间没刮胡子了？",
+        "pinyin": "nǐ duō cháng shíjiān méi guā húzǐ le ？",
+        "english": "How long have you not shaved?"
+      },
+      {
+        "chinese": "她半个月没出门了。",
+        "pinyin": "tā bàn gè yuè méi chūmén le 。",
+        "english": "She hasn't been out for half a month."
       }
     ]
   },
   {
     "id": "g3-008",
     "hskLevel": 3,
-    "title": "一边...一边 (yìbiān...yìbiān) - While doing...also doing",
-    "structure": "Subject + 一边 + V1 + 一边 + V2",
-    "explanation": "一边...一边 indicates two actions happening simultaneously.",
+    "title": "Expressing 'finally' with 'zhongyu'",
+    "structure": "Subj. + 终于 + Predicate + 了",
+    "explanation": "Expressing 'finally' with 'zhongyu'. Used for expressing attitude.",
     "examples": [
       {
-        "chinese": "他一边吃饭一边看电视。",
-        "pinyin": "Tā yìbiān chī fàn yìbiān kàn diànshì.",
-        "english": "He eats while watching TV."
+        "chinese": "你终于到了！",
+        "pinyin": "nǐ zhōngyú dào le ！",
+        "english": "You are finally here!"
       },
       {
-        "chinese": "她一边走一边听音乐。",
-        "pinyin": "Tā yìbiān zǒu yìbiān tīng yīnyuè.",
-        "english": "She listens to music while walking."
+        "chinese": "我们终于见面了！",
+        "pinyin": "wǒmen zhōngyú jiànmiàn le ！",
+        "english": "We finally met!"
+      },
+      {
+        "chinese": "你们终于明白了。",
+        "pinyin": "nǐmen zhōngyú míngbái le 。",
+        "english": "You finally understand."
+      },
+      {
+        "chinese": "作业终于做完了！",
+        "pinyin": "zuòyè zhōngyú zuò wán le ！",
+        "english": "The homework is finally done!"
+      },
+      {
+        "chinese": "飞机终于起飞了！",
+        "pinyin": "fēijī zhōngyú qǐfēi le ！",
+        "english": "The plane finally took off!"
       }
     ]
   },
   {
     "id": "g3-009",
     "hskLevel": 3,
-    "title": "对...来说 (duì...lái shuō) - For/To someone",
-    "structure": "对 + Person + 来说，...",
-    "explanation": "对...来说 means \"for someone\" or \"as far as someone is concerned.\"",
+    "title": "Expressing lateness with 'cai'",
+    "structure": "Subj. + Time + 才 + Verb",
+    "explanation": "Expressing lateness with 'cai'. Used for sequencing events in time, expressing time and date, expressing attitude.",
     "examples": [
       {
-        "chinese": "对我来说，学中文很有意思。",
-        "pinyin": "Duì wǒ lái shuō, xué Zhōngwén hěn yǒu yìsi.",
-        "english": "For me, learning Chinese is very interesting."
+        "chinese": "我昨天晚上十一点才到家。",
+        "pinyin": "wǒ zuótiān wǎnshàng shíyī diǎn cái dào jiā 。",
+        "english": "I didn't get home until eleven o'clock last night."
       },
       {
-        "chinese": "对外国人来说，汉字很难。",
-        "pinyin": "Duì wàiguó rén lái shuō, hànzì hěn nán.",
-        "english": "For foreigners, Chinese characters are very difficult."
+        "chinese": "他二十五岁才上大学。",
+        "pinyin": "tā èrshí wǔ sùi cái shàng dàxué 。",
+        "english": "He didn't go to college until he was 25 years old."
+      },
+      {
+        "chinese": "她四十岁才结婚。",
+        "pinyin": "tā sìshí sùi cái jiéhūn 。",
+        "english": "She was married at the age of forty."
+      },
+      {
+        "chinese": "我女儿昨天十二点才睡觉，作业太多了。",
+        "pinyin": "wǒ nv̌ér zuótiān shíèr diǎn cái shùijué ，zuòyè tài duō le 。",
+        "english": "My daughter went to bed at twelve o'clock yesterday and had too much homework."
+      },
+      {
+        "chinese": "你九点上班，八点半才起床？",
+        "pinyin": "nǐ jǐu diǎn shàngbān ，bā diǎn bàn cái qǐchuáng ？",
+        "english": "You go to work at nine, and you get up at half past eight?"
       }
     ]
   },
   {
     "id": "g3-010",
     "hskLevel": 3,
-    "title": "连...都/也 (lián...dōu/yě) - Even",
-    "structure": "连 + Noun/Verb + 都/也 + ...",
-    "explanation": "连...都/也 emphasizes something surprising or extreme, meaning \"even.\"",
+    "title": "Expressing 'only' with 'zhi'",
+    "structure": "只 + Verb",
+    "explanation": "Expressing 'only' with 'zhi'. Used for expressing limits.",
     "examples": [
       {
-        "chinese": "他连自己的名字都不会写。",
-        "pinyin": "Tā lián zìjǐ de míngzì dōu bú huì xiě.",
-        "english": "He can't even write his own name."
+        "chinese": "我只有一个哥哥。",
+        "pinyin": "wǒ zhǐ yǒu yī gè gēgē 。",
+        "english": "I have only one brother."
       },
       {
-        "chinese": "我忙得连饭都没吃。",
-        "pinyin": "Wǒ máng de lián fàn dōu méi chī.",
-        "english": "I was so busy that I didn't even eat."
+        "chinese": "我们只有十块钱。",
+        "pinyin": "wǒmen zhǐ yǒu shíkuài qián 。",
+        "english": "We only have ten dollars."
+      },
+      {
+        "chinese": "我们公司只有两个员工。",
+        "pinyin": "wǒmen gōngsī zhǐ yǒu liǎnggèyuángōng 。",
+        "english": "Our company has only two employees."
+      },
+      {
+        "chinese": "你只爱吃肉吗？",
+        "pinyin": "nǐ zhǐ ài chī ròu ma ？",
+        "english": "Do you only love meat?"
+      },
+      {
+        "chinese": "他们只会说英文。",
+        "pinyin": "tāmen zhǐ hùi shuō yīngwén 。",
+        "english": "They only speak English."
+      }
+    ]
+  },
+  {
+    "id": "g3-011",
+    "hskLevel": 3,
+    "title": "Sequencing with 'xian' and 'zai'",
+    "structure": "先 ⋯⋯ ，再 ⋯⋯",
+    "explanation": "Sequencing with 'xian' and 'zai'. Used for sequencing events in time, expressing order, listing.",
+    "examples": [
+      {
+        "chinese": "先洗手再吃。",
+        "pinyin": "xiān xǐ shǒu zài chī 。",
+        "english": "Wash your hands before eating."
+      },
+      {
+        "chinese": "我喜欢先洗澡，再睡觉。",
+        "pinyin": "wǒ xǐhuān xiān xǐzǎo ，zài shùijué 。",
+        "english": "I like to take a bath before sleeping."
+      },
+      {
+        "chinese": "请你先买票再进去。",
+        "pinyin": "qǐng nǐ xiān mǎi piào zài jìnqù 。",
+        "english": "Please buy a ticket before entering."
+      },
+      {
+        "chinese": "你要先做作业，再看电视。",
+        "pinyin": "nǐ yào xiān zuò zuòyè ，zài kàn diànshì 。",
+        "english": "You have to do your homework before watching TV."
+      },
+      {
+        "chinese": "我想先找工作，再搬家。",
+        "pinyin": "wǒ xiǎng xiān zhǎo gōngzuò ，zài bānjiā 。",
+        "english": "I want to find a job before moving."
+      }
+    ]
+  },
+  {
+    "id": "g3-012",
+    "hskLevel": 3,
+    "title": "Simultaneous tasks with 'yibian'",
+    "structure": "Subj. + 一边 + Verb (，) + 一边 + Verb",
+    "explanation": "Simultaneous tasks with 'yibian'. Used for referring to simultaneous events, indicating conditions.",
+    "examples": [
+      {
+        "chinese": "不要一边吃东西，一边说话。",
+        "pinyin": "bùyào yībiān chī dōngxī，yībiān shuōhuà 。",
+        "english": "Don't talk while eating."
+      },
+      {
+        "chinese": "我常常一边洗澡，一边唱歌。",
+        "pinyin": "wǒ chángcháng yībiān xǐzǎo， yībiān chànggē 。",
+        "english": "I often sing while taking a bath."
+      },
+      {
+        "chinese": "孩子喜欢一边吃饭，一边玩。",
+        "pinyin": "háizǐ xǐhuān yībiān chīfàn， yībiān wán 。",
+        "english": "Children like to play while eating."
+      },
+      {
+        "chinese": "你喜欢一边听音乐，一边做作业吗？",
+        "pinyin": "nǐ xǐhuān yībiān tīng yīnlè， yībiān zuò zuòyè ma ？",
+        "english": "Do you like to do your homework while listening to music?"
+      },
+      {
+        "chinese": "我们一边走一边聊吧。",
+        "pinyin": "wǒmen yībiān zǒu yībiān liáo ba 。",
+        "english": "Let's talk while walking."
+      }
+    ]
+  },
+  {
+    "id": "g3-013",
+    "hskLevel": 3,
+    "title": "Using 'always' as a complaint with 'laoshi'",
+    "structure": "老 (是) + Predicate",
+    "explanation": "Using 'always' as a complaint with 'laoshi'. Used for expressing frequency, expressing attitude.",
+    "examples": [
+      {
+        "chinese": "你怎么老是加班？",
+        "pinyin": "nǐ zěnyāo lǎoshì jiābān ？",
+        "english": "Why do you always work overtime?"
+      },
+      {
+        "chinese": "那个孩子老说脏话。",
+        "pinyin": "nàgè háizǐ lǎo shuō zānghuà 。",
+        "english": "The child is always swearing."
+      },
+      {
+        "chinese": "你怎么老是不高兴？",
+        "pinyin": "nǐ zěnyāo lǎoshì bù gāoxīng ？",
+        "english": "Why are you always upset?"
+      },
+      {
+        "chinese": "你儿子上课的时候老是说话。",
+        "pinyin": "nǐ érzǐ shàngkè de shíhòu lǎoshì shuōhuà 。",
+        "english": "Your son always talks during class."
+      },
+      {
+        "chinese": "这个老师老是这么严肃。",
+        "pinyin": "zhègè lǎoshī lǎoshì zhèyāo yánsù 。",
+        "english": "This teacher is always so serious."
+      }
+    ]
+  },
+  {
+    "id": "g3-014",
+    "hskLevel": 3,
+    "title": "Using 'cai' for small numbers",
+    "structure": "才 + Number + [Measure Word] + Noun",
+    "explanation": "Using 'cai' for small numbers. Used for emphasizing, expressing quantity.",
+    "examples": [
+      {
+        "chinese": "你才二十岁？",
+        "pinyin": "nǐ cái èrshí sùi ？",
+        "english": "Are you twenty?"
+      },
+      {
+        "chinese": "这个班才两个学生。",
+        "pinyin": "zhè gè bān cái liǎng gè xuéshēng 。",
+        "english": "There are only two students in this class."
+      },
+      {
+        "chinese": "你的工资才两千？",
+        "pinyin": "nǐ de gōngzī cái liǎng qiān ？",
+        "english": "Your salary is only two thousand?"
+      },
+      {
+        "chinese": "这顿饭才二十块，太便宜了！",
+        "pinyin": "zhè dùn fàn cái èrshí kuài ，tài biànyí le ！",
+        "english": "This meal is only twenty yuan, so cheap!"
+      },
+      {
+        "chinese": "你才一百斤，还要减肥？",
+        "pinyin": "nǐ cái yībǎi jīn ，huán yào jiǎnféi ？",
+        "english": "You're only a hundred pounds and you still have to lose weight?"
+      }
+    ]
+  },
+  {
+    "id": "g3-015",
+    "hskLevel": 3,
+    "title": "Adjectives with 'name' and 'zheme'",
+    "structure": "Subj. + 那么 / 这么 + Adj.",
+    "explanation": "Adjectives with 'name' and 'zheme'. Used for describing things, adding more explanation, expressing attitude.",
+    "examples": [
+      {
+        "chinese": "他说得这么快，你们听得懂吗？",
+        "pinyin": "tā shuōdé zhèyāo kuài ，nǐmen tīng dé dǒng ma ？",
+        "english": "He speaks so fast, do you understand?"
+      },
+      {
+        "chinese": "我没想到这个考试这么难。",
+        "pinyin": "wǒ méi xiǎngdào zhègè kǎoshì zhèyāo nán 。",
+        "english": "I didn't expect this exam to be so difficult."
+      },
+      {
+        "chinese": "雨这么大，明天再去吧。",
+        "pinyin": "yǔ zhèyāo dà，míngtiān zài qù ba 。",
+        "english": "The rain is so heavy, go again tomorrow."
+      },
+      {
+        "chinese": "你那么聪明，一定能猜到。",
+        "pinyin": "nǐ nàyāo cōngmíng ，yīdìng néng cāidào 。",
+        "english": "You are so smart, you can guess."
+      },
+      {
+        "chinese": "老板那么忙，肯定没时间。",
+        "pinyin": "lǎobǎn nàyāo máng ，kěndìng méi shíjiān 。",
+        "english": "The boss is so busy, there must be no time."
+      }
+    ]
+  },
+  {
+    "id": "g3-016",
+    "hskLevel": 3,
+    "title": "Basic comparisons with 'yiyang'",
+    "structure": "Noun 1 + 跟 / 和 + Noun 2 + 一样 （+ Adj.）",
+    "explanation": "Basic comparisons with 'yiyang'. Used for comparing, expressing similarity.",
+    "examples": [
+      {
+        "chinese": "我和你一样。",
+        "pinyin": "wǒ hé nǐ yīyáng 。",
+        "english": "Me too."
+      },
+      {
+        "chinese": "他的性格跟他妈妈一样。",
+        "pinyin": "tā de xìnggé gēn tā māmā yīyáng 。",
+        "english": "His character is the same as his mother."
+      },
+      {
+        "chinese": "北京的天气和上海不一样。",
+        "pinyin": "běijīng de tiānqì hé shànghǎi bù yīyáng 。",
+        "english": "The weather in Beijing is different from Shanghai."
+      },
+      {
+        "chinese": "这个词的意思和那个词一样吗？",
+        "pinyin": "zhè gè cí de yìsī hé nà gè cí yīyáng ma ？",
+        "english": "Does this word mean the same as that word?"
+      },
+      {
+        "chinese": "美国文化跟中国文化不一样。",
+        "pinyin": "měiguó wénhuà gēn zhōngguó wénhuà bù yīyáng 。",
+        "english": "American culture is different from Chinese culture."
+      }
+    ]
+  },
+  {
+    "id": "g3-017",
+    "hskLevel": 3,
+    "title": "Expressing 'both A and B' with 'you'",
+    "structure": "Subj. + 又 + Adj. 1 + 又 + Adj. 2",
+    "explanation": "Expressing 'both A and B' with 'you'. Used for describing things, expressing quality.",
+    "examples": [
+      {
+        "chinese": "她男朋友又高又帅。",
+        "pinyin": "tā nánpéngyǒu yòu gāo yòu shuài 。",
+        "english": "Her boyfriend is tall and handsome."
+      },
+      {
+        "chinese": "这个房子又大又亮。",
+        "pinyin": "zhè gè fángzǐ yòu dà yòu liàng 。",
+        "english": "This house is big and bright."
+      },
+      {
+        "chinese": "妈妈的头发又黑又亮。",
+        "pinyin": "māmā de tóufā yòu hēi yòu liàng 。",
+        "english": "Mom's hair is dark and shiny."
+      },
+      {
+        "chinese": "我姐姐又聪明又漂亮。",
+        "pinyin": "wǒ jiějiě yòu cōngmíng yòu piāoliàng 。",
+        "english": "My sister is smart and beautiful."
+      },
+      {
+        "chinese": "中国菜又便宜又好吃。",
+        "pinyin": "zhōngguó cài yòu biànyí yòu hǎochī 。",
+        "english": "Chinese food is cheap and delicious."
+      }
+    ]
+  },
+  {
+    "id": "g3-018",
+    "hskLevel": 3,
+    "title": "Expressing 'rather' with 'bijiao'",
+    "structure": "Subj. + 比较 + Adj. / [Verb Phrase]",
+    "explanation": "Expressing 'rather' with 'bijiao'. Used for comparing.",
+    "examples": [
+      {
+        "chinese": "这个问题比较简单。",
+        "pinyin": "zhègè wèntí bǐjiào jiǎndān 。",
+        "english": "This question is relatively simple."
+      },
+      {
+        "chinese": "我觉得这个价格比较贵。",
+        "pinyin": "wǒ juédé zhègè jiàgé bǐjiào gùi 。",
+        "english": "I think this price is more expensive."
+      },
+      {
+        "chinese": "我家离市中心比较近。",
+        "pinyin": "wǒ jiā lí shìzhōngxīn bǐjiào jìn 。",
+        "english": "My home is near the city center."
+      },
+      {
+        "chinese": "大城市的工作压力比较大。",
+        "pinyin": "dà chéngshì de gōngzuò yālì bǐjiào dà 。",
+        "english": "Work pressure in large cities is relatively high."
+      },
+      {
+        "chinese": "你上班坐地铁比较方便吧？",
+        "pinyin": "nǐ shàngbān zuò dìtiě bǐjiào fāngbiàn ba ？",
+        "english": "Is it more convenient for you to take the subway to work?"
+      }
+    ]
+  },
+  {
+    "id": "g3-019",
+    "hskLevel": 3,
+    "title": "Intensifying with 'duo'",
+    "structure": "Subj. + 多 + Adj.",
+    "explanation": "Intensifying with 'duo'. Used for adding more explanation, emphasizing.",
+    "examples": [
+      {
+        "chinese": "一个人多好！",
+        "pinyin": "yīgèrén duō hǎo！",
+        "english": "How nice a person is!"
+      },
+      {
+        "chinese": "你女儿多聪明啊！",
+        "pinyin": "nǐ nv̌ér duō cōngmíng a！",
+        "english": "How smart is your daughter!"
+      },
+      {
+        "chinese": "今天天气多舒服！",
+        "pinyin": "jīntiān tiānqì duō shūfú ！",
+        "english": "How comfortable the weather is today!"
+      },
+      {
+        "chinese": "你看这个地方，多美啊！",
+        "pinyin": "nǐ kàn zhè gè dìfāng ，duō měi a！",
+        "english": "Look at this place, how beautiful!"
+      },
+      {
+        "chinese": "学中文多有意思啊！",
+        "pinyin": "xué zhōngwén duō yǒuyìsī a！",
+        "english": "How interesting is learning Chinese!"
+      }
+    ]
+  },
+  {
+    "id": "g3-020",
+    "hskLevel": 3,
+    "title": "Modifying nouns with adjective + 'de'",
+    "structure": "Adj. + 的 + Noun",
+    "explanation": "Modifying nouns with adjective + 'de'. Used for describing people, describing things, describing places, expressing quality.",
+    "examples": [
+      {
+        "chinese": "漂亮的女孩儿",
+        "pinyin": "piāoliàng de nv̌háiér",
+        "english": "Pretty girl"
+      },
+      {
+        "chinese": "辣的菜",
+        "pinyin": "là de cài",
+        "english": "Spicy dishes"
+      },
+      {
+        "chinese": "可爱的宝宝",
+        "pinyin": "kěài de bǎobǎo",
+        "english": "cute baby"
+      },
+      {
+        "chinese": "我喜欢新鲜的果汁。",
+        "pinyin": "wǒ xǐhuān xīnxiān de guǒzhī 。",
+        "english": "I like fresh juice."
+      },
+      {
+        "chinese": "他常常买便宜的东西。",
+        "pinyin": "tā chángcháng mǎi biànyí de dōngxī 。",
+        "english": "He often buys cheap things."
+      }
+    ]
+  },
+  {
+    "id": "g3-021",
+    "hskLevel": 3,
+    "title": "Expressing 'or' in statements",
+    "structure": "Possibility 1 + 或者 + Possibility 2",
+    "explanation": "Expressing 'or' in statements. Used for giving alternatives.",
+    "examples": [
+      {
+        "chinese": "我喝咖啡或者茶，都行。",
+        "pinyin": "wǒ hē kāfēi huòzhě chá ，dū xíng 。",
+        "english": "I can drink coffee or tea."
+      },
+      {
+        "chinese": "星期六或者星期天，都可以。",
+        "pinyin": "xīngqīlìu huòzhě xīngqītiān ， dū kěyǐ 。",
+        "english": "Saturday or Sunday."
+      },
+      {
+        "chinese": "今天晚上我想吃披萨或者寿司。",
+        "pinyin": "jīntiān wǎnshàng wǒ xiǎng chī pīsà huòzhě shòusī 。",
+        "english": "I want to eat pizza or sushi tonight."
+      },
+      {
+        "chinese": "周末的时候，我喜欢在家做饭或者看电影。",
+        "pinyin": "zhōumò de shíhòu，wǒ xǐhuān zài jiā zuòfàn huòzhě kàn diànyǐng 。",
+        "english": "On the weekend, I like to cook or watch movies at home."
+      },
+      {
+        "chinese": "你去或者她去，都可以。",
+        "pinyin": "nǐ qù huòzhě tā qù ，dū kěyǐ 。",
+        "english": "You can go or she can."
+      }
+    ]
+  },
+  {
+    "id": "g3-022",
+    "hskLevel": 3,
+    "title": "Expressing 'then…' with 'name'",
+    "structure": "Situation ，那么 + Suggestion / Decision",
+    "explanation": "Expressing 'then…' with 'name'. Used for connecting ideas.",
+    "examples": [
+      {
+        "chinese": "他不听，那我应该怎么办？",
+        "pinyin": "tā bù tīng ，nà wǒ yìnggāi zěnyāobàn ？",
+        "english": "He does n’t listen, what should I do?"
+      },
+      {
+        "chinese": "你说这个办法不行，那你有别的办法吗？",
+        "pinyin": "nǐ shuō zhègè bànfǎ bùxíng ，nà nǐ yǒu biéde bànfǎ ma ？",
+        "english": "You said that this method will not work, then do you have another way?"
+      },
+      {
+        "chinese": "大家都到了，那么我们开始吧。",
+        "pinyin": "dàjiā dū dào le ，nàyāo wǒmen kāishǐ ba 。",
+        "english": "Everyone is here, so let's get started."
+      },
+      {
+        "chinese": "雨停了，那我们走吧。",
+        "pinyin": "yǔ tíng le ，nà wǒmen zǒu ba 。",
+        "english": "The rain has stopped, then let's go."
+      },
+      {
+        "chinese": "你说得有道理，那么就这么办吧。",
+        "pinyin": "nǐ shuō dé yǒu dàolǐ ，nàyāo jìu zhèyāo bàn ba 。",
+        "english": "You make sense, so do it."
+      }
+    ]
+  },
+  {
+    "id": "g3-023",
+    "hskLevel": 3,
+    "title": "Expressing 'with' with 'gen'",
+    "structure": "Subj. + 跟 + Person + 一起 + Verb + Obj.  /  Subj. + 跟 + Person + Verb + Obj.",
+    "explanation": "Expressing 'with' with 'gen'",
+    "examples": [
+      {
+        "chinese": "我昨天跟朋友去海滩了。",
+        "pinyin": "wǒ zuótiān gēn péngyǒu qù hǎitān le 。",
+        "english": "I went to the beach with my friend yesterday."
+      },
+      {
+        "chinese": "不要跟我说话！",
+        "pinyin": "bùyào gēn wǒ shuōhuà！",
+        "english": "Do not talk to me!"
+      },
+      {
+        "chinese": "我明天要跟新客户见面。",
+        "pinyin": "wǒ míngtiān yào gēn xīn kèhù jiànmiàn 。",
+        "english": "I have to meet new customers tomorrow."
+      },
+      {
+        "chinese": "你什么时候跟你女朋友结婚？",
+        "pinyin": "nǐ shíyāo shíhòu gēn nǐ nv̌péngyǒu jiéhūn ？",
+        "english": "When will you marry your girlfriend?"
+      },
+      {
+        "chinese": "你喜欢跟你父母聊天吗？",
+        "pinyin": "nǐ xǐhuān gēn nǐ fùmǔ liáotiān ma ？",
+        "english": "Do you like chatting with your parents?"
+      }
+    ]
+  },
+  {
+    "id": "g3-024",
+    "hskLevel": 3,
+    "title": "Offering choices with 'haishi'",
+    "structure": "( Subj. + Verb + ) Option A + 还是 + Option B ?",
+    "explanation": "Offering choices with 'haishi'. Used for asking questions, giving alternatives.",
+    "examples": [
+      {
+        "chinese": "我还是他？",
+        "pinyin": "wǒ huánshì tā ？",
+        "english": "Am I still him?"
+      },
+      {
+        "chinese": "一个还是两个？",
+        "pinyin": "yī gè huánshì liǎng gè ？",
+        "english": "One or two?"
+      },
+      {
+        "chinese": "辣的还是不辣的？",
+        "pinyin": "là de huánshì bù là de ？",
+        "english": "Spicy or not?"
+      },
+      {
+        "chinese": "冰的还是热的？",
+        "pinyin": "bīng de huánshì rè de ？",
+        "english": "Iced or hot?"
+      },
+      {
+        "chinese": "上海还是北京？",
+        "pinyin": "shànghǎi huánshì běijīng ？",
+        "english": "Shanghai or Beijing?"
+      }
+    ]
+  },
+  {
+    "id": "g3-025",
+    "hskLevel": 3,
+    "title": "Before a specific time with 'yiqian'",
+    "structure": "Time / Verb + 以前 ，⋯⋯",
+    "explanation": "Before a specific time with 'yiqian'. Used for referring to the past, sequencing events in time, expressing time and date.",
+    "examples": [
+      {
+        "chinese": "吃饭以前，你洗手了吗？",
+        "pinyin": "chīfàn yǐqián ，nǐ xǐ shǒu le ma ？",
+        "english": "Did you wash your hands before eating?"
+      },
+      {
+        "chinese": "睡觉以前，不要吃东西。",
+        "pinyin": "shùijué yǐqián ，bùyào chī dōngxī 。",
+        "english": "Don't eat anything before going to bed."
+      },
+      {
+        "chinese": "两年以前，你认识他吗？",
+        "pinyin": "liǎng nián yǐqián ， nǐ rènshì tā ma ？",
+        "english": "Did you know him two years ago?"
+      },
+      {
+        "chinese": "星期五以前，你要做完这些工作。",
+        "pinyin": "xīngqīwǔ yǐqián ，nǐ yào zuò wán zhèxiē gōngzuò 。",
+        "english": "Before Friday, you have to finish these tasks."
+      },
+      {
+        "chinese": "上大学以前，你来过上海吗？",
+        "pinyin": "shàng dàxué yǐqián，nǐ lái guò shànghǎi ma ？",
+        "english": "Have you been to Shanghai before going to university?"
+      }
+    ]
+  },
+  {
+    "id": "g3-026",
+    "hskLevel": 3,
+    "title": "Expressing 'before' in general with 'yiqian'",
+    "structure": "以前 + Subj. + Verb + Obj.  /   Subj. + 以前 + Verb + Obj.",
+    "explanation": "Expressing 'before' in general with 'yiqian'. Used for referring to the past, sequencing events in time, expressing time and date.",
+    "examples": [
+      {
+        "chinese": "以前我不会说中文。",
+        "pinyin": "yǐqián wǒ bù hùi shuō zhōngwén 。",
+        "english": "I couldn't speak Chinese before."
+      },
+      {
+        "chinese": "你以前住在哪儿？",
+        "pinyin": "nǐ yǐqián zhù zài nǎér ？",
+        "english": "Where did you live before?"
+      },
+      {
+        "chinese": "以前我不认识他。",
+        "pinyin": "yǐqián wǒ bù rènshì tā 。",
+        "english": "I didn't know him before."
+      },
+      {
+        "chinese": "以前他是我们的客户吗？",
+        "pinyin": "yǐqián tā shì wǒmen de kèhù ma ？",
+        "english": "Was he our customer before?"
+      },
+      {
+        "chinese": "以前他是一个服务员，现在是老板。",
+        "pinyin": "yǐqián tā shì yī gè fúwùyuán，xiànzài shì lǎobǎn 。",
+        "english": "He used to be a waiter and now he is the boss."
+      }
+    ]
+  },
+  {
+    "id": "g3-027",
+    "hskLevel": 3,
+    "title": "Expressing 'just now' with 'gangcai'",
+    "structure": "刚才 + Verb",
+    "explanation": "Expressing 'just now' with 'gangcai'. Used for sequencing events in time, expressing time and date, referring to changes of situation.",
+    "examples": [
+      {
+        "chinese": "你刚才说什么了？",
+        "pinyin": "nǐ gāngcái shuō shíyāo le ？",
+        "english": "What did you just say?"
+      },
+      {
+        "chinese": "刚才谁来了？",
+        "pinyin": "gāngcái shúi lái le ？",
+        "english": "Who was here just now?"
+      },
+      {
+        "chinese": "刚才你去哪儿了？",
+        "pinyin": "gāngcái nǐ qù nǎér le ？",
+        "english": "Where did you go just now?"
+      },
+      {
+        "chinese": "刚才我去洗手间了。",
+        "pinyin": "gāngcái wǒ qù xǐshǒujiān le 。",
+        "english": "I went to the bathroom just now."
+      },
+      {
+        "chinese": "老板刚才生气了。",
+        "pinyin": "lǎobǎn gāngcái shēngqì le 。",
+        "english": "The boss was angry just now."
+      }
+    ]
+  },
+  {
+    "id": "g3-028",
+    "hskLevel": 3,
+    "title": "Expressing 'when' with 'shi'",
+    "structure": "Time + 时 ，Subj. ⋯⋯",
+    "explanation": "Expressing 'when' with 'shi'. Used for referring to simultaneous events, expressing time and date.",
+    "examples": [
+      {
+        "chinese": "考试时不要说话。",
+        "pinyin": "kǎoshì shí bùyào shuōhuà 。",
+        "english": "Don't talk during the exam."
+      },
+      {
+        "chinese": "我面试时经常会问这个问题。",
+        "pinyin": "wǒ miànshì shí jīngcháng hùi wèn zhègè wèntí 。",
+        "english": "I often ask this question during interviews."
+      },
+      {
+        "chinese": "会议结束时老板才来。",
+        "pinyin": "hùiyì jiéshù shí lǎobǎn cái lái 。",
+        "english": "The boss came at the end of the meeting."
+      },
+      {
+        "chinese": "我生气时不想说话。",
+        "pinyin": "wǒ shēngqì shí bù xiǎng shuōhuà 。",
+        "english": "I don't want to talk when I'm angry."
+      },
+      {
+        "chinese": "他们大学毕业时就分手了。",
+        "pinyin": "tāmen dàxué bìyè shí jìu fēnshǒu le 。",
+        "english": "They broke up when they graduated from college."
+      }
+    ]
+  },
+  {
+    "id": "g3-029",
+    "hskLevel": 3,
+    "title": "In the future in general with 'yihou'",
+    "structure": "Subj. + 以后 + Verb + Obj.  /  Subj. + 以后 + Verb + Obj.",
+    "explanation": "In the future in general with 'yihou'. Used for referring to the future, sequencing events in time.",
+    "examples": [
+      {
+        "chinese": "以后你们会想我吗？",
+        "pinyin": "yǐhòu nǐmen hùi xiǎngwǒ ma ？",
+        "english": "Will you miss me in the future?"
+      },
+      {
+        "chinese": "以后你想来中国吗？",
+        "pinyin": "yǐhòu nǐ xiǎng lái zhōngguó ma ？",
+        "english": "Do you want to come to China in the future?"
+      },
+      {
+        "chinese": "我以后不喝酒了。",
+        "pinyin": "wǒ yǐhòu bù hējǐu le 。",
+        "english": "I won't drink anymore."
+      },
+      {
+        "chinese": "我们以后不在这里工作了。",
+        "pinyin": "wǒmen yǐhòu bù zài zhèlǐ gōngzuò le 。",
+        "english": "We will not work here anymore."
+      },
+      {
+        "chinese": "你儿子以后想做什么？",
+        "pinyin": "nǐérzǐ yǐhòu xiǎng zuò shíyāo ？",
+        "english": "What does your son want to do in the future?"
+      }
+    ]
+  },
+  {
+    "id": "g3-030",
+    "hskLevel": 3,
+    "title": "Sequencing past events with 'houlai'",
+    "structure": "[Past Event 1] ，后来 ，[Past Event 2]",
+    "explanation": "Sequencing past events with 'houlai'. Used for referring to the past, sequencing events in time, expressing order.",
+    "examples": [
+      {
+        "chinese": "他说他会来，后来又说不来了。",
+        "pinyin": "tā shuō tā hùi lái ，hòulái yòu shuō bù lái le 。",
+        "english": "He said he would come, but then he couldn't."
+      },
+      {
+        "chinese": "他们上周吵架了，后来和好了。",
+        "pinyin": "tāmen shàngzhōu chǎojià le ，hòulái héhǎo le 。",
+        "english": "They quarreled last week, and later they reconciled."
+      },
+      {
+        "chinese": "他以前是厨师，后来当了老板。",
+        "pinyin": "tā yǐqián shì chúshī ，hòulái dāng le lǎobǎn 。",
+        "english": "He used to be a cook and later became a boss."
+      },
+      {
+        "chinese": "我昨晚走得早，不知道后来发生了什么。",
+        "pinyin": "wǒ zuówǎn zǒu dé zǎo ，bù zhīdào hòulái fāshēng le shíyāo 。",
+        "english": "I walked early last night and I don't know what happened later."
+      },
+      {
+        "chinese": "开始我父母不同意，后来他们同意了。",
+        "pinyin": "kāishǐ wǒ fùmǔ bù tóngyì ，hòulái tāmen tóngyì le 。",
+        "english": "At first my parents disagreed, and later they agreed."
+      }
+    ]
+  },
+  {
+    "id": "g3-031",
+    "hskLevel": 3,
+    "title": "Approximating with sequential numbers",
+    "structure": "Number + (Number + 1)",
+    "explanation": "Approximating with sequential numbers. Used for expressing quantity.",
+    "examples": [
+      {
+        "chinese": "一两天",
+        "pinyin": "yī liǎng tiān",
+        "english": "A day or two"
+      },
+      {
+        "chinese": "三四个人",
+        "pinyin": "sān sì gè rén",
+        "english": "Three or four people"
+      },
+      {
+        "chinese": "老板昨天喝了七八瓶胡萝卜汁。",
+        "pinyin": "lǎobǎn zuótiān hē leqī bā píng húluóbǔ zhī 。",
+        "english": "The boss drank seven or eight bottles of carrot juice yesterday."
+      },
+      {
+        "chinese": "这个词我们学过两三次了。",
+        "pinyin": "zhè gè cí wǒmen xué guò liǎng sān cì le 。",
+        "english": "We have learned this word two or three times."
+      },
+      {
+        "chinese": "我等了你三四个小时。",
+        "pinyin": "wǒ děng le nǐ sān sì gè xiǎoshí 。",
+        "english": "I waited for you three or four hours."
+      }
+    ]
+  },
+  {
+    "id": "g3-032",
+    "hskLevel": 3,
+    "title": "Aspect particle 'zhe'",
+    "structure": "Verb + 着",
+    "explanation": "Aspect particle 'zhe'. Used for indicating conditions, expressing duration.",
+    "examples": [
+      {
+        "chinese": "我读，你听着。",
+        "pinyin": "wǒ dú ，nǐ tīng zháo 。",
+        "english": "I read, you listen."
+      },
+      {
+        "chinese": "我们做，你们看着。",
+        "pinyin": "wǒmen zuò ，nǐmen kàn zháo 。",
+        "english": "We do, you guys watch."
+      },
+      {
+        "chinese": "你们坐着，我马上回来。",
+        "pinyin": "nǐmen zuò zháo ，wǒ mǎshàng húilái 。",
+        "english": "You sit down, and I will come back immediately."
+      },
+      {
+        "chinese": "我出去一下，你帮我看着行李。",
+        "pinyin": "wǒ chūqù yīxià ，nǐ bāng wǒ kàn zháo xínglǐ 。",
+        "english": "Let me go out, you help me look at the luggage."
+      },
+      {
+        "chinese": "她喜欢站着吃饭。",
+        "pinyin": "tā xǐhuān zhàn zháo chīfàn 。",
+        "english": "She likes to stand and eat."
+      }
+    ]
+  },
+  {
+    "id": "g3-033",
+    "hskLevel": 3,
+    "title": "Change of state with 'le'",
+    "structure": "Subj. (+ 不) + Verb / Adj. + 了",
+    "explanation": "Change of state with 'le'. Used for indicating conditions, expressing result, referring to changes of situation.",
+    "examples": [
+      {
+        "chinese": "我饿了。",
+        "pinyin": "wǒ è le 。",
+        "english": "I'm hungry."
+      },
+      {
+        "chinese": "孩子们都累了。",
+        "pinyin": "háizǐmen dū lèi le 。",
+        "english": "The children are tired."
+      },
+      {
+        "chinese": "妈妈老了。",
+        "pinyin": "māmā lǎo le 。",
+        "english": "Mom is old."
+      },
+      {
+        "chinese": "你胖了。",
+        "pinyin": "nǐ pàng le 。",
+        "english": "You are fat."
+      },
+      {
+        "chinese": "你是不是生气了？",
+        "pinyin": "nǐ shìbùshì shēngqì le ？",
+        "english": "Are you angry?"
+      }
+    ]
+  },
+  {
+    "id": "g3-034",
+    "hskLevel": 3,
+    "title": "Questions with 'ne'",
+    "structure": "Topic / [Missing Person / Thing] + 呢 ？",
+    "explanation": "Questions with 'ne'. Used for asking questions, expressing attitude.",
+    "examples": [
+      {
+        "chinese": "你好吗？我很好。",
+        "pinyin": "nǐ hǎo ma ？wǒ hěn hǎo 。",
+        "english": "How are you? I'm very good."
+      },
+      {
+        "chinese": "我也很好。",
+        "pinyin": "wǒ yě hěn hǎo 。",
+        "english": "I am fine too."
+      },
+      {
+        "chinese": "这个很好，那个呢？",
+        "pinyin": "zhè gè hěn hǎo ， nà gè ní ？",
+        "english": "This is good, what about that?"
+      },
+      {
+        "chinese": "这个用中文怎么说？",
+        "pinyin": "zhè gè yòng zhōngwén zěnyāo shuō ？",
+        "english": "How do you say this in Chinese?"
+      },
+      {
+        "chinese": "我在家，你呢？",
+        "pinyin": "wǒ zài jiā，nǐ ní ？",
+        "english": "I'm at home, how about you?"
+      }
+    ]
+  },
+  {
+    "id": "g3-035",
+    "hskLevel": 3,
+    "title": "Structural particle 'de'",
+    "structure": "的 + Noun  /  Verb + 得  /  Adj. + 地 + Verb",
+    "explanation": "Structural particle 'de'",
+    "examples": [
+      {
+        "chinese": "小李的房子",
+        "pinyin": "xiǎolǐ de fángzǐ",
+        "english": "Xiao Li's house"
+      },
+      {
+        "chinese": "红色的自行车",
+        "pinyin": "hóngsè de zìxíngchē",
+        "english": "Red bicycle"
+      },
+      {
+        "chinese": "我的手机",
+        "pinyin": "wǒ de shǒujī",
+        "english": "My cell phone"
+      },
+      {
+        "chinese": "我们的老师",
+        "pinyin": "wǒmen de lǎoshī",
+        "english": "our teacher"
+      },
+      {
+        "chinese": "漂亮的衣服",
+        "pinyin": "piāoliàng de yīfú",
+        "english": "beautiful clothes"
+      }
+    ]
+  },
+  {
+    "id": "g3-036",
+    "hskLevel": 3,
+    "title": "Expressing 'about' with 'guanyu'",
+    "structure": "关于 + Obj. ，⋯⋯",
+    "explanation": "Expressing 'about' with 'guanyu'. Used for expressing attitude.",
+    "examples": [
+      {
+        "chinese": "关于中国历史，我知道的不多。",
+        "pinyin": "guānyú zhōngguó lìshǐ，wǒ zhīdào de bù duō 。",
+        "english": "I do n’t know much about Chinese history."
+      },
+      {
+        "chinese": "关于这次考试，我还有几个问题要问。",
+        "pinyin": "guānyú zhè cì kǎoshì，wǒ huán yǒu jī gè wèntí yào wèn 。",
+        "english": "I have a few questions to ask about this exam."
+      },
+      {
+        "chinese": "关于这个问题，你们还是问他吧。",
+        "pinyin": "guānyú zhègè wèntí，nǐmen huánshì wèn tā ba 。",
+        "english": "Regarding this question, you should ask him."
+      },
+      {
+        "chinese": "关于你的建议，老板还在考虑。",
+        "pinyin": "guānyú nǐ de jiànyì，lǎobǎn huán zài kǎolv̀ 。",
+        "english": "Regarding your suggestion, the boss is still considering."
+      },
+      {
+        "chinese": "关于调查结果，我们也不太清楚。",
+        "pinyin": "guānyú diàochá jiéguǒ，wǒmen yě bù tài qīngchǔ 。",
+        "english": "We are not very clear about the results of the investigation."
+      }
+    ]
+  },
+  {
+    "id": "g3-037",
+    "hskLevel": 3,
+    "title": "Expressing 'all the way until' with 'zhidao'",
+    "structure": "直到 + Time / Event ，Subj. + 都 ( + 不 / 没 ) ⋯⋯",
+    "explanation": "Expressing 'all the way until' with 'zhidao'. Used for sequencing events in time, expressing attitude.",
+    "examples": [
+      {
+        "chinese": "直到十二点半，我才做完作业。",
+        "pinyin": "zhídào shíèr diǎn bàn ，wǒ cái zuò wán zuòyè 。",
+        "english": "I didn't finish my homework until half past twelve."
+      },
+      {
+        "chinese": "直到半个月以后，我的感冒才好。",
+        "pinyin": "zhídào bàn gè yuè yǐhòu ，wǒ de gǎnmào cái hǎo 。",
+        "english": "It was not until half a month later that my cold was good."
+      },
+      {
+        "chinese": "她直到十八岁才见到亲生父母。",
+        "pinyin": "tā zhídào shíbā sùi cái jiàndào qīnshēng fùmǔ 。",
+        "english": "She did not meet her biological parents until she was eighteen."
+      },
+      {
+        "chinese": "我直到大学毕业才开始独立生活。",
+        "pinyin": "wǒ zhídào dàxué bìyè cái kāishǐ dúlì shēnghuó 。",
+        "english": "I didn't start to live independently until I graduated from college."
+      },
+      {
+        "chinese": "直到去了北京，他才知道一个人在大城市多辛苦。",
+        "pinyin": "zhídào qù le běijīng ，tā cái zhīdào yīgèrén zài dà chéngshì duō xīnkǔ 。",
+        "english": "He didn't know how hard a person was in a big city until he went to Beijing."
+      }
+    ]
+  },
+  {
+    "id": "g3-038",
+    "hskLevel": 3,
+    "title": "Expressing 'towards' with 'xiang'",
+    "structure": "向 + Direction / Person + Verb",
+    "explanation": "Expressing 'towards' with 'xiang'",
+    "examples": [
+      {
+        "chinese": "向东走。",
+        "pinyin": "xiàng dōng zǒu 。",
+        "english": "Go east."
+      },
+      {
+        "chinese": "向前看。",
+        "pinyin": "xiàng qián kàn 。",
+        "english": "Look forward."
+      },
+      {
+        "chinese": "向左转。",
+        "pinyin": "xiàng zuǒ zhuǎn 。",
+        "english": "turn left."
+      },
+      {
+        "chinese": "老师正向我们走来。",
+        "pinyin": "lǎoshī zhèng xiàng wǒmen zǒu lái 。",
+        "english": "The teacher is coming to us."
+      },
+      {
+        "chinese": "火车已经开了，她还在向我招手。",
+        "pinyin": "huǒchē yǐjīng kāi le ，tā huán zài xiàng wǒ zhāoshǒu 。",
+        "english": "The train has already started and she is still waving to me."
+      }
+    ]
+  },
+  {
+    "id": "g3-039",
+    "hskLevel": 3,
+    "title": "Appearance with 'kanqilai'",
+    "structure": "Subj. + 看起来 + Adj.",
+    "explanation": "Appearance with 'kanqilai'. Used for describing things, expressing attitude.",
+    "examples": [
+      {
+        "chinese": "蛋糕看起来很好吃。",
+        "pinyin": "dàngāo kànqǐlái hěn hǎochī 。",
+        "english": "The cake looks delicious."
+      },
+      {
+        "chinese": "这家餐厅看起来不错。",
+        "pinyin": "zhè jiā cāntīng kànqǐlái bùcuò 。",
+        "english": "This restaurant looks good."
+      },
+      {
+        "chinese": "你男朋友看起来很成熟。",
+        "pinyin": "nǐ nánpéngyǒu kànqǐlái hěn chéngshú 。",
+        "english": "Your boyfriend looks mature."
+      },
+      {
+        "chinese": "老板看起来有点不高兴。",
+        "pinyin": "lǎobǎn kànqǐlái yǒudiǎn bù gāoxīng 。",
+        "english": "The boss looks a little unhappy."
+      },
+      {
+        "chinese": "你们看起来差不多高。",
+        "pinyin": "nǐmen kànqǐlái chàbùduō gāo 。",
+        "english": "You guys look almost tall."
+      }
+    ]
+  },
+  {
+    "id": "g3-040",
+    "hskLevel": 3,
+    "title": "Basic comparisons with 'meiyou'",
+    "structure": "Noun 1 + 没有 + Noun 2 + Adj.",
+    "explanation": "Basic comparisons with 'meiyou'. Used for denying and refusing, comparing.",
+    "examples": [
+      {
+        "chinese": "小张没有小李高。",
+        "pinyin": "xiǎozhāng méiyǒu xiǎolǐ gāo 。",
+        "english": "Xiao Zhang does not have Xiao Li Gao."
+      },
+      {
+        "chinese": "小李没有小张矮。",
+        "pinyin": "xiǎolǐ méiyǒu xiǎozhāng ǎi 。",
+        "english": "Xiao Li does not have Xiao Zhang short."
+      },
+      {
+        "chinese": "这个地方没有上海好玩。",
+        "pinyin": "zhè gè dìfāng méiyǒu shànghǎi hǎowán 。",
+        "english": "This place is not as fun as Shanghai."
+      },
+      {
+        "chinese": "火车没有飞机快。",
+        "pinyin": "huǒchē méiyǒu fēijī kuài 。",
+        "english": "The train is not as fast as the plane."
+      },
+      {
+        "chinese": "他没有他弟弟聪明。",
+        "pinyin": "tā méiyǒu tādìdì cōngmíng 。",
+        "english": "He is not as smart as his brother."
+      }
+    ]
+  },
+  {
+    "id": "g3-041",
+    "hskLevel": 3,
+    "title": "Causative verbs",
+    "structure": "Subj. + [Causative Verb] + Person + Predicate",
+    "explanation": "Causative verbs. Used for sentence patterns, giving commands.",
+    "examples": [
+      {
+        "chinese": "你为什么不让我去？",
+        "pinyin": "nǐ wèishíyāo bù ràng wǒ qù ？",
+        "english": "Why don't you let me go?"
+      },
+      {
+        "chinese": "这部电影让人很感动。",
+        "pinyin": "zhè bù diànyǐng ràng rén hěn gǎndòng 。",
+        "english": "This movie is very touching."
+      },
+      {
+        "chinese": "那个老人让我想到了我爷爷。",
+        "pinyin": "nàgè lǎorén ràng wǒ xiǎngdào le wǒ yéyé 。",
+        "english": "The old man reminded me of my grandpa."
+      },
+      {
+        "chinese": "他不听话，你叫我怎么办？",
+        "pinyin": "tā bù tīnghuà ，nǐ jiào wǒ zěnyāobàn ？",
+        "english": "He is disobedient, what should you do if you tell me?"
+      },
+      {
+        "chinese": "他偷偷约别的女孩，你叫我怎么想？",
+        "pinyin": "tā tōutōu yuē biéde nv̌hái ，nǐ jiào wǒ zěnyāo xiǎng ？",
+        "english": "He secretly asked other girls, what do you think of me?"
+      }
+    ]
+  },
+  {
+    "id": "g3-042",
+    "hskLevel": 3,
+    "title": "Expressing 'through' with 'jingguo'",
+    "structure": "经过 + Event / Time ，⋯⋯",
+    "explanation": "Expressing 'through' with 'jingguo'. Used for referring to past experiences.",
+    "examples": [
+      {
+        "chinese": "我每天上班都经过这里。",
+        "pinyin": "wǒ měitiān shàngbān dū jīngguò zhèlǐ 。",
+        "english": "I pass here every day at work."
+      },
+      {
+        "chinese": "我坐火车回老家常常经过这个城市。",
+        "pinyin": "wǒ zuò huǒchē húi lǎojiā chángcháng jīngguò zhègè chéngshì 。",
+        "english": "I often pass through the city by train back home."
+      },
+      {
+        "chinese": "你经过我家门口的时候叫我一下。",
+        "pinyin": "nǐ jīngguò wǒ jiā ménkǒu de shíhòu jiào wǒ yīxià 。",
+        "english": "Call me when you pass by my door."
+      },
+      {
+        "chinese": "她经过这个咖啡店的时候就会想到他。",
+        "pinyin": "tā jīngguò zhègè kāfēidiàn de shíhòu jìu hùi xiǎngdào tā 。",
+        "english": "She thinks of him when she passes this coffee shop."
+      },
+      {
+        "chinese": "经过自己的努力，她考上了北京大学。",
+        "pinyin": "jīngguò zìjǐ de nǔlì ，tā kǎoshàng le běijīng dàxué 。",
+        "english": "After her own efforts, she was admitted to Peking University."
+      }
+    ]
+  },
+  {
+    "id": "g3-043",
+    "hskLevel": 3,
+    "title": "Expressing 'should' with 'yinggai'",
+    "structure": "Subj. (+ 不) + 应该 + Verb + Obj.",
+    "explanation": "Expressing 'should' with 'yinggai'. Used for expressing obligations.",
+    "examples": [
+      {
+        "chinese": "在中国，你应该喝白酒。",
+        "pinyin": "zài zhōngguó， nǐ yìnggāi hē báijǐu 。",
+        "english": "In China, you should drink liquor."
+      },
+      {
+        "chinese": "我应该给你多少钱？",
+        "pinyin": "wǒ yìnggāi gěi nǐ duōshǎo qián ？",
+        "english": "How much should I give you?"
+      },
+      {
+        "chinese": "感冒的时候应该喝热水。",
+        "pinyin": "gǎnmào de shíhòu yìnggāi hē rèshǔi 。",
+        "english": "Drink hot water when you have a cold."
+      },
+      {
+        "chinese": "明天你应该八点半来公司。",
+        "pinyin": "míngtiān nǐ yìnggāi bā diǎn bàn lái gōngsī 。",
+        "english": "You should come to the company at half past eight tomorrow."
+      },
+      {
+        "chinese": "他太累了，应该回家休息。",
+        "pinyin": "tā tài lèi le，yìnggāi húijiā xīuxī 。",
+        "english": "He is too tired and should go home to rest."
+      }
+    ]
+  },
+  {
+    "id": "g3-044",
+    "hskLevel": 3,
+    "title": "Expressing 'difficult' with 'nan'",
+    "structure": "Subj. + (很) 难 + Verb / [Sense Verb]",
+    "explanation": "Expressing 'difficult' with 'nan'. Used for describing actions.",
+    "examples": [
+      {
+        "chinese": "这句话很难懂。",
+        "pinyin": "zhè jù huà hěn nán dǒng 。",
+        "english": "This sentence is hard to understand."
+      },
+      {
+        "chinese": "汉语很难学。",
+        "pinyin": "hànyǔ hěn nán xué 。",
+        "english": "Chinese is difficult to learn."
+      },
+      {
+        "chinese": "中国菜很难做。",
+        "pinyin": "zhōngguócài hěn nán zuò 。",
+        "english": "Chinese food is hard to make."
+      },
+      {
+        "chinese": "这个东西现在很难买。",
+        "pinyin": "zhè gè dōngxī xiànzài hěn nán mǎi 。",
+        "english": "This thing is hard to buy now."
+      },
+      {
+        "chinese": "这个汉字很难写。",
+        "pinyin": "zhè gè hànzì hěn nán xiě 。",
+        "english": "This Chinese character is difficult to write."
+      }
+    ]
+  },
+  {
+    "id": "g3-045",
+    "hskLevel": 3,
+    "title": "Expressing duration with 'le'",
+    "structure": "Subj. + Verb + 了 + Duration + Obj.",
+    "explanation": "Expressing duration with 'le'. Used for referring to the past, expressing duration, expressing time and date.",
+    "examples": [
+      {
+        "chinese": "他学了一年中文。",
+        "pinyin": "tā xué le yī nián zhōngwén 。",
+        "english": "He studied Chinese for a year."
+      },
+      {
+        "chinese": "我看了一个晚上书。",
+        "pinyin": "wǒ kàn le yī gè wǎnshàng shū 。",
+        "english": "I read the book for one night."
+      },
+      {
+        "chinese": "他做了八年经理。",
+        "pinyin": "tā zuò le bā nián jīnglǐ 。",
+        "english": "He has been a manager for eight years."
+      },
+      {
+        "chinese": "我们坐了十五个小时的飞机。",
+        "pinyin": "wǒmen zuò le shíwǔ gè xiǎoshí de fēijī 。",
+        "english": "We flew for fifteen hours."
+      },
+      {
+        "chinese": "奶奶看了一天的电视。",
+        "pinyin": "nǎinǎi kàn le yī tiān de diànshì 。",
+        "english": "Grandma watched TV all day."
+      }
+    ]
+  },
+  {
+    "id": "g3-046",
+    "hskLevel": 3,
+    "title": "Expressing ongoing duration with double 'le'",
+    "structure": "Subj. + Verb + 了 + Duration + 了",
+    "explanation": "Expressing ongoing duration with double 'le'. Used for referring to the past, expressing duration, expressing time and date.",
+    "examples": [
+      {
+        "chinese": "你睡了一天了。",
+        "pinyin": "nǐ shùi le yī tiān le 。",
+        "english": "You have slept all day."
+      },
+      {
+        "chinese": "他在北京住了两年了。",
+        "pinyin": "tā zài běijīng zhù le liǎng nián le 。",
+        "english": "He has lived in Beijing for two years."
+      },
+      {
+        "chinese": "这个会，他们开了两个小时了。",
+        "pinyin": "zhè gè hùi，tāmen kāi le liǎng gè xiǎoshí le 。",
+        "english": "At this meeting, they had two hours."
+      },
+      {
+        "chinese": "我在这儿等了半个小时了。",
+        "pinyin": "wǒ zài zhèér děng le bàn gè xiǎoshí le 。",
+        "english": "I have been waiting here for half an hour."
+      },
+      {
+        "chinese": "他们在酒吧待了一个晚上了。",
+        "pinyin": "tāmen zài jǐuba dài le yī gè wǎnshàng le 。",
+        "english": "They spent the night in the bar."
+      }
+    ]
+  },
+  {
+    "id": "g3-047",
+    "hskLevel": 3,
+    "title": "Inability with 'mei banfa'",
+    "structure": "Subj. + 没办法 + Verb + Obj.",
+    "explanation": "Inability with 'mei banfa'. Used for describing actions, indicating conditions, expressing impossibility.",
+    "examples": [
+      {
+        "chinese": "今天太忙了，中午没办法出去吃饭。",
+        "pinyin": "jīntiān tài máng le，zhōngwǔ méi bànfǎ chūqù chīfàn 。",
+        "english": "Today is too busy to eat out at noon."
+      },
+      {
+        "chinese": "他没带手机，没办法给我打电话。",
+        "pinyin": "tā méi dài shǒujī，méi bànfǎ gěi wǒ dǎdiànhuà 。",
+        "english": "He didn't bring his cell phone, he couldn't call me."
+      },
+      {
+        "chinese": "没有水，我们没办法洗衣服。",
+        "pinyin": "méiyǒu shǔi，wǒmen méi bànfǎ xǐ yīfú 。",
+        "english": "Without water, we can't wash clothes."
+      },
+      {
+        "chinese": "这里太吵了，我没办法工作。",
+        "pinyin": "zhèlǐ tài chǎo le，wǒ méi bànfǎ gōngzuò 。",
+        "english": "It's too noisy here, I can't work."
+      },
+      {
+        "chinese": "他不开门，所以她没办法进去。",
+        "pinyin": "tā bù kāimén，suǒyǐ tā méi bànfǎ jìnqù 。",
+        "english": "He didn't open the door, so she couldn't get in."
+      }
+    ]
+  },
+  {
+    "id": "g3-048",
+    "hskLevel": 3,
+    "title": "Reduplication of verbs",
+    "structure": "Subj. + Verb + Verb",
+    "explanation": "Reduplication of verbs. Used for expressing duration, decreasing formality.",
+    "examples": [
+      {
+        "chinese": "你看看。",
+        "pinyin": "nǐ kànkàn 。",
+        "english": "Take a look."
+      },
+      {
+        "chinese": "我试试。",
+        "pinyin": "wǒ shì shì 。",
+        "english": "Let me try."
+      },
+      {
+        "chinese": "说说你的想法。",
+        "pinyin": "shuō shuō nǐ de xiǎngfǎ 。",
+        "english": "Tell me your thoughts."
+      },
+      {
+        "chinese": "出去玩玩吧！",
+        "pinyin": "chūqù wán wán ba！",
+        "english": "Go out and play!"
+      },
+      {
+        "chinese": "我想出去走走。",
+        "pinyin": "wǒ xiǎng chūqù zǒu zǒu 。",
+        "english": "I want to go for a walk."
+      }
+    ]
+  },
+  {
+    "id": "g3-049",
+    "hskLevel": 3,
+    "title": "Special verbs with 'hen'",
+    "structure": "Subj. + 很 + [Certain Verbs]",
+    "explanation": "Special verbs with 'hen'. Used for expressing quality.",
+    "examples": [
+      {
+        "chinese": "我很想你。",
+        "pinyin": "wǒ hěn xiǎng nǐ 。",
+        "english": "I miss you."
+      },
+      {
+        "chinese": "他很喜欢你。",
+        "pinyin": "tā hěn xǐhuān nǐ 。",
+        "english": "He likes you very much."
+      },
+      {
+        "chinese": "你应该很小心。",
+        "pinyin": "nǐyìnggāihěn xiǎoxīn 。",
+        "english": "You should be very careful."
+      },
+      {
+        "chinese": "我很怕晚上一个人在家。",
+        "pinyin": "wǒ hěn pà wǎnshàng yīgèrén zàijiā 。",
+        "english": "I'm scared to be alone at night."
+      },
+      {
+        "chinese": "你应该很了解自己的孩子。",
+        "pinyin": "nǐ yìnggāi hěn lejiě zìjǐ de háizǐ 。",
+        "english": "You should know your child well."
+      }
+    ]
+  },
+  {
+    "id": "g3-050",
+    "hskLevel": 3,
+    "title": "Direction complement",
+    "structure": "Verb + 来 / 去",
+    "explanation": "Direction complement. Used for describing actions, expressing movement, describing places.",
+    "examples": [
+      {
+        "chinese": "我在楼上，你上来。",
+        "pinyin": "wǒ zài lóushàng ，nǐ shànglái 。",
+        "english": "I'm upstairs, you come up."
+      },
+      {
+        "chinese": "你在楼上等我一下。",
+        "pinyin": "nǐ zài lóushàng děng wǒ yīxià 。",
+        "english": "You are waiting for me upstairs."
+      },
+      {
+        "chinese": "出来玩吧，我们在酒吧等你。",
+        "pinyin": "chūlái wán ba ，wǒmen zài jǐuba děng nǐ 。",
+        "english": "Come out to play, we are waiting for you at the bar."
+      },
+      {
+        "chinese": "我妈不让我出去。",
+        "pinyin": "wǒ mā bù ràng wǒ chūqù 。",
+        "english": "My mom won't let me go out."
+      },
+      {
+        "chinese": "这是我家，进来吧，随便坐。",
+        "pinyin": "zhè shì wǒjiā ，jìnlái ba ，súibiàn zuò 。",
+        "english": "This is my home. Come in and sit casually."
+      }
+    ]
+  },
+  {
+    "id": "g3-051",
+    "hskLevel": 3,
+    "title": "Potential complement",
+    "structure": "Subj. + Verb + 得 / 不 + Complement",
+    "explanation": "Potential complement. Used for describing actions.",
+    "examples": [
+      {
+        "chinese": "你没戴眼镜，看得清楚吗？",
+        "pinyin": "nǐ méi dài yǎnjìng ，kàn dé qīngchǔ ma ？",
+        "english": "You do n’t wear glasses, can you see clearly?"
+      },
+      {
+        "chinese": "他这么粗心，做得好吗？",
+        "pinyin": "tā zhèyāo cūxīn ，zuò dé hǎo ma ？",
+        "english": "He is so careless, is he doing well?"
+      },
+      {
+        "chinese": "你这么聪明，肯定学得会。",
+        "pinyin": "nǐ zhèyāo cōngmíng ，kěndìng xué dé hùi 。",
+        "english": "If you are so smart, you will definitely learn it."
+      },
+      {
+        "chinese": "早上五点出发，孩子们起得来吗？",
+        "pinyin": "zǎoshàng wǔdiǎn chūfā ，háizǐmen qǐ dé lái ma ？",
+        "english": "Will the children get up at five in the morning?"
+      },
+      {
+        "chinese": "这么高的山，你爬得上去吗？",
+        "pinyin": "zhèyāo gāo de shān ，nǐ pá dé shàngqù ma ？",
+        "english": "Can you climb such a high mountain?"
+      }
+    ]
+  },
+  {
+    "id": "g3-052",
+    "hskLevel": 3,
+    "title": "Result complements",
+    "structure": "Subj. （+没） Verb + [One-syllable Verb] +了 (+ Obj.)",
+    "explanation": "Result complements. Used for describing actions, expressing result.",
+    "examples": [
+      {
+        "chinese": "你吃好了吗？",
+        "pinyin": "nǐ chī hǎo le ma ？",
+        "english": "Have you eaten"
+      },
+      {
+        "chinese": "对不起，我记错了时间。",
+        "pinyin": "dùibùqǐ ，wǒ jì cuò le shíjiān 。",
+        "english": "Sorry, I remembered the wrong time."
+      },
+      {
+        "chinese": "你来晚了，我们已经关门了。",
+        "pinyin": "nǐ lái wǎn le ，wǒmen yǐjīng guānmén le 。",
+        "english": "You are late, we are already closed."
+      },
+      {
+        "chinese": "他玩坏了哥哥的玩具。",
+        "pinyin": "tā wán huài le gēgē de wánjù 。",
+        "english": "He broke his brother's toy."
+      },
+      {
+        "chinese": "我没吃饱。",
+        "pinyin": "wǒ méi chī bǎo 。",
+        "english": "I am not full."
+      }
+    ]
+  },
+  {
+    "id": "g3-053",
+    "hskLevel": 3,
+    "title": "Result complement '-xiaqu'",
+    "structure": "Subj. + Verb （+ 不） + 下去 (+ 了)",
+    "explanation": "Result complement '-xiaqu'. Used for describing actions, expressing result.",
+    "examples": [
+      {
+        "chinese": "说下去。",
+        "pinyin": "shuō xiàqù 。",
+        "english": "Keep talking."
+      },
+      {
+        "chinese": "这本书你一定要认真地看下去。",
+        "pinyin": "zhè běn shū nǐ yīdìng yào rènzhēn dì kàn xiàqù 。",
+        "english": "You must read this book carefully."
+      },
+      {
+        "chinese": "这样做很有意义，你应该做下去。",
+        "pinyin": "zhèyáng zuò hěn yǒu yìyì ，nǐ yìnggāi zuò xiàqù 。",
+        "english": "It makes sense to do so, you should do it."
+      },
+      {
+        "chinese": "他走了，因为他没脸待下去了。",
+        "pinyin": "tā zǒu le ，yīnwèi tā méiliǎn dài xiàqù le 。",
+        "english": "He was gone because he was faceless."
+      },
+      {
+        "chinese": "你不能这样生活下去了。",
+        "pinyin": "nǐ bùnéng zhèyáng shēnghuó xiàqù le 。",
+        "english": "You can't live like this anymore."
+      }
+    ]
+  },
+  {
+    "id": "g3-054",
+    "hskLevel": 3,
+    "title": "Expressing 'as long as' with 'zhiyao'",
+    "structure": "只要 + Condition ，就 + Result",
+    "explanation": "Expressing 'as long as' with 'zhiyao'. Used for indicating conditions, indicating cause and effect.",
+    "examples": [
+      {
+        "chinese": "只要你真的喜欢，我就给你买。",
+        "pinyin": "zhǐyào nǐ zhēnde xǐhuān， wǒ jìu gěi nǐ mǎi 。",
+        "english": "As long as you really like it, I will buy it for you."
+      },
+      {
+        "chinese": "只要你努力学习，就会有进步。",
+        "pinyin": "zhǐyào nǐ nǔlì xuéxí， jìu hùi yǒu jìnbù 。",
+        "english": "As long as you study hard, there will be progress."
+      },
+      {
+        "chinese": "只要有你在，我就放心了。",
+        "pinyin": "zhǐyào yǒu nǐ zài， wǒ jìu fàngxīn le 。",
+        "english": "As long as you are there, I can rest assured."
+      },
+      {
+        "chinese": "只要下雨，她就会心情不好。",
+        "pinyin": "zhǐyào xiàyǔ， tā jìu hùi xīnqíng bù hǎo 。",
+        "english": "As long as it rains, she will be in a bad mood."
+      },
+      {
+        "chinese": "只要看到妈妈，宝宝就不哭了。",
+        "pinyin": "zhǐyào kàndào māmā， bǎobǎo jìu bù kū le 。",
+        "english": "As long as you see your mother, your baby will not cry."
+      }
+    ]
+  },
+  {
+    "id": "g3-055",
+    "hskLevel": 3,
+    "title": "Expressing 'only after' with 'cai'",
+    "structure": "⋯⋯ ，才 ⋯⋯",
+    "explanation": "Expressing 'only after' with 'cai'. Used for indicating conditions.",
+    "examples": [
+      {
+        "chinese": "我花了八千块才买到了旅游的东西。",
+        "pinyin": "wǒ huā le bā qiān kuài cái mǎi dào le lv̌yóu de dōngxī 。",
+        "english": "It took me 8,000 yuan to buy things for travel."
+      },
+      {
+        "chinese": "小明花了很多心思才设计出了这张海报。",
+        "pinyin": "xiǎomíng huā le hěn duō xīnsī cái shèjì chū le zhè zhāng hǎibào 。",
+        "english": "It took Xiao Ming a lot of thought to design this poster."
+      },
+      {
+        "chinese": "他用了很多年才原谅了他的妈妈。",
+        "pinyin": "tā yòng le hěn duō nián cái yuánliàng le tāde māmā 。",
+        "english": "It took him many years to forgive his mother."
+      },
+      {
+        "chinese": "那本书我看了两遍才看懂。",
+        "pinyin": "nà běn shū wǒ kàn le liǎng biàn cái kàn dǒng 。",
+        "english": "I read that book twice before I understood it."
+      },
+      {
+        "chinese": "我去了三次北京才见到了那个客户。",
+        "pinyin": "wǒ qù le sān cì běijīng cái jiàn dào le nàgè kèhù 。",
+        "english": "I went to Beijing three times before I saw the customer."
+      }
+    ]
+  },
+  {
+    "id": "g3-056",
+    "hskLevel": 3,
+    "title": "Expressing 'only if' with 'zhiyou'",
+    "structure": "只有 + Essential Condition + 才 + Desired Outcome",
+    "explanation": "Expressing 'only if' with 'zhiyou'. Used for indicating conditions, indicating cause and effect.",
+    "examples": [
+      {
+        "chinese": "只有努力才能做好工作。",
+        "pinyin": "zhǐyǒu nǔlì cái néng zuò hǎo gōngzuò 。",
+        "english": "Only work hard to do a good job."
+      },
+      {
+        "chinese": "只有多吃饭才能长高。",
+        "pinyin": "zhǐyǒu duō chīfàn cái néng chánggāo 。",
+        "english": "Only by eating more can you grow taller."
+      },
+      {
+        "chinese": "只有多说，你的中文才会提高。",
+        "pinyin": "zhǐyǒu duō shuō，nǐdezhōngwén cái hùi tígāo 。",
+        "english": "Only by speaking more will your Chinese improve."
+      },
+      {
+        "chinese": "只有大家一起做才能成功。",
+        "pinyin": "zhǐyǒu dàjiā yīqǐ zuò cái néng chénggōng 。",
+        "english": "Only if you do it together can you succeed."
+      },
+      {
+        "chinese": "只有写完你的作业才能看电视。",
+        "pinyin": "zhǐyǒu xiě wán nǐde zuòyè cái néng kàn diànshì 。",
+        "english": "Only after finishing your homework can you watch TV."
+      }
+    ]
+  },
+  {
+    "id": "g3-057",
+    "hskLevel": 3,
+    "title": "Using 'youde' to mean 'some'",
+    "structure": "有的 + (Subj.) + Predicate， 有的 + (Subj.) + Predicate",
+    "explanation": "Using 'youde' to mean 'some'. Used for expressing quantity.",
+    "examples": [
+      {
+        "chinese": "外国人有的很有钱，有的没钱。",
+        "pinyin": "wàiguórén yǒude hěn yǒuqián， yǒude méiqián 。",
+        "english": "Some foreigners are rich and some have no money."
+      },
+      {
+        "chinese": "我们公司有一些电脑，有的是新的，有的是旧的。",
+        "pinyin": "wǒmen gōngsī yǒu yīxiē diànnǎo， yǒude shì xīnde，yǒude shì jìude 。",
+        "english": "Our company has some computers, some are new and some are old."
+      },
+      {
+        "chinese": "他写了很多书，有的卖得很好，有的卖得不好。",
+        "pinyin": "tā xiě le hěnduō shū，yǒude mài dé hěnhǎo， yǒude mài dé bùhǎo 。",
+        "english": "He wrote a lot of books, some sold well and some did not."
+      },
+      {
+        "chinese": "中国菜有的好吃，有的不好吃。",
+        "pinyin": "zhōngguócài yǒude hǎochī，yǒude bù hǎochī 。",
+        "english": "Some Chinese food is delicious and some are not."
+      },
+      {
+        "chinese": "这家店的衣服有的贵，有的便宜。",
+        "pinyin": "zhè jiā diàn de yīfú yǒude gùi ， yǒude biànyí 。",
+        "english": "Some clothes in this shop are expensive and some are cheap."
+      }
+    ]
+  },
+  {
+    "id": "g3-058",
+    "hskLevel": 3,
+    "title": "Expressing 'not even one'",
+    "structure": "一 + Measure Word + (Noun) + 也 / 都 + 不 / 没 + Verb",
+    "explanation": "Expressing 'not even one'. Used for describing things.",
+    "examples": [
+      {
+        "chinese": "他一句话都没说。",
+        "pinyin": "tā yī jù huà dū méi shuō 。",
+        "english": "He said nothing."
+      },
+      {
+        "chinese": "他一句中文都不会说。",
+        "pinyin": "tā yī jù zhōngwén dū bù hùi shuō 。",
+        "english": "He can't speak a sentence of Chinese."
+      },
+      {
+        "chinese": "为什么这里一个人都没有？",
+        "pinyin": "wèishíyāo zhèlǐ yī gè rén dū méiyǒu ？",
+        "english": "Why is there no one here?"
+      },
+      {
+        "chinese": "我一口都没吃。",
+        "pinyin": "wǒ yī kǒu dū méi chī 。",
+        "english": "I didn't eat a bite."
+      },
+      {
+        "chinese": "来上海以前，他一个外国朋友都没有。",
+        "pinyin": "lái shànghǎi yǐqián ， tā yī gè wàiguó péngyǒu dū méiyǒu 。",
+        "english": "Before coming to Shanghai, he had no foreign friends."
+      }
+    ]
+  },
+  {
+    "id": "g3-059",
+    "hskLevel": 3,
+    "title": "Expressing 'the more... the more...' with 'yue… yue…'",
+    "structure": "Subj. + 越 ⋯⋯ ，越 ⋯⋯",
+    "explanation": "Expressing 'the more... the more...' with 'yue… yue…'. Used for expressing degree.",
+    "examples": [
+      {
+        "chinese": "我们越想越生气。",
+        "pinyin": "wǒmen yuè xiǎng yuè shēngqì 。",
+        "english": "The more we think, the more angry we are."
+      },
+      {
+        "chinese": "我越看越喜欢。",
+        "pinyin": "wǒ yuè kàn yuè xǐhuān 。",
+        "english": "The more I look, the more I like it."
+      },
+      {
+        "chinese": "他越跑越快。",
+        "pinyin": "tā yuè pǎo yuè kuài 。",
+        "english": "He runs faster and faster."
+      },
+      {
+        "chinese": "雨越下越大。",
+        "pinyin": "yǔ yuè xià yuè dà 。",
+        "english": "The rain is getting heavier."
+      },
+      {
+        "chinese": "她越说，我越生气。",
+        "pinyin": "tā yuè shuō ，wǒ yuè shēngqì 。",
+        "english": "The more she said, the more angry I was."
+      }
+    ]
+  },
+  {
+    "id": "g3-060",
+    "hskLevel": 3,
+    "title": "Using 'ba' sentences",
+    "structure": "Subj. + [Verb Phrase] + Obj.  /  Subj. + 把 + Obj. + [Verb Phrase]",
+    "explanation": "Using 'ba' sentences. Used for expressing passive voice.",
+    "examples": [
+      {
+        "chinese": "把书放在桌子上。",
+        "pinyin": "bǎ shū fàng zài zhuōzǐ shàng 。",
+        "english": "Put the book on the table."
+      },
+      {
+        "chinese": "她把我的手机放在她的包里了。",
+        "pinyin": "tā bǎ wǒ de shǒujī fàng zài tā de bāo lǐ le 。",
+        "english": "She put my mobile phone in her bag."
+      },
+      {
+        "chinese": "他把脏衣服放在床下面了。",
+        "pinyin": "tā bǎ zāng yīfú fàng zài chuáng xiàmiàn le 。",
+        "english": "He put the dirty clothes under the bed."
+      },
+      {
+        "chinese": "你是不是把护照放在行李箱里了？",
+        "pinyin": "nǐ shì bù shì bǎ hùzhào fàng zài xínglǐxiāng lǐ le ？",
+        "english": "Did you put your passport in the suitcase?"
+      },
+      {
+        "chinese": "我把作业做完了。",
+        "pinyin": "wǒ bǎ zuòyè zuò wán le 。",
+        "english": "I finished my homework."
+      }
+    ]
+  },
+  {
+    "id": "g3-061",
+    "hskLevel": 3,
+    "title": "Using 'bei' sentences",
+    "structure": "Subj. + 被 (+ Doer) + Verb + 了",
+    "explanation": "Using 'bei' sentences. Used for sentence patterns, expressing passive voice.",
+    "examples": [
+      {
+        "chinese": "热狗被男孩吃了。",
+        "pinyin": "règǒu bèi nánhái chī le 。",
+        "english": "The hot dog was eaten by the boy."
+      },
+      {
+        "chinese": "热狗被吃了。",
+        "pinyin": "règǒu bèi chī le 。",
+        "english": "The hot dog was eaten."
+      },
+      {
+        "chinese": "他被打了。",
+        "pinyin": "tā bèi dǎ le 。",
+        "english": "He was beaten."
+      },
+      {
+        "chinese": "你被公司炒鱿鱼了？",
+        "pinyin": "nǐ bèi gōngsī chǎoyóuyú le ？",
+        "english": "Are you fired by the company?"
+      },
+      {
+        "chinese": "我的手机被偷了。",
+        "pinyin": "wǒ de shǒujī bèi tōu le 。",
+        "english": "My phone was stolen."
+      }
+    ]
+  },
+  {
+    "id": "g3-062",
+    "hskLevel": 3,
+    "title": "Alternative existential sentences",
+    "structure": "Place + Verb + 着 + [Noun Phrase]",
+    "explanation": "Alternative existential sentences. Used for expressing existence.",
+    "examples": [
+      {
+        "chinese": "桌子上放着一本书。",
+        "pinyin": "zhuōzǐ shàng fàng zháo yī běn shū 。",
+        "english": "There is a book on the table."
+      },
+      {
+        "chinese": "大厅里站着一些警察。",
+        "pinyin": "dàtīng lǐ zhàn zháo yīxiē jǐngchá 。",
+        "english": "There are some policemen standing in the hall."
+      },
+      {
+        "chinese": "教室里坐着两百多个学生。",
+        "pinyin": "jiàoshì lǐ zuò zháo liǎng bǎi duō gè xuéshēng 。",
+        "english": "More than two hundred students sat in the classroom."
+      },
+      {
+        "chinese": "地下室里堆着很多旧东西。",
+        "pinyin": "dìxiàshì lǐ dūi zháo hěn duō jìu dōngxī 。",
+        "english": "There are many old things piled in the basement."
+      },
+      {
+        "chinese": "楼下停着几辆车。",
+        "pinyin": "lóuxià tíng zháo jī liàng chē 。",
+        "english": "There are a few cars parked downstairs."
+      }
+    ]
+  },
+  {
+    "id": "g3-063",
+    "hskLevel": 3,
+    "title": "Expressing 'as one likes' with 'jiu'",
+    "structure": "想 + Verb + 就 + Verb",
+    "explanation": "Expressing 'as one likes' with 'jiu'. Used for expressing attitude, expressing desires.",
+    "examples": [
+      {
+        "chinese": "想吃就吃。",
+        "pinyin": "xiǎng chī jìu chī 。",
+        "english": "Eat if you want."
+      },
+      {
+        "chinese": "想走就走吧。",
+        "pinyin": "xiǎng zǒu jìu zǒu ba 。",
+        "english": "Just go if you want to go."
+      },
+      {
+        "chinese": "想买就买，不用问我。",
+        "pinyin": "xiǎng mǎi jìu mǎi ，bùyòng wèn wǒ 。",
+        "english": "Buy it if you want, without asking me."
+      },
+      {
+        "chinese": "别害怕，想说就说。",
+        "pinyin": "bié hàipà ，xiǎng shuō jìu shuō 。",
+        "english": "Don't be afraid, just talk."
+      },
+      {
+        "chinese": "想做就做，考虑那么多干吗？",
+        "pinyin": "xiǎng zuò jìu zuò ，kǎolv̀ nàyāo duō gānma ？",
+        "english": "Just do it if you want, why do you think so much?"
+      }
+    ]
+  },
+  {
+    "id": "g3-064",
+    "hskLevel": 3,
+    "title": "Expressing 'every' with question words",
+    "structure": "谁 + 都 + Predicate",
+    "explanation": "Expressing 'every' with question words. Used for expressing quantity.",
+    "examples": [
+      {
+        "chinese": "谁都喜欢美食。",
+        "pinyin": "shúi dū xǐhuān měishí 。",
+        "english": "Everyone likes food."
+      },
+      {
+        "chinese": "谁都可以进。",
+        "pinyin": "shúi dū kěyǐ jìn 。",
+        "english": "Anyone can enter."
+      },
+      {
+        "chinese": "谁都不相信他说的话。",
+        "pinyin": "shúi dū bù xiāngxìn tā shuō de huà 。",
+        "english": "No one believed what he said."
+      },
+      {
+        "chinese": "他的房间里哪儿都是脏衣服。",
+        "pinyin": "tā de fángjiān lǐ nǎér dū shì zāng yīfú 。",
+        "english": "Dirty clothes are everywhere in his room."
+      },
+      {
+        "chinese": "我太累了，哪儿都不想去。",
+        "pinyin": "wǒ tài lèi le，nǎér dū bù xiǎng qù 。",
+        "english": "I'm too tired to go anywhere."
+      }
+    ]
+  },
+  {
+    "id": "g3-065",
+    "hskLevel": 3,
+    "title": "Expressing 'more and more' with 'yuelaiyue'",
+    "structure": "Subj. + 越来越 + Verb / Adj. + 了",
+    "explanation": "Expressing 'more and more' with 'yuelaiyue'. Used for expressing degree.",
+    "examples": [
+      {
+        "chinese": "天气越来越冷了。",
+        "pinyin": "tiānqì yuèláiyuè lěng le 。",
+        "english": "The weather is getting cold."
+      },
+      {
+        "chinese": "你女儿越来越漂亮了。",
+        "pinyin": "nǐ nv̌ér yuèláiyuè piāoliàng le 。",
+        "english": "Your daughter is getting more and more beautiful."
+      },
+      {
+        "chinese": "你说得越来越好了。",
+        "pinyin": "nǐ shuō dé yuèláiyuè hǎo le 。",
+        "english": "You are getting better and better."
+      },
+      {
+        "chinese": "技术越来越发达了。",
+        "pinyin": "jìzhú yuèláiyuè fādá le 。",
+        "english": "Technology is becoming more and more developed."
+      },
+      {
+        "chinese": "空气污染越来越严重了。",
+        "pinyin": "kōngqì wūrǎn yuèláiyuè yánzhòng le 。",
+        "english": "Air pollution is getting worse."
+      }
+    ]
+  },
+  {
+    "id": "g3-066",
+    "hskLevel": 3,
+    "title": "Expressing purpose with 'weile'",
+    "structure": "为了 ⋯⋯ ，Subj. ⋯⋯",
+    "explanation": "Expressing purpose with 'weile'. Used for expressing purpose.",
+    "examples": [
+      {
+        "chinese": "为了钱，他什么都愿意做。",
+        "pinyin": "wèile qián ，tā shíyāo dū yuànyì zuò 。",
+        "english": "For money, he is willing to do anything."
+      },
+      {
+        "chinese": "为了孩子的未来，他决定搬到上海。",
+        "pinyin": "wèile háizǐ de wèilái ，tā juédìng bāndào shànghǎi 。",
+        "english": "For the child's future, he decided to move to Shanghai."
+      },
+      {
+        "chinese": "为了这个面试，他买了一套很贵的西服。",
+        "pinyin": "wèile zhègè miànshì ，tā mǎi le yī tào hěn gùi de xīfú 。",
+        "english": "For this interview, he bought an expensive suit."
+      },
+      {
+        "chinese": "为了找灵感，那个作家搬到了农村。",
+        "pinyin": "wèile zhǎo línggǎn ，nàgè zuòjiā bāndào le nóngcūn 。",
+        "english": "In order to find inspiration, the writer moved to the countryside."
+      },
+      {
+        "chinese": "五年前，为了女朋友，他放弃了上海的工作。",
+        "pinyin": "wǔnián qián ，wèile nv̌péngyǒu ，tā fàngqì le shànghǎi de gōngzuò 。",
+        "english": "Five years ago, he gave up his job in Shanghai for his girlfriend."
+      }
+    ]
+  },
+  {
+    "id": "g3-067",
+    "hskLevel": 3,
+    "title": "Expressing 'some' with question words",
+    "structure": "\"Somewhere\" with 哪儿",
+    "explanation": "Expressing 'some' with question words",
+    "examples": [
+      {
+        "chinese": "这个人我在哪儿见过。",
+        "pinyin": "zhègè rén wǒ zài nǎér jiàn guò 。",
+        "english": "Where have I seen this person?"
+      },
+      {
+        "chinese": "这首歌我在哪儿听过。",
+        "pinyin": "zhè shǒu gē wǒ zài nǎér tīng guò 。",
+        "english": "Where have I heard this song?"
+      },
+      {
+        "chinese": "这篇文章我们在哪儿看过。",
+        "pinyin": "zhè piān wénzhāng wǒmen zài nǎér kàn guò 。",
+        "english": "Where have we read this article?"
+      },
+      {
+        "chinese": "你让谁来帮我一下。",
+        "pinyin": "nǐ ràng shúi lái bāng wǒ yīxià 。",
+        "english": "Who do you want to help me with?"
+      },
+      {
+        "chinese": "这件事我听谁说过。",
+        "pinyin": "zhè jiàn shì wǒ tīng shúi shuō guò 。",
+        "english": "Who have I heard about this?"
+      }
+    ]
+  },
+  {
+    "id": "g3-068",
+    "hskLevel": 3,
+    "title": "Expressing comparable degree with 'you'",
+    "structure": "A + 有 + B + Adj. + 吗 ？",
+    "explanation": "Expressing comparable degree with 'you'. Used for comparing, describing people, describing things.",
+    "examples": [
+      {
+        "chinese": "他有我帅吗？",
+        "pinyin": "tā yǒu wǒ shuài ma ？",
+        "english": "Is he handsome?"
+      },
+      {
+        "chinese": "你有老板忙吗？",
+        "pinyin": "nǐ yǒu lǎobǎn máng ma ？",
+        "english": "Are you busy with your boss?"
+      },
+      {
+        "chinese": "他有姚明高吗？",
+        "pinyin": "tā yǒu yáomíng gāo ma ？",
+        "english": "Does he have Yao Minggao?"
+      },
+      {
+        "chinese": "纽约人口有上海人口多吗？",
+        "pinyin": "nǐuyuē rénkǒu yǒu shànghǎi rénkǒu duō ma ？",
+        "english": "Does New York have a larger population than Shanghai?"
+      },
+      {
+        "chinese": "他有我做得好吗？",
+        "pinyin": "tā yǒu wǒ zuò dé hǎo ma ？",
+        "english": "Did he do well with me?"
+      }
+    ]
+  },
+  {
+    "id": "g3-069",
+    "hskLevel": 3,
+    "title": "Expressing 'compared with' using 'gen'",
+    "structure": "跟 + A + 比 (起来) ，B⋯⋯  /  B + 跟 + A + 比 (起来) ，⋯⋯",
+    "explanation": "Expressing 'compared with' using 'gen'. Used for comparing.",
+    "examples": [
+      {
+        "chinese": "跟上海比，我老家的物价很低。",
+        "pinyin": "gēn shànghǎi bǐ ，wǒ lǎojiā de wùjià hěn dī 。",
+        "english": "Compared with Shanghai, the price in my hometown is very low."
+      },
+      {
+        "chinese": "跟东部比，我更喜欢美国西部。",
+        "pinyin": "gēn dōngbù bǐ ，wǒ gèng xǐhuān měiguó xībù 。",
+        "english": "I like the American West more than the East."
+      },
+      {
+        "chinese": "跟他比，你最大的优势是什么？",
+        "pinyin": "gēn tā bǐ ，nǐ zùidà de yōushì shì shíyāo ？",
+        "english": "Compared with him, what is your biggest advantage?"
+      },
+      {
+        "chinese": "妹妹跟姐姐比起来有点害羞。",
+        "pinyin": "mèimèi gēn jiějiě bǐqǐlái yǒudiǎn hàixīu 。",
+        "english": "The sister is a little shy compared to her sister."
+      },
+      {
+        "chinese": "新版本跟旧版本比起来，多了一些功能。",
+        "pinyin": "xīn bǎnběn gēn jìu bǎnběn bǐqǐlái ，duō le yīxiē gōngnéng 。",
+        "english": "Compared with the old version, the new version has some more functions."
+      }
+    ]
+  },
+  {
+    "id": "g3-070",
+    "hskLevel": 3,
+    "title": "Expressing 'even more' with 'geng' or 'hai'",
+    "structure": "Noun 1 + 比 + Noun 2 + 更 / 还 + Adj.",
+    "explanation": "Expressing 'even more' with 'geng' or 'hai'. Used for comparing, adding more explanation, expressing degree.",
+    "examples": [
+      {
+        "chinese": "上海比纽约人口更多。",
+        "pinyin": "shànghǎi bǐ nǐuyuē rénkǒu gèng duō 。",
+        "english": "Shanghai has a larger population than New York."
+      },
+      {
+        "chinese": "我妹妹比我更瘦。",
+        "pinyin": "wǒ mèimèi bǐ wǒ gèng shòu 。",
+        "english": "My sister is thinner than me."
+      },
+      {
+        "chinese": "我的猫比我的狗更淘气。",
+        "pinyin": "wǒ de māo bǐ wǒ de gǒu gèng táoqì 。",
+        "english": "My cat is more naughty than my dog."
+      },
+      {
+        "chinese": "有时候动物比人类更聪明。",
+        "pinyin": "yǒushíhòu dòngwù bǐ rénlèi gèng cōngmíng 。",
+        "english": "Sometimes animals are smarter than humans."
+      },
+      {
+        "chinese": "大城市的工作机会比我老家更多。",
+        "pinyin": "dà chéngshì de gōngzuò jīhùi bǐ wǒ lǎojiā gèng duō 。",
+        "english": "There are more job opportunities in big cities than in my hometown."
+      }
+    ]
+  },
+  {
+    "id": "g3-071",
+    "hskLevel": 3,
+    "title": "Expressing 'much more' in comparisons",
+    "structure": "Noun 1 + 比 + Noun 2 + Adj. + 很多 / 得多 / 多了",
+    "explanation": "Expressing 'much more' in comparisons. Used for comparing, adding more explanation, expressing quality.",
+    "examples": [
+      {
+        "chinese": "拼音比汉字容易很多。",
+        "pinyin": "pīnyīn bǐ hànzì róngyì hěnduō 。",
+        "english": "Pinyin is much easier than Chinese characters."
+      },
+      {
+        "chinese": "坐高铁比坐飞机方便很多。",
+        "pinyin": "zuò gāotiě bǐ zuò fēijī fāngbiàn hěnduō 。",
+        "english": "It is much more convenient to take the high-speed train than to take the plane."
+      },
+      {
+        "chinese": "这个女老师比那个男老师严格得多。",
+        "pinyin": "zhè gè nv̌lǎoshī bǐ nàgè nánlǎoshī yángé dé duō 。",
+        "english": "This female teacher is much stricter than that male teacher."
+      },
+      {
+        "chinese": "我老婆的工资比我高得多。",
+        "pinyin": "wǒ lǎopó de gōngzī bǐ wǒ gāo déduō 。",
+        "english": "My wife's salary is much higher than mine."
+      },
+      {
+        "chinese": "你比我有经验多了。",
+        "pinyin": "nǐ bǐ wǒ yǒujīngyàn duōle 。",
+        "english": "You have more experience than me."
+      }
+    ]
+  },
+  {
+    "id": "g3-072",
+    "hskLevel": 3,
+    "title": "Expressing 'except' and 'in addition' with 'chule… yiwai'",
+    "structure": "除了 ⋯⋯ (+ 以外) ，Subj. + 都 / 也 / 还 ⋯⋯",
+    "explanation": "Expressing 'except' and 'in addition' with 'chule… yiwai'. Used for giving alternatives.",
+    "examples": [
+      {
+        "chinese": "除了他，我们都去过。",
+        "pinyin": "chúle tā ，wǒmen dū qù guò 。",
+        "english": "We have all been except him."
+      },
+      {
+        "chinese": "除了白酒，别的酒他都喝。",
+        "pinyin": "chúle báijǐu ，biéde jǐu tā dū hē 。",
+        "english": "He drinks everything except liquor."
+      },
+      {
+        "chinese": "除了周末，老板每天都加班。",
+        "pinyin": "chúle zhōumò ，lǎobǎn měitiān dū jiābān 。",
+        "english": "The boss works overtime every day except on weekends."
+      },
+      {
+        "chinese": "除了价格以外，其他方面我们都很满意。",
+        "pinyin": "chúle jiàgé yǐwài ，qítā fāngmiàn wǒmen dū hěn mǎnyì 。",
+        "english": "In addition to the price, we are very satisfied with other aspects."
+      },
+      {
+        "chinese": "除了政治新闻以外，其他新闻我都看。",
+        "pinyin": "chúle zhèngzhì xīnwén yǐwài ，qítā xīnwén wǒ dū kàn 。",
+        "english": "I read all news except political news."
+      }
+    ]
+  },
+  {
+    "id": "g3-073",
+    "hskLevel": 3,
+    "title": "Expressing 'if... then...' with 'ruguo... jiu...'",
+    "structure": "如果 ⋯⋯ ，就 / 那么 / 那 ⋯⋯",
+    "explanation": "Expressing 'if... then...' with 'ruguo... jiu...'. Used for indicating conditions, expressing possibility.",
+    "examples": [
+      {
+        "chinese": "如果有困难，就给我打电话。",
+        "pinyin": "rúguǒ yǒu kùnnán ，jìu gěi wǒ dǎ diànhuà 。",
+        "english": "If you have difficulty, call me."
+      },
+      {
+        "chinese": "如果你输了，就给我一百块。",
+        "pinyin": "rúguǒ nǐ shū le ，jìu gěi wǒ yī bǎi kuài 。",
+        "english": "If you lose, give me a hundred dollars."
+      },
+      {
+        "chinese": "如果真的找不回来，就再买一个吧。",
+        "pinyin": "rúguǒ zhēnde zhǎo bù húilái ，jìu zài mǎi yī gè ba 。",
+        "english": "If you ca n’t find it, buy another one."
+      },
+      {
+        "chinese": "如果他再来，我们就报警。",
+        "pinyin": "rúguǒ tā zài lái ，wǒmen jìu bàojǐng 。",
+        "english": "If he comes again, we will call the police."
+      },
+      {
+        "chinese": "如果你们已经不相爱了，就分手吧。",
+        "pinyin": "rúguǒ nǐmen yǐjīng bù xiāngài le ，jìu fēnshǒu ba 。",
+        "english": "If you are not in love anymore, just break up."
+      }
+    ]
+  },
+  {
+    "id": "g3-074",
+    "hskLevel": 3,
+    "title": "Expressing 'if' with 'ruguo... dehua'",
+    "structure": "如果 ⋯⋯ 的话 ，(就) ⋯⋯",
+    "explanation": "Expressing 'if' with 'ruguo... dehua'. Used for indicating conditions, expressing possibility.",
+    "examples": [
+      {
+        "chinese": "如果明天下雨的话，我们就不去了。",
+        "pinyin": "rúguǒ míngtiān xiàyǔ dehuà ，wǒmen jìu bù qù le 。",
+        "english": "If it rains tomorrow, we will not go."
+      },
+      {
+        "chinese": "别点那么多菜。",
+        "pinyin": "bié diǎn nàyāo duō cài 。",
+        "english": "Don't order so many dishes."
+      },
+      {
+        "chinese": "如果有人帮他的话，他就不会出事了。",
+        "pinyin": "rúguǒ yǒu rén bāng tā dehuà ，tā jìu bù hùi chūshì le 。",
+        "english": "If someone helps him, he wo n’t be in trouble."
+      },
+      {
+        "chinese": "如果你们不来的话，一定会后悔的。",
+        "pinyin": "rúguǒ nǐmen bù lái dehuà ，yīdìng hùi hòuhǔi de 。",
+        "english": "If you do not come, you will regret it."
+      },
+      {
+        "chinese": "如果他不同意的话，你怎么办？",
+        "pinyin": "rúguǒ tā bù tóngyì dehuà ，nǐ zěnyāobàn ？",
+        "english": "What if you do n’t agree?"
+      }
+    ]
+  },
+  {
+    "id": "g3-075",
+    "hskLevel": 3,
+    "title": "Expressing 'not only... but also'",
+    "structure": "Subj. + 不但 ⋯⋯ ，而且 ⋯⋯",
+    "explanation": "Expressing 'not only... but also'. Used for adding more explanation, connecting ideas.",
+    "examples": [
+      {
+        "chinese": "这个东西不但贵，而且难买。",
+        "pinyin": "zhègè dōngxī bùdàn gùi ，érqiě nán mǎi 。",
+        "english": "This thing is not only expensive but also difficult to buy."
+      },
+      {
+        "chinese": "这道菜不但好看，也好吃。",
+        "pinyin": "zhè dào cài bùdàn hǎokàn ，yě hǎochī 。",
+        "english": "This dish is not only beautiful, but also delicious."
+      },
+      {
+        "chinese": "她不但聪明，而且很幽默。",
+        "pinyin": "tā bùdàn cōngmíng ，érqiě hěn yōumò 。",
+        "english": "She is not only smart, but also very humorous."
+      },
+      {
+        "chinese": "她不但离开了我，还拿走了我所有的钱。",
+        "pinyin": "tā bùdàn líkāi le wǒ ，huán názǒu le wǒ suǒyǒu de qián 。",
+        "english": "Not only did she leave me, she also took all my money."
+      },
+      {
+        "chinese": "他不但提前做完了，而且做得很好。",
+        "pinyin": "tā bùdàn tíqián zuò wán le ，érqiě zuò dé hěn hǎo 。",
+        "english": "Not only did he finish ahead of time, he did well."
+      }
+    ]
+  },
+  {
+    "id": "g3-076",
+    "hskLevel": 3,
+    "title": "Comparing 'cai' and 'jiu'",
+    "structure": "Subj. + Time Word + 才 + Verb",
+    "explanation": "Comparing 'cai' and 'jiu'. Used for sequencing events in time, expressing time and date, expressing attitude.",
+    "examples": [
+      {
+        "chinese": "我等了两个小时才买到票。",
+        "pinyin": "wǒ děng le liǎng gè xiǎoshí cái mǎidào piào 。",
+        "english": "I waited two hours before buying the ticket."
+      },
+      {
+        "chinese": "老板十一点才到办公室。",
+        "pinyin": "lǎobǎn shíyī diǎn cái dào bàngōngshì 。",
+        "english": "The boss arrived at the office at eleven o'clock."
+      },
+      {
+        "chinese": "这个项目最少要花两个月才能做完。",
+        "pinyin": "zhègè xiàngmù zùishǎo yào huā liǎng gè yuè cái néng zuò wán 。",
+        "english": "This project will take at least two months to complete."
+      },
+      {
+        "chinese": "我们有这么多人，你才点了三个菜。",
+        "pinyin": "wǒmen yǒu zhèyāo duō rén，nǐ cái diǎn le sān gè cài 。",
+        "english": "We have so many people, you just ordered three dishes."
+      },
+      {
+        "chinese": "我买了这么多东西，才花了五百块。",
+        "pinyin": "wǒ mǎi le zhèyāo duō dōngxī，cái huā le wǔ bǎi kuài 。",
+        "english": "I bought so many things, it only cost 500 yuan."
+      }
+    ]
+  },
+  {
+    "id": "g3-077",
+    "hskLevel": 3,
+    "title": "Comparing 'gang' and 'gangcai'",
+    "structure": "刚 (gāng) vs 刚才 (gāngcái)",
+    "explanation": "Comparing 'gang' and 'gangcai'. Used for describing actions, expressing time and date.",
+    "examples": [
+      {
+        "chinese": "他刚到。",
+        "pinyin": "tā gāng dào 。",
+        "english": "He just arrived."
+      },
+      {
+        "chinese": "我们昨天刚到。",
+        "pinyin": "wǒmen zuótiān gāng dào 。",
+        "english": "We just arrived yesterday."
+      },
+      {
+        "chinese": "真不巧，老板刚走。",
+        "pinyin": "zhēn bùqiǎo ，lǎobǎn gāng zǒu 。",
+        "english": "What a coincidence, the boss just left."
+      },
+      {
+        "chinese": "我刚到上海的时候，谁都不认识。",
+        "pinyin": "wǒ gāng dào shànghǎi de shíhòu ，shúi dū bù rènshì 。",
+        "english": "When I first arrived in Shanghai, no one knew."
+      },
+      {
+        "chinese": "他的感冒刚刚好。",
+        "pinyin": "tā de gǎnmào gānggāng hǎo 。",
+        "english": "His cold is just right."
+      }
+    ]
+  },
+  {
+    "id": "g3-078",
+    "hskLevel": 3,
+    "title": "Comparing 'youdian' and 'yidian'",
+    "structure": "一点 (yīdiǎn) vs 有点 (yǒudiǎn)",
+    "explanation": "Comparing 'youdian' and 'yidian'. Used for adding more explanation, expressing attitude, expressing degree.",
+    "examples": [
+      {
+        "chinese": "今天我有点累。",
+        "pinyin": "jīntiān wǒ yǒudiǎn lèi 。",
+        "english": "Today I am a little tired."
+      },
+      {
+        "chinese": "这个菜有点咸。",
+        "pinyin": "zhègè cài yǒudiǎn xián 。",
+        "english": "This dish is a bit salty."
+      },
+      {
+        "chinese": "请说慢一点。",
+        "pinyin": "qǐng shuō màn yīdiǎn 。",
+        "english": "Please speak slower."
+      },
+      {
+        "chinese": "快点，要迟到了。",
+        "pinyin": "kuài diǎn，yào chídào le 。",
+        "english": "Hurry up and be late."
+      },
+      {
+        "chinese": "老板，便宜点吧。",
+        "pinyin": "lǎobǎn ，biànyí diǎn ba 。",
+        "english": "Boss, cheaper."
+      }
+    ]
+  },
+  {
+    "id": "g3-079",
+    "hskLevel": 3,
+    "title": "Comparing 'zai' and 'you'",
+    "structure": "Subj. + 再 + Verb",
+    "explanation": "Comparing 'zai' and 'you'. Used for describing actions, sequencing events in time.",
+    "examples": [
+      {
+        "chinese": "我们下次再来吧。",
+        "pinyin": "wǒmen xiàcì zài lái ba 。",
+        "english": "Let's come again next time."
+      },
+      {
+        "chinese": "我想再看一下。",
+        "pinyin": "wǒ xiǎng zài kàn yīxià 。",
+        "english": "I want to take another look."
+      },
+      {
+        "chinese": "请再说一次。",
+        "pinyin": "qǐng zài shuō yī cì 。",
+        "english": "Please say that again."
+      },
+      {
+        "chinese": "我要再看一部电影。",
+        "pinyin": "wǒ yào zài kàn yī bù diànyǐng 。",
+        "english": "I want to watch another movie."
+      },
+      {
+        "chinese": "你可以再做一碗面条吗？",
+        "pinyin": "nǐ kěyǐ zài zuò yī wǎn miàntiáo ma ？",
+        "english": "Can you make another bowl of noodles?"
       }
     ]
   }

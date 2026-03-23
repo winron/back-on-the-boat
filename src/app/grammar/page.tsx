@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { loadGrammar } from "@/lib/data-loader";
 import LevelSelector from "@/components/shared/LevelSelector";
@@ -12,13 +12,26 @@ export default function GrammarPage() {
   const { level, setLevel } = useHskLevel();
   const [patterns, setPatterns] = useState<GrammarPattern[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [search, setSearch] = useState("");
 
   useEffect(() => {
     loadGrammar(level)
       .then(setPatterns)
       .catch(() => setPatterns([]));
     setSelectedId(null);
+    setSearch("");
   }, [level]);
+
+  const filtered = useMemo(() => {
+    if (!search.trim()) return patterns;
+    const q = search.toLowerCase();
+    return patterns.filter(
+      (p) =>
+        p.title.toLowerCase().includes(q) ||
+        p.structure.toLowerCase().includes(q) ||
+        p.explanation.toLowerCase().includes(q)
+    );
+  }, [patterns, search]);
 
   const selected = patterns.find((p) => p.id === selectedId);
 
@@ -63,7 +76,18 @@ export default function GrammarPage() {
         </div>
       ) : (
         <div className="space-y-3">
-          {patterns.map((pattern) => (
+          <input
+            type="text"
+            placeholder="Search grammar patterns..."
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            className="w-full px-4 py-2.5 bg-muted rounded-xl text-sm placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary"
+          />
+          <p className="text-xs text-muted-foreground">
+            {filtered.length} pattern{filtered.length !== 1 ? "s" : ""}
+            {search && ` matching "${search}"`}
+          </p>
+          {filtered.map((pattern) => (
             <button
               key={pattern.id}
               onClick={() => setSelectedId(pattern.id)}
@@ -75,6 +99,11 @@ export default function GrammarPage() {
               </p>
             </button>
           ))}
+          {filtered.length === 0 && patterns.length > 0 && (
+            <p className="text-center text-muted-foreground py-8">
+              No patterns match your search.
+            </p>
+          )}
           {patterns.length === 0 && (
             <p className="text-center text-muted-foreground py-8">
               No grammar data available yet. Run the data preparation script.

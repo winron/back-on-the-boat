@@ -7,6 +7,9 @@ export interface HskWord {
   meaning: string;
   hskLevel: 1 | 2 | 3 | 4 | 5 | 6;
   partOfSpeech?: string;
+  frequency?: number;
+  unitIndex: number;
+  unitName: string;
   exampleSentence?: string;
   examplePinyin?: string;
   exampleMeaning?: string;
@@ -52,6 +55,17 @@ export interface DialogueLine {
   chinese: string;
   pinyin: string;
   english: string;
+}
+
+// === Reading Passage ===
+export interface ReadingPassage {
+  id: string;
+  hskLevel: 1 | 2 | 3 | 4 | 5 | 6;
+  title: string;
+  titleZh: string;
+  type: 'short' | 'story';
+  paragraphs: { chinese: string; pinyin: string; english: string }[];
+  vocabHighlights: string[];
 }
 
 // === SRS Card State (FSRS) ===

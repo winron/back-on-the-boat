@@ -1,0 +1,644 @@
+[
+  {
+    "id": "r5-001",
+    "hskLevel": 5,
+    "title": "The Art of Negotiation",
+    "titleZh": "谈判的艺术",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "谈判是一门艺术，也是一种技能。在商业活动中，谈判的成败往往决定着合作的结果。一个优秀的谈判者不仅要了解对方的需求，还要善于表达自己的立场。",
+        "pinyin": "Tánpàn shì yì mén yìshù, yě shì yì zhǒng jìnéng. Zài shāngyè huódòng zhōng, tánpàn de chéngbài wǎngwǎng juédìng zhe hézuò de jiéguǒ. Yí ge yōuxiù de tánpàn zhě bùjǐn yào liǎojiě duìfāng de xūqiú, hái yào shànyú biǎodá zìjǐ de lìchǎng.",
+        "english": "Negotiation is an art and a skill. In business activities, the success or failure of negotiation often determines the outcome of cooperation. An excellent negotiator must not only understand the other party's needs but also be good at expressing their own position."
+      },
+      {
+        "chinese": "成功的谈判有几个关键因素。首先，充分的准备是必不可少的。你需要研究对方的背景、利益和可能的底线。其次，倾听比说话更重要。通过认真倾听，你可以发现对方真正关心的问题。",
+        "pinyin": "Chénggōng de tánpàn yǒu jǐ ge guānjiàn yīnsù. Shǒuxiān, chōngfèn de zhǔnbèi shì bìbùkěshǎo de. Nǐ xūyào yánjiū duìfāng de bèijǐng, lìyì hé kěnéng de dǐxiàn. Qícì, qīngtīng bǐ shuōhuà gèng zhòngyào. Tōngguò rènzhēn qīngtīng, nǐ kěyǐ fāxiàn duìfāng zhēnzhèng guānxīn de wèntí.",
+        "english": "Successful negotiation has several key factors. First, thorough preparation is essential. You need to research the other party's background, interests, and possible bottom line. Second, listening is more important than speaking. Through careful listening, you can discover the issues the other party truly cares about."
+      },
+      {
+        "chinese": "此外，灵活性也很重要。如果你只坚持自己的方案，谈判很容易陷入僵局。好的谈判者会寻找双赢的解决方案，让双方都感到满意。",
+        "pinyin": "Cǐwài, línghuóxìng yě hěn zhòngyào. Rúguǒ nǐ zhǐ jiānchí zìjǐ de fāng'àn, tánpàn hěn róngyì xiànrù jiāngjú. Hǎo de tánpàn zhě huì xúnzhǎo shuāngyíng de jiějué fāng'àn, ràng shuāngfāng dōu gǎndào mǎnyì.",
+        "english": "In addition, flexibility is also important. If you only insist on your own plan, the negotiation can easily reach a deadlock. Good negotiators will look for win-win solutions that make both parties feel satisfied."
+      },
+      {
+        "chinese": "最后，保持冷静和耐心是谈判中不可忽视的品质。情绪化的反应会破坏信任，而耐心则能帮助你在压力下做出明智的决定。",
+        "pinyin": "Zuìhòu, bǎochí lěngjìng hé nàixīn shì tánpàn zhōng bùkě hūshì de pǐnzhì. Qíngxùhuà de fǎnyìng huì pòhuài xìnrèn, ér nàixīn zé néng bāngzhù nǐ zài yālì xià zuòchū míngzhì de juédìng.",
+        "english": "Finally, maintaining calm and patience are qualities that cannot be overlooked in negotiation. Emotional reactions will damage trust, while patience can help you make wise decisions under pressure."
+      }
+    ],
+    "vocabHighlights": [
+      "谈判",
+      "艺术",
+      "技能",
+      "成败",
+      "立场",
+      "关键",
+      "因素",
+      "倾听",
+      "灵活性",
+      "僵局",
+      "双赢",
+      "忽视"
+    ]
+  },
+  {
+    "id": "r5-002",
+    "hskLevel": 5,
+    "title": "Climate Change",
+    "titleZh": "气候变化",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "气候变化是当今世界面临的最严峻的挑战之一。科学家们指出，全球平均气温在过去一百年里上升了大约一度，这主要是由于人类活动排放了大量温室气体。",
+        "pinyin": "Qìhòu biànhuà shì dāngjīn shìjiè miànlín de zuì yánjùn de tiǎozhàn zhī yī. Kēxuéjiā men zhǐchū, quánqiú píngjūn qìwēn zài guòqù yì bǎi nián lǐ shàngshēng le dàyuē yí dù, zhè zhǔyào shì yóuyú rénlèi huódòng páifàng le dàliàng wēnshì qìtǐ.",
+        "english": "Climate change is one of the most severe challenges facing the world today. Scientists point out that the global average temperature has risen by about one degree over the past century, mainly due to the large amount of greenhouse gases emitted by human activities."
+      },
+      {
+        "chinese": "气候变化的影响是多方面的。极端天气事件变得更加频繁，包括洪水、干旱和热浪。海平面上升威胁着沿海城市。许多动植物的生存环境也受到了严重影响。",
+        "pinyin": "Qìhòu biànhuà de yǐngxiǎng shì duō fāngmiàn de. Jíduān tiānqì shìjiàn biàn de gèngjiā pínfán, bāokuò hóngshuǐ, gānhàn hé rèlàng. Hǎi píngmiàn shàngshēng wēixié zhe yánhǎi chéngshì. Xǔduō dòng zhíwù de shēngcún huánjìng yě shòudào le yánzhòng yǐngxiǎng.",
+        "english": "The impacts of climate change are multifaceted. Extreme weather events are becoming more frequent, including floods, droughts, and heat waves. Rising sea levels threaten coastal cities. The habitats of many animals and plants have also been severely affected."
+      },
+      {
+        "chinese": "为了应对气候变化，各国政府和国际组织正在采取行动。减少碳排放、发展可再生能源和提高能源效率是目前的主要策略。同时，每个人也可以从日常生活中做出改变，比如减少浪费和选择绿色出行方式。",
+        "pinyin": "Wèile yìngduì qìhòu biànhuà, gè guó zhèngfǔ hé guójì zǔzhī zhèngzài cǎiqǔ xíngdòng. Jiǎnshǎo tàn páifàng, fāzhǎn kě zàishēng néngyuán hé tígāo néngyuán xiàolǜ shì mùqián de zhǔyào cèlüè. Tóngshí, měi ge rén yě kěyǐ cóng rìcháng shēnghuó zhōng zuòchū gǎibiàn, bǐrú jiǎnshǎo làngfèi hé xuǎnzé lǜsè chūxíng fāngshì.",
+        "english": "To address climate change, governments and international organizations around the world are taking action. Reducing carbon emissions, developing renewable energy, and improving energy efficiency are the current main strategies. At the same time, everyone can make changes in their daily lives, such as reducing waste and choosing green transportation."
+      },
+      {
+        "chinese": "保护环境不仅是政府的责任，也是每个公民的义务。只有全社会共同努力，我们才能为下一代留下一个美好的地球。",
+        "pinyin": "Bǎohù huánjìng bùjǐn shì zhèngfǔ de zérèn, yě shì měi ge gōngmín de yìwù. Zhǐyǒu quán shèhuì gòngtóng nǔlì, wǒmen cái néng wèi xià yí dài liúxià yí ge měihǎo de dìqiú.",
+        "english": "Protecting the environment is not only the government's responsibility but also every citizen's obligation. Only through the joint efforts of the entire society can we leave a beautiful planet for the next generation."
+      }
+    ],
+    "vocabHighlights": [
+      "气候",
+      "严峻",
+      "挑战",
+      "排放",
+      "温室气体",
+      "极端",
+      "频繁",
+      "威胁",
+      "可再生能源",
+      "效率",
+      "策略",
+      "义务"
+    ]
+  },
+  {
+    "id": "r5-003",
+    "hskLevel": 5,
+    "title": "Artificial Intelligence",
+    "titleZh": "人工智能",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "人工智能正在深刻地改变我们的生活方式。从智能手机上的语音助手到自动驾驶汽车，人工智能技术已经渗透到社会的方方面面。",
+        "pinyin": "Réngōng zhìnéng zhèngzài shēnkè de gǎibiàn wǒmen de shēnghuó fāngshì. Cóng zhìnéng shǒujī shang de yǔyīn zhùshǒu dào zìdòng jiàshǐ qìchē, réngōng zhìnéng jìshù yǐjīng shèntòu dào shèhuì de fāngfāngmiànmiàn.",
+        "english": "Artificial intelligence is profoundly changing our way of life. From voice assistants on smartphones to self-driving cars, AI technology has permeated every aspect of society."
+      },
+      {
+        "chinese": "在医疗领域，人工智能可以帮助医生更准确地诊断疾病。在教育方面，智能系统能够根据学生的学习情况提供个性化的教学方案。在金融行业，算法交易已经成为主流。",
+        "pinyin": "Zài yīliáo lǐngyù, réngōng zhìnéng kěyǐ bāngzhù yīshēng gèng zhǔnquè de zhěnduàn jíbìng. Zài jiàoyù fāngmiàn, zhìnéng xìtǒng nénggòu gēnjù xuéshēng de xuéxí qíngkuàng tígōng gèxìnghuà de jiàoxué fāng'àn. Zài jīnróng hángyè, suànfǎ jiāoyì yǐjīng chéngwéi zhǔliú.",
+        "english": "In the medical field, AI can help doctors diagnose diseases more accurately. In education, intelligent systems can provide personalized teaching plans based on students' learning situations. In the financial industry, algorithmic trading has become mainstream."
+      },
+      {
+        "chinese": "然而，人工智能的发展也引发了一些担忧。有人担心机器会取代大量工作岗位，导致失业率上升。也有人对数据隐私和安全问题表示关注。",
+        "pinyin": "Rán'ér, réngōng zhìnéng de fāzhǎn yě yǐnfā le yìxiē dānyōu. Yǒu rén dānxīn jīqì huì qǔdài dàliàng gōngzuò gǎngwèi, dǎozhì shīyè lǜ shàngshēng. Yě yǒu rén duì shùjù yǐnsī hé ānquán wèntí biǎoshì guānzhù.",
+        "english": "However, the development of AI has also raised some concerns. Some worry that machines will replace a large number of jobs, leading to rising unemployment. Others have expressed concern about data privacy and security issues."
+      },
+      {
+        "chinese": "面对这些挑战，我们需要制定合理的政策来引导人工智能的健康发展，确保技术进步能够造福全人类。",
+        "pinyin": "Miànduì zhèxiē tiǎozhàn, wǒmen xūyào zhìdìng hélǐ de zhèngcè lái yǐndǎo réngōng zhìnéng de jiànkāng fāzhǎn, quèbǎo jìshù jìnbù nénggòu zàofú quán rénlèi.",
+        "english": "Facing these challenges, we need to formulate reasonable policies to guide the healthy development of AI, ensuring that technological progress can benefit all of humanity."
+      }
+    ],
+    "vocabHighlights": [
+      "人工智能",
+      "深刻",
+      "渗透",
+      "诊断",
+      "个性化",
+      "算法",
+      "引发",
+      "取代",
+      "岗位",
+      "隐私",
+      "制定",
+      "造福"
+    ]
+  },
+  {
+    "id": "r5-004",
+    "hskLevel": 5,
+    "title": "Chinese Calligraphy",
+    "titleZh": "中国书法",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "中国书法有着几千年的历史，是中华文化的瑰宝。书法不仅是一种书写方式，更是一门独特的艺术形式。通过笔墨纸砚，书法家们将汉字变成了充满生命力的艺术作品。",
+        "pinyin": "Zhōngguó shūfǎ yǒu zhe jǐ qiān nián de lìshǐ, shì Zhōnghuá wénhuà de guībǎo. Shūfǎ bùjǐn shì yì zhǒng shūxiě fāngshì, gèng shì yì mén dútè de yìshù xíngshì. Tōngguò bǐ mò zhǐ yàn, shūfǎjiā men jiāng Hànzì biàn chéng le chōngmǎn shēngmìnglì de yìshù zuòpǐn.",
+        "english": "Chinese calligraphy has a history of thousands of years and is a treasure of Chinese culture. Calligraphy is not just a way of writing but a unique art form. Through brush, ink, paper, and inkstone, calligraphers have transformed Chinese characters into artwork full of vitality."
+      },
+      {
+        "chinese": "书法有多种字体，其中最常见的包括楷书、行书、草书、隶书和篆书。每种字体都有自己独特的风格和美感。楷书端正整齐，适合初学者练习；草书自由奔放，是书法家表达个性的方式。",
+        "pinyin": "Shūfǎ yǒu duō zhǒng zìtǐ, qízhōng zuì chángjiàn de bāokuò kǎishū, xíngshū, cǎoshū, lìshū hé zhuànshū. Měi zhǒng zìtǐ dōu yǒu zìjǐ dútè de fēnggé hé měigǎn. Kǎishū duānzhèng zhěngqí, shìhé chūxuézhě liànxí; cǎoshū zìyóu bēnfàng, shì shūfǎjiā biǎodá gèxìng de fāngshì.",
+        "english": "Calligraphy has many script styles, the most common of which include regular script, running script, cursive script, clerical script, and seal script. Each style has its own unique character and aesthetic. Regular script is upright and neat, suitable for beginners to practice; cursive script is free and unrestrained, a way for calligraphers to express their individuality."
+      },
+      {
+        "chinese": "学习书法需要耐心和毅力。初学者通常从基本笔画开始，逐步练习结构和布局。许多人发现，练习书法不仅能提高写字水平，还能培养专注力和内心的平静。",
+        "pinyin": "Xuéxí shūfǎ xūyào nàixīn hé yìlì. Chūxuézhě tōngcháng cóng jīběn bǐhuà kāishǐ, zhúbù liànxí jiégòu hé bùjú. Xǔduō rén fāxiàn, liànxí shūfǎ bùjǐn néng tígāo xiězì shuǐpíng, hái néng péiyǎng zhuānzhùlì hé nèixīn de píngjìng.",
+        "english": "Learning calligraphy requires patience and perseverance. Beginners usually start with basic strokes and gradually practice structure and layout. Many people find that practicing calligraphy not only improves handwriting but also cultivates concentration and inner peace."
+      },
+      {
+        "chinese": "在现代社会，虽然人们越来越少用毛笔写字，但书法作为一种艺术和文化传承，依然受到许多人的喜爱和重视。",
+        "pinyin": "Zài xiàndài shèhuì, suīrán rénmen yuèláiyuè shǎo yòng máobǐ xiězì, dàn shūfǎ zuòwéi yì zhǒng yìshù hé wénhuà chuánchéng, yīrán shòudào xǔduō rén de xǐ'ài hé zhòngshì.",
+        "english": "In modern society, although people use writing brushes less and less, calligraphy as an art form and cultural heritage is still loved and valued by many people."
+      }
+    ],
+    "vocabHighlights": [
+      "书法",
+      "瑰宝",
+      "独特",
+      "笔墨纸砚",
+      "字体",
+      "风格",
+      "美感",
+      "奔放",
+      "毅力",
+      "逐步",
+      "专注力",
+      "传承"
+    ]
+  },
+  {
+    "id": "r5-005",
+    "hskLevel": 5,
+    "title": "Startup Culture",
+    "titleZh": "创业文化",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "近年来，创业已经成为许多年轻人追求梦想的途径。在中国，政府出台了一系列政策来鼓励创新创业，各地也涌现出大量的创业孵化器和加速器。",
+        "pinyin": "Jìn nián lái, chuàngyè yǐjīng chéngwéi xǔduō niánqīng rén zhuīqiú mèngxiǎng de tújìng. Zài Zhōngguó, zhèngfǔ chūtái le yí xìliè zhèngcè lái gǔlì chuàngxīn chuàngyè, gè dì yě yǒngxiàn chū dàliàng de chuàngyè fūhuàqì hé jiāsùqì.",
+        "english": "In recent years, entrepreneurship has become a path for many young people to pursue their dreams. In China, the government has introduced a series of policies to encourage innovation and entrepreneurship, and startup incubators and accelerators have emerged across the country."
+      },
+      {
+        "chinese": "创业的魅力在于将一个想法变成现实。然而，创业之路充满了不确定性和风险。统计数据显示，大多数初创企业在成立后的五年内会失败。资金不足、市场定位不准确和团队管理问题是最常见的失败原因。",
+        "pinyin": "Chuàngyè de mèilì zàiyú jiāng yí ge xiǎngfǎ biàn chéng xiànshí. Rán'ér, chuàngyè zhī lù chōngmǎn le bù quèdìngxìng hé fēngxiǎn. Tǒngjì shùjù xiǎnshì, dàduōshù chūchuàng qǐyè zài chénglì hòu de wǔ nián nèi huì shībài. Zījīn bùzú, shìchǎng dìngwèi bù zhǔnquè hé tuánduì guǎnlǐ wèntí shì zuì chángjiàn de shībài yuányīn.",
+        "english": "The charm of entrepreneurship lies in turning an idea into reality. However, the path of entrepreneurship is full of uncertainty and risk. Statistics show that most startups fail within five years of being established. Insufficient funding, inaccurate market positioning, and team management issues are the most common reasons for failure."
+      },
+      {
+        "chinese": "尽管如此，成功的创业者往往具备一些共同的特质：坚韧不拔的意志、敏锐的市场洞察力以及持续学习的能力。他们不怕失败，而是把每次挫折看作成长的机会。",
+        "pinyin": "Jǐnguǎn rúcǐ, chénggōng de chuàngyè zhě wǎngwǎng jùbèi yìxiē gòngtóng de tèzhì: jiānrèn bùbá de yìzhì, mǐnruì de shìchǎng dòngchálì yǐjí chíxù xuéxí de nénglì. Tāmen bú pà shībài, ér shì bǎ měi cì cuòzhé kàn zuò chéngzhǎng de jīhuì.",
+        "english": "Nevertheless, successful entrepreneurs often possess some common traits: unwavering determination, keen market insight, and the ability to keep learning. They are not afraid of failure but see each setback as an opportunity for growth."
+      }
+    ],
+    "vocabHighlights": [
+      "创业",
+      "途径",
+      "出台",
+      "孵化器",
+      "魅力",
+      "不确定性",
+      "初创",
+      "定位",
+      "坚韧不拔",
+      "敏锐",
+      "洞察力",
+      "挫折"
+    ]
+  },
+  {
+    "id": "r5-006",
+    "hskLevel": 5,
+    "title": "Aging Society",
+    "titleZh": "老龄化社会",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "随着医疗技术的进步和生活水平的提高，人们的平均寿命不断延长。然而，这也带来了一个严峻的社会问题——人口老龄化。目前，中国六十岁以上的老年人口已经超过两亿。",
+        "pinyin": "Suízhe yīliáo jìshù de jìnbù hé shēnghuó shuǐpíng de tígāo, rénmen de píngjūn shòumìng bùduàn yáncháng. Rán'ér, zhè yě dàilái le yí ge yánjùn de shèhuì wèntí — rénkǒu lǎolínghuà. Mùqián, Zhōngguó liùshí suì yǐshàng de lǎonián rénkǒu yǐjīng chāoguò liǎng yì.",
+        "english": "With advances in medical technology and improvements in living standards, people's average lifespan continues to extend. However, this has also brought a severe social problem — an aging population. Currently, China's elderly population over sixty years old has already exceeded 200 million."
+      },
+      {
+        "chinese": "老龄化社会面临着多方面的挑战。养老金体系承受着越来越大的压力，医疗资源的需求持续增长，而劳动力的减少也影响着经济发展。如何照顾好老年人的日常生活，是每个家庭都要面对的问题。",
+        "pinyin": "Lǎolínghuà shèhuì miànlín zhe duō fāngmiàn de tiǎozhàn. Yǎnglǎojīn tǐxì chéngshòu zhe yuèláiyuè dà de yālì, yīliáo zīyuán de xūqiú chíxù zēngzhǎng, ér láodònglì de jiǎnshǎo yě yǐngxiǎng zhe jīngjì fāzhǎn. Rúhé zhàogù hǎo lǎonián rén de rìcháng shēnghuó, shì měi ge jiātíng dōu yào miànduì de wèntí.",
+        "english": "An aging society faces challenges on many fronts. The pension system is under increasing pressure, the demand for medical resources continues to grow, and the decrease in labor force is also affecting economic development. How to take good care of the daily lives of the elderly is an issue every family must face."
+      },
+      {
+        "chinese": "为了应对老龄化问题，社会需要从多个层面采取措施。发展社区养老服务、推广智能养老设备、完善医疗保障制度都是可行的方向。同时，鼓励老年人积极参与社会活动，保持身心健康，也是非常重要的。",
+        "pinyin": "Wèile yìngduì lǎolínghuà wèntí, shèhuì xūyào cóng duō ge céngmiàn cǎiqǔ cuòshī. Fāzhǎn shèqū yǎnglǎo fúwù, tuīguǎng zhìnéng yǎnglǎo shèbèi, wánshàn yīliáo bǎozhàng zhìdù dōu shì kěxíng de fāngxiàng. Tóngshí, gǔlì lǎonián rén jījí cānyù shèhuì huódòng, bǎochí shēnxīn jiànkāng, yě shì fēicháng zhòngyào de.",
+        "english": "To address the aging problem, society needs to take measures on multiple levels. Developing community elderly care services, promoting smart elderly care equipment, and improving the medical security system are all viable directions. At the same time, encouraging the elderly to actively participate in social activities and maintain physical and mental health is also very important."
+      }
+    ],
+    "vocabHighlights": [
+      "老龄化",
+      "寿命",
+      "延长",
+      "养老金",
+      "承受",
+      "劳动力",
+      "层面",
+      "措施",
+      "社区",
+      "推广",
+      "完善",
+      "保障"
+    ]
+  },
+  {
+    "id": "r5-007",
+    "hskLevel": 5,
+    "title": "Cultural Exchange",
+    "titleZh": "文化交流",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "文化交流是促进不同国家和民族之间相互理解的重要桥梁。通过文化交流，人们可以了解彼此的历史、传统和价值观，从而减少误解和偏见。",
+        "pinyin": "Wénhuà jiāoliú shì cùjìn bùtóng guójiā hé mínzú zhī jiān xiānghù lǐjiě de zhòngyào qiáoliáng. Tōngguò wénhuà jiāoliú, rénmen kěyǐ liǎojiě bǐcǐ de lìshǐ, chuántǒng hé jiàzhíguān, cóng'ér jiǎnshǎo wùjiě hé piānjiàn.",
+        "english": "Cultural exchange is an important bridge for promoting mutual understanding between different countries and nations. Through cultural exchange, people can learn about each other's history, traditions, and values, thereby reducing misunderstanding and prejudice."
+      },
+      {
+        "chinese": "在全球化的背景下，文化交流的形式越来越多样化。留学生项目、国际艺术展览、电影节和美食文化节等活动为人们提供了近距离接触异国文化的机会。互联网的发展更是打破了地理限制，让文化交流变得更加便捷。",
+        "pinyin": "Zài quánqiúhuà de bèijǐng xià, wénhuà jiāoliú de xíngshì yuèláiyuè duōyànghuà. Liúxuéshēng xiàngmù, guójì yìshù zhǎnlǎn, diànyǐngjié hé měishí wénhuà jié děng huódòng wèi rénmen tígōng le jìn jùlí jiēchù yìguó wénhuà de jīhuì. Hùliánwǎng de fāzhǎn gèng shì dǎpò le dìlǐ xiànzhì, ràng wénhuà jiāoliú biàn de gèngjiā biànjié.",
+        "english": "In the context of globalization, the forms of cultural exchange are becoming increasingly diverse. Study abroad programs, international art exhibitions, film festivals, and food culture festivals provide people with opportunities to experience foreign cultures up close. The development of the internet has broken geographical restrictions, making cultural exchange even more convenient."
+      },
+      {
+        "chinese": "当然，文化交流并不意味着要放弃自身的文化特色。真正有意义的交流应该建立在相互尊重的基础上，在保持自身文化认同的同时，以开放的心态去欣赏和学习其他文化的优点。",
+        "pinyin": "Dāngrán, wénhuà jiāoliú bìng bù yìwèi zhe yào fàngqì zìshēn de wénhuà tèsè. Zhēnzhèng yǒu yìyì de jiāoliú yīnggāi jiànlì zài xiānghù zūnzhòng de jīchǔ shang, zài bǎochí zìshēn wénhuà rèntóng de tóngshí, yǐ kāifàng de xīntài qù xīnshǎng hé xuéxí qítā wénhuà de yōudiǎn.",
+        "english": "Of course, cultural exchange does not mean abandoning one's own cultural characteristics. Truly meaningful exchange should be built on the foundation of mutual respect, maintaining one's own cultural identity while appreciating and learning from the strengths of other cultures with an open mind."
+      }
+    ],
+    "vocabHighlights": [
+      "文化交流",
+      "促进",
+      "桥梁",
+      "价值观",
+      "偏见",
+      "多样化",
+      "展览",
+      "便捷",
+      "特色",
+      "认同",
+      "心态",
+      "欣赏"
+    ]
+  },
+  {
+    "id": "r5-008",
+    "hskLevel": 5,
+    "title": "E-commerce Revolution",
+    "titleZh": "电子商务革命",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "电子商务在过去二十年里经历了飞速发展，彻底改变了人们的消费习惯。如今，只需要一部手机，消费者就可以随时随地购买来自世界各地的商品。",
+        "pinyin": "Diànzǐ shāngwù zài guòqù èrshí nián lǐ jīnglì le fēisù fāzhǎn, chèdǐ gǎibiàn le rénmen de xiāofèi xíguàn. Rújīn, zhǐ xūyào yí bù shǒujī, xiāofèi zhě jiù kěyǐ suíshí suídì gòumǎi láizì shìjiè gè dì de shāngpǐn.",
+        "english": "E-commerce has experienced rapid development over the past twenty years, completely changing people's consumption habits. Today, with just a phone, consumers can purchase goods from around the world anytime and anywhere."
+      },
+      {
+        "chinese": "中国的电子商务市场尤其活跃。每年的双十一购物节已经成为全球最大的网上购物活动。直播带货更是创造了一种全新的销售模式，让商家和消费者之间的互动更加直接。",
+        "pinyin": "Zhōngguó de diànzǐ shāngwù shìchǎng yóuqí huóyuè. Měi nián de shuāng shíyī gòuwù jié yǐjīng chéngwéi quánqiú zuì dà de wǎngshàng gòuwù huódòng. Zhíbō dàihuò gèng shì chuàngzào le yì zhǒng quánxīn de xiāoshòu móshì, ràng shāngjiā hé xiāofèi zhě zhī jiān de hùdòng gèngjiā zhíjiē.",
+        "english": "China's e-commerce market is particularly active. The annual Double Eleven shopping festival has become the world's largest online shopping event. Livestream commerce has created an entirely new sales model, making the interaction between merchants and consumers more direct."
+      },
+      {
+        "chinese": "然而，电子商务的快速发展也带来了一些问题。假冒伪劣商品、个人信息泄露以及过度消费等现象值得关注。未来，电子商务需要在便利性和安全性之间找到更好的平衡。",
+        "pinyin": "Rán'ér, diànzǐ shāngwù de kuàisù fāzhǎn yě dàilái le yìxiē wèntí. Jiǎmào wěiliè shāngpǐn, gèrén xìnxī xièlòu yǐjí guòdù xiāofèi děng xiànxiàng zhíde guānzhù. Wèilái, diànzǐ shāngwù xūyào zài biànlìxìng hé ānquánxìng zhī jiān zhǎodào gèng hǎo de pínghéng.",
+        "english": "However, the rapid development of e-commerce has also brought some problems. Counterfeit goods, personal information leaks, and excessive consumption are phenomena worth paying attention to. In the future, e-commerce needs to find a better balance between convenience and security."
+      }
+    ],
+    "vocabHighlights": [
+      "电子商务",
+      "飞速",
+      "彻底",
+      "消费",
+      "活跃",
+      "直播",
+      "销售",
+      "互动",
+      "假冒伪劣",
+      "泄露",
+      "过度",
+      "平衡"
+    ]
+  },
+  {
+    "id": "r5-009",
+    "hskLevel": 5,
+    "title": "Mental Health",
+    "titleZh": "心理健康",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "在快节奏的现代社会中，心理健康问题越来越受到人们的关注。焦虑、抑郁和压力过大已经成为影响人们生活质量的重要因素。然而，在很长一段时间里，心理健康并没有得到足够的重视。",
+        "pinyin": "Zài kuài jiézòu de xiàndài shèhuì zhōng, xīnlǐ jiànkāng wèntí yuèláiyuè shòudào rénmen de guānzhù. Jiāolǜ, yìyù hé yālì guòdà yǐjīng chéngwéi yǐngxiǎng rénmen shēnghuó zhìliàng de zhòngyào yīnsù. Rán'ér, zài hěn cháng yí duàn shíjiān lǐ, xīnlǐ jiànkāng bìng méiyǒu dédào zúgòu de zhòngshì.",
+        "english": "In today's fast-paced modern society, mental health issues are receiving increasing attention. Anxiety, depression, and excessive stress have become significant factors affecting people's quality of life. However, for a long time, mental health did not receive enough attention."
+      },
+      {
+        "chinese": "许多人对心理疾病存在误解和偏见，认为寻求心理帮助是软弱的表现。这种观念阻碍了很多需要帮助的人及时接受治疗。事实上，心理问题和身体疾病一样，需要专业的诊断和治疗。",
+        "pinyin": "Xǔduō rén duì xīnlǐ jíbìng cúnzài wùjiě hé piānjiàn, rènwéi xúnqiú xīnlǐ bāngzhù shì ruǎnruò de biǎoxiàn. Zhè zhǒng guānniàn zǔ'ài le hěn duō xūyào bāngzhù de rén jíshí jiēshòu zhìliáo. Shìshí shang, xīnlǐ wèntí hé shēntǐ jíbìng yíyàng, xūyào zhuānyè de zhěnduàn hé zhìliáo.",
+        "english": "Many people have misunderstandings and prejudices about mental illness, believing that seeking psychological help is a sign of weakness. This notion has prevented many people who need help from receiving treatment in time. In fact, mental health issues, like physical diseases, require professional diagnosis and treatment."
+      },
+      {
+        "chinese": "近年来，社会对心理健康的认识有了明显改善。学校开设了心理辅导课程，企业设立了员工心理援助计划，媒体也在积极传播心理健康知识。保持良好的心理状态需要每个人的努力。",
+        "pinyin": "Jìn nián lái, shèhuì duì xīnlǐ jiànkāng de rènshi yǒu le míngxiǎn gǎishàn. Xuéxiào kāishè le xīnlǐ fǔdǎo kèchéng, qǐyè shèlì le yuángōng xīnlǐ yuánzhù jìhuà, méitǐ yě zài jījí chuánbō xīnlǐ jiànkāng zhīshi. Bǎochí liánghǎo de xīnlǐ zhuàngtài xūyào měi ge rén de nǔlì.",
+        "english": "In recent years, society's understanding of mental health has noticeably improved. Schools have established psychological counseling courses, companies have set up employee psychological assistance programs, and the media is actively spreading mental health knowledge. Maintaining good mental health requires everyone's effort."
+      }
+    ],
+    "vocabHighlights": [
+      "心理健康",
+      "焦虑",
+      "抑郁",
+      "质量",
+      "误解",
+      "偏见",
+      "软弱",
+      "阻碍",
+      "治疗",
+      "辅导",
+      "援助",
+      "传播"
+    ]
+  },
+  {
+    "id": "r5-010",
+    "hskLevel": 5,
+    "title": "Chinese Philosophy",
+    "titleZh": "中国哲学",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "中国哲学源远流长，对中华文明的发展产生了深远的影响。儒家、道家和佛家是中国哲学的三大支柱，它们从不同角度探讨了人生的意义和社会的秩序。",
+        "pinyin": "Zhōngguó zhéxué yuányuǎn liúcháng, duì Zhōnghuá wénmíng de fāzhǎn chǎnshēng le shēnyuǎn de yǐngxiǎng. Rújiā, Dàojiā hé Fójiā shì Zhōngguó zhéxué de sān dà zhīzhù, tāmen cóng bùtóng jiǎodù tàntǎo le rénshēng de yìyì hé shèhuì de zhìxù.",
+        "english": "Chinese philosophy has a long history, having had a profound influence on the development of Chinese civilization. Confucianism, Taoism, and Buddhism are the three pillars of Chinese philosophy, exploring the meaning of life and social order from different perspectives."
+      },
+      {
+        "chinese": "儒家思想强调仁义礼智信，重视人与人之间的关系和社会责任。孔子提出的许多观点，至今仍然具有指导意义。道家则主张顺应自然、清静无为，认为万物都有其自身的规律。",
+        "pinyin": "Rújiā sīxiǎng qiángdiào rén yì lǐ zhì xìn, zhòngshì rén yǔ rén zhī jiān de guānxi hé shèhuì zérèn. Kǒngzǐ tíchū de xǔduō guāndiǎn, zhìjīn réngrán jùyǒu zhǐdǎo yìyì. Dàojiā zé zhǔzhāng shùnyìng zìrán, qīngjìng wúwéi, rènwéi wànwù dōu yǒu qí zìshēn de guīlǜ.",
+        "english": "Confucian thought emphasizes benevolence, righteousness, propriety, wisdom, and trustworthiness, valuing relationships between people and social responsibility. Many views proposed by Confucius still have guiding significance today. Taoism advocates following nature and practicing non-action, believing that all things have their own inherent laws."
+      },
+      {
+        "chinese": "中国哲学的精髓在于追求和谐与平衡。无论是天人合一的理念，还是中庸之道的思想，都体现了中国人对世界的独特理解。这些古老的智慧在现代社会中依然具有重要的参考价值。",
+        "pinyin": "Zhōngguó zhéxué de jīngsuǐ zàiyú zhuīqiú héxié yǔ pínghéng. Wúlùn shì tiān rén hé yī de lǐniàn, háishi zhōngyōng zhī dào de sīxiǎng, dōu tǐxiàn le Zhōngguó rén duì shìjiè de dútè lǐjiě. Zhèxiē gǔlǎo de zhìhuì zài xiàndài shèhuì zhōng yīrán jùyǒu zhòngyào de cānkǎo jiàzhí.",
+        "english": "The essence of Chinese philosophy lies in the pursuit of harmony and balance. Whether it is the concept of the unity of heaven and humanity, or the thought of the golden mean, they all reflect Chinese people's unique understanding of the world. This ancient wisdom still holds important reference value in modern society."
+      }
+    ],
+    "vocabHighlights": [
+      "哲学",
+      "源远流长",
+      "深远",
+      "支柱",
+      "探讨",
+      "秩序",
+      "仁义",
+      "顺应",
+      "精髓",
+      "和谐",
+      "中庸",
+      "智慧"
+    ]
+  },
+  {
+    "id": "r5-101",
+    "hskLevel": 5,
+    "title": "The Interpreter",
+    "titleZh": "翻译官",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "林薇是一位资深的同声传译员，在北京一家知名的翻译公司工作。她精通英语、法语和日语，是公司里最受欢迎的翻译之一。",
+        "pinyin": "Lín Wēi shì yí wèi zīshēn de tóngshēng chuányì yuán, zài Běijīng yì jiā zhīmíng de fānyì gōngsī gōngzuò. Tā jīngtōng Yīngyǔ, Fǎyǔ hé Rìyǔ, shì gōngsī lǐ zuì shòu huānyíng de fānyì zhī yī.",
+        "english": "Lin Wei was a senior simultaneous interpreter working at a well-known translation company in Beijing. She was proficient in English, French, and Japanese, and was one of the most popular translators in the company."
+      },
+      {
+        "chinese": "这天，公司接到了一个重要的任务：一场中法商务谈判需要同声传译。客户是一家法国奢侈品公司，对方态度强硬，谈判预计会非常艰难。",
+        "pinyin": "Zhè tiān, gōngsī jiēdào le yí ge zhòngyào de rènwu: yì chǎng Zhōng-Fǎ shāngwù tánpàn xūyào tóngshēng chuányì. Kèhù shì yì jiā Fǎguó shēchǐpǐn gōngsī, duìfāng tàidù qiángyìng, tánpàn yùjì huì fēicháng jiānnán.",
+        "english": "That day, the company received an important assignment: a Sino-French business negotiation needed simultaneous interpretation. The client was a French luxury goods company, and the other side had a tough attitude — the negotiation was expected to be very difficult."
+      },
+      {
+        "chinese": "谈判当天，林薇早早到达了会场。她仔细检查了设备，又翻阅了一遍准备材料。她深知，在同声传译中，每一个词语的选择都可能影响谈判的走向。",
+        "pinyin": "Tánpàn dāngtiān, Lín Wēi zǎozǎo dàodá le huìchǎng. Tā zǐxì jiǎnchá le shèbèi, yòu fānyuè le yí biàn zhǔnbèi cáiliào. Tā shēn zhī, zài tóngshēng chuányì zhōng, měi yí ge cíyǔ de xuǎnzé dōu kěnéng yǐngxiǎng tánpàn de zǒuxiàng.",
+        "english": "On the day of the negotiation, Lin Wei arrived at the venue early. She carefully checked the equipment and went through the preparation materials once more. She knew well that in simultaneous interpretation, the choice of every word could affect the direction of the negotiation."
+      },
+      {
+        "chinese": "谈判进行到一半时，法方代表突然提出了一个苛刻的条件。中方代表非常不满，语气变得激烈。林薇意识到，如果她直接翻译这些带有情绪的话语，可能会导致谈判破裂。",
+        "pinyin": "Tánpàn jìnxíng dào yíbàn shí, Fǎ fāng dàibiǎo tūrán tíchū le yí ge kēkè de tiáojiàn. Zhōng fāng dàibiǎo fēicháng bùmǎn, yǔqì biàn de jīliè. Lín Wēi yìshí dào, rúguǒ tā zhíjiē fānyì zhèxiē dàiyǒu qíngxù de huàyǔ, kěnéng huì dǎozhì tánpàn pòliè.",
+        "english": "Halfway through the negotiation, the French representative suddenly proposed a harsh condition. The Chinese representative was very displeased, and his tone became heated. Lin Wei realized that if she directly translated these emotionally charged words, it might cause the negotiation to break down."
+      },
+      {
+        "chinese": "她面临着一个艰难的选择：是忠实地翻译每一句话，还是适当地缓和语气？作为翻译，忠实原文是基本职业道德。但如果谈判因此失败，双方都会遭受损失。",
+        "pinyin": "Tā miànlín zhe yí ge jiānnán de xuǎnzé: shì zhōngshí de fānyì měi yí jù huà, háishi shìdàng de huǎnhé yǔqì? Zuòwéi fānyì, zhōngshí yuánwén shì jīběn zhíyè dàodé. Dàn rúguǒ tánpàn yīncǐ shībài, shuāngfāng dōu huì zāoshòu sǔnshī.",
+        "english": "She faced a difficult choice: should she faithfully translate every sentence, or appropriately soften the tone? As a translator, faithfulness to the original text is a basic professional ethic. But if the negotiation failed because of this, both sides would suffer losses."
+      },
+      {
+        "chinese": "林薇做出了决定。她在保持核心意思不变的前提下，巧妙地调整了措辞，使双方的表达听起来更加理性和专业。紧张的气氛逐渐缓和下来。",
+        "pinyin": "Lín Wēi zuòchū le juédìng. Tā zài bǎochí héxīn yìsi bú biàn de qiántí xià, qiǎomiào de tiáozhěng le cuòcí, shǐ shuāngfāng de biǎodá tīng qǐlái gèngjiā lǐxìng hé zhuānyè. Jǐnzhāng de qìfēn zhújiàn huǎnhé xiàlái.",
+        "english": "Lin Wei made her decision. While keeping the core meaning unchanged, she skillfully adjusted the wording, making both sides' expressions sound more rational and professional. The tense atmosphere gradually eased."
+      },
+      {
+        "chinese": "最终，谈判取得了成功。双方签署了合作协议，都对结果表示满意。但林薇心里清楚，她在翻译过程中做出的选择，超越了一个翻译的传统角色。",
+        "pinyin": "Zuìzhōng, tánpàn qǔdé le chénggōng. Shuāngfāng qiānshǔ le hézuò xiéyì, dōu duì jiéguǒ biǎoshì mǎnyì. Dàn Lín Wēi xīnli qīngchu, tā zài fānyì guòchéng zhōng zuòchū de xuǎnzé, chāoyuè le yí ge fānyì de chuántǒng juésè.",
+        "english": "In the end, the negotiation was successful. Both sides signed a cooperation agreement and expressed satisfaction with the result. But Lin Wei knew in her heart that the choices she made during the translation process had gone beyond the traditional role of an interpreter."
+      },
+      {
+        "chinese": "那天晚上，林薇独自坐在办公室里思考。她问自己：翻译的职责到底是什么？是机械地传递文字，还是帮助沟通真正发生？她知道这个问题没有简单的答案，但她相信，真正的翻译艺术在于理解文字背后的意图。",
+        "pinyin": "Nà tiān wǎnshang, Lín Wēi dúzì zuò zài bàngōngshì lǐ sīkǎo. Tā wèn zìjǐ: fānyì de zhízé dàodǐ shì shénme? Shì jīxiè de chuándì wénzì, háishi bāngzhù gōutōng zhēnzhèng fāshēng? Tā zhīdao zhè ge wèntí méiyǒu jiǎndān de dá'àn, dàn tā xiāngxìn, zhēnzhèng de fānyì yìshù zàiyú lǐjiě wénzì bèihòu de yìtú.",
+        "english": "That evening, Lin Wei sat alone in her office, thinking. She asked herself: what exactly is the responsibility of a translator? Is it to mechanically convey words, or to help real communication happen? She knew this question had no simple answer, but she believed that the true art of translation lies in understanding the intent behind the words."
+      }
+    ],
+    "vocabHighlights": [
+      "同声传译",
+      "精通",
+      "苛刻",
+      "激烈",
+      "忠实",
+      "职业道德",
+      "缓和",
+      "措辞",
+      "协议",
+      "超越",
+      "机械",
+      "意图"
+    ]
+  },
+  {
+    "id": "r5-102",
+    "hskLevel": 5,
+    "title": "Return to Hometown",
+    "titleZh": "回乡",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "张明已经十年没有回过老家了。大学毕业后，他一直在上海工作，从一个普通职员一步步成为了公司的部门经理。事业虽然成功，但内心深处总有一种说不清的遗憾。",
+        "pinyin": "Zhāng Míng yǐjīng shí nián méiyǒu huí guo lǎojiā le. Dàxué bìyè hòu, tā yìzhí zài Shànghǎi gōngzuò, cóng yí ge pǔtōng zhíyuán yí bù bù chéngwéi le gōngsī de bùmén jīnglǐ. Shìyè suīrán chénggōng, dàn nèixīn shēnchù zǒng yǒu yì zhǒng shuō bù qīng de yíhàn.",
+        "english": "Zhang Ming hadn't been back to his hometown in ten years. After graduating from college, he had been working in Shanghai, rising step by step from an ordinary employee to a department manager. Although his career was successful, deep in his heart there was always an inexplicable sense of regret."
+      },
+      {
+        "chinese": "春节前，母亲打来电话，声音比以前苍老了许多。她说父亲最近身体不太好，希望他能回来看看。张明听了心里一酸，当天就订了回家的火车票。",
+        "pinyin": "Chūnjié qián, mǔqīn dǎ lái diànhuà, shēngyīn bǐ yǐqián cānglǎo le xǔduō. Tā shuō fùqīn zuìjìn shēntǐ bú tài hǎo, xīwàng tā néng huílái kànkan. Zhāng Míng tīng le xīnli yī suān, dāngtiān jiù dìng le huí jiā de huǒchē piào.",
+        "english": "Before Spring Festival, his mother called. Her voice sounded much older than before. She said his father hadn't been feeling well lately and hoped he could come back to visit. Zhang Ming felt a pang in his heart and booked a train ticket home that very day."
+      },
+      {
+        "chinese": "火车驶入家乡的地界时，窗外的景色让张明感到既熟悉又陌生。曾经的农田变成了工业园区，小路变成了宽阔的马路，记忆中的小村庄已经发展成了一个现代化的小镇。",
+        "pinyin": "Huǒchē shǐrù jiāxiāng de dìjiè shí, chuāng wài de jǐngsè ràng Zhāng Míng gǎndào jì shúxī yòu mòshēng. Céngjīng de nóngtián biàn chéng le gōngyè yuánqū, xiǎo lù biàn chéng le kuānkuò de mǎlù, jìyì zhōng de xiǎo cūnzhuāng yǐjīng fāzhǎn chéng le yí ge xiàndàihuà de xiǎo zhèn.",
+        "english": "When the train entered the boundaries of his hometown, the scenery outside the window made Zhang Ming feel both familiar and strange. The farmland of the past had become an industrial park, the small paths had become wide roads, and the little village in his memory had developed into a modern small town."
+      },
+      {
+        "chinese": "到了家门口，张明看到父亲正坐在院子里晒太阳。父亲的头发全白了，背也驼了。看到儿子回来，老人的眼眶立刻红了，嘴里却说着：「回来就好，回来就好。」",
+        "pinyin": "Dào le jiā ménkǒu, Zhāng Míng kàndào fùqīn zhèng zuò zài yuànzi lǐ shài tàiyáng. Fùqīn de tóufa quán bái le, bèi yě tuó le. Kàndào érzi huílái, lǎorén de yǎnkuàng lìkè hóng le, zuǐ lǐ què shuō zhe: 「Huílái jiù hǎo, huílái jiù hǎo.」",
+        "english": "At the front door, Zhang Ming saw his father sitting in the courtyard, sunbathing. His father's hair had turned completely white, and his back was hunched. Seeing his son return, the old man's eyes immediately reddened, but he kept saying: 'It's good that you're back, it's good that you're back.'"
+      },
+      {
+        "chinese": "母亲准备了一桌子张明最爱吃的菜。饭桌上，父亲话不多，只是不停地往他碗里夹菜。张明注意到，母亲的手已经布满了皱纹，动作也没有以前那么利索了。",
+        "pinyin": "Mǔqīn zhǔnbèi le yì zhuōzi Zhāng Míng zuì ài chī de cài. Fànzhuō shang, fùqīn huà bù duō, zhǐshì bù tíng de wǎng tā wǎn lǐ jiā cài. Zhāng Míng zhùyì dào, mǔqīn de shǒu yǐjīng bùmǎn le zhòuwén, dòngzuò yě méiyǒu yǐqián nàme lìsuo le.",
+        "english": "His mother had prepared a whole table of Zhang Ming's favorite dishes. At the dinner table, his father didn't say much, just kept putting food into his bowl. Zhang Ming noticed that his mother's hands were already full of wrinkles, and her movements weren't as nimble as before."
+      },
+      {
+        "chinese": "晚上，张明独自走在村子里，月光洒在新铺的柏油路上。他路过了曾经上学的小学，虽然校舍是新建的，但校门口那棵老槐树还在。他想起小时候在树下玩耍的日子，眼泪不知不觉地流了下来。",
+        "pinyin": "Wǎnshang, Zhāng Míng dúzì zǒu zài cūnzi lǐ, yuèguāng sǎ zài xīn pū de bǎiyóu lù shang. Tā lùguò le céngjīng shàngxué de xiǎoxué, suīrán xiàoshè shì xīn jiàn de, dàn xiàomén kǒu nà kē lǎo huáishù hái zài. Tā xiǎngqǐ xiǎoshíhou zài shù xià wánshuǎ de rìzi, yǎnlèi bùzhī bùjué de liú le xiàlái.",
+        "english": "In the evening, Zhang Ming walked alone through the village, moonlight falling on the newly paved asphalt road. He passed by the elementary school he once attended. Although the school buildings were new, the old locust tree at the school gate was still there. He remembered the days of playing under the tree as a child, and tears flowed down without his noticing."
+      },
+      {
+        "chinese": "临走那天，张明站在村口，回头望着这片养育了他的土地。他暗暗下定决心：以后一定要常回来看看。不能让事业成为忽略家人的借口。有些东西，失去了就再也找不回来了。",
+        "pinyin": "Lín zǒu nà tiān, Zhāng Míng zhàn zài cūn kǒu, huítóu wàng zhe zhè piàn yǎngyù le tā de tǔdì. Tā àn'àn xiàdìng juéxīn: yǐhòu yídìng yào cháng huílái kànkan. Bù néng ràng shìyè chéngwéi hūlüè jiārén de jièkǒu. Yǒuxiē dōngxi, shīqù le jiù zài yě zhǎo bù huílái le.",
+        "english": "On the day of his departure, Zhang Ming stood at the village entrance, looking back at the land that had raised him. He silently made up his mind: in the future, he must come back more often. He couldn't let his career become an excuse for neglecting his family. Some things, once lost, can never be found again."
+      }
+    ],
+    "vocabHighlights": [
+      "遗憾",
+      "苍老",
+      "陌生",
+      "工业园区",
+      "眼眶",
+      "皱纹",
+      "利索",
+      "校舍",
+      "养育",
+      "下定决心",
+      "忽略",
+      "借口"
+    ]
+  },
+  {
+    "id": "r5-103",
+    "hskLevel": 5,
+    "title": "The Debate",
+    "titleZh": "辩论",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "陈思远从小就是一个内向的孩子。在课堂上，他很少主动发言，即使知道答案也不敢举手。然而，大学里的一次偶然经历彻底改变了他。",
+        "pinyin": "Chén Sīyuǎn cóngxiǎo jiù shì yí ge nèixiàng de háizi. Zài kètáng shang, tā hěn shǎo zhǔdòng fāyán, jíshǐ zhīdao dá'àn yě bù gǎn jǔshǒu. Rán'ér, dàxué lǐ de yí cì ǒurán jīnglì chèdǐ gǎibiàn le tā.",
+        "english": "Chen Siyuan had been an introverted child since he was small. In class, he rarely spoke up voluntarily, and even when he knew the answer, he didn't dare raise his hand. However, a chance experience in college completely changed him."
+      },
+      {
+        "chinese": "大二那年，他的室友拉他报名参加了学校的辩论社。第一次去旁听训练的时候，他被辩手们流利的表达和敏捷的思维深深吸引了。他心想：如果有一天，我也能像他们一样自信地站在台上就好了。",
+        "pinyin": "Dà èr nà nián, tā de shìyǒu lā tā bàomíng cānjiā le xuéxiào de biànlùn shè. Dì yī cì qù pángtīng xùnliàn de shíhou, tā bèi biànshǒu men liúlì de biǎodá hé mǐnjié de sīwéi shēnshēn xīyǐn le. Tā xīn xiǎng: rúguǒ yǒu yì tiān, wǒ yě néng xiàng tāmen yíyàng zìxìn de zhàn zài tái shang jiù hǎo le.",
+        "english": "In his sophomore year, his roommate dragged him to sign up for the school's debate club. The first time he went to observe a training session, he was deeply attracted by the debaters' fluent expression and quick thinking. He thought to himself: if only one day I could stand on stage as confidently as them."
+      },
+      {
+        "chinese": "刚开始训练的时候，陈思远紧张得说不出话来。每次站起来发言，他的声音都在发抖，思路也经常断片。但辩论社的学姐很有耐心，一遍又一遍地帮他练习，教他如何组织论点和反驳对方。",
+        "pinyin": "Gāng kāishǐ xùnliàn de shíhou, Chén Sīyuǎn jǐnzhāng de shuō bù chū huà lái. Měi cì zhàn qǐlái fāyán, tā de shēngyīn dōu zài fādǒu, sīlù yě jīngcháng duànpiàn. Dàn biànlùn shè de xuéjiě hěn yǒu nàixīn, yí biàn yòu yí biàn de bāng tā liànxí, jiāo tā rúhé zǔzhī lùndiǎn hé fǎnbó duìfāng.",
+        "english": "When he first started training, Chen Siyuan was so nervous he couldn't speak. Every time he stood up to speak, his voice trembled and his train of thought often broke off. But the senior in the debate club was very patient, helping him practice again and again, teaching him how to organize arguments and rebut opponents."
+      },
+      {
+        "chinese": "经过半年的刻苦训练，陈思远被选为校队代表，参加全国大学生辩论赛。这是他第一次在这么大的舞台上比赛，对手是去年的冠军队伍。",
+        "pinyin": "Jīngguò bàn nián de kèkǔ xùnliàn, Chén Sīyuǎn bèi xuǎn wéi xiào duì dàibiǎo, cānjiā quánguó dàxuéshēng biànlùn sài. Zhè shì tā dì yī cì zài zhème dà de wǔtái shang bǐsài, duìshǒu shì qùnián de guànjūn duìwu.",
+        "english": "After half a year of hard training, Chen Siyuan was selected as a school team representative to participate in the National College Debate Competition. This was his first time competing on such a big stage, and their opponents were last year's champion team."
+      },
+      {
+        "chinese": "决赛那天，辩题是「科技发展是否利大于弊」。陈思远的队伍抽到了反方。比赛开始后，正方连续抛出了几个有力的论据，观众席上传来阵阵掌声。陈思远的队友们有些慌了。",
+        "pinyin": "Juésài nà tiān, biàntí shì 「kējì fāzhǎn shìfǒu lì dà yú bì」. Chén Sīyuǎn de duìwu chōu dào le fǎnfāng. Bǐsài kāishǐ hòu, zhèngfāng liánxù pāo chū le jǐ ge yǒulì de lùnjù, guānzhòng xí shang chuán lái zhèn zhèn zhǎngshēng. Chén Sīyuǎn de duìyǒu men yǒuxiē huāng le.",
+        "english": "On the day of the final, the debate topic was 'Does the development of technology do more good than harm?' Chen Siyuan's team drew the opposing side. After the competition started, the affirmative side threw out several powerful arguments one after another, and waves of applause came from the audience. Chen Siyuan's teammates started to panic."
+      },
+      {
+        "chinese": "轮到陈思远发言时，他深吸了一口气，站了起来。他没有急于反驳，而是先承认了科技带来的便利，然后话锋一转，从环境破坏、隐私侵犯和社会不平等三个角度，层层深入地分析了科技发展的代价。",
+        "pinyin": "Lún dào Chén Sīyuǎn fāyán shí, tā shēn xī le yì kǒu qì, zhàn le qǐlái. Tā méiyǒu jí yú fǎnbó, ér shì xiān chéngrèn le kējì dàilái de biànlì, ránhòu huàfēng yī zhuǎn, cóng huánjìng pòhuài, yǐnsī qīnfàn hé shèhuì bù píngděng sān ge jiǎodù, céng céng shēnrù de fēnxī le kējì fāzhǎn de dàijià.",
+        "english": "When it was Chen Siyuan's turn to speak, he took a deep breath and stood up. He didn't rush to rebut but first acknowledged the convenience brought by technology, then shifted his argument, analyzing the price of technological development layer by layer from three angles: environmental destruction, privacy invasion, and social inequality."
+      },
+      {
+        "chinese": "他的发言逻辑清晰、论据充分，赢得了全场最热烈的掌声。最终，他的团队赢得了比赛。站在领奖台上，陈思远想起了一年前那个连站起来说话都会紧张得发抖的自己，不禁笑了。",
+        "pinyin": "Tā de fāyán luójí qīngxī, lùnjù chōngfèn, yíng de le quán chǎng zuì rèliè de zhǎngshēng. Zuìzhōng, tā de tuánduì yíng de le bǐsài. Zhàn zài lǐng jiǎng tái shang, Chén Sīyuǎn xiǎngqǐ le yì nián qián nà ge lián zhàn qǐlái shuōhuà dōu huì jǐnzhāng de fādǒu de zìjǐ, bùjīn xiào le.",
+        "english": "His speech was logically clear and well-supported with evidence, winning the most enthusiastic applause of the entire event. In the end, his team won the competition. Standing on the award podium, Chen Siyuan thought of himself a year ago, who would tremble with nervousness just standing up to speak, and couldn't help but smile."
+      },
+      {
+        "chinese": "赛后，有记者采访他，问他成功的秘诀是什么。陈思远想了想，说：「勇气不是不害怕，而是尽管害怕，依然选择向前走。」",
+        "pinyin": "Sài hòu, yǒu jìzhě cǎifǎng tā, wèn tā chénggōng de mìjué shì shénme. Chén Sīyuǎn xiǎng le xiǎng, shuō: 「Yǒngqì bú shì bú hàipà, ér shì jǐnguǎn hàipà, yīrán xuǎnzé xiàng qián zǒu.」",
+        "english": "After the competition, a reporter interviewed him and asked what the secret to his success was. Chen Siyuan thought for a moment and said: 'Courage is not being unafraid, but choosing to move forward despite being afraid.'"
+      }
+    ],
+    "vocabHighlights": [
+      "内向",
+      "辩论",
+      "敏捷",
+      "发抖",
+      "反驳",
+      "刻苦",
+      "冠军",
+      "论据",
+      "话锋一转",
+      "侵犯",
+      "逻辑",
+      "秘诀"
+    ]
+  },
+  {
+    "id": "r5-104",
+    "hskLevel": 5,
+    "title": "Two Paths",
+    "titleZh": "两条路",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "毕业典礼那天，苏雨晴拿到了两份录用通知。一份来自北京一家知名律师事务所，年薪丰厚、前途光明。另一份来自云南一个偏远山区的支教项目，为期两年，待遇微薄。",
+        "pinyin": "Bìyè diǎnlǐ nà tiān, Sū Yǔqíng ná dào le liǎng fèn lùyòng tōngzhī. Yí fèn láizì Běijīng yì jiā zhīmíng lǜshī shìwùsuǒ, niánxīn fēnghòu, qiántú guāngmíng. Lìng yí fèn láizì Yúnnán yí ge piānyuǎn shānqū de zhījiào xiàngmù, wéiqī liǎng nián, dàiyù wēibó.",
+        "english": "On graduation day, Su Yuqing received two job offers. One was from a well-known law firm in Beijing, with a generous salary and a bright future. The other was from a teaching volunteer project in a remote mountainous area of Yunnan, lasting two years, with meager compensation."
+      },
+      {
+        "chinese": "她的父母毫不犹豫地希望她选择律所。母亲说：「我们辛辛苦苦供你读书，就是希望你过上好日子。」父亲也劝她：「年轻人要务实，理想不能当饭吃。」",
+        "pinyin": "Tā de fùmǔ háo bù yóuyù de xīwàng tā xuǎnzé lǜsuǒ. Mǔqīn shuō: 「Wǒmen xīnxīnkǔkǔ gōng nǐ dúshū, jiùshì xīwàng nǐ guò shàng hǎo rìzi.」 Fùqīn yě quàn tā: 「Niánqīng rén yào wùshí, lǐxiǎng bù néng dāng fàn chī.」",
+        "english": "Her parents unhesitatingly wanted her to choose the law firm. Her mother said: 'We worked so hard to put you through school just so you could have a good life.' Her father also advised her: 'Young people need to be practical; ideals can't put food on the table.'"
+      },
+      {
+        "chinese": "苏雨晴理解父母的想法，但她忘不了大三那年暑假去山区做志愿者的经历。那些孩子们渴望知识的眼神一直印在她脑海里。他们中很多人从来没有见过英语课本，却对外面的世界充满了好奇。",
+        "pinyin": "Sū Yǔqíng lǐjiě fùmǔ de xiǎngfǎ, dàn tā wàng bù liǎo dà sān nà nián shǔjià qù shānqū zuò zhìyuàn zhě de jīnglì. Nàxiē háizi men kěwàng zhīshi de yǎnshén yìzhí yìn zài tā nǎohǎi lǐ. Tāmen zhōng hěn duō rén cónglái méiyǒu jiàn guo Yīngyǔ kèběn, què duì wàimian de shìjiè chōngmǎn le hàoqí.",
+        "english": "Su Yuqing understood her parents' thinking, but she couldn't forget the experience of volunteering in the mountains during the summer of her junior year. The look in those children's eyes, yearning for knowledge, had been imprinted in her mind ever since. Many of them had never seen an English textbook, yet they were full of curiosity about the outside world."
+      },
+      {
+        "chinese": "她的男朋友李浩是个现实主义者。他说：「你可以先去律所工作几年，攒够了钱再去支教也不迟。」这话听起来很合理，但苏雨晴知道，如果现在不去，以后可能就再也迈不出这一步了。",
+        "pinyin": "Tā de nánpéngyou Lǐ Hào shì ge xiànshí zhǔyì zhě. Tā shuō: 「Nǐ kěyǐ xiān qù lǜsuǒ gōngzuò jǐ nián, zǎn gòu le qián zài qù zhījiào yě bù chí.」 Zhè huà tīng qǐlái hěn hélǐ, dàn Sū Yǔqíng zhīdao, rúguǒ xiànzài bú qù, yǐhòu kěnéng jiù zài yě mài bù chū zhè yí bù le.",
+        "english": "Her boyfriend Li Hao was a realist. He said: 'You can work at the law firm for a few years first, and it won't be too late to go volunteer teaching after you've saved enough money.' It sounded reasonable, but Su Yuqing knew that if she didn't go now, she might never be able to take that step."
+      },
+      {
+        "chinese": "经过几个晚上的辗转反侧，苏雨晴做出了选择。她拨通了支教项目负责人的电话。挂断电话后，她感到一种前所未有的轻松，仿佛卸下了压在心头的一块大石头。",
+        "pinyin": "Jīngguò jǐ ge wǎnshang de zhǎnzhuǎn fǎncè, Sū Yǔqíng zuòchū le xuǎnzé. Tā bō tōng le zhījiào xiàngmù fùzérén de diànhuà. Guà duàn diànhuà hòu, tā gǎndào yì zhǒng qiánsuǒwèiyǒu de qīngsōng, fǎngfú xièxià le yā zài xīntóu de yí kuài dà shítou.",
+        "english": "After several nights of tossing and turning, Su Yuqing made her choice. She dialed the phone number of the teaching volunteer project director. After hanging up, she felt an unprecedented sense of relief, as if a heavy stone had been lifted from her heart."
+      },
+      {
+        "chinese": "两年的支教生活比她想象的更加艰苦，但也更加充实。她教孩子们英语，开阔他们的视野。看到学生们一点点进步，她觉得一切付出都是值得的。",
+        "pinyin": "Liǎng nián de zhījiào shēnghuó bǐ tā xiǎngxiàng de gèngjiā jiānkǔ, dàn yě gèngjiā chōngshí. Tā jiāo háizi men Yīngyǔ, kāikuò tāmen de shìyě. Kàndào xuéshēng men yìdiǎndiǎn jìnbù, tā juéde yíqiè fùchū dōu shì zhíde de.",
+        "english": "The two years of volunteer teaching were harder than she had imagined, but also more fulfilling. She taught the children English and broadened their horizons. Seeing the students make progress bit by bit, she felt that all the sacrifices were worth it."
+      },
+      {
+        "chinese": "支教结束后，苏雨晴回到了北京。凭借这段特殊的经历和扎实的法律功底，她很快找到了一份满意的工作。更重要的是，她发现自己已经不再是从前那个犹豫不决的女孩了。那两年教会了她，人生最宝贵的财富不是金钱，而是勇敢追随内心的声音。",
+        "pinyin": "Zhījiào jiéshù hòu, Sū Yǔqíng huí dào le Běijīng. Píngjiè zhè duàn tèshū de jīnglì hé zhāshi de fǎlǜ gōngdǐ, tā hěn kuài zhǎodào le yí fèn mǎnyì de gōngzuò. Gèng zhòngyào de shì, tā fāxiàn zìjǐ yǐjīng bú zài shì cóngqián nà ge yóuyù bù jué de nǚhái le. Nà liǎng nián jiāohuì le tā, rénshēng zuì bǎoguì de cáifù bú shì jīnqián, ér shì yǒnggǎn zhuīsuí nèixīn de shēngyīn.",
+        "english": "After the volunteer teaching ended, Su Yuqing returned to Beijing. With this special experience and her solid legal foundation, she quickly found a satisfying job. More importantly, she discovered she was no longer the indecisive girl she once was. Those two years taught her that life's most precious wealth is not money, but the courage to follow your heart."
+      }
+    ],
+    "vocabHighlights": [
+      "录用",
+      "丰厚",
+      "偏远",
+      "支教",
+      "微薄",
+      "务实",
+      "渴望",
+      "辗转反侧",
+      "前所未有",
+      "充实",
+      "视野",
+      "犹豫不决"
+    ]
+  }
+]

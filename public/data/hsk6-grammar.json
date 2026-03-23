@@ -2,190 +2,1410 @@
   {
     "id": "g6-001",
     "hskLevel": 6,
-    "title": "以至于 (yǐzhìyú) - So much so that",
-    "structure": "..., 以至于 + Result",
-    "explanation": "以至于 introduces an extreme result or consequence of a preceding situation, meaning \"so much so that\" or \"to the extent that.\"",
+    "title": "Advanced usages of the contrary 'dao'",
+    "structure": "Subj. + Verb + 得 + 倒 + Adj.",
+    "explanation": "Advanced usages of the contrary 'dao'. Used for contrasting, expressing attitude.",
     "examples": [
       {
-        "chinese": "他太忙了，以至于忘了吃饭。",
-        "pinyin": "Tā tài máng le, yǐzhìyú wàng le chī fàn.",
-        "english": "He was so busy that he forgot to eat."
+        "chinese": "你想得倒美！不工作还想拿工资？",
+        "pinyin": "nǐ xiǎng dé dǎo měi ！bù gōngzuò huán xiǎng ná gōngzī ？",
+        "english": "You want to be beautiful! Want to get paid if you don't work?"
       },
       {
-        "chinese": "污染严重，以至于河里的鱼都死了。",
-        "pinyin": "Wūrǎn yánzhòng, yǐzhìyú hé lǐ de yú dōu sǐ le.",
-        "english": "The pollution was so severe that all the fish in the river died."
+        "chinese": "你想得倒简单！怎么可能？",
+        "pinyin": "nǐ xiǎng dé dǎo jiǎndān ！zěnyāo kěnéng ？",
+        "english": "What you think is simple! How can it be?"
+      },
+      {
+        "chinese": "这个小女孩倒挺勇敢的。",
+        "pinyin": "zhè gè xiǎo nv̌hái dǎo tǐng yǒnggǎn de 。",
+        "english": "This little girl is quite brave."
+      },
+      {
+        "chinese": "你倒蛮会说话的。",
+        "pinyin": "nǐ dǎo mán hùi shuōhuà de 。",
+        "english": "You can talk."
+      },
+      {
+        "chinese": "你们都说这个菜太辣了，我倒不觉得。",
+        "pinyin": "nǐmen dū shuō zhègè cài tàilàle ，wǒ dǎo bù juédé 。",
+        "english": "You all say that this dish is too spicy, I don't think so."
       }
     ]
   },
   {
     "id": "g6-002",
     "hskLevel": 6,
-    "title": "有鉴于此 (yǒu jiàn yú cǐ) - In view of this",
-    "structure": "有鉴于此，...",
-    "explanation": "有鉴于此 is a formal expression meaning \"in view of this\" or \"given these circumstances,\" used to introduce a conclusion or action based on prior reasoning.",
+    "title": "Emphasizing with 'henshi'",
+    "structure": "Subj. + 很是 + Adj.",
+    "explanation": "Emphasizing with 'henshi'. Used for expressing degree, emphasizing.",
     "examples": [
       {
-        "chinese": "近年来事故频发。有鉴于此，我们加强了安全管理。",
-        "pinyin": "Jìnnián lái shìgù pín fā. Yǒu jiàn yú cǐ, wǒmen jiāqiáng le ānquán guǎnlǐ.",
-        "english": "Accidents have been frequent in recent years. In view of this, we have strengthened safety management."
+        "chinese": "这样做很是必要。",
+        "pinyin": "zhèyángzuò hěnshì bìyào 。",
+        "english": "This is necessary."
       },
       {
-        "chinese": "成本不断上升。有鉴于此，公司决定调整价格。",
-        "pinyin": "Chéngběn búduàn shàngshēng. Yǒu jiàn yú cǐ, gōngsī juédìng tiáozhěng jiàgé.",
-        "english": "Costs keep rising. In view of this, the company decided to adjust prices."
+        "chinese": "你的工作表现让领导很是满意。",
+        "pinyin": "nǐ de gōngzuò biǎoxiàn ràng lǐngdǎo hěnshì mǎnyì 。",
+        "english": "Your performance is very satisfying to the leader."
+      },
+      {
+        "chinese": "你穿西装看起来很是精神。",
+        "pinyin": "nǐ chuān xīzhuāng kànqǐlái hěnshì jīngshén 。",
+        "english": "You look very spirited in a suit."
+      },
+      {
+        "chinese": "这件事让我很是不舒服。",
+        "pinyin": "zhè jiàn shì ràng wǒ hěnshì bù shūfú 。",
+        "english": "This thing makes me very uncomfortable."
+      },
+      {
+        "chinese": "我老板很是喜欢你的设计风格。",
+        "pinyin": "wǒ lǎobǎn hěnshì xǐhuān nǐ de shèjì fēnggé 。",
+        "english": "My boss likes your design style very much."
       }
     ]
   },
   {
     "id": "g6-003",
     "hskLevel": 6,
-    "title": "归根结底 (guīgēnjiédǐ) - In the final analysis",
-    "structure": "归根结底，...",
-    "explanation": "归根结底 means \"in the final analysis\" or \"when all is said and done.\" It introduces the fundamental reason or conclusion.",
+    "title": "Expressing 'a full' with 'zuzu'",
+    "structure": "足足 + Verb  /  Verb + 足足",
+    "explanation": "Expressing 'a full' with 'zuzu'. Used for emphasizing a number.",
     "examples": [
       {
-        "chinese": "归根结底，教育是最重要的投资。",
-        "pinyin": "Guīgēnjiédǐ, jiàoyù shì zuì zhòngyào de tóuzī.",
-        "english": "In the final analysis, education is the most important investment."
+        "chinese": "姚明身高足足有2.26米。",
+        "pinyin": "yáomíng shēngāo zúzú yǒu 2.26mǐ 。",
+        "english": "Yao Ming is 2.26 meters tall."
       },
       {
-        "chinese": "归根结底，问题出在管理上。",
-        "pinyin": "Guīgēnjiédǐ, wèntí chū zài guǎnlǐ shàng.",
-        "english": "Ultimately, the problem lies in management."
+        "chinese": "昨天我的约会不太顺利，她让我等了足足两个小时。",
+        "pinyin": "zuótiān wǒde yuēhùi bù tài shùnlì，tā ràng wǒ děng le zúzú liǎng gè xiǎoshí 。",
+        "english": "Yesterday my appointment was not going well. She made me wait two full hours."
+      },
+      {
+        "chinese": "怪不得他汉语说得那么好，他在中国住了足足十年的时间！",
+        "pinyin": "guàibùdé tā hànyǔ shuō dé nàyāo hǎo，tā zài zhōngguó zhù le zúzú shí nián de shíjiān！",
+        "english": "No wonder he speaks Chinese so well, he lived in China for a full ten years!"
       }
     ]
   },
   {
     "id": "g6-004",
     "hskLevel": 6,
-    "title": "迫不得已 (pòbùdéyǐ) - Have no alternative",
-    "structure": "迫不得已 + (才) + Verb",
-    "explanation": "迫不得已 means one is forced by circumstances with absolutely no alternative. Stronger than 不得不.",
+    "title": "Expressing 'again and again' with 'yizai'",
+    "structure": "Subj. + 一再 + Verb",
+    "explanation": "Expressing 'again and again' with 'yizai'. Used for emphasizing.",
     "examples": [
       {
-        "chinese": "他迫不得已才卖掉了房子。",
-        "pinyin": "Tā pòbùdéyǐ cái mài diào le fángzi.",
-        "english": "He had absolutely no choice but to sell the house."
+        "chinese": "我一再跟你说，出门在外要小心。",
+        "pinyin": "wǒ yīzài gēn nǐ shuō ，chūménzàiwài yào xiǎoxīn 。",
+        "english": "I have repeatedly told you to be careful when going out."
       },
       {
-        "chinese": "迫不得已的情况下，我们只能推迟计划。",
-        "pinyin": "Pòbùdéyǐ de qíngkuàng xià, wǒmen zhǐ néng tuīchí jìhuà.",
-        "english": "Under unavoidable circumstances, we can only postpone the plan."
+        "chinese": "他总是犹犹豫豫，一再错失良机。",
+        "pinyin": "tā zǒngshì yóuyóuyùyù ，yīzài cuòshīliángjī 。",
+        "english": "He always hesitated and missed opportunities again and again."
+      },
+      {
+        "chinese": "一再强调。",
+        "pinyin": "yīzài qiángdiào 。",
+        "english": "Repeatedly emphasized."
+      },
+      {
+        "chinese": "一再请求。",
+        "pinyin": "yīzài qǐngqíu 。",
+        "english": "Repeated requests."
+      },
+      {
+        "chinese": "一再狡辩。",
+        "pinyin": "yīzài jiǎobiàn 。",
+        "english": "Repeated sophistry."
       }
     ]
   },
   {
     "id": "g6-005",
     "hskLevel": 6,
-    "title": "出于 (chūyú) - Out of/Due to",
-    "structure": "出于 + Reason/Motive",
-    "explanation": "出于 means \"out of\" or \"due to\" and is used to state the reason or motive behind an action.",
+    "title": "Expressing 'always previously' with 'xianglai'",
+    "structure": "Subject + 向来（都） + Verb/Verb Phrase",
+    "explanation": "Expressing 'always previously' with 'xianglai'. Used for referring to the past, expressing frequency.",
     "examples": [
       {
-        "chinese": "他出于好奇打开了那扇门。",
-        "pinyin": "Tā chūyú hàoqí dǎkāi le nà shàn mén.",
-        "english": "He opened that door out of curiosity."
+        "chinese": "我父母向来不喜欢我跟你们一起出去玩儿。",
+        "pinyin": "wǒ fùmǔ xiànglái bù xǐhuān wǒ gēn nǐmen yīqǐ chūqù wánér 。",
+        "english": "My parents have never liked me hanging out with you."
       },
       {
-        "chinese": "出于安全考虑，这条路已经封闭。",
-        "pinyin": "Chūyú ānquán kǎolǜ, zhè tiáo lù yǐjīng fēngbì.",
-        "english": "Due to safety concerns, this road has been closed."
+        "chinese": "我向来努力，所以我每一次考试都得满分。",
+        "pinyin": "wǒ xiànglái nǔlì，suǒyǐ wǒ měi yī cì kǎoshì dū dé mǎnfēn 。",
+        "english": "I always work hard, so I get full marks for every exam."
+      },
+      {
+        "chinese": "那个足球队员一向被称为“金脚”，因为他踢足球踢得非常好。",
+        "pinyin": "nàgè zúqíu dùiyuán yīxiàng bèi chēngwèi “jīnjiǎo”，yīnwèi tā tī zúqíu tī dé fēicháng hǎo 。",
+        "english": "The football player has always been called the \"golden foot\" because he played football very well."
       }
     ]
   },
   {
     "id": "g6-006",
     "hskLevel": 6,
-    "title": "鉴于 (jiànyú) - In light of/Given that",
-    "structure": "鉴于 + Situation，...",
-    "explanation": "鉴于 means \"in light of\" or \"given that\" and is used in formal contexts to state a reason before a decision or suggestion.",
+    "title": "Expressing 'as expected' with 'guoran'",
+    "structure": "Subj. + 果然 + Predicate",
+    "explanation": "Expressing 'as expected' with 'guoran'. Used for expressing attitude.",
     "examples": [
       {
-        "chinese": "鉴于目前的情况，会议推迟到下周。",
-        "pinyin": "Jiànyú mùqián de qíngkuàng, huìyì tuīchí dào xià zhōu.",
-        "english": "Given the current situation, the meeting is postponed to next week."
+        "chinese": "第一名果然是她！我就知道。",
+        "pinyin": "dìyīmíng guǒrán shì tā ！wǒ jìu zhīdào 。",
+        "english": "The first place is indeed her! I knew it."
       },
       {
-        "chinese": "鉴于他的表现，公司决定给他升职。",
-        "pinyin": "Jiànyú tā de biǎoxiàn, gōngsī juédìng gěi tā shēng zhí.",
-        "english": "In light of his performance, the company decided to promote him."
+        "chinese": "大厨做的菜果然不一样！好吃！",
+        "pinyin": "dàchú zuò de cài guǒrán bùyīyáng ！hǎochī ！",
+        "english": "The chef's dishes are different! good to eat!"
+      },
+      {
+        "chinese": "你说得没错！他果然是个骗子！",
+        "pinyin": "nǐ shuō dé méicuò ！tā guǒrán shì gè piànzǐ ！",
+        "english": "You are right! He really is a liar!"
+      },
+      {
+        "chinese": "这个止疼药果然有效，我的头疼好多了。",
+        "pinyin": "zhègè zhǐténgyào guǒrán yǒuxiào ，wǒde tóuténg hǎoduōle 。",
+        "english": "This painkiller really works, and my headache is much better."
+      },
+      {
+        "chinese": "司机师傅说马上到，果然，两分钟以后车就来了。",
+        "pinyin": "sījī shīfù shuō mǎshàng dào ，guǒrán ，liǎngfēnzhōng yǐhòu chē jìu lái le 。",
+        "english": "The driver master said to be here soon, and sure enough, the car would come in two minutes."
       }
     ]
   },
   {
     "id": "g6-007",
     "hskLevel": 6,
-    "title": "就...而言 (jiù...éryán) - As far as...is concerned",
-    "structure": "就 + Topic + 而言，...",
-    "explanation": "就...而言 means \"as far as...is concerned\" or \"in terms of,\" used to limit the scope of a statement.",
+    "title": "Expressing 'as if' with 'sihu'",
+    "structure": "Subj. + 似乎 ⋯⋯",
+    "explanation": "Expressing 'as if' with 'sihu'. Used for expressing attitude.",
     "examples": [
       {
-        "chinese": "就质量而言，这个产品是最好的。",
-        "pinyin": "Jiù zhìliàng éryán, zhège chǎnpǐn shì zuì hǎo de.",
-        "english": "In terms of quality, this product is the best."
+        "chinese": "老板今天似乎不太高兴。",
+        "pinyin": "lǎobǎn jīntiān sìhū bùtài gāoxīng 。",
+        "english": "The boss seems not too happy today."
       },
       {
-        "chinese": "就目前而言，计划进展顺利。",
-        "pinyin": "Jiù mùqián éryán, jìhuà jìnzhǎn shùnlì.",
-        "english": "As far as the current situation goes, the plan is progressing smoothly."
+        "chinese": "你说得似乎很有道理。",
+        "pinyin": "nǐ shuō dé sìhū hěn yǒudàolǐ 。",
+        "english": "What you said makes sense."
+      },
+      {
+        "chinese": "他似乎明白这句话的意思，却又说不清楚。",
+        "pinyin": "tā sìhū míngbái zhèjùhuà de yìsī ，què yòu shuōbùqīngchǔ 。",
+        "english": "He seemed to understand the meaning of this sentence, but he couldn't say it clearly."
+      },
+      {
+        "chinese": "她似乎隐瞒了什么。",
+        "pinyin": "tā sìhū yǐnmán le shíyāo 。",
+        "english": "She seems to be hiding something."
+      },
+      {
+        "chinese": "似乎没有人关心那个小男孩。",
+        "pinyin": "sìhū méiyǒurén guānxīn nàgè xiǎonánhái 。",
+        "english": "No one seemed to care about the little boy."
       }
     ]
   },
   {
     "id": "g6-008",
     "hskLevel": 6,
-    "title": "乃至 (nǎizhì) - And even/Up to",
-    "structure": "A，乃至 + B",
-    "explanation": "乃至 means \"and even\" or \"up to and including,\" indicating an escalation from A to B.",
+    "title": "Expressing 'as long as' with 'fanshi'",
+    "structure": "凡是 + Noun + 都 / 就 / 一律 + Predicate",
+    "explanation": "Expressing 'as long as' with 'fanshi'",
     "examples": [
       {
-        "chinese": "这件事影响了整个城市，乃至全国。",
-        "pinyin": "Zhè jiàn shì yǐngxiǎng le zhěnggè chéngshì, nǎizhì quánguó.",
-        "english": "This matter affected the entire city, and even the whole country."
+        "chinese": "凡是用鸡蛋做的菜，他都不喜欢。",
+        "pinyin": "fánshì yòng jīdàn zuò de cài ，tā dū bù xǐhuān 。",
+        "english": "He doesn't like dishes made with eggs."
       },
       {
-        "chinese": "他的研究影响了学术界，乃至社会各界。",
-        "pinyin": "Tā de yánjiū yǐngxiǎng le xuéshù jiè, nǎizhì shèhuì gè jiè.",
-        "english": "His research influenced academia, and even all sectors of society."
+        "chinese": "凡是不听话的孩子都没有糖吃。",
+        "pinyin": "fánshì bù tīnghuà de háizǐ dū méiyǒu táng chī 。",
+        "english": "No disobedient child eats sugar."
+      },
+      {
+        "chinese": "凡是会员都有折扣。",
+        "pinyin": "fánshì hùiyuán dū yǒu zhékòu 。",
+        "english": "All members have discounts."
+      },
+      {
+        "chinese": "凡是美国公民就可以投票，这是真的吗？",
+        "pinyin": "fánshì měiguó gōngmín jìu kěyǐ tóupiào ，zhè shì zhēnde ma ？",
+        "english": "Is it true that any American citizen can vote?"
+      },
+      {
+        "chinese": "凡是提前三天报名的人就可以免费入场。",
+        "pinyin": "fánshì tíqián sāntiān bàomíng de rén jìu kěyǐ miǎnfèi rùcháng 。",
+        "english": "Those who sign up three days in advance can enter for free."
       }
     ]
   },
   {
     "id": "g6-009",
     "hskLevel": 6,
-    "title": "以免 (yǐmiǎn) - In order to avoid/Lest",
-    "structure": "..., 以免 + Undesired Result",
-    "explanation": "以免 means \"in order to avoid\" or \"so as not to.\" It introduces something one wants to prevent.",
+    "title": "Expressing 'contrary to expectations' with 'pianpian'",
+    "structure": "A, Subject + 偏偏 + B",
+    "explanation": "Expressing 'contrary to expectations' with 'pianpian'. Used for contrasting.",
     "examples": [
       {
-        "chinese": "你早点出发，以免迟到。",
-        "pinyin": "Nǐ zǎo diǎn chūfā, yǐmiǎn chídào.",
-        "english": "Leave early so as not to be late."
+        "chinese": "经过大家的讨论，问题都解决了，偏偏他还要钻牛角尖。",
+        "pinyin": "jīngguò dàjiā de tǎolùn，wèntí dū jiějué le，piānpiān tā huán yào zuàn níujiǎojiān 。",
+        "english": "After everyone's discussion, the problem has been solved, but he still has to be horny."
       },
       {
-        "chinese": "请仔细检查，以免出错。",
-        "pinyin": "Qǐng zǐxì jiǎnchá, yǐmiǎn chū cuò.",
-        "english": "Please check carefully to avoid making mistakes."
+        "chinese": "不叫他去，他偏偏要去。",
+        "pinyin": "bù jiào tā qù，tā piānpiān yào qù 。",
+        "english": "Don't ask him to go, he just wants to go."
+      },
+      {
+        "chinese": "大家都叫他离开了，偏偏他还赖着不走。",
+        "pinyin": "dàjiā dū jiào tā líkāi le，piānpiān tā huán làizháo bù zǒu 。",
+        "english": "Everyone told him to leave, but he still refused to leave."
+      },
+      {
+        "chinese": "星期天他来找我，偏偏我不在家。",
+        "pinyin": "xīngqītiān tā lái zhǎo wǒ，piānpiān wǒ bù zài jiā 。",
+        "english": "He came to me on Sunday, but I was not at home."
+      },
+      {
+        "chinese": "好不容易找到了他，偏偏又碰上小李拉他去办事。",
+        "pinyin": "hǎobù róngyì zhǎodào le tā，piānpiān yòu pèngshàng xiǎolǐ lā tā qù bànshì 。",
+        "english": "Finally, he was found, but Xiaoli pulled him to work again."
       }
     ]
   },
   {
     "id": "g6-010",
     "hskLevel": 6,
-    "title": "不可避免地 (bùkě bìmiǎn de) - Inevitably",
-    "structure": "不可避免地 + Verb",
-    "explanation": "不可避免地 is an adverb meaning \"inevitably\" or \"unavoidably,\" used in formal writing to indicate something cannot be prevented.",
+    "title": "Expressing 'no exception' with 'yilu'",
+    "structure": "一律 (+ 都) + Verb / Adj.",
+    "explanation": "Expressing 'no exception' with 'yilu'. Used for expressing attitude, emphasizing, expressing quantity.",
     "examples": [
       {
-        "chinese": "全球化不可避免地改变了人们的生活方式。",
-        "pinyin": "Quánqiúhuà bùkě bìmiǎn de gǎibiàn le rénmen de shēnghuó fāngshì.",
-        "english": "Globalization has inevitably changed people's way of life."
+        "chinese": "明天的部门会议一律都要参加。",
+        "pinyin": "míngtiān de bùmén hùiyì yīlv̀ dū yào cānjiā 。",
+        "english": "Tomorrow ’s department meetings will all be attended."
       },
       {
-        "chinese": "技术进步不可避免地带来了新的挑战。",
-        "pinyin": "Jìshù jìnbù bùkě bìmiǎn de dàilái le xīn de tiǎozhàn.",
-        "english": "Technological progress inevitably brings new challenges."
+        "chinese": "70岁以上的老人坐公交一律都免费。",
+        "pinyin": "70sùi yǐshàng de lǎorén zuògōngjiāo yīlv̀ dū miǎnfèi 。",
+        "english": "Old people over 70 years old are free of charge."
+      },
+      {
+        "chinese": "不管是谁，一律都要通过六个月试用期。",
+        "pinyin": "bùguǎn shì shúi ，yīlv̀ dū yào tōngguò lìugèyuè shìyòngqī 。",
+        "english": "No matter who it is, all have to pass the six-month trial period."
+      },
+      {
+        "chinese": "不需要的东西一律捐掉。",
+        "pinyin": "bùxūyào de dōngxī yīlv̀ juāndiào 。",
+        "english": "Do n’t give away anything you do n’t need."
+      },
+      {
+        "chinese": "政府命令重污染企业一律停业。",
+        "pinyin": "zhèngfǔ mìnglìng zhòngwūrǎn qǐyè yīlv̀ tíngyè 。",
+        "english": "The government ordered all heavily polluting enterprises to shut down."
+      }
+    ]
+  },
+  {
+    "id": "g6-011",
+    "hskLevel": 6,
+    "title": "Expressing 'nothing but' with 'wufei'",
+    "structure": "无非 + 是 + Noun / Verb Phrase",
+    "explanation": "Expressing 'nothing but' with 'wufei'",
+    "examples": [
+      {
+        "chinese": "我空闲时间无非是游泳、看书而已。",
+        "pinyin": "wǒ kōngxián shíjiān wúfēi shì yóuyǒng、kàn shū éryǐ 。",
+        "english": "My free time is nothing more than swimming and reading."
+      },
+      {
+        "chinese": "我空闲时间无非游泳、看书而已。",
+        "pinyin": "wǒ kōngxián shíjiān wúfēi yóuyǒng、kàn shū éryǐ 。",
+        "english": "My free time is nothing more than swimming and reading."
+      },
+      {
+        "chinese": "我无非是批评了他几句，他怎么哭了？",
+        "pinyin": "wǒ wúfēi shì pīpíng le tā jī jù，tā zěnyāo kū le ？",
+        "english": "I just criticized him a few words, why did he cry?"
+      },
+      {
+        "chinese": "我无非批评了他几句，他怎么哭了？",
+        "pinyin": "wǒ wúfēi pīpíng le tā jī jù，tā zěnyāo kū le ？",
+        "english": "I just criticized him a few words, why did he cry?"
+      },
+      {
+        "chinese": "我们无非是谈了一下孩子的教育问题罢了，没谈什么特别的事情。",
+        "pinyin": "wǒmen wúfēi shì tán le yīxià háizǐ de jiàoyù wèntí bàle，méi tán shíyāo tèbié de shìqíng 。",
+        "english": "We just talked about the children's education, nothing special."
+      }
+    ]
+  },
+  {
+    "id": "g6-012",
+    "hskLevel": 6,
+    "title": "Expressing 'when the time comes' with 'dao shihou'",
+    "structure": "……，到时候 + ……",
+    "explanation": "Expressing 'when the time comes' with 'dao shihou'. Used for expressing time and date.",
+    "examples": [
+      {
+        "chinese": "现在不好好准备考试，到时候肯定考不好。",
+        "pinyin": "xiànzài bù hǎohǎo zhǔnbèi kǎoshì，dàoshíhòu kěndìng kǎo bùhǎo 。",
+        "english": "It is not good to prepare for the exam now, and it will definitely be bad by the time."
+      },
+      {
+        "chinese": "我要学唱中文的生日快乐歌，到时候唱给你们听。",
+        "pinyin": "wǒ yào xué chàng zhōngwén de shēngrìkuàilè gē，dàoshíhòu chàng gěi nǐmen tīng 。",
+        "english": "I ’m going to learn to sing Happy Birthday in Chinese and I ’ll sing it to you."
+      },
+      {
+        "chinese": "你先自己试一试，到时候我再教你。",
+        "pinyin": "nǐ xiān zìjǐ shì yī shì，dàoshíhòu wǒ zài jiào nǐ 。",
+        "english": "You try it yourself, and I will teach you later."
+      },
+      {
+        "chinese": "到时候见。",
+        "pinyin": "dàoshíhòu jiàn 。",
+        "english": "see you then."
+      },
+      {
+        "chinese": "到时候看吧。",
+        "pinyin": "dàoshíhòu kàn ba 。",
+        "english": "Let's watch it."
+      }
+    ]
+  },
+  {
+    "id": "g6-013",
+    "hskLevel": 6,
+    "title": "Expressing 'why' with 'hebi'",
+    "structure": "Subj. + 何必 + Predicate",
+    "explanation": "Expressing 'why' with 'hebi'. Used for expressing attitude, emphasizing.",
+    "examples": [
+      {
+        "chinese": "他已经道歉了，你何必还生气？",
+        "pinyin": "tā yǐjīng dàoqiàn le ，nǐ hébì huán shēngqì ？",
+        "english": "He has apologized, why are you still angry?"
+      },
+      {
+        "chinese": "都是一家人，你们何必这么客气？",
+        "pinyin": "dūshì yījiārén ，nǐmen hébì zhèyāo kèqì ？",
+        "english": "They are all a family, why are you so polite?"
+      },
+      {
+        "chinese": "上海的房子那么贵，你儿子何必要在那儿买房子？",
+        "pinyin": "shànghǎi de fángzǐ nàyāo gùi ，nǐérzǐ hébì yào zài nàér mǎi fángzǐ ？",
+        "english": "The house in Shanghai is so expensive, why should your son buy a house there?"
+      },
+      {
+        "chinese": "我只是不小心踩了你一下，你何必骂人？",
+        "pinyin": "wǒ zhǐshì bùxiǎoxīn cǎi le nǐ yīxià ，nǐ hébì màrén ？",
+        "english": "I just stepped on you accidentally, why do you curse?"
+      },
+      {
+        "chinese": "何必下周？",
+        "pinyin": "hébì xiàzhōu ？",
+        "english": "Why next week?"
+      }
+    ]
+  },
+  {
+    "id": "g6-014",
+    "hskLevel": 6,
+    "title": "Expressing that something has already happened with 'laizhe'",
+    "structure": "Sentence + 来着",
+    "explanation": "Expressing that something has already happened with 'laizhe'. Used for sequencing events in time.",
+    "examples": [
+      {
+        "chinese": "昨天有人来找你来着。",
+        "pinyin": "zuótiān yǒu rén lái zhǎo nǐ láizháo 。",
+        "english": "Someone came to see you yesterday."
+      },
+      {
+        "chinese": "那本书昨天还在这儿来着，今天怎么找不到了？",
+        "pinyin": "nà běn shū zuótiān huán zài zhèér láizháo，jīntiān zěnyāo zhǎo bùdào le ？",
+        "english": "That book was here yesterday, why can't I find it today?"
+      },
+      {
+        "chinese": "他叫什么来着？",
+        "pinyin": "tā jiào shíyāo láizháo ？",
+        "english": "What's his name?"
+      },
+      {
+        "chinese": "那首歌是谁唱的来着？",
+        "pinyin": "nà shǒu gē shì shúi chàng de láizháo ？",
+        "english": "Who sang that song?"
+      },
+      {
+        "chinese": "我们上次说周末去哪儿玩来着？",
+        "pinyin": "wǒmen shàng cì shuō zhōumò qù nǎér wán láizháo ？",
+        "english": "We said last time where to play on the weekend?"
+      }
+    ]
+  },
+  {
+    "id": "g6-015",
+    "hskLevel": 6,
+    "title": "Expressing 'as well as' with 'yiji'",
+    "structure": "[Noun Phrase 1]，[Noun Phrase 2] + 以及 + [Noun Phrase 3]",
+    "explanation": "Expressing 'as well as' with 'yiji'. Used for listing.",
+    "examples": [
+      {
+        "chinese": "听觉、视觉、嗅觉、味觉以及触觉都属于感官。",
+        "pinyin": "tīngjué 、shìjué 、xìujué 、wèijué yǐjí hóngjué dū shǔyú gǎnguān 。",
+        "english": "Hearing, sight, smell, taste and touch all belong to the senses."
+      },
+      {
+        "chinese": "艺术有很多种类，绘画、舞蹈、电影以及文学等都是艺术。",
+        "pinyin": "yìzhú yǒu hěnduō zhǒnglèi ，hùihuà 、wǔdǎo 、diànyǐng yǐjí wénxué děng dū shì yìzhú 。",
+        "english": "There are many types of art, and painting, dance, film, and literature are all art."
+      },
+      {
+        "chinese": "院子里种着玫瑰花、茉莉花、牡丹花以及其他一些花草。",
+        "pinyin": "yuànzǐ lǐ zhǒngzháo méigūihuā 、mòlìhuā 、mǔdānhuā yǐjí qítā yīxiē huācǎo 。",
+        "english": "The yard is planted with roses, jasmine, peony and other flowers."
+      },
+      {
+        "chinese": "我们的价值就是采访、分析以及组合投资管理人。",
+        "pinyin": "wǒmen de jiàzhí jìushì cǎifǎng、fēnxī yǐjí zǔhé tóuzī guǎnlǐ rén 。",
+        "english": "Our value is interviews, analysis and portfolio investment managers."
+      },
+      {
+        "chinese": "习主席祝全国人民以及全体海外华人新年快乐。",
+        "pinyin": "xí zhǔxí zhù quánguó rénmín yǐjí quántǐ hǎiwài huárén xīnniánkuàilè 。",
+        "english": "President Xi wished the people throughout the country and all overseas Chinese a happy new year."
+      }
+    ]
+  },
+  {
+    "id": "g6-016",
+    "hskLevel": 6,
+    "title": "Indicating contrast with 'ze'",
+    "structure": "Subject + Predicate, 则 + Subject + Predicate",
+    "explanation": "Indicating contrast with 'ze'. Used for contrasting.",
+    "examples": [
+      {
+        "chinese": "南方人喜欢吃甜的东西，北方人则喜欢吃咸的东西。",
+        "pinyin": "nánfāng rén xǐhuān chī tián de dōngxī，běifāng rén zé xǐhuān chī xián de dōngxī 。",
+        "english": "Southerners like to eat sweet things, while northerners like to eat salty things."
+      },
+      {
+        "chinese": "美国人比较开放，他们喜欢认识新的朋友，中国人则比较害羞，他们更喜欢与亲密的朋友交往。",
+        "pinyin": "měiguó rén bǐjiào kāifàng，tāmen xǐhuān rènshì xīn de péngyǒu，zhōngguó rén zé bǐjiào hàixīu，tāmen gèng xǐhuān yǔ qīnmì de péngyǒu jiāowǎng 。",
+        "english": "Americans are more open-minded. They like to meet new friends, while Chinese people are more shy."
+      },
+      {
+        "chinese": "我老婆习惯安静、自然的乡村生活，我则习惯喧闹繁忙的大城市生活。",
+        "pinyin": "wǒ lǎopó xíguàn ānjìng、zìrán de xiāngcūn shēnghuó，wǒ zé xíguàn xuānnào fánmáng de dà chéngshì shēnghuó 。",
+        "english": "My wife is used to quiet, natural country life, and I am used to the noisy and busy city life."
+      },
+      {
+        "chinese": "南方人喜欢吃甜的东西，而北方人则喜欢吃咸的东西。",
+        "pinyin": "nánfāng rén xǐhuān chī tián de dōngxī，ér běifāng rén zé xǐhuān chī xián de dōngxī 。",
+        "english": "Southerners like to eat sweet things, while northerners like to eat salty things."
+      },
+      {
+        "chinese": "美国人比较开放，他们喜欢认识新的朋友，而中国人则比较害羞，他们更喜欢与内圈的朋友交往。",
+        "pinyin": "měiguó rén bǐjiào kāifàng，tāmen xǐhuān rènshì xīn de péngyǒu，ér zhōngguó rén zé bǐjiào hàixīu，tāmen gèng xǐhuān yǔ nèiquān de péngyǒu jiāowǎng 。",
+        "english": "Americans are more open, they like to meet new friends, while Chinese people are more shy, they prefer to socialize with friends in the inner circle."
+      }
+    ]
+  },
+  {
+    "id": "g6-017",
+    "hskLevel": 6,
+    "title": "In order to avoid with 'yimian'",
+    "structure": "以免 + Verb Phrase",
+    "explanation": "In order to avoid with 'yimian'. Used for expressing a central concept.",
+    "examples": [
+      {
+        "chinese": "这儿有高压电线，请不要靠近，以免发生危险。",
+        "pinyin": "zhèér yǒu gāoyādiànxiàn，qǐng bùyào kàojìn，yǐmiǎn fāshēng wēixiǎn 。",
+        "english": "There are high-voltage wires here, please do not come close to avoid danger."
+      },
+      {
+        "chinese": "加强安全措施，以免发生工伤事故。",
+        "pinyin": "jiāqiáng ānquán cuòshī，yǐmiǎn fāshēng gōngshāngshìgù 。",
+        "english": "Strengthen safety measures to avoid accidents at work."
+      },
+      {
+        "chinese": "行人和车辆必须严格遵守交通法规，以免发生交通事故。",
+        "pinyin": "xíngrén hé chēliàng bìxū yángé zūnshǒu jiāotōngfǎgūi，yǐmiǎn fāshēngjiāotōngshìgù 。",
+        "english": "Pedestrians and vehicles must strictly abide by traffic regulations to avoid traffic accidents."
+      },
+      {
+        "chinese": "你赶紧走，以免晚了。",
+        "pinyin": "nǐ gǎnjǐn zǒu，yǐmiǎn wǎn le 。",
+        "english": "You hurried away so as not to be late."
+      },
+      {
+        "chinese": "快抓住那个坏人，以免跑了。",
+        "pinyin": "kuài zhuāzhù nàgè huàirén，yǐmiǎn pǎo le 。",
+        "english": "Grab the bad guy quickly so as not to run away."
+      }
+    ]
+  },
+  {
+    "id": "g6-018",
+    "hskLevel": 6,
+    "title": "Expressing 'your side' with 'ben'",
+    "structure": "本 + Noun",
+    "explanation": "Expressing 'your side' with 'ben'",
+    "examples": [
+      {
+        "chinese": "本人。",
+        "pinyin": "běn rén 。",
+        "english": "Me."
+      },
+      {
+        "chinese": "顾客至上是本公司的经营理念。",
+        "pinyin": "gùkèzhìshàng shì běn gōngsī de jīngyíng lǐniàn 。",
+        "english": "Customer first is our business philosophy."
+      },
+      {
+        "chinese": "本校不允许外校学生随便进出。",
+        "pinyin": "běn xiào bù yǔnxǔ wàixiào xuéshēng súibiàn jìnchū 。",
+        "english": "The school does not allow foreign students to enter and leave at will."
+      },
+      {
+        "chinese": "本组织。",
+        "pinyin": "běn zǔzhī 。",
+        "english": "The organization."
+      }
+    ]
+  },
+  {
+    "id": "g6-019",
+    "hskLevel": 6,
+    "title": "Indicating a characteristic with 'xing'",
+    "structure": "Word + 性",
+    "explanation": "Indicating a characteristic with 'xing'",
+    "examples": [
+      {
+        "chinese": "你知道管理的科学性和艺术性是指什么吗？",
+        "pinyin": "nǐ zhīdào guǎnlǐ de kēxué xìng hé yìzhú xìng shì zhǐ shíyāo ma ？",
+        "english": "Do you know what scientific and artistic management means?"
+      },
+      {
+        "chinese": "你交的这个产品宣传方案没有可行性。",
+        "pinyin": "nǐ jiāo de zhè gè chǎnpǐn xuānchuán fāngàn méiyǒu kěxíngxìng 。",
+        "english": "The product promotion plan you submitted is not feasible."
+      },
+      {
+        "chinese": "中国四川省的山区，发生地震的可能性较大。",
+        "pinyin": "zhōngguó sìchuān shěng de shānqū，fāshēng dìzhèn de kěnéngxìng jiào dà 。",
+        "english": "Mountainous areas in Sichuan Province, China, are more likely to have earthquakes."
+      },
+      {
+        "chinese": "本公司对员工上班时间没有硬性规定。",
+        "pinyin": "běn gōngsī dùi yuángōng shàngbān shíjiān méiyǒu yìngxìng gūidìng 。",
+        "english": "The company has no hard-and-fast rules about employee working hours."
+      },
+      {
+        "chinese": "你的作品越来越有创造性。",
+        "pinyin": "nǐ de zuòpǐn yuè lái yuè yǒu chuàngzào xìng 。",
+        "english": "Your work is becoming more and more creative."
+      }
+    ]
+  },
+  {
+    "id": "g6-020",
+    "hskLevel": 6,
+    "title": "Expressing 'is or is not' with 'shifou'",
+    "structure": "是否 + Verb / Adj.",
+    "explanation": "Expressing 'is or is not' with 'shifou'",
+    "examples": [
+      {
+        "chinese": "他们是否考虑过在上海买房？",
+        "pinyin": "tāmen shìfǒu kǎolv̀ guò zài shànghǎi mǎi fáng ？",
+        "english": "Have they considered buying a house in Shanghai?"
+      },
+      {
+        "chinese": "你父母是否同意你们住在一起？",
+        "pinyin": "nǐ fùmǔ shìfǒu tóngyì nǐmen zhù zài yīqǐ ？",
+        "english": "Do your parents agree that you live together?"
+      },
+      {
+        "chinese": "你是否清楚这样做的后果？",
+        "pinyin": "nǐ shìfǒu qīngchǔ zhèyáng zuò de hòuguǒ ？",
+        "english": "Are you aware of the consequences of this?"
+      }
+    ]
+  },
+  {
+    "id": "g6-021",
+    "hskLevel": 6,
+    "title": "Expressing possession with 'zhi'",
+    "structure": "Noun + 之 + Noun",
+    "explanation": "Expressing possession with 'zhi'. Used for expressing possession.",
+    "examples": [
+      {
+        "chinese": "害人之心不可有，防人之心不可无。",
+        "pinyin": "hài rén zhī xīn bù kě yǒu，fáng rén zhī xīn bù kě wú 。",
+        "english": "There must be no hurting heart, and no guarding heart."
+      },
+      {
+        "chinese": "这些解决问题的方式仍然有不足之处。",
+        "pinyin": "zhèxiē jiějué wèntí de fāngshì réngrán yǒu bùzú zhī chù 。",
+        "english": "These solutions to problems still have deficiencies."
+      },
+      {
+        "chinese": "粗心之害大于无知。",
+        "pinyin": "cūxīn zhī hài dàyú wúzhī 。",
+        "english": "Carelessness is greater than ignorance."
+      }
+    ]
+  },
+  {
+    "id": "g6-022",
+    "hskLevel": 6,
+    "title": "Expressing the self-evident with 'ma'",
+    "structure": "Statement + 嘛",
+    "explanation": "Expressing the self-evident with 'ma'. Used for expressing attitude.",
+    "examples": [
+      {
+        "chinese": "你妹妹很漂亮嘛。",
+        "pinyin": "nǐ mèimèi hěn piāoliàng ma 。",
+        "english": "Your sister is beautiful."
+      },
+      {
+        "chinese": "他挺有钱的嘛。",
+        "pinyin": "tā tǐng yǒuqián de ma 。",
+        "english": "He is quite rich."
+      },
+      {
+        "chinese": "不想去就不要去嘛。",
+        "pinyin": "bù xiǎng qù jìu bùyào qù ma 。",
+        "english": "Do n’t go if you do n’t want to."
+      },
+      {
+        "chinese": "你别太谦虚嘛。",
+        "pinyin": "nǐ bié tài qiānxū ma 。",
+        "english": "Don't be too humble."
+      },
+      {
+        "chinese": "大家有话就说嘛。",
+        "pinyin": "dàjiā yǒu huà jìu shuō ma 。",
+        "english": "Everyone has something to say."
+      }
+    ]
+  },
+  {
+    "id": "g6-023",
+    "hskLevel": 6,
+    "title": "Expressing 'whether or not' with 'yufou'",
+    "structure": "Verb/Adjective + 与否",
+    "explanation": "Expressing 'whether or not' with 'yufou'",
+    "examples": [
+      {
+        "chinese": "成功与否，要靠自己。",
+        "pinyin": "chénggōng yǔfǒu，yào kào zìjǐ 。",
+        "english": "Success depends on yourself."
+      },
+      {
+        "chinese": "国家发达与否，取决于它的人均国内生产总值有多高。",
+        "pinyin": "guójiā fādá yǔfǒu，qǔjuéyú tā de rénjūn guónèi shēngchǎn zǒngzhí yǒu duō gāo 。",
+        "english": "Whether a country is developed depends on how high its GDP per capita is."
+      },
+      {
+        "chinese": "头发、皮肤、眼睛等可以显示身体健康与否。",
+        "pinyin": "tóufā、 pífū、 yǎnjīng děng kěyǐ xiǎnshì shēntǐ jiànkāng yǔfǒu 。",
+        "english": "Hair, skin, eyes, etc. can show whether you are healthy or not."
+      }
+    ]
+  },
+  {
+    "id": "g6-024",
+    "hskLevel": 6,
+    "title": "Using the particle 'bei'",
+    "structure": "Sentence + 呗",
+    "explanation": "Using the particle 'bei'. Used for expressing the obvious.",
+    "examples": [
+      {
+        "chinese": "别问我们为什么去KTV唱歌，热闹好玩儿呗！",
+        "pinyin": "biéwèn wǒmen wèishíyāo qù KTV chànggē，rènào hǎo wánér bài！",
+        "english": "Do n’t ask why we go to KTV to sing, it ’s hilarious and fun!"
+      },
+      {
+        "chinese": "如果你不知道怎么说，就查词典呗！",
+        "pinyin": "rúguǒ nǐ bù zhīdào zěnyāo shuō，jìu chá cídiǎn bài！",
+        "english": "If you do n’t know what to say, just check the dictionary!"
+      },
+      {
+        "chinese": "要是不懂，就好好学呗。",
+        "pinyin": "yàoshì bùdǒng，jìu hǎohǎo xué bài 。",
+        "english": "If you do n’t understand, learn it."
+      },
+      {
+        "chinese": "如果你不想去就不去呗。",
+        "pinyin": "rúguǒ nǐ bù xiǎng qù jìu bù qù bài 。",
+        "english": "If you do n’t want to go, do n’t go."
+      }
+    ]
+  },
+  {
+    "id": "g6-025",
+    "hskLevel": 6,
+    "title": "Expressing 'in light of' with 'jianyu'",
+    "structure": "鉴于 + observation, conclusion/suggestion",
+    "explanation": "Expressing 'in light of' with 'jianyu'. Used for indicating cause and effect.",
+    "examples": [
+      {
+        "chinese": "鉴于是紧急情况，我们应该尽快做出决定。",
+        "pinyin": "jiànyú shì jǐnjí qíngkuàng，wǒmen yìnggāi jǐnkuài zuòchū juédìng 。",
+        "english": "In view of the emergency, we should make a decision as soon as possible."
+      },
+      {
+        "chinese": "鉴于我儿子的成绩不太好，所以我让他去补习班。",
+        "pinyin": "jiànyú wǒ érzǐ de chéngjī bù tài hǎo，suǒyǐ wǒ ràng tā qù bǔxíbān 。",
+        "english": "In view of my son's poor grades, I asked him to go to cram school."
+      },
+      {
+        "chinese": "鉴于上周的恐怖袭击事件，当地政府采取了特殊的安保措施。",
+        "pinyin": "jiànyú shàngzhōu de kǒngbù xíjí shìjiàn，dāngdì zhèngfǔ cǎiqǔ le tèshū de ānbǎo cuòshī 。",
+        "english": "In view of the terrorist attacks last week, the local government took special security measures."
+      }
+    ]
+  },
+  {
+    "id": "g6-026",
+    "hskLevel": 6,
+    "title": "Adding emphasis with 'fei....buke'",
+    "structure": "Subj. + 非(要) + [Verb Phrase] + 不可",
+    "explanation": "Adding emphasis with 'fei....buke'. Used for giving commands, expressing obligations, emphasizing.",
+    "examples": [
+      {
+        "chinese": "气死我了，我非要打死你不可。",
+        "pinyin": "qì sǐ wǒ le ，wǒ fēiyào dǎ sǐ nǐ bùkě 。",
+        "english": "I'm so mad, I must kill you."
+      },
+      {
+        "chinese": "我们非问清楚不可。",
+        "pinyin": "wǒmen fēi wèn qīngchǔ bùkě 。",
+        "english": "We must ask clearly."
+      },
+      {
+        "chinese": "我非抓到他不可。",
+        "pinyin": "wǒ fēi zhuādào tā bùkě 。",
+        "english": "I must catch him."
+      },
+      {
+        "chinese": "今天那么冷，可是我女儿非要穿裙子。",
+        "pinyin": "jīntiān nàyāo lěng，kěshì wǒ nv̌ér fēiyào chuān qúnzǐ 。",
+        "english": "Today is so cold, but my daughter must wear a skirt."
+      },
+      {
+        "chinese": "我不让他喝那么多，可是他非要喝。",
+        "pinyin": "wǒ bù ràng tā hē nàyāo duō ，kěshì tā fēiyào hē 。",
+        "english": "I don't let him drink so much, but he has to drink."
+      }
+    ]
+  },
+  {
+    "id": "g6-027",
+    "hskLevel": 6,
+    "title": "Could it be that with 'qibushi'",
+    "structure": "岂不是 + rhetorical question",
+    "explanation": "Could it be that with 'qibushi'. Used for expressing a rhetorical question.",
+    "examples": [
+      {
+        "chinese": "他们不来岂不是更好？",
+        "pinyin": "tāmen bù lái qǐbùshì gèng hǎo ？",
+        "english": "Would n’t it be better if they did n’t come?"
+      },
+      {
+        "chinese": "你这样做岂不是给自己找麻烦？",
+        "pinyin": "nǐ zhèyáng zuò qǐbùshì gěi zìjǐ zhǎo máfán ？",
+        "english": "Would n’t you trouble yourself?"
+      },
+      {
+        "chinese": "如果连你都不帮他，他岂不是死定了？",
+        "pinyin": "rúguǒ lián nǐ dū bù bāng tā，tā qǐbùshì sǐ dìng le ？",
+        "english": "If you do n’t even help him, is n’t he dead?"
+      },
+      {
+        "chinese": "你是警察，这样做岂不是知法犯法？",
+        "pinyin": "nǐ shì jǐngchá，zhèyáng zuò qǐbùshì zhī fǎ fànfǎ ？",
+        "english": "You are a policeman. Is n’t it a crime to know the law?"
+      },
+      {
+        "chinese": "他不在的时候你去找他，岂不是浪费时间？",
+        "pinyin": "tā bù zài deshíhòu nǐ qù zhǎo tā， qǐbùshì làngfèi shíjiān ？",
+        "english": "Would n’t it be a waste of time to go to him when he was away?"
+      }
+    ]
+  },
+  {
+    "id": "g6-028",
+    "hskLevel": 6,
+    "title": "Expressing 'at the same time' with 'jian'",
+    "structure": "(Subj. + 兼 + Verb + Noun 1 + 和 + Noun 2 ) / ( Subj. + 是 + Noun 1 + 兼 + Noun 2 )",
+    "explanation": "Expressing 'at the same time' with 'jian'",
+    "examples": [
+      {
+        "chinese": "这首歌的主唱兼词作者就是他。",
+        "pinyin": "zhè shǒu gē de zhǔchàng jiān cí zuòzhě jìu shì tā 。",
+        "english": "He is the lead singer and author of this song."
+      },
+      {
+        "chinese": "在那部电影里，他兼做导演和男主角。",
+        "pinyin": "zài nà bù diànyǐng lǐ，tā jiān zuò dǎoyǎn hé nánzhǔjiǎo 。",
+        "english": "In that movie, he doubled as a director and actor."
+      },
+      {
+        "chinese": "你的职责是日常行政工作兼人事招聘。",
+        "pinyin": "nǐ de zhízé shì rìcháng xíngzhèng gōngzuò jiān rénshì zhāopìn 。",
+        "english": "Your responsibilities are daily administrative work and personnel recruitment."
+      }
+    ]
+  },
+  {
+    "id": "g6-029",
+    "hskLevel": 6,
+    "title": "Expressing 'could it be possible that' with 'mofei'",
+    "structure": "Fact, + 莫非 + conjecture + (不成)?",
+    "explanation": "Expressing 'could it be possible that' with 'mofei'",
+    "examples": [
+      {
+        "chinese": "眼前这个人，莫非就是大名鼎鼎的房地产大亨？",
+        "pinyin": "yǎnqián zhègè rén，mòfēi jìushì dàmíngdǐngdǐng de fángdìchǎn dàhēng ？",
+        "english": "Is this person in front of him a real estate tycoon?"
+      },
+      {
+        "chinese": "这么晚了他还没有回来，莫非他出了什么事？",
+        "pinyin": "zhèyāo wǎn le tā huán méiyǒu húilái，mòfēi tā chū le shíyāo shì ？",
+        "english": "He hasn't come back at this late hour. What could have happened to him?"
+      },
+      {
+        "chinese": "桌子上那条鱼怎么不见了，莫非被猫偷吃了不成？",
+        "pinyin": "zhuōzǐ shàng nà tiáo yú zěnyāo bù jiàn le，mòfēi bèi māo tōu chī lebùchéng ？",
+        "english": "Why was the fish on the table gone, could it be stolen by the cat?"
+      },
+      {
+        "chinese": "莫非他听到了我们的谈话？",
+        "pinyin": "mòfēi tā tīngdào le wǒmen de tánhuà ？",
+        "english": "Could it be that he heard our conversation?"
+      },
+      {
+        "chinese": "莫非她真的是你的亲生母亲？",
+        "pinyin": "mòfēi tā zhēnde shì nǐ de qīnshēng mǔqīn ？",
+        "english": "Could she really be your biological mother?"
+      }
+    ]
+  },
+  {
+    "id": "g6-030",
+    "hskLevel": 6,
+    "title": "Expressing 'from this' with 'youci'",
+    "structure": "Reasons, 由此 + results and implications",
+    "explanation": "Expressing 'from this' with 'youci'",
+    "examples": [
+      {
+        "chinese": "人们滥用农药和其他化学原料，由此产生了一系列严重的食品安全问题。",
+        "pinyin": "rénmen làn yòng nóngyào hé qítā huàxué yuánliào，yóucǐ chǎnshēng le yīxìliè yánzhòng de shípǐn ānquán wèntí 。",
+        "english": "People abuse pesticides and other chemical raw materials, which has caused a series of serious food safety problems."
+      },
+      {
+        "chinese": "在案发现场我们发现了一些蚂蚁和蜂蜜，由此我们发现了罪犯的身份。",
+        "pinyin": "zài ànfā xiàncháng wǒmen fāxiàn le yīxiē mǎyǐ hé fēngmì，yóucǐ wǒmen fāxiàn le zùifàn de shēnfèn 。",
+        "english": "We found some ants and honey at the crime scene, from which we discovered the identity of the criminal."
+      },
+      {
+        "chinese": "最近很多贪官因为情妇举报而落马，由此看来，情妇反腐也是一个好方法。",
+        "pinyin": "zùijìn hěnduō tānguān yīnwèi qíngfù jǔbào ér luòmǎ，yóucǐ kànlái，qíngfù fǎnfǔ yě shì yī gè hǎo fāngfǎ 。",
+        "english": "Recently, many corrupt officials have been dismissed because of mistress reports. From this point of view, mistresses are also a good way to fight corruption."
+      },
+      {
+        "chinese": "由此可见，政府进行彻底地政治和经济改革是多么必要。",
+        "pinyin": "yóucǐ kějiàn，zhèngfǔ jìnxíng chèdǐ dì zhèngzhì hé jīngjì gǎigé shì duōyāo bìyào 。",
+        "english": "This shows how necessary it is for the government to carry out thorough political and economic reforms."
+      },
+      {
+        "chinese": "由此可见",
+        "pinyin": "yóucǐkějiàn",
+        "english": "This shows"
+      }
+    ]
+  },
+  {
+    "id": "g6-031",
+    "hskLevel": 6,
+    "title": "Expressing “must' with 'feidei'",
+    "structure": "Statement, 非 (得) + Action + 不可 / 不行",
+    "explanation": "Expressing “must' with 'feidei'. Used for expressing a rhetorical question.",
+    "examples": [
+      {
+        "chinese": "有话好好说，干嘛非得吵架？",
+        "pinyin": "yǒu huà hǎohǎo shuō，gānma fēidé chǎojià ？",
+        "english": "If you have something to say, why do you have to quarrel?"
+      },
+      {
+        "chinese": "现在是紧急情况，非得马上动手术不可。",
+        "pinyin": "xiànzài shì jǐnjí qíngkuàng，fēidé mǎshàng dòng shǒuzhú bùkě 。",
+        "english": "It's an emergency now and you have to have an operation immediately."
+      },
+      {
+        "chinese": "我今天非骂他一顿不行！",
+        "pinyin": "wǒ jīntiān fēi mà tā yī dùn bùxíng！",
+        "english": "I must scold him for a meal today!"
+      },
+      {
+        "chinese": "这件事你非得帮我查清楚不可！",
+        "pinyin": "zhè jiàn shì nǐ fēidé bāng wǒ chá qīngchǔ bùkě！",
+        "english": "You have to help me find out this matter!"
+      },
+      {
+        "chinese": "他这么做太过分了，我非得教训教训他不可！",
+        "pinyin": "tā zhèyāo zuò tài guòfēn le， wǒ fēidé jiàoxùn jiàoxùn tā bùkě！",
+        "english": "He did it too much, and I had to teach him a lesson!"
+      }
+    ]
+  },
+  {
+    "id": "g6-032",
+    "hskLevel": 6,
+    "title": "Expressing 'nothing is more...than' with 'moguoyu'",
+    "structure": "Topics or questions + 莫过于 + answer",
+    "explanation": "Expressing 'nothing is more...than' with 'moguoyu'",
+    "examples": [
+      {
+        "chinese": "美国最好的大学莫过于哈佛大学。",
+        "pinyin": "měiguó zùi hǎo de dàxué mòguòyú hāfódàxué 。",
+        "english": "The best university in the United States is Harvard."
+      },
+      {
+        "chinese": "人生中最悲伤的事情莫过于失去你爱的人。",
+        "pinyin": "rénshēng zhōng zùi bēishāng de shìqíng mòguòyú shīqù nǐ ài de rén 。",
+        "english": "The saddest thing in life is to lose the one you love."
+      },
+      {
+        "chinese": "让她最难过的莫过于你对她大喊大叫。",
+        "pinyin": "ràng tā zùi nánguò de mòguòyú nǐ dùi tā dàhǎn dàjiào 。",
+        "english": "The most sad thing for her is that you yell at her."
+      },
+      {
+        "chinese": "我能想到最浪漫的事莫过于跟你一起白头到老。",
+        "pinyin": "wǒ néng xiǎngdào zùi làngmàn de shì mòguòyú gēn nǐ yīqǐ báitóudàolǎo 。",
+        "english": "The most romantic thing I can think of is to grow old together with you."
+      },
+      {
+        "chinese": "对父母来说最大的安慰莫过于孩子能开始独立生活了。",
+        "pinyin": "dùi fùmǔ láishuō zùi dà de ānwèi mòguòyú háizǐ néng kāishǐ dúlì shēnghuó le 。",
+        "english": "The greatest comfort for parents is that the child can start an independent life."
+      }
+    ]
+  },
+  {
+    "id": "g6-033",
+    "hskLevel": 6,
+    "title": "Expressing 'Prefer...rather than' with 'yuqi...buru'",
+    "structure": "与其 ⋯⋯ ，不如 ⋯⋯",
+    "explanation": "Expressing 'Prefer...rather than' with 'yuqi...buru'. Used for giving commands, expressing obligations.",
+    "examples": [
+      {
+        "chinese": "天气这么好，与其在家看电视，不如出去走走。",
+        "pinyin": "tiānqì zhèyāo hǎo，yǔqí zài jiā kàn diànshì，bùrú chūqù zǒu zǒu 。",
+        "english": "The weather is so good, it is better to go for a walk than to watch TV at home."
+      },
+      {
+        "chinese": "与其干等，不如先去找点事做。",
+        "pinyin": "yǔqí gānděng ，bùrú xiān qù zhǎo diǎn shì zuò 。",
+        "english": "Instead of waiting, it's better to find something to do first."
+      },
+      {
+        "chinese": "与其自己乱想，不如当面问清楚。",
+        "pinyin": "yǔqí zìjǐ luàn xiǎng，bùrú dāngmiàn wèn qīngchǔ 。",
+        "english": "Rather than thinking about yourself, it is better to ask in person."
+      },
+      {
+        "chinese": "与其帮别人打工，还不如自己当老板。",
+        "pinyin": "yǔqí bāng biérén dǎgōng，huán bùrú zìjǐ dāng lǎobǎn 。",
+        "english": "Rather than helping others work, you might as well be your own boss."
+      },
+      {
+        "chinese": "与其麻烦别人，不如自己想办法。",
+        "pinyin": "yǔqí máfán biérén ，bùrú zìjǐ xiǎng bànfǎ 。",
+        "english": "Rather than trouble others, it is better to think for yourself."
+      }
+    ]
+  },
+  {
+    "id": "g6-034",
+    "hskLevel": 6,
+    "title": "Expressing 'similar to' with 'gen... shide'",
+    "structure": "跟 + Noun/Pronoun/Adjective + 似的",
+    "explanation": "Expressing 'similar to' with 'gen... shide'. Used for expressing preference.",
+    "examples": [
+      {
+        "chinese": "她们俩好得跟亲姐妹似的。",
+        "pinyin": "tāmen liǎ hǎo dé gēn qīn jiěmèi sìde 。",
+        "english": "They are as good as their sisters."
+      },
+      {
+        "chinese": "最近天气热得跟在蒸笼里似的。",
+        "pinyin": "zùijìn tiānqì rè dé gēn zài zhēnglóng lǐ sìde 。",
+        "english": "The weather has been hot recently like in a steamer."
+      },
+      {
+        "chinese": "别跟他似的一天到晚好吃懒做。",
+        "pinyin": "bié gēn tā sìde yītiāndàowǎn hǎochī lǎnzuò 。",
+        "english": "Don't be as lazy as he is all day long."
+      },
+      {
+        "chinese": "他做这个最拿手了，跟很轻松似的就做好了。",
+        "pinyin": "tā zuò zhè gè zùi náshǒu le， gēn hěnqīngsōngsìde jìu zuò hǎo le 。",
+        "english": "He is the best at this, just like it is easy to do."
+      }
+    ]
+  },
+  {
+    "id": "g6-035",
+    "hskLevel": 6,
+    "title": "Expressing 'to be worthy of' with 'bukuishi'",
+    "structure": "Subject + 不愧是（不愧为）+ reputation",
+    "explanation": "Expressing 'to be worthy of' with 'bukuishi'. Used for expressing preference.",
+    "examples": [
+      {
+        "chinese": "他不愧是一名光荣的人民教师。",
+        "pinyin": "tā bùkùishì yīmíng guāngróngde rénmín jiàoshī 。",
+        "english": "He deserves to be a glorious people's teacher."
+      },
+      {
+        "chinese": "危难关头，他挺身而出，不愧是一名优秀的人民解放军战士。",
+        "pinyin": "wēinán guāntóu，tā tǐngshēnérchū，bùkùishìyīmíng yōuxìude rénmínjiěfàngjūn zhànshì 。",
+        "english": "At the critical moment, he came forward and was worthy of being an outstanding PLA soldier."
+      },
+      {
+        "chinese": "她在这部电影里的表演真是太棒了，不愧是拿过奥斯卡金奖的。",
+        "pinyin": "tā zài zhè bù diànyǐng lǐ de biǎoyǎn zhēn shì tài bàng le，bùkùishì ná guò àosīqiǎ jīnjiǎng de 。",
+        "english": "Her performance in this movie is really awesome. She deservedly won the Oscar."
+      },
+      {
+        "chinese": "儿子，干得好！不愧是我们老王家的人！",
+        "pinyin": "érzǐ，gāndéhǎo！bùkùishì wǒmen lǎowáng jiā de rén！",
+        "english": "Good job, son! Worthy of being our old royal family!"
+      }
+    ]
+  },
+  {
+    "id": "g6-036",
+    "hskLevel": 6,
+    "title": "Expressing who is in charge with 'you... zuozhu'",
+    "structure": "Area of responsibility + 由 + Person(s) + 做主",
+    "explanation": "Expressing who is in charge with 'you... zuozhu'. Used for expressing similarity.",
+    "examples": [
+      {
+        "chinese": "我们家由我妈妈做主，她说什么我和爸爸就做什么。",
+        "pinyin": "wǒmen jiā yóu wǒ māmā zuòzhǔ，tā shuō shíyāo wǒ hé bàbà jìu zuò shíyāo 。",
+        "english": "Our family is dominated by my mother, and she and me will do what she says."
+      },
+      {
+        "chinese": "作为商店经理，所有的事情都由你做主，出了事情也由你负责。",
+        "pinyin": "zuòwèi shāngdiàn jīnglǐ，suǒyǒu de shìqíng dū yóu nǐ zuòzhǔ，chū le shìqíng yě yóu nǐ fùzé 。",
+        "english": "As a store manager, you are in charge of everything, and you are also responsible for things that happen."
+      },
+      {
+        "chinese": "极权主义政府通常是由一人或一党做主，而民主社会通常是由全民做主。",
+        "pinyin": "jíquán zhǔyì zhèngfǔ tōngcháng shì yóu yī rén huò yī dǎng zuòzhǔ，ér mínzhǔ shèhùi tōngcháng shì yóu quánmín zuòzhǔ 。",
+        "english": "The totalitarian government is usually dominated by one person or one party, while the democratic society is usually dominated by the whole people."
+      }
+    ]
+  },
+  {
+    "id": "g6-037",
+    "hskLevel": 6,
+    "title": "Stating two or more reasons with 'yilai...erlai'",
+    "structure": "一来 + Reason 1 ，二来 + Reason 2",
+    "explanation": "Stating two or more reasons with 'yilai...erlai'. Used for expressing similarity.",
+    "examples": [
+      {
+        "chinese": "你不要去那个地方旅游，一来是那边的宾馆很贵，二来也那边没有什么好看的风景。",
+        "pinyin": "nǐ bù yào qù nàgè dìfāng lv̌yóu，yīlái shìnàbiān de bīnguǎn hěn gùi，èrlái yěnàbiān méiyǒu shíyāo hǎokàn de fēngjǐng 。",
+        "english": "You don't want to travel to that place. First, the hotel there is expensive, and second, there is no beautiful scenery there."
+      },
+      {
+        "chinese": "这次来中国，一来是提高中文水平，二来是更深度的了解中国文化。",
+        "pinyin": "zhè cì lái zhōngguó，yīlái shì tígāo zhōngwén shǔipíng，èrlái shì gèng shēndù de lejiě zhōngguó wénhuà 。",
+        "english": "I came to China this time to improve the Chinese language level and secondly to gain a deeper understanding of Chinese culture."
+      },
+      {
+        "chinese": "三十年前，邓小平之所以推动改革开放，一来是为了提高人民的生活水平，二来是为了让中国经济从计划经济转变到市场经济。",
+        "pinyin": "sānshí nián qián，dèngxiǎo píngzhīsuǒyǐ tūidòng gǎigé kāifàng，yīlái shì wèile tígāo rénmín de shēnghuó shǔipíng，èrlái shì wèile ràng zhōngguó jīngjì cóng jìhuájīngjì zhuǎnbiàn dào shìchángjīngjì 。",
+        "english": "Thirty years ago, the reason why Deng Xiaoping promoted reform and opening up was to improve people's living standards and to transform the Chinese economy from a planned economy to a market economy."
+      }
+    ]
+  },
+  {
+    "id": "g6-038",
+    "hskLevel": 6,
+    "title": "Expressing 'I bet' using 'liang'",
+    "structure": "谅 + Subject + verb phrase",
+    "explanation": "Expressing 'I bet' using 'liang'. Used for emphasizing.",
+    "examples": [
+      {
+        "chinese": "谅他也不敢！",
+        "pinyin": "liàng tā yě bùgǎn！",
+        "english": "Forgive him!"
+      },
+      {
+        "chinese": "我谅你也不敢跟那个女的讲话！",
+        "pinyin": "wǒ liàng nǐ yě bù gǎn gēn nàgè nv̌de jiǎnghuà！",
+        "english": "I forgive you for not talking to that woman!"
+      },
+      {
+        "chinese": "我谅他也没胆量做出这样的事情来。",
+        "pinyin": "wǒ liàng tā yě méi dǎnliàng zuò chū zhèyáng de shìqíng lái 。",
+        "english": "I forgive him for not having the guts to do such a thing."
+      },
+      {
+        "chinese": "他是谅你不敢去投诉才这么说的，你可不能就这么算了！",
+        "pinyin": "tā shì liàng nǐ bù gǎn qù tóusù cái zhèyāo shuō de，nǐ kě bù néng jìu zhèyāo suànle！",
+        "english": "He said that he forgave you for daring to make a complaint, but you ca n’t just forget it!"
+      }
+    ]
+  },
+  {
+    "id": "g6-039",
+    "hskLevel": 6,
+    "title": "Expressing something is 'not worth doing' with 'buxie'",
+    "structure": "Subject + 不屑(于) + verb/verb phrase",
+    "explanation": "Expressing something is 'not worth doing' with 'buxie'",
+    "examples": [
+      {
+        "chinese": "我的同事是一个很诚实的人，他不屑说谎。",
+        "pinyin": "wǒ de tóngshì shì yīgè hěn chéngshí de rén ，tā bùxiè shuōhuǎng 。",
+        "english": "My colleague is a very honest person, he disdains lying."
+      },
+      {
+        "chinese": "人家都不屑跟你说话，你就不要热脸贴在冷屁股上了。",
+        "pinyin": "rénjiā dū bùxiè gēn nǐshuōhuà，nǐ jìu bù yào rèliǎntiēzàilěngpìgǔshàng le 。",
+        "english": "People don't bother to talk to you, so you shouldn't stick your hot face on the cold ass."
+      },
+      {
+        "chinese": "要是你想要向雷锋同志学习，你应该不屑于说别人的坏话。",
+        "pinyin": "yàoshì nǐ xiǎngyào xiàng léifēng tóngzhì xuéxí ，nǐ yìnggāi bùxièyú shuō biérén de huàihuà 。",
+        "english": "If you want to learn from Comrade Lei Feng, you should not bother to say bad things about others."
+      },
+      {
+        "chinese": "有些官员表面上不屑于收受贿赂，其实暗地里他们比谁收的都多。",
+        "pinyin": "yǒuxiē guānyuán biǎomiàn shàng bùxièyú shōushòu hùilù，qíshí àndìlǐ tāmen bǐ shúi shōu de dūduō 。",
+        "english": "Some officials seem to disdain to accept bribes, but in fact they secretly receive more than anyone."
+      }
+    ]
+  },
+  {
+    "id": "g6-040",
+    "hskLevel": 6,
+    "title": "Comparing 'budebu' and 'zhihao'",
+    "structure": "不得不 / 只好 + Verb",
+    "explanation": "Comparing 'budebu' and 'zhihao'. Used for expressing certainty.",
+    "examples": [
+      {
+        "chinese": "出门没有带钱，不得不向朋友借。",
+        "pinyin": "chūmén méiyǒu dài qián，bùdébù xiàng péngyǒu jiè 。",
+        "english": "I didn't bring money to go out, so I had to borrow it from my friends."
+      },
+      {
+        "chinese": "很喜欢那件衣服，可是没带够钱，只好不买了。",
+        "pinyin": "hěn xǐhuān nàjiàn yīfú，kěshì méi dài gòu qián，zhǐhǎo bù mǎi le 。",
+        "english": "I like that dress very much, but I didn't bring enough money, so I had to buy it."
+      },
+      {
+        "chinese": "刚下飞机，还没找到宾馆，行李不得不寄存在朋友那。",
+        "pinyin": "gāng xià fēijī，huán méi zhǎodào bīnguǎn，xínglǐ bùdébù jìcún zài péngyǒu nà 。",
+        "english": "Just after getting off the plane, I haven't found a hotel yet, so I have to store my luggage with my friend."
+      },
+      {
+        "chinese": "刚下飞机，还没找到宾馆，行李只好寄存在朋友那。",
+        "pinyin": "gāng xià fēijī，huán méi zhǎodào bīnguǎn，xínglǐ zhǐhǎo jìcún zài péngyǒu nà 。",
+        "english": "I just got off the plane and I didn't find a hotel yet, so I had to leave my luggage with my friend."
+      },
+      {
+        "chinese": "迫于生计，他不得不到大城市去打工。",
+        "pinyin": "pòyú shēngjì，tā bùdébù dào dàchéngshì qù dǎgōng 。",
+        "english": "Forced to make a living, he had to work in a big city."
+      }
+    ]
+  },
+  {
+    "id": "g6-041",
+    "hskLevel": 6,
+    "title": "Comparing 'fan'er' and “que'",
+    "structure": "(Subj. + 反而 ) / (反而 + Subj. )",
+    "explanation": "Comparing 'fan'er' and “que'",
+    "examples": [
+      {
+        "chinese": "你这么做，效果反而不好。",
+        "pinyin": "nǐ zhèyāo zuò，xiàoguǒ fǎnér bù hǎo 。",
+        "english": "If you do this, the effect is not good."
+      },
+      {
+        "chinese": "你这么做，反而效果不好。",
+        "pinyin": "nǐ zhèyāo zuò，fǎnérxiàoguǒ bù hǎo 。",
+        "english": "If you do this, it will not work well."
+      },
+      {
+        "chinese": "外面下雨，我却没带伞。",
+        "pinyin": "wàimiàn xiàyǔ，wǒ què méi dài sǎn 。",
+        "english": "It was raining outside, but I didn't bring an umbrella."
+      },
+      {
+        "chinese": "ChicagoBulls没赢最后一场比赛，反而是Knicks。",
+        "pinyin": "Chicago Bulls méi yíng zùihòu yī cháng bǐsài，fǎnér shì Knicks 。",
+        "english": "Chicago Bulls did not win the last game, but Knicks."
+      },
+      {
+        "chinese": "他们都觉得Knicks会输掉最后一场比赛，结果他们反而赢了。",
+        "pinyin": "tāmen dū juédé Knicks hùi shū diào zùihòu yī cháng bǐsài，jiéguǒ tāmen fǎnér yíng le 。",
+        "english": "They all felt that Knicks would lose the last game, but instead they won."
+      }
+    ]
+  },
+  {
+    "id": "g6-042",
+    "hskLevel": 6,
+    "title": "Comparing 'genben' and 'daodi'",
+    "structure": "Use of 根本",
+    "explanation": "Comparing 'genben' and 'daodi'. Used for describing things, expressing attitude.",
+    "examples": [
+      {
+        "chinese": "我根本不知道如何有效地管理。",
+        "pinyin": "wǒ gēnběn bù zhīdào rúhé yǒuxiào dì guǎnlǐ 。",
+        "english": "I simply don't know how to manage it effectively."
+      },
+      {
+        "chinese": "你为什么说昨天在街上看到我了？",
+        "pinyin": "nǐ wèishíyāo shuō zuótiān zài jiēshàng kàndào wǒ le ？",
+        "english": "Why did you say that you saw me on the street yesterday?"
+      },
+      {
+        "chinese": "他只是一个小孩子，根本没见过这么吓人的事情。",
+        "pinyin": "tā zhǐ shì yī gè xiǎo háizǐ，gēnběn méi jiàn guò zhèyāo xiàrén de shìqíng 。",
+        "english": "He was just a child, and he had never seen such a scary thing."
+      },
+      {
+        "chinese": "今天新同事又迟到了，他到底想不想在这里做了？",
+        "pinyin": "jīntiān xīn tóngshì yòu chídào le，tā dàodǐ xiǎng bù xiǎng zài zhèlǐ zuò le ？",
+        "english": "Today the new colleague is late again, does he want to do it here?"
+      },
+      {
+        "chinese": "你的包这么重！你到底带了多少东西？",
+        "pinyin": "nǐ de bāo zhèyāo zhòng！nǐ dàodǐ dàile duōshǎo dōngxī ？",
+        "english": "Your bag is so heavy! How much did you bring?"
+      }
+    ]
+  },
+  {
+    "id": "g6-043",
+    "hskLevel": 6,
+    "title": "Comparing 'genju' and 'ju'",
+    "structure": "Monosyllabic nouns with 据",
+    "explanation": "Comparing 'genju' and 'ju'",
+    "examples": [
+      {
+        "chinese": "据实报道",
+        "pinyin": "jù shí bàodào",
+        "english": "According to actual reports"
+      },
+      {
+        "chinese": "根据事实报道",
+        "pinyin": "gēnjù shìshí bàodào",
+        "english": "According to fact reports"
+      },
+      {
+        "chinese": "据说他去上海了。",
+        "pinyin": "jùshuō tā qù shànghǎi le 。",
+        "english": "It is said that he went to Shanghai."
+      },
+      {
+        "chinese": "据传首相将要辞职。",
+        "pinyin": "jùchuán shǒuxiāng jiāngyào cízhí 。",
+        "english": "The Prime Minister is rumored to be resigning."
+      },
+      {
+        "chinese": "据他说，灾情并不是很严重。",
+        "pinyin": "jù tā shuō，zāiqíng bìng bùshì hěn yánzhòng 。",
+        "english": "According to him, the disaster was not very serious."
+      }
+    ]
+  },
+  {
+    "id": "g6-044",
+    "hskLevel": 6,
+    "title": "Comparing 'huifu' and 'huanyuan'",
+    "structure": "还原 + Noun/Nominal Phrase",
+    "explanation": "Comparing 'huifu' and 'huanyuan'",
+    "examples": [
+      {
+        "chinese": "恢复体力。",
+        "pinyin": "hūifù tǐlì 。",
+        "english": "Physical recovery."
+      },
+      {
+        "chinese": "中国1977年恢复了高考。",
+        "pinyin": "zhōngguó 1977nián hūifù le gāokǎo 。",
+        "english": "China resumed the college entrance examination in 1977."
+      },
+      {
+        "chinese": "地铁恢复了正常运行。",
+        "pinyin": "dìtiě hūifù le zhèngcháng yùnxíng 。",
+        "english": "The subway has resumed normal operation."
+      },
+      {
+        "chinese": "他的身体恢复了。",
+        "pinyin": "tā de shēntǐ hūifù le 。",
+        "english": "His body recovered."
+      },
+      {
+        "chinese": "社会秩序恢复了。",
+        "pinyin": "shèhùi zhìxù hūifù le 。",
+        "english": "Social order has been restored."
+      }
+    ]
+  },
+  {
+    "id": "g6-045",
+    "hskLevel": 6,
+    "title": "Comparing 'juran' and 'fan'er'",
+    "structure": "Clause 1, 反而 / 居然 + unexpected opposite outcome",
+    "explanation": "Comparing 'juran' and 'fan'er'",
+    "examples": [
+      {
+        "chinese": "我打他，他居然没哭。",
+        "pinyin": "wǒ dǎ tā，tā jūrán méi kū 。",
+        "english": "I beat him, he didn't cry."
+      },
+      {
+        "chinese": "我帮他，他反而生气了。",
+        "pinyin": "wǒ bāng tā，tā fǎnér shēngqì le 。",
+        "english": "I helped him, but he was angry."
+      },
+      {
+        "chinese": "经过治疗，他的病情不仅没有好转，反而恶化了。",
+        "pinyin": "jīngguò zhìliáo，tā de bìngqíng bùjǐn méiyǒu hǎozhuǎn，fǎnér èhuà le 。",
+        "english": "After treatment, his condition not only did not improve, but worsened."
+      },
+      {
+        "chinese": "吃了这些减肥药，不但没有瘦，反而更胖了。",
+        "pinyin": "chīle zhèxiē jiǎnféiyào，bùdàn méiyǒu shòu，fǎnér gèng pàng le 。",
+        "english": "After taking these diet pills, not only did they not lose weight, but they became fatter."
+      },
+      {
+        "chinese": "雨不仅没停，反而越下越大了。",
+        "pinyin": "yǔ bùjǐn méi tíng，fǎnér yuè xià yuè dà le 。",
+        "english": "Not only did the rain stop, but it was getting bigger and bigger."
       }
     ]
   }

@@ -62,6 +62,17 @@ export default function CharactersPage() {
 
   const browseWord = words[browseIndex] ?? null;
 
+  // Group words by unit for browse mode
+  const unitGroups = words.reduce<{ name: string; words: HskWord[] }[]>((acc, word) => {
+    const lastGroup = acc[acc.length - 1];
+    if (lastGroup && lastGroup.name === word.unitName) {
+      lastGroup.words.push(word);
+    } else {
+      acc.push({ name: word.unitName, words: [word] });
+    }
+    return acc;
+  }, []);
+
   return (
     <div className="space-y-6">
       <div className="flex items-center justify-between">
@@ -131,6 +142,9 @@ export default function CharactersPage() {
 
       {mode === "learn" && browseWord && (
         <div className="space-y-6">
+          <p className="text-xs text-muted-foreground text-center">
+            {browseWord.unitName}
+          </p>
           <CharacterCard word={browseWord} showPinyin />
           <StrokeOrder character={browseWord.simplified} />
           <div className="flex justify-between">
@@ -165,20 +179,27 @@ export default function CharactersPage() {
 
       {mode === "browse" && (
         <div className="space-y-3">
-          {words.map((word) => (
-            <div
-              key={word.id}
-              className="bg-card rounded-xl p-4 border border-border flex items-center gap-4"
-            >
-              <span className="text-3xl w-12 text-center">
-                {word.simplified}
-              </span>
-              <div className="flex-1 min-w-0">
-                <p className="text-sm font-medium">{word.pinyin}</p>
-                <p className="text-sm text-muted-foreground truncate">
-                  {word.meaning}
-                </p>
-              </div>
+          {unitGroups.map((group) => (
+            <div key={group.name}>
+              <h3 className="text-sm font-semibold text-muted-foreground uppercase tracking-wide mt-4 mb-2 px-1">
+                {group.name}
+              </h3>
+              {group.words.map((word) => (
+                <div
+                  key={word.id}
+                  className="bg-card rounded-xl p-4 border border-border flex items-center gap-4 mb-2"
+                >
+                  <span className="text-3xl w-12 text-center">
+                    {word.simplified}
+                  </span>
+                  <div className="flex-1 min-w-0">
+                    <p className="text-sm font-medium">{word.pinyin}</p>
+                    <p className="text-sm text-muted-foreground truncate">
+                      {word.meaning}
+                    </p>
+                  </div>
+                </div>
+              ))}
             </div>
           ))}
           {words.length === 0 && (

@@ -1,0 +1,577 @@
+[
+  {
+    "id": "r3-001",
+    "hskLevel": 3,
+    "title": "Going to the Doctor",
+    "titleZh": "看病",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "昨天晚上我开始头疼，还有一点儿发烧。今天早上我觉得更不舒服了，所以决定去医院看病。",
+        "pinyin": "Zuótiān wǎnshang wǒ kāishǐ tóu téng, hái yǒu yìdiǎnr fāshāo. Jīntiān zǎoshang wǒ juéde gèng bù shūfu le, suǒyǐ juédìng qù yīyuàn kàn bìng.",
+        "english": "Last night I started to have a headache, and I also had a slight fever. This morning I felt even worse, so I decided to go to the hospital to see a doctor."
+      },
+      {
+        "chinese": "医生问我哪里不舒服。我告诉他我头疼、嗓子也疼。他让我先量了体温，然后检查了一下。",
+        "pinyin": "Yīshēng wèn wǒ nǎlǐ bù shūfu. Wǒ gàosu tā wǒ tóu téng, sǎngzi yě téng. Tā ràng wǒ xiān liáng le tǐwēn, ránhòu jiǎnchá le yíxià.",
+        "english": "The doctor asked me where I felt uncomfortable. I told him my head hurt and my throat was also sore. He had me take my temperature first, then did an examination."
+      },
+      {
+        "chinese": "医生说我感冒了，不太严重。他给我开了一些药，让我多喝水、多休息。他还说如果三天以后还没好，就再来医院。",
+        "pinyin": "Yīshēng shuō wǒ gǎnmào le, bú tài yánzhòng. Tā gěi wǒ kāi le yìxiē yào, ràng wǒ duō hē shuǐ, duō xiūxi. Tā hái shuō rúguǒ sān tiān yǐhòu hái méi hǎo, jiù zài lái yīyuàn.",
+        "english": "The doctor said I had a cold, not too serious. He prescribed some medicine for me and told me to drink more water and rest more. He also said if I'm not better after three days, I should come back to the hospital."
+      }
+    ],
+    "vocabHighlights": [
+      "头疼",
+      "发烧",
+      "舒服",
+      "决定",
+      "嗓子",
+      "体温",
+      "检查",
+      "感冒",
+      "严重",
+      "药",
+      "休息"
+    ]
+  },
+  {
+    "id": "r3-002",
+    "hskLevel": 3,
+    "title": "At the Post Office",
+    "titleZh": "在邮局",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "今天我要去邮局寄一个包裹给我的朋友。她住在北京，下个星期是她的生日，我想给她寄一件礼物。",
+        "pinyin": "Jīntiān wǒ yào qù yóujú jì yí ge bāoguǒ gěi wǒ de péngyou. Tā zhù zài Běijīng, xià ge xīngqī shì tā de shēngrì, wǒ xiǎng gěi tā jì yí jiàn lǐwù.",
+        "english": "Today I need to go to the post office to send a package to my friend. She lives in Beijing, and next week is her birthday. I want to send her a gift."
+      },
+      {
+        "chinese": "邮局的工作人员问我包裹里面是什么。我说是一条围巾和一本书。她帮我称了重量，告诉我邮费是二十五块。",
+        "pinyin": "Yóujú de gōngzuò rényuán wèn wǒ bāoguǒ lǐmiàn shì shénme. Wǒ shuō shì yì tiáo wéijīn hé yì běn shū. Tā bāng wǒ chēng le zhòngliàng, gàosu wǒ yóufèi shì èrshíwǔ kuài.",
+        "english": "The post office worker asked me what was in the package. I said it was a scarf and a book. She helped me weigh it and told me the postage was 25 yuan."
+      },
+      {
+        "chinese": "我还想买几张邮票。工作人员问我要寄到哪里。我说寄到国外。她给了我五张国际邮票。我把包裹和信都寄了。",
+        "pinyin": "Wǒ hái xiǎng mǎi jǐ zhāng yóupiào. Gōngzuò rényuán wèn wǒ yào jì dào nǎlǐ. Wǒ shuō jì dào guówài. Tā gěi le wǒ wǔ zhāng guójì yóupiào. Wǒ bǎ bāoguǒ hé xìn dōu jì le.",
+        "english": "I also wanted to buy some stamps. The worker asked where I wanted to send them. I said abroad. She gave me five international stamps. I sent both the package and the letters."
+      }
+    ],
+    "vocabHighlights": [
+      "邮局",
+      "寄",
+      "包裹",
+      "礼物",
+      "围巾",
+      "重量",
+      "邮费",
+      "邮票",
+      "国际",
+      "信"
+    ]
+  },
+  {
+    "id": "r3-003",
+    "hskLevel": 3,
+    "title": "Lost and Found",
+    "titleZh": "失物招领",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "今天下午我在超市买完东西以后，发现我的钱包不见了。我非常着急，到处找都找不到。",
+        "pinyin": "Jīntiān xiàwǔ wǒ zài chāoshì mǎi wán dōngxi yǐhòu, fāxiàn wǒ de qiánbāo bú jiàn le. Wǒ fēicháng zháojí, dàochù zhǎo dōu zhǎo bú dào.",
+        "english": "This afternoon after I finished shopping at the supermarket, I discovered my wallet was missing. I was very anxious and couldn't find it anywhere."
+      },
+      {
+        "chinese": "我马上去了超市的服务台，问他们有没有人捡到一个黑色的钱包。服务台的人让我先说一下钱包里有什么东西。",
+        "pinyin": "Wǒ mǎshàng qù le chāoshì de fúwù tái, wèn tāmen yǒu méiyǒu rén jiǎn dào yí ge hēisè de qiánbāo. Fúwù tái de rén ràng wǒ xiān shuō yíxià qiánbāo lǐ yǒu shénme dōngxi.",
+        "english": "I immediately went to the supermarket's service desk and asked if anyone had found a black wallet. The person at the service desk asked me to first describe what was inside the wallet."
+      },
+      {
+        "chinese": "我说里面有我的身份证、银行卡和大概三百块钱。她说有人刚才送来了一个钱包。我一看，真的是我的！我太高兴了，一直说谢谢。",
+        "pinyin": "Wǒ shuō lǐmiàn yǒu wǒ de shēnfènzhèng, yínháng kǎ hé dàgài sānbǎi kuài qián. Tā shuō yǒu rén gāngcái sòng lái le yí ge qiánbāo. Wǒ yí kàn, zhēn de shì wǒ de! Wǒ tài gāoxìng le, yìzhí shuō xièxie.",
+        "english": "I said it had my ID card, bank card, and about 300 yuan inside. She said someone had just brought in a wallet. I took one look and it really was mine! I was so happy and kept saying thank you."
+      }
+    ],
+    "vocabHighlights": [
+      "发现",
+      "钱包",
+      "着急",
+      "到处",
+      "服务台",
+      "捡到",
+      "身份证",
+      "银行卡",
+      "大概",
+      "高兴"
+    ]
+  },
+  {
+    "id": "r3-004",
+    "hskLevel": 3,
+    "title": "Weather Forecast",
+    "titleZh": "天气预报",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "各位听众朋友们，下面播报今天和明天的天气情况。今天白天晴转多云，最高温度二十八度，最低温度十九度。",
+        "pinyin": "Gè wèi tīngzhòng péngyoumen, xiàmiàn bōbào jīntiān hé míngtiān de tiānqì qíngkuàng. Jīntiān báitiān qíng zhuǎn duōyún, zuìgāo wēndù èrshíbā dù, zuìdī wēndù shíjiǔ dù.",
+        "english": "Dear listeners, here is the weather report for today and tomorrow. Today will be sunny turning cloudy, with a high of 28 degrees and a low of 19 degrees."
+      },
+      {
+        "chinese": "今天晚上会有小雨，出门请记得带雨伞。风不大，适合散步。空气质量还不错。",
+        "pinyin": "Jīntiān wǎnshang huì yǒu xiǎo yǔ, chūmén qǐng jìde dài yǔsǎn. Fēng bú dà, shìhé sànbù. Kōngqì zhìliàng hái búcuò.",
+        "english": "There will be light rain tonight, so please remember to bring an umbrella when going out. The wind is not strong, suitable for walking. The air quality is quite good."
+      },
+      {
+        "chinese": "明天全天有雨，温度会下降到十五度左右。建议大家穿厚一点的衣服，注意保暖。后天天气会转晴。",
+        "pinyin": "Míngtiān quán tiān yǒu yǔ, wēndù huì xiàjiàng dào shíwǔ dù zuǒyòu. Jiànyì dàjiā chuān hòu yìdiǎn de yīfu, zhùyì bǎonuǎn. Hòutiān tiānqì huì zhuǎn qíng.",
+        "english": "Tomorrow it will rain all day, and the temperature will drop to around 15 degrees. It is recommended that everyone wear thicker clothes and stay warm. The day after tomorrow the weather will turn sunny."
+      }
+    ],
+    "vocabHighlights": [
+      "天气",
+      "预报",
+      "温度",
+      "晴",
+      "多云",
+      "小雨",
+      "雨伞",
+      "下降",
+      "建议",
+      "注意",
+      "保暖"
+    ]
+  },
+  {
+    "id": "r3-005",
+    "hskLevel": 3,
+    "title": "Moving to a New Home",
+    "titleZh": "搬新家",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "下个月我要搬家了。新家比现在的房子大很多，有两个卧室、一个客厅和一个厨房。",
+        "pinyin": "Xià ge yuè wǒ yào bān jiā le. Xīn jiā bǐ xiànzài de fángzi dà hěn duō, yǒu liǎng ge wòshì, yí ge kètīng hé yí ge chúfáng.",
+        "english": "Next month I'm going to move. The new home is much bigger than my current one, with two bedrooms, a living room, and a kitchen."
+      },
+      {
+        "chinese": "客厅有一个大窗户，阳光很好。我打算买一张新沙发放在客厅里。厨房虽然不大，但是很干净。",
+        "pinyin": "Kètīng yǒu yí ge dà chuānghù, yángguāng hěn hǎo. Wǒ dǎsuàn mǎi yì zhāng xīn shāfā fàng zài kètīng lǐ. Chúfáng suīrán bú dà, dànshì hěn gānjìng.",
+        "english": "The living room has a big window with great sunlight. I plan to buy a new sofa and put it in the living room. Although the kitchen isn't big, it's very clean."
+      },
+      {
+        "chinese": "搬家的那天，我请了几个朋友来帮忙。大家一起搬东西，很快就搬完了。晚上我请他们吃饭，感谢他们的帮助。",
+        "pinyin": "Bān jiā de nà tiān, wǒ qǐng le jǐ ge péngyou lái bāngmáng. Dàjiā yìqǐ bān dōngxi, hěn kuài jiù bān wán le. Wǎnshang wǒ qǐng tāmen chī fàn, gǎnxiè tāmen de bāngzhù.",
+        "english": "On moving day, I invited several friends to help. Everyone moved things together, and it was done very quickly. In the evening I treated them to dinner to thank them for their help."
+      }
+    ],
+    "vocabHighlights": [
+      "搬家",
+      "卧室",
+      "客厅",
+      "厨房",
+      "窗户",
+      "阳光",
+      "沙发",
+      "帮忙",
+      "感谢",
+      "帮助"
+    ]
+  },
+  {
+    "id": "r3-006",
+    "hskLevel": 3,
+    "title": "A Job Interview",
+    "titleZh": "找工作",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "今天我去一家公司面试。这是一家做电脑软件的公司，我很想在那里工作。面试之前我准备了很长时间。",
+        "pinyin": "Jīntiān wǒ qù yì jiā gōngsī miànshì. Zhè shì yì jiā zuò diànnǎo ruǎnjiàn de gōngsī, wǒ hěn xiǎng zài nàlǐ gōngzuò. Miànshì zhīqián wǒ zhǔnbèi le hěn cháng shíjiān.",
+        "english": "Today I went to a company for a job interview. It's a computer software company, and I really want to work there. I prepared for a long time before the interview."
+      },
+      {
+        "chinese": "面试官问了我很多问题，比如我以前做过什么工作，我有什么特长。我告诉他我会三种电脑语言，还有两年的工作经验。",
+        "pinyin": "Miànshì guān wèn le wǒ hěn duō wèntí, bǐrú wǒ yǐqián zuò guò shénme gōngzuò, wǒ yǒu shénme tècháng. Wǒ gàosu tā wǒ huì sān zhǒng diànnǎo yǔyán, hái yǒu liǎng nián de gōngzuò jīngyàn.",
+        "english": "The interviewer asked me many questions, such as what work I had done before and what my strengths were. I told him I know three programming languages and have two years of work experience."
+      },
+      {
+        "chinese": "面试结束以后，他说下个星期会通知我结果。我觉得今天表现得还不错，希望能得到这个工作。",
+        "pinyin": "Miànshì jiéshù yǐhòu, tā shuō xià ge xīngqī huì tōngzhī wǒ jiéguǒ. Wǒ juéde jīntiān biǎoxiàn de hái búcuò, xīwàng néng dédào zhè ge gōngzuò.",
+        "english": "After the interview was over, he said he would notify me of the result next week. I think I performed pretty well today and hope to get this job."
+      }
+    ],
+    "vocabHighlights": [
+      "面试",
+      "公司",
+      "软件",
+      "准备",
+      "问题",
+      "特长",
+      "经验",
+      "结束",
+      "通知",
+      "结果",
+      "希望"
+    ]
+  },
+  {
+    "id": "r3-007",
+    "hskLevel": 3,
+    "title": "Chinese Holidays",
+    "titleZh": "中国节日",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "中国有很多传统节日，其中最重要的是春节。春节是中国的新年，一般在一月或者二月。",
+        "pinyin": "Zhōngguó yǒu hěn duō chuántǒng jiérì, qízhōng zuì zhòngyào de shì Chūnjié. Chūnjié shì Zhōngguó de xīnnián, yìbān zài yī yuè huòzhě èr yuè.",
+        "english": "China has many traditional holidays, and the most important one is the Spring Festival. The Spring Festival is the Chinese New Year, usually in January or February."
+      },
+      {
+        "chinese": "春节的时候，人们会回家和家人一起过年。除夕那天晚上，全家人一起吃年夜饭。孩子们最喜欢春节，因为可以收到红包。",
+        "pinyin": "Chūnjié de shíhou, rénmen huì huí jiā hé jiārén yìqǐ guò nián. Chúxī nà tiān wǎnshang, quán jiā rén yìqǐ chī niányèfàn. Háizimen zuì xǐhuan Chūnjié, yīnwèi kěyǐ shōu dào hóngbāo.",
+        "english": "During the Spring Festival, people go home to celebrate with their family. On New Year's Eve, the whole family eats New Year's dinner together. Children like the Spring Festival the most because they can receive red envelopes."
+      },
+      {
+        "chinese": "春节期间，到处都能看到红色的装饰。人们还会放鞭炮、看春晚。大家互相说「新年快乐」，祝福彼此新的一年一切顺利。",
+        "pinyin": "Chūnjié qījiān, dàochù dōu néng kàn dào hóngsè de zhuāngshì. Rénmen hái huì fàng biānpào, kàn chūnwǎn. Dàjiā hùxiāng shuō「Xīnnián kuàilè」, zhùfú bǐcǐ xīn de yì nián yíqiè shùnlì.",
+        "english": "During the Spring Festival, you can see red decorations everywhere. People also set off firecrackers and watch the Spring Festival Gala. Everyone says 'Happy New Year' to each other, wishing each other a smooth new year."
+      }
+    ],
+    "vocabHighlights": [
+      "传统",
+      "节日",
+      "春节",
+      "除夕",
+      "年夜饭",
+      "红包",
+      "装饰",
+      "鞭炮",
+      "祝福",
+      "顺利"
+    ]
+  },
+  {
+    "id": "r3-008",
+    "hskLevel": 3,
+    "title": "My Hobby",
+    "titleZh": "我的爱好",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "每个人都有自己的爱好。我最大的爱好是打篮球。每个周末，我都会和朋友一起去体育馆打球。",
+        "pinyin": "Měi ge rén dōu yǒu zìjǐ de àihào. Wǒ zuì dà de àihào shì dǎ lánqiú. Měi ge zhōumò, wǒ dōu huì hé péngyou yìqǐ qù tǐyùguǎn dǎ qiú.",
+        "english": "Everyone has their own hobbies. My biggest hobby is playing basketball. Every weekend, I go to the gym to play with my friends."
+      },
+      {
+        "chinese": "除了打篮球，我还喜欢听音乐。我觉得音乐可以让人放松。每天晚上做完作业以后，我都会听半个小时的音乐。",
+        "pinyin": "Chúle dǎ lánqiú, wǒ hái xǐhuan tīng yīnyuè. Wǒ juéde yīnyuè kěyǐ ràng rén fàngsōng. Měi tiān wǎnshang zuò wán zuòyè yǐhòu, wǒ dōu huì tīng bàn ge xiǎoshí de yīnyuè.",
+        "english": "Besides playing basketball, I also like listening to music. I think music can help people relax. Every evening after finishing homework, I listen to music for half an hour."
+      },
+      {
+        "chinese": "最近我还开始学画画。虽然我画得不太好，但是我很享受画画的过程。有爱好的生活真的很快乐。",
+        "pinyin": "Zuìjìn wǒ hái kāishǐ xué huà huà. Suīrán wǒ huà de bú tài hǎo, dànshì wǒ hěn xiǎngshòu huà huà de guòchéng. Yǒu àihào de shēnghuó zhēn de hěn kuàilè.",
+        "english": "Recently I also started learning to paint. Although I'm not very good at it, I really enjoy the process of painting. Life with hobbies is truly happy."
+      }
+    ],
+    "vocabHighlights": [
+      "爱好",
+      "篮球",
+      "体育馆",
+      "音乐",
+      "放松",
+      "作业",
+      "画画",
+      "享受",
+      "过程",
+      "快乐"
+    ]
+  },
+  {
+    "id": "r3-009",
+    "hskLevel": 3,
+    "title": "Environmental Protection",
+    "titleZh": "保护环境",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "现在环境问题越来越严重。空气污染、水污染让很多人生病。我们必须开始保护我们的环境。",
+        "pinyin": "Xiànzài huánjìng wèntí yuè lái yuè yánzhòng. Kōngqì wūrǎn, shuǐ wūrǎn ràng hěn duō rén shēng bìng. Wǒmen bìxū kāishǐ bǎohù wǒmen de huánjìng.",
+        "english": "Now environmental problems are becoming more and more serious. Air pollution and water pollution are making many people sick. We must start protecting our environment."
+      },
+      {
+        "chinese": "保护环境可以从小事做起。比如少开车，多坐公共汽车；不要浪费水和电；把垃圾分类。",
+        "pinyin": "Bǎohù huánjìng kěyǐ cóng xiǎo shì zuò qǐ. Bǐrú shǎo kāi chē, duō zuò gōnggòng qìchē; bú yào làngfèi shuǐ hé diàn; bǎ lājī fēnlèi.",
+        "english": "Protecting the environment can start with small things. For example, drive less and take public transportation more; don't waste water and electricity; sort garbage."
+      },
+      {
+        "chinese": "我们学校也开始做环保活动了。上个月，我们一起去公园捡垃圾。虽然很累，但是看到干净的公园，我们都很开心。每个人都应该为环境做一点事。",
+        "pinyin": "Wǒmen xuéxiào yě kāishǐ zuò huánbǎo huódòng le. Shàng ge yuè, wǒmen yìqǐ qù gōngyuán jiǎn lājī. Suīrán hěn lèi, dànshì kàn dào gānjìng de gōngyuán, wǒmen dōu hěn kāixīn. Měi ge rén dōu yīnggāi wèi huánjìng zuò yìdiǎn shì.",
+        "english": "Our school has also started doing environmental activities. Last month, we went to the park together to pick up garbage. Although it was tiring, seeing the clean park made us all very happy. Everyone should do a little something for the environment."
+      }
+    ],
+    "vocabHighlights": [
+      "环境",
+      "污染",
+      "保护",
+      "浪费",
+      "垃圾",
+      "分类",
+      "环保",
+      "活动",
+      "应该",
+      "干净"
+    ]
+  },
+  {
+    "id": "r3-010",
+    "hskLevel": 3,
+    "title": "Online Shopping",
+    "titleZh": "网上购物",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "现在越来越多的人喜欢在网上买东西。网上购物很方便，不用出门就能买到各种各样的商品。",
+        "pinyin": "Xiànzài yuè lái yuè duō de rén xǐhuan zài wǎng shàng mǎi dōngxi. Wǎng shàng gòuwù hěn fāngbiàn, bú yòng chūmén jiù néng mǎi dào gè zhǒng gè yàng de shāngpǐn.",
+        "english": "Nowadays more and more people like to buy things online. Online shopping is very convenient. You can buy all kinds of products without leaving home."
+      },
+      {
+        "chinese": "上个星期我在网上买了一双鞋。网站上有很多选择，价格也比商店便宜。我选了一双黑色的运动鞋，两天就收到了。",
+        "pinyin": "Shàng ge xīngqī wǒ zài wǎng shàng mǎi le yì shuāng xié. Wǎngzhàn shàng yǒu hěn duō xuǎnzé, jiàgé yě bǐ shāngdiàn piányi. Wǒ xuǎn le yì shuāng hēisè de yùndòngxié, liǎng tiān jiù shōu dào le.",
+        "english": "Last week I bought a pair of shoes online. The website had many choices, and the prices were cheaper than in stores. I chose a pair of black sneakers and received them in just two days."
+      },
+      {
+        "chinese": "不过网上购物也有问题。有时候你收到的东西跟照片上的不一样。如果不满意，还需要退货，比较麻烦。所以我一般会先看看别人的评价，再决定买不买。",
+        "pinyin": "Búguò wǎng shàng gòuwù yě yǒu wèntí. Yǒu shíhou nǐ shōu dào de dōngxi gēn zhàopiàn shàng de bù yíyàng. Rúguǒ bù mǎnyì, hái xūyào tuìhuò, bǐjiào máfan. Suǒyǐ wǒ yìbān huì xiān kànkan biéren de píngjià, zài juédìng mǎi bu mǎi.",
+        "english": "However, online shopping also has problems. Sometimes what you receive is different from the picture. If you're not satisfied, you need to return it, which is quite troublesome. So I usually look at other people's reviews first before deciding whether to buy."
+      }
+    ],
+    "vocabHighlights": [
+      "购物",
+      "方便",
+      "商品",
+      "选择",
+      "价格",
+      "便宜",
+      "运动鞋",
+      "退货",
+      "麻烦",
+      "评价"
+    ]
+  },
+  {
+    "id": "r3-101",
+    "hskLevel": 3,
+    "title": "The Misunderstanding",
+    "titleZh": "误会",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "小李是一个美国留学生，他来中国已经半年了。他的中文说得不错，但是有时候还是会遇到不懂的地方。",
+        "pinyin": "Xiǎo Lǐ shì yí ge Měiguó liúxuéshēng, tā lái Zhōngguó yǐjīng bàn nián le. Tā de Zhōngwén shuō de búcuò, dànshì yǒu shíhou háishi huì yù dào bù dǒng de dìfang.",
+        "english": "Xiao Li is an American exchange student who has been in China for half a year. His Chinese is quite good, but sometimes he still encounters things he doesn't understand."
+      },
+      {
+        "chinese": "有一天，他的中国朋友小王请他去家里吃饭。小王的妈妈做了很多好吃的菜。吃饭的时候，小王的妈妈一直给小李夹菜。",
+        "pinyin": "Yǒu yì tiān, tā de Zhōngguó péngyou Xiǎo Wáng qǐng tā qù jiā lǐ chī fàn. Xiǎo Wáng de māma zuò le hěn duō hǎochī de cài. Chī fàn de shíhou, Xiǎo Wáng de māma yìzhí gěi Xiǎo Lǐ jiā cài.",
+        "english": "One day, his Chinese friend Xiao Wang invited him home for dinner. Xiao Wang's mother made many delicious dishes. During the meal, Xiao Wang's mother kept putting food on Xiao Li's plate."
+      },
+      {
+        "chinese": "小李已经吃得很饱了，但是小王的妈妈又给他夹了一块鱼。小李不好意思拒绝，就说了一句：「不用了，我已经吃不下了。」",
+        "pinyin": "Xiǎo Lǐ yǐjīng chī de hěn bǎo le, dànshì Xiǎo Wáng de māma yòu gěi tā jiā le yí kuài yú. Xiǎo Lǐ bù hǎoyìsi jùjué, jiù shuō le yí jù:「Bú yòng le, wǒ yǐjīng chī bú xià le.」",
+        "english": "Xiao Li was already very full, but Xiao Wang's mother put another piece of fish on his plate. Xiao Li felt embarrassed to refuse and said, 'No need, I really can't eat anymore.'"
+      },
+      {
+        "chinese": "小王的妈妈听了以后有点儿不高兴，以为小李不喜欢她做的菜。小王看到妈妈的表情，赶快跟妈妈解释说，在美国，客人吃饱了就会直接说。",
+        "pinyin": "Xiǎo Wáng de māma tīng le yǐhòu yǒudiǎnr bù gāoxìng, yǐwéi Xiǎo Lǐ bù xǐhuan tā zuò de cài. Xiǎo Wáng kàn dào māma de biǎoqíng, gǎnkuài gēn māma jiěshì shuō, zài Měiguó, kèrén chī bǎo le jiù huì zhíjiē shuō.",
+        "english": "After hearing this, Xiao Wang's mother was a bit unhappy, thinking Xiao Li didn't like her cooking. Seeing his mother's expression, Xiao Wang quickly explained to her that in America, when guests are full, they just say so directly."
+      },
+      {
+        "chinese": "小王还告诉小李，在中国，主人给客人夹菜是表示热情和欢迎。如果客人全部吃完了，主人会觉得菜不够。小李这才明白了。",
+        "pinyin": "Xiǎo Wáng hái gàosu Xiǎo Lǐ, zài Zhōngguó, zhǔrén gěi kèrén jiā cài shì biǎoshì rèqíng hé huānyíng. Rúguǒ kèrén quánbù chī wán le, zhǔrén huì juéde cài bú gòu. Xiǎo Lǐ zhè cái míngbai le.",
+        "english": "Xiao Wang also told Xiao Li that in China, the host putting food on guests' plates is a way of showing warmth and welcome. If the guest finishes everything, the host might feel there wasn't enough food. Only then did Xiao Li understand."
+      },
+      {
+        "chinese": "小李连忙对小王的妈妈说：「阿姨，对不起，您做的菜非常好吃！我真的吃得太饱了。」小王的妈妈听了笑了起来，说：「没关系，下次再来吃！」",
+        "pinyin": "Xiǎo Lǐ liánmáng duì Xiǎo Wáng de māma shuō:「Āyí, duìbuqǐ, nín zuò de cài fēicháng hǎochī! Wǒ zhēn de chī de tài bǎo le.」Xiǎo Wáng de māma tīng le xiào le qǐlái, shuō:「Méi guānxi, xià cì zài lái chī!」",
+        "english": "Xiao Li hurriedly said to Xiao Wang's mother, 'Auntie, I'm sorry, your cooking is really delicious! I'm truly too full.' Xiao Wang's mother smiled and said, 'It's okay, come eat again next time!'"
+      },
+      {
+        "chinese": "通过这件事，小李学到了一个重要的文化知识：不同国家的习惯是不一样的。了解当地的文化，可以帮助你更好地跟别人交流。",
+        "pinyin": "Tōngguò zhè jiàn shì, Xiǎo Lǐ xué dào le yí ge zhòngyào de wénhuà zhīshi: bùtóng guójiā de xíguàn shì bù yíyàng de. Liǎojiě dāngdì de wénhuà, kěyǐ bāngzhù nǐ gèng hǎo de gēn biéren jiāoliú.",
+        "english": "Through this experience, Xiao Li learned an important cultural lesson: different countries have different customs. Understanding local culture can help you communicate better with others."
+      }
+    ],
+    "vocabHighlights": [
+      "留学生",
+      "夹菜",
+      "饱",
+      "拒绝",
+      "误会",
+      "解释",
+      "热情",
+      "欢迎",
+      "文化",
+      "习惯",
+      "交流"
+    ]
+  },
+  {
+    "id": "r3-102",
+    "hskLevel": 3,
+    "title": "The Old Man and the Sea",
+    "titleZh": "老人和大海",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "在一个小渔村里，住着一位老渔夫。他每天早上都去海边钓鱼。但是最近几个星期，他一条鱼也没有钓到。",
+        "pinyin": "Zài yí ge xiǎo yúcūn lǐ, zhù zhe yí wèi lǎo yúfū. Tā měi tiān zǎoshang dōu qù hǎibiān diào yú. Dànshì zuìjìn jǐ ge xīngqī, tā yì tiáo yú yě méiyǒu diào dào.",
+        "english": "In a small fishing village lived an old fisherman. Every morning he would go to the seaside to fish. But in the last few weeks, he hadn't caught a single fish."
+      },
+      {
+        "chinese": "村里的人都笑话他，说他太老了，应该在家休息。但是老渔夫不同意。他相信自己一定能钓到一条大鱼。",
+        "pinyin": "Cūn lǐ de rén dōu xiàohua tā, shuō tā tài lǎo le, yīnggāi zài jiā xiūxi. Dànshì lǎo yúfū bù tóngyì. Tā xiāngxìn zìjǐ yídìng néng diào dào yì tiáo dà yú.",
+        "english": "The villagers all laughed at him, saying he was too old and should rest at home. But the old fisherman disagreed. He believed he could definitely catch a big fish."
+      },
+      {
+        "chinese": "有一天早上，天还没有亮，老渔夫就出发了。他坐着小船，向大海深处划去。他决定这次去更远的地方试试。",
+        "pinyin": "Yǒu yì tiān zǎoshang, tiān hái méiyǒu liàng, lǎo yúfū jiù chūfā le. Tā zuò zhe xiǎo chuán, xiàng dàhǎi shēnchù huá qù. Tā juédìng zhè cì qù gèng yuǎn de dìfang shìshi.",
+        "english": "One morning, before dawn, the old fisherman set out. He sat in his small boat and rowed toward the deep sea. He decided to try going further this time."
+      },
+      {
+        "chinese": "突然，鱼线动了！老渔夫用力拉，发现这条鱼非常大，非常重。他跟这条大鱼斗了整整一天一夜。",
+        "pinyin": "Tūrán, yúxiàn dòng le! Lǎo yúfū yòng lì lā, fāxiàn zhè tiáo yú fēicháng dà, fēicháng zhòng. Tā gēn zhè tiáo dà yú dòu le zhěngzhěng yì tiān yí yè.",
+        "english": "Suddenly, the fishing line moved! The old fisherman pulled with all his strength and found that this fish was very big and very heavy. He fought with this big fish for an entire day and night."
+      },
+      {
+        "chinese": "老渔夫又累又饿，但是他没有放弃。最后，他终于把大鱼拉上了船。这是他这辈子见过的最大的鱼。",
+        "pinyin": "Lǎo yúfū yòu lèi yòu è, dànshì tā méiyǒu fàngqì. Zuìhòu, tā zhōngyú bǎ dà yú lā shàng le chuán. Zhè shì tā zhè bèizi jiàn guò de zuì dà de yú.",
+        "english": "The old fisherman was both tired and hungry, but he didn't give up. Finally, he pulled the big fish onto the boat. This was the biggest fish he had ever seen in his life."
+      },
+      {
+        "chinese": "当老渔夫回到村子的时候，大家都非常惊讶。从那以后，再也没有人笑话他了。老渔夫经常说：「只要你不放弃，就一定能成功。」",
+        "pinyin": "Dāng lǎo yúfū huí dào cūnzi de shíhou, dàjiā dōu fēicháng jīngyà. Cóng nà yǐhòu, zài yě méiyǒu rén xiàohua tā le. Lǎo yúfū jīngcháng shuō:「Zhǐyào nǐ bù fàngqì, jiù yídìng néng chénggōng.」",
+        "english": "When the old fisherman returned to the village, everyone was very surprised. From then on, no one ever laughed at him again. The old fisherman often said, 'As long as you don't give up, you will surely succeed.'"
+      }
+    ],
+    "vocabHighlights": [
+      "渔夫",
+      "钓鱼",
+      "笑话",
+      "相信",
+      "出发",
+      "突然",
+      "用力",
+      "放弃",
+      "终于",
+      "成功",
+      "惊讶"
+    ]
+  },
+  {
+    "id": "r3-103",
+    "hskLevel": 3,
+    "title": "Neighbors",
+    "titleZh": "邻居",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "张阿姨今年六十五岁了，她一个人住在五楼。她的孩子们都在外地工作，不能经常回来看她。",
+        "pinyin": "Zhāng āyí jīnnián liùshíwǔ suì le, tā yí ge rén zhù zài wǔ lóu. Tā de háizimen dōu zài wàidì gōngzuò, bù néng jīngcháng huílái kàn tā.",
+        "english": "Auntie Zhang is 65 years old this year and lives alone on the fifth floor. Her children all work in other cities and can't come back to visit her often."
+      },
+      {
+        "chinese": "隔壁住着一个年轻人，叫小陈。小陈刚从大学毕业，在附近上班。他每天都很忙，和张阿姨很少说话。",
+        "pinyin": "Gébì zhù zhe yí ge niánqīng rén, jiào Xiǎo Chén. Xiǎo Chén gāng cóng dàxué bìyè, zài fùjìn shàng bān. Tā měi tiān dōu hěn máng, hé Zhāng āyí hěn shǎo shuōhuà.",
+        "english": "Next door lived a young man named Xiao Chen. Xiao Chen had just graduated from college and worked nearby. He was very busy every day and rarely talked to Auntie Zhang."
+      },
+      {
+        "chinese": "有一天晚上，突然下起了大雨。小陈回家的时候，看见张阿姨站在楼下，手里拿着很多菜，上不了楼。原来电梯坏了。",
+        "pinyin": "Yǒu yì tiān wǎnshang, tūrán xià qǐ le dà yǔ. Xiǎo Chén huí jiā de shíhou, kànjiàn Zhāng āyí zhàn zài lóu xià, shǒu lǐ ná zhe hěn duō cài, shàng bù liǎo lóu. Yuánlái diàntī huài le.",
+        "english": "One evening, it suddenly started raining heavily. When Xiao Chen came home, he saw Auntie Zhang standing downstairs holding lots of groceries, unable to go upstairs. It turned out the elevator was broken."
+      },
+      {
+        "chinese": "小陈马上跑过去，帮张阿姨拿菜，然后陪她走上了五楼。虽然走了很多楼梯，但是他一点儿也不觉得累。",
+        "pinyin": "Xiǎo Chén mǎshàng pǎo guòqù, bāng Zhāng āyí ná cài, ránhòu péi tā zǒu shàng le wǔ lóu. Suīrán zǒu le hěn duō lóutī, dànshì tā yìdiǎnr yě bù juéde lèi.",
+        "english": "Xiao Chen immediately ran over, helped Auntie Zhang carry the groceries, and accompanied her walking up to the fifth floor. Although they climbed many stairs, he didn't feel tired at all."
+      },
+      {
+        "chinese": "张阿姨非常感动，请小陈进来喝杯茶。从那天起，小陈经常帮张阿姨买菜、修东西。张阿姨也经常给小陈做饭，还帮他洗衣服。",
+        "pinyin": "Zhāng āyí fēicháng gǎndòng, qǐng Xiǎo Chén jìnlái hē bēi chá. Cóng nà tiān qǐ, Xiǎo Chén jīngcháng bāng Zhāng āyí mǎi cài, xiū dōngxi. Zhāng āyí yě jīngcháng gěi Xiǎo Chén zuò fàn, hái bāng tā xǐ yīfu.",
+        "english": "Auntie Zhang was very touched and invited Xiao Chen in for a cup of tea. From that day on, Xiao Chen often helped Auntie Zhang buy groceries and fix things. Auntie Zhang also often cooked for Xiao Chen and helped him wash clothes."
+      },
+      {
+        "chinese": "他们就像一家人一样。小陈说：「远亲不如近邻。」张阿姨开心地笑了。好的邻居真的能让生活变得更美好。",
+        "pinyin": "Tāmen jiù xiàng yì jiā rén yíyàng. Xiǎo Chén shuō:「Yuǎn qīn bùrú jìn lín.」Zhāng āyí kāixīn de xiào le. Hǎo de línjū zhēn de néng ràng shēnghuó biàn de gèng měihǎo.",
+        "english": "They became just like family. Xiao Chen said, 'A near neighbor is better than a distant relative.' Auntie Zhang smiled happily. Good neighbors can truly make life better."
+      }
+    ],
+    "vocabHighlights": [
+      "邻居",
+      "外地",
+      "毕业",
+      "电梯",
+      "楼梯",
+      "感动",
+      "修",
+      "洗衣服",
+      "远亲不如近邻",
+      "美好"
+    ]
+  },
+  {
+    "id": "r3-104",
+    "hskLevel": 3,
+    "title": "The Smart Student",
+    "titleZh": "聪明的学生",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "从前有一个叫小明的学生，他非常聪明。但是他不太喜欢上课，总是觉得老师教得太慢了。",
+        "pinyin": "Cóngqián yǒu yí ge jiào Xiǎomíng de xuéshēng, tā fēicháng cōngming. Dànshì tā bú tài xǐhuan shàng kè, zǒng shì juéde lǎoshī jiāo de tài màn le.",
+        "english": "Once there was a student named Xiaoming who was very smart. But he didn't really like going to class, always feeling that the teacher taught too slowly."
+      },
+      {
+        "chinese": "有一天，老师在课上问了一个很难的数学题。全班同学都不会做，只有小明举手回答了。老师表扬了他。",
+        "pinyin": "Yǒu yì tiān, lǎoshī zài kè shàng wèn le yí ge hěn nán de shùxué tí. Quán bān tóngxué dōu bú huì zuò, zhǐyǒu Xiǎomíng jǔ shǒu huídá le. Lǎoshī biǎoyáng le tā.",
+        "english": "One day, the teacher asked a very difficult math problem in class. None of the other students could solve it; only Xiaoming raised his hand and answered. The teacher praised him."
+      },
+      {
+        "chinese": "小明很骄傲，回家以后不想做作业了。他跟妈妈说：「我已经很厉害了，为什么还要学习？」",
+        "pinyin": "Xiǎomíng hěn jiāo'ào, huí jiā yǐhòu bù xiǎng zuò zuòyè le. Tā gēn māma shuō:「Wǒ yǐjīng hěn lìhai le, wèishénme hái yào xuéxí?」",
+        "english": "Xiaoming was very proud and didn't want to do homework when he got home. He said to his mother, 'I'm already very good, why do I still need to study?'"
+      },
+      {
+        "chinese": "妈妈没有说什么。她拿了一个杯子，往里面倒水。水满了以后，她还在倒。水流出来了，弄湿了桌子。",
+        "pinyin": "Māma méiyǒu shuō shénme. Tā ná le yí ge bēizi, wǎng lǐmiàn dào shuǐ. Shuǐ mǎn le yǐhòu, tā hái zài dào. Shuǐ liú chūlái le, nòng shī le zhuōzi.",
+        "english": "Mom didn't say anything. She took a cup and poured water into it. After the cup was full, she kept pouring. The water overflowed and got the table wet."
+      },
+      {
+        "chinese": "小明说：「妈妈，杯子已经满了！」妈妈笑着说：「对啊，杯子满了，水就装不下了。如果你觉得自己什么都会了，就像这个杯子一样，装不进新东西了。」",
+        "pinyin": "Xiǎomíng shuō:「Māma, bēizi yǐjīng mǎn le!」Māma xiào zhe shuō:「Duì a, bēizi mǎn le, shuǐ jiù zhuāng bú xià le. Rúguǒ nǐ juéde zìjǐ shénme dōu huì le, jiù xiàng zhè ge bēizi yíyàng, zhuāng bú jìn xīn dōngxi le.」",
+        "english": "Xiaoming said, 'Mom, the cup is already full!' Mom smiled and said, 'Exactly, when the cup is full, it can't hold more water. If you think you already know everything, you're like this cup - you can't take in anything new.'"
+      },
+      {
+        "chinese": "小明听了，低下了头。他终于明白了，不管多聪明，都应该继续学习。从那天起，小明变得更认真了，他再也不骄傲了。",
+        "pinyin": "Xiǎomíng tīng le, dī xià le tóu. Tā zhōngyú míngbai le, bùguǎn duō cōngming, dōu yīnggāi jìxù xuéxí. Cóng nà tiān qǐ, Xiǎomíng biàn de gèng rènzhēn le, tā zài yě bù jiāo'ào le.",
+        "english": "After hearing this, Xiaoming lowered his head. He finally understood that no matter how smart you are, you should keep on learning. From that day on, Xiaoming became more serious, and he was never proud again."
+      }
+    ],
+    "vocabHighlights": [
+      "聪明",
+      "数学",
+      "举手",
+      "表扬",
+      "骄傲",
+      "厉害",
+      "杯子",
+      "满",
+      "明白",
+      "继续",
+      "认真"
+    ]
+  }
+]

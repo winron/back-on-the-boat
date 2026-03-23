@@ -1,0 +1,591 @@
+[
+  {
+    "id": "r4-001",
+    "hskLevel": 4,
+    "title": "Chinese Education System",
+    "titleZh": "中国的教育",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "中国的教育制度和很多国家不同。中国的学生从六岁开始上小学，小学一共六年。然后是三年初中和三年高中。高中毕业以后，学生可以参加高考，进入大学。",
+        "pinyin": "Zhōngguó de jiàoyù zhìdù hé hěn duō guójiā bùtóng. Zhōngguó de xuéshēng cóng liù suì kāishǐ shàng xiǎoxué, xiǎoxué yígòng liù nián. Ránhòu shì sān nián chūzhōng hé sān nián gāozhōng. Gāozhōng bìyè yǐhòu, xuéshēng kěyǐ cānjiā gāokǎo, jìnrù dàxué.",
+        "english": "China's education system is different from many countries. Chinese students start primary school at age six, which lasts six years in total. Then there are three years of middle school and three years of high school. After graduating from high school, students can take the college entrance exam to enter university."
+      },
+      {
+        "chinese": "高考是中国最重要的考试之一。每年六月，几百万学生同时参加这场考试。考试的成绩决定了学生能去哪所大学。因此，很多学生从高一就开始认真准备。",
+        "pinyin": "Gāokǎo shì Zhōngguó zuì zhòngyào de kǎoshì zhī yī. Měi nián liù yuè, jǐ bǎi wàn xuéshēng tóngshí cānjiā zhè chǎng kǎoshì. Kǎoshì de chéngjì juédìng le xuéshēng néng qù nǎ suǒ dàxué. Yīncǐ, hěn duō xuéshēng cóng gāo yī jiù kāishǐ rènzhēn zhǔnbèi.",
+        "english": "The gaokao is one of the most important exams in China. Every June, millions of students take this exam at the same time. The exam results determine which university a student can attend. Therefore, many students start preparing seriously from their first year of high school."
+      },
+      {
+        "chinese": "不过，近年来越来越多的家长开始反思这种教育方式。他们认为除了学习成绩，培养孩子的兴趣和创造力也很重要。教育的目的不仅是考上好大学，更是帮助每个孩子找到自己的方向。",
+        "pinyin": "Búguò, jìn nián lái yuè lái yuè duō de jiāzhǎng kāishǐ fǎnsī zhè zhǒng jiàoyù fāngshì. Tāmen rènwéi chúle xuéxí chéngjì, péiyǎng háizi de xìngqù hé chuàngzàolì yě hěn zhòngyào. Jiàoyù de mùdì bùjǐn shì kǎo shàng hǎo dàxué, gèng shì bāngzhù měi ge háizi zhǎo dào zìjǐ de fāngxiàng.",
+        "english": "However, in recent years more and more parents have begun to reflect on this approach to education. They believe that besides academic performance, cultivating children's interests and creativity is also important. The purpose of education is not only to get into a good university, but more importantly to help every child find their own direction."
+      }
+    ],
+    "vocabHighlights": [
+      "教育",
+      "制度",
+      "高考",
+      "成绩",
+      "因此",
+      "反思",
+      "培养",
+      "创造力",
+      "目的",
+      "方向"
+    ]
+  },
+  {
+    "id": "r4-002",
+    "hskLevel": 4,
+    "title": "Traditional vs Modern",
+    "titleZh": "传统与现代",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "在中国的大城市里，你经常能看到一个有趣的现象：古老的建筑旁边就是现代的高楼大厦。传统和现代在这里和谐地共存着。",
+        "pinyin": "Zài Zhōngguó de dà chéngshì lǐ, nǐ jīngcháng néng kàn dào yí ge yǒuqù de xiànxiàng: gǔlǎo de jiànzhù pángbiān jiù shì xiàndài de gāolóu dàshà. Chuántǒng hé xiàndài zài zhèlǐ héxié de gòngcún zhe.",
+        "english": "In China's big cities, you can often see an interesting phenomenon: right next to ancient buildings are modern skyscrapers. Traditional and modern coexist harmoniously here."
+      },
+      {
+        "chinese": "很多年轻人一方面追求现代的生活方式，比如用智能手机、喝咖啡、穿时尚的衣服；另一方面，他们也越来越重视传统文化，比如学习书法、穿汉服、过传统节日。",
+        "pinyin": "Hěn duō niánqīng rén yì fāngmiàn zhuīqiú xiàndài de shēnghuó fāngshì, bǐrú yòng zhìnéng shǒujī, hē kāfēi, chuān shíshàng de yīfu; lìng yì fāngmiàn, tāmen yě yuè lái yuè zhòngshì chuántǒng wénhuà, bǐrú xuéxí shūfǎ, chuān hànfú, guò chuántǒng jiérì.",
+        "english": "Many young people on one hand pursue modern lifestyles, such as using smartphones, drinking coffee, and wearing fashionable clothes; on the other hand, they also increasingly value traditional culture, such as learning calligraphy, wearing traditional Han clothing, and celebrating traditional holidays."
+      },
+      {
+        "chinese": "其实传统和现代并不矛盾。一个国家在发展的同时，也应该保留自己的文化特色。把传统文化和现代生活结合起来，才能让文化更有生命力。",
+        "pinyin": "Qíshí chuántǒng hé xiàndài bìng bù máodùn. Yí ge guójiā zài fāzhǎn de tóngshí, yě yīnggāi bǎoliú zìjǐ de wénhuà tèsè. Bǎ chuántǒng wénhuà hé xiàndài shēnghuó jiéhé qǐlái, cái néng ràng wénhuà gèng yǒu shēngmìnglì.",
+        "english": "In fact, traditional and modern are not contradictory. A country should preserve its cultural characteristics while developing. Only by combining traditional culture with modern life can culture have more vitality."
+      }
+    ],
+    "vocabHighlights": [
+      "现象",
+      "建筑",
+      "和谐",
+      "追求",
+      "重视",
+      "书法",
+      "矛盾",
+      "保留",
+      "结合",
+      "生命力"
+    ]
+  },
+  {
+    "id": "r4-003",
+    "hskLevel": 4,
+    "title": "Living in the City",
+    "titleZh": "城市生活",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "大城市的生活节奏很快。每天早上，地铁站和公交车站都挤满了上班的人。人们匆匆忙忙地赶着去公司，生怕迟到。",
+        "pinyin": "Dà chéngshì de shēnghuó jiézòu hěn kuài. Měi tiān zǎoshang, dìtiě zhàn hé gōngjiāo chē zhàn dōu jǐ mǎn le shàng bān de rén. Rénmen cōngcōng mángmáng de gǎn zhe qù gōngsī, shēng pà chídào.",
+        "english": "The pace of life in big cities is very fast. Every morning, subway stations and bus stops are packed with people going to work. People rush hurriedly to their companies, afraid of being late."
+      },
+      {
+        "chinese": "城市生活有很多好处。这里有更多的工作机会、更好的医院和学校。商场、电影院、博物馆等娱乐场所也很多。晚上，城市的灯光让一切都变得很美。",
+        "pinyin": "Chéngshì shēnghuó yǒu hěn duō hǎochù. Zhèlǐ yǒu gèng duō de gōngzuò jīhuì, gèng hǎo de yīyuàn hé xuéxiào. Shāngchǎng, diànyǐngyuàn, bówùguǎn děng yúlè chǎngsuǒ yě hěn duō. Wǎnshang, chéngshì de dēngguāng ràng yíqiè dōu biàn de hěn měi.",
+        "english": "City life has many advantages. There are more job opportunities, better hospitals and schools. There are also many entertainment venues like malls, cinemas, and museums. At night, the city lights make everything beautiful."
+      },
+      {
+        "chinese": "但是城市也有不少问题。房价太高，很多年轻人买不起房子；交通拥挤，每天上下班花很多时间；空气质量也不如农村好。有些人开始考虑搬到小城市去生活，追求更高的生活质量。",
+        "pinyin": "Dànshì chéngshì yě yǒu bù shǎo wèntí. Fángjià tài gāo, hěn duō niánqīng rén mǎi bù qǐ fángzi; jiāotōng yōngjǐ, měi tiān shàng xià bān huā hěn duō shíjiān; kōngqì zhìliàng yě bùrú nóngcūn hǎo. Yǒuxiē rén kāishǐ kǎolǜ bān dào xiǎo chéngshì qù shēnghuó, zhuīqiú gèng gāo de shēnghuó zhìliàng.",
+        "english": "But cities also have quite a few problems. Housing prices are too high and many young people can't afford to buy a home; traffic is congested and commuting takes a lot of time every day; air quality is not as good as in the countryside. Some people are starting to consider moving to smaller cities in pursuit of a higher quality of life."
+      }
+    ],
+    "vocabHighlights": [
+      "节奏",
+      "匆忙",
+      "机会",
+      "博物馆",
+      "娱乐",
+      "房价",
+      "拥挤",
+      "质量",
+      "考虑",
+      "追求"
+    ]
+  },
+  {
+    "id": "r4-004",
+    "hskLevel": 4,
+    "title": "Social Media",
+    "titleZh": "社交媒体",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "社交媒体已经成为现代人生活中不可缺少的一部分。通过微信、微博等平台，人们可以随时随地和朋友分享自己的生活，了解世界各地的新闻。",
+        "pinyin": "Shèjiāo méitǐ yǐjīng chéngwéi xiàndài rén shēnghuó zhōng bùkě quēshǎo de yí bùfen. Tōngguò Wēixìn, Wēibó děng píngtái, rénmen kěyǐ suíshí suídì hé péngyou fēnxiǎng zìjǐ de shēnghuó, liǎojiě shìjiè gè dì de xīnwén.",
+        "english": "Social media has become an indispensable part of modern life. Through platforms like WeChat and Weibo, people can share their lives with friends and learn about news from around the world anytime, anywhere."
+      },
+      {
+        "chinese": "社交媒体给我们带来了很多方便。比如，你可以通过视频通话和远方的家人见面；可以在网上学到各种各样的知识；也可以关注自己感兴趣的话题。",
+        "pinyin": "Shèjiāo méitǐ gěi wǒmen dài lái le hěn duō fāngbiàn. Bǐrú, nǐ kěyǐ tōngguò shìpín tōnghuà hé yuǎnfāng de jiārén jiànmiàn; kěyǐ zài wǎng shàng xué dào gè zhǒng gè yàng de zhīshi; yě kěyǐ guānzhù zìjǐ gǎn xìngqù de huàtí.",
+        "english": "Social media has brought us many conveniences. For example, you can meet with faraway family through video calls; you can learn all kinds of knowledge online; and you can follow topics you're interested in."
+      },
+      {
+        "chinese": "然而，过度使用社交媒体也有负面影响。有些人花太多时间刷手机，影响了工作和学习。还有人容易受到网上虚假信息的影响。我们应该合理地使用社交媒体，不要让它控制我们的生活。",
+        "pinyin": "Rán'ér, guòdù shǐyòng shèjiāo méitǐ yě yǒu fùmiàn yǐngxiǎng. Yǒuxiē rén huā tài duō shíjiān shuā shǒujī, yǐngxiǎng le gōngzuò hé xuéxí. Hái yǒu rén róngyì shòu dào wǎng shàng xūjiǎ xìnxī de yǐngxiǎng. Wǒmen yīnggāi hélǐ de shǐyòng shèjiāo méitǐ, bú yào ràng tā kòngzhì wǒmen de shēnghuó.",
+        "english": "However, excessive use of social media also has negative effects. Some people spend too much time scrolling on their phones, affecting their work and studies. Others are easily influenced by false information online. We should use social media reasonably and not let it control our lives."
+      }
+    ],
+    "vocabHighlights": [
+      "社交",
+      "媒体",
+      "平台",
+      "分享",
+      "视频",
+      "关注",
+      "过度",
+      "负面",
+      "虚假",
+      "合理",
+      "控制"
+    ]
+  },
+  {
+    "id": "r4-005",
+    "hskLevel": 4,
+    "title": "Chinese Food Culture",
+    "titleZh": "中国饮食文化",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "中国有一句老话叫「民以食为天」，意思是吃对于中国人来说是最重要的事情之一。中国的饮食文化有几千年的历史，每个地方都有自己的特色菜。",
+        "pinyin": "Zhōngguó yǒu yí jù lǎohuà jiào「mín yǐ shí wéi tiān」, yìsi shì chī duìyú Zhōngguó rén lái shuō shì zuì zhòngyào de shìqing zhī yī. Zhōngguó de yǐnshí wénhuà yǒu jǐ qiān nián de lìshǐ, měi ge dìfang dōu yǒu zìjǐ de tèsè cài.",
+        "english": "There is an old Chinese saying: 'Food is the people's heaven,' meaning eating is one of the most important things for Chinese people. Chinese food culture has a history of thousands of years, and every region has its own signature dishes."
+      },
+      {
+        "chinese": "中国菜通常分为八大菜系。比如四川菜以辣出名，广东菜比较清淡，山东菜的特点是用海鲜做菜。不管你喜欢什么口味，在中国都能找到适合你的美食。",
+        "pinyin": "Zhōngguó cài tōngcháng fēn wéi bā dà càixì. Bǐrú Sìchuān cài yǐ là chūmíng, Guǎngdōng cài bǐjiào qīngdàn, Shāndōng cài de tèdiǎn shì yòng hǎixiān zuò cài. Bùguǎn nǐ xǐhuan shénme kǒuwèi, zài Zhōngguó dōu néng zhǎo dào shìhé nǐ de měishí.",
+        "english": "Chinese cuisine is usually divided into eight major culinary traditions. For example, Sichuan cuisine is famous for being spicy, Cantonese cuisine is relatively light, and Shandong cuisine is characterized by using seafood. No matter what flavors you like, you can find food that suits you in China."
+      },
+      {
+        "chinese": "中国人吃饭不仅是为了填饱肚子，更是一种社交方式。朋友聚会、谈生意、过节日，都离不开一顿丰盛的饭菜。在中国，请人吃饭是表达友好和尊重的重要方式。",
+        "pinyin": "Zhōngguó rén chī fàn bùjǐn shì wèile tián bǎo dùzi, gèng shì yì zhǒng shèjiāo fāngshì. Péngyou jùhuì, tán shēngyì, guò jiérì, dōu lí bù kāi yí dùn fēngshèng de fàncài. Zài Zhōngguó, qǐng rén chī fàn shì biǎodá yǒuhǎo hé zūnzhòng de zhòngyào fāngshì.",
+        "english": "For Chinese people, eating is not just about filling the stomach, but also a way of socializing. Getting together with friends, discussing business, celebrating holidays — all are inseparable from a hearty meal. In China, treating someone to a meal is an important way of expressing friendliness and respect."
+      }
+    ],
+    "vocabHighlights": [
+      "饮食",
+      "历史",
+      "菜系",
+      "清淡",
+      "口味",
+      "美食",
+      "社交",
+      "聚会",
+      "丰盛",
+      "尊重"
+    ]
+  },
+  {
+    "id": "r4-006",
+    "hskLevel": 4,
+    "title": "Travel Plans",
+    "titleZh": "旅行计划",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我和朋友计划暑假一起去云南旅行。云南是中国最美的省份之一，那里有壮丽的山脉、清澈的湖泊和丰富的少数民族文化。",
+        "pinyin": "Wǒ hé péngyou jìhuà shǔjià yìqǐ qù Yúnnán lǚxíng. Yúnnán shì Zhōngguó zuì měi de shěngfèn zhī yī, nàlǐ yǒu zhuànglì de shānmài, qīngchè de húpō hé fēngfù de shǎoshù mínzú wénhuà.",
+        "english": "My friends and I plan to travel to Yunnan during summer vacation. Yunnan is one of the most beautiful provinces in China, with magnificent mountains, clear lakes, and rich ethnic minority cultures."
+      },
+      {
+        "chinese": "我们打算先飞到昆明，在那里住两天。然后坐火车去大理，游览洱海和古城。最后去丽江看玉龙雪山。整个旅行大概需要十天。",
+        "pinyin": "Wǒmen dǎsuàn xiān fēi dào Kūnmíng, zài nàlǐ zhù liǎng tiān. Ránhòu zuò huǒchē qù Dàlǐ, yóulǎn Ěrhǎi hé gǔchéng. Zuìhòu qù Lìjiāng kàn Yùlóng Xuěshān. Zhěng ge lǚxíng dàgài xūyào shí tiān.",
+        "english": "We plan to fly to Kunming first and stay there for two days. Then take a train to Dali to visit Erhai Lake and the ancient town. Finally go to Lijiang to see Jade Dragon Snow Mountain. The whole trip will take about ten days."
+      },
+      {
+        "chinese": "为了节省费用，我们决定住青年旅馆而不是酒店。我已经在网上预订了机票和住宿。朋友提醒我要带够防晒霜，因为云南的紫外线很强。我真的很期待这次旅行！",
+        "pinyin": "Wèile jiéshěng fèiyòng, wǒmen juédìng zhù qīngnián lǚguǎn ér búshì jiǔdiàn. Wǒ yǐjīng zài wǎng shàng yùdìng le jīpiào hé zhùsù. Péngyou tíxǐng wǒ yào dài gòu fángshài shuāng, yīnwèi Yúnnán de zǐwàixiàn hěn qiáng. Wǒ zhēn de hěn qīdài zhè cì lǚxíng!",
+        "english": "To save money, we decided to stay at youth hostels instead of hotels. I've already booked the flights and accommodation online. A friend reminded me to bring enough sunscreen because the UV rays in Yunnan are very strong. I'm really looking forward to this trip!"
+      }
+    ],
+    "vocabHighlights": [
+      "计划",
+      "省份",
+      "壮丽",
+      "游览",
+      "古城",
+      "节省",
+      "费用",
+      "预订",
+      "提醒",
+      "期待"
+    ]
+  },
+  {
+    "id": "r4-007",
+    "hskLevel": 4,
+    "title": "Work-Life Balance",
+    "titleZh": "工作与生活",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "在现代社会，很多人面临着工作和生活不平衡的问题。有些公司要求员工加班到很晚，周末也不能休息。长期这样下去，不仅影响健康，还会影响家庭关系。",
+        "pinyin": "Zài xiàndài shèhuì, hěn duō rén miànlín zhe gōngzuò hé shēnghuó bù pínghéng de wèntí. Yǒuxiē gōngsī yāoqiú yuángōng jiābān dào hěn wǎn, zhōumò yě bù néng xiūxi. Chángqī zhèyàng xià qù, bùjǐn yǐngxiǎng jiànkāng, hái huì yǐngxiǎng jiātíng guānxi.",
+        "english": "In modern society, many people face the problem of work-life imbalance. Some companies require employees to work overtime until very late, and they can't rest on weekends either. In the long run, this not only affects health but also family relationships."
+      },
+      {
+        "chinese": "小张是一家科技公司的程序员。以前他每天工作到晚上十点才回家。慢慢地，他发现自己越来越容易生病，和家人的关系也变差了。他意识到必须做出改变。",
+        "pinyin": "Xiǎo Zhāng shì yì jiā kējì gōngsī de chéngxùyuán. Yǐqián tā měi tiān gōngzuò dào wǎnshang shí diǎn cái huí jiā. Mànmàn de, tā fāxiàn zìjǐ yuè lái yuè róngyì shēng bìng, hé jiārén de guānxi yě biàn chà le. Tā yìshi dào bìxū zuòchū gǎibiàn.",
+        "english": "Xiao Zhang is a programmer at a tech company. He used to work until 10 PM every day before going home. Gradually, he found that he was getting sick more easily, and his relationship with his family was getting worse. He realized he had to make a change."
+      },
+      {
+        "chinese": "现在，小张学会了合理安排时间。工作时间内提高效率，尽量不加班。下班后他会去跑步或者和家人一起做饭。他发现当工作和生活达到平衡的时候，不但心情变好了，工作效率反而更高了。",
+        "pinyin": "Xiànzài, Xiǎo Zhāng xuéhuì le hélǐ ānpái shíjiān. Gōngzuò shíjiān nèi tígāo xiàolǜ, jǐnliàng bù jiābān. Xià bān hòu tā huì qù pǎobù huòzhě hé jiārén yìqǐ zuò fàn. Tā fāxiàn dāng gōngzuò hé shēnghuó dádào pínghéng de shíhou, búdàn xīnqíng biàn hǎo le, gōngzuò xiàolǜ fǎn'ér gèng gāo le.",
+        "english": "Now, Xiao Zhang has learned to manage his time wisely. He improves efficiency during work hours and tries not to work overtime. After work he goes running or cooks with his family. He found that when work and life reach a balance, not only does his mood improve, but his work efficiency actually becomes even higher."
+      }
+    ],
+    "vocabHighlights": [
+      "平衡",
+      "加班",
+      "长期",
+      "健康",
+      "程序员",
+      "意识",
+      "改变",
+      "效率",
+      "安排",
+      "尽量"
+    ]
+  },
+  {
+    "id": "r4-008",
+    "hskLevel": 4,
+    "title": "Chinese Medicine",
+    "titleZh": "中医",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "中医是中国传统医学，有几千年的历史。和西医不同，中医强调整体治疗。中医认为人体是一个整体，生病的原因往往不只在一个地方。",
+        "pinyin": "Zhōngyī shì Zhōngguó chuántǒng yīxué, yǒu jǐ qiān nián de lìshǐ. Hé xīyī bùtóng, zhōngyī qiángdiào zhěngtǐ zhìliáo. Zhōngyī rènwéi réntǐ shì yí ge zhěngtǐ, shēng bìng de yuányīn wǎngwǎng bùzhǐ zài yí ge dìfang.",
+        "english": "Traditional Chinese Medicine (TCM) is China's traditional medical system, with a history of thousands of years. Unlike Western medicine, TCM emphasizes holistic treatment. TCM believes the human body is a whole, and the cause of illness is often not in just one place."
+      },
+      {
+        "chinese": "中医有很多独特的治疗方法，比如针灸、推拿、拔罐和中药。中药通常是用多种植物、矿物配在一起，煮成汤药来喝。虽然味道不太好，但效果不错。",
+        "pinyin": "Zhōngyī yǒu hěn duō dútè de zhìliáo fāngfǎ, bǐrú zhēnjiǔ, tuīná, báguàn hé zhōngyào. Zhōngyào tōngcháng shì yòng duō zhǒng zhíwù, kuàngwù pèi zài yìqǐ, zhǔ chéng tāngyào lái hē. Suīrán wèidao bú tài hǎo, dàn xiàoguǒ búcuò.",
+        "english": "TCM has many unique treatment methods, such as acupuncture, massage, cupping, and herbal medicine. Herbal medicine usually combines various plants and minerals, boiled into a medicinal soup to drink. Although the taste isn't great, the effects are quite good."
+      },
+      {
+        "chinese": "现在，中医不仅在中国很受欢迎，在世界上也越来越多人开始了解和接受中医。很多外国人专门来中国学习中医。中医和西医各有优势，把两者结合起来，能更好地帮助病人恢复健康。",
+        "pinyin": "Xiànzài, zhōngyī bùjǐn zài Zhōngguó hěn shòu huānyíng, zài shìjiè shàng yě yuè lái yuè duō rén kāishǐ liǎojiě hé jiēshòu zhōngyī. Hěn duō wàiguó rén zhuānmén lái Zhōngguó xuéxí zhōngyī. Zhōngyī hé xīyī gè yǒu yōushì, bǎ liǎng zhě jiéhé qǐlái, néng gèng hǎo de bāngzhù bìngrén huīfù jiànkāng.",
+        "english": "Now, TCM is not only popular in China, but more and more people around the world are beginning to understand and accept it. Many foreigners come to China specifically to study TCM. TCM and Western medicine each have their advantages, and combining the two can better help patients recover their health."
+      }
+    ],
+    "vocabHighlights": [
+      "中医",
+      "强调",
+      "整体",
+      "治疗",
+      "针灸",
+      "独特",
+      "效果",
+      "接受",
+      "优势",
+      "恢复"
+    ]
+  },
+  {
+    "id": "r4-009",
+    "hskLevel": 4,
+    "title": "Technology in Daily Life",
+    "titleZh": "生活中的科技",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "科技正在深刻地改变我们的日常生活。十年前，人们出门还需要带现金和银行卡。而现在，只要有一部手机，几乎可以完成所有的支付。从买菜到坐出租车，手机支付无处不在。",
+        "pinyin": "Kējì zhèngzài shēnkè de gǎibiàn wǒmen de rìcháng shēnghuó. Shí nián qián, rénmen chūmén hái xūyào dài xiànjīn hé yínháng kǎ. Ér xiànzài, zhǐyào yǒu yí bù shǒujī, jīhū kěyǐ wánchéng suǒyǒu de zhīfù. Cóng mǎi cài dào zuò chūzū chē, shǒujī zhīfù wúchù bú zài.",
+        "english": "Technology is profoundly changing our daily lives. Ten years ago, people still needed to carry cash and bank cards when going out. But now, with just a phone, you can complete almost all payments. From buying groceries to taking a taxi, mobile payment is everywhere."
+      },
+      {
+        "chinese": "智能家居也越来越普遍了。你可以用手机控制家里的灯光、空调和电视。有些人家里还有扫地机器人，每天自动打扫卫生。这些科技产品让生活变得更加轻松舒适。",
+        "pinyin": "Zhìnéng jiājū yě yuè lái yuè pǔbiàn le. Nǐ kěyǐ yòng shǒujī kòngzhì jiā lǐ de dēngguāng, kōngtiáo hé diànshì. Yǒuxiē rén jiā lǐ hái yǒu sǎodì jīqìrén, měi tiān zìdòng dǎsǎo wèishēng. Zhèxiē kējì chǎnpǐn ràng shēnghuó biàn de gèngjiā qīngsōng shūshì.",
+        "english": "Smart home technology is also becoming more common. You can use your phone to control the lights, air conditioning, and TV at home. Some people even have robot vacuums that automatically clean every day. These tech products make life more relaxing and comfortable."
+      },
+      {
+        "chinese": "不过，我们在享受科技带来的便利的同时，也要注意保护个人隐私。很多应用程序会收集用户的数据。我们应该注意哪些信息可以分享，哪些应该保密。科技是为人服务的，我们应该做科技的主人，而不是被科技控制。",
+        "pinyin": "Búguò, wǒmen zài xiǎngshòu kējì dài lái de biànlì de tóngshí, yě yào zhùyì bǎohù gèrén yǐnsī. Hěn duō yìngyòng chéngxù huì shōují yònghù de shùjù. Wǒmen yīnggāi zhùyì nǎxiē xìnxī kěyǐ fēnxiǎng, nǎxiē yīnggāi bǎomì. Kējì shì wèi rén fúwù de, wǒmen yīnggāi zuò kējì de zhǔrén, ér búshì bèi kējì kòngzhì.",
+        "english": "However, while enjoying the convenience that technology brings, we should also pay attention to protecting personal privacy. Many apps collect user data. We should be mindful of which information can be shared and which should be kept private. Technology is meant to serve people — we should be the masters of technology, not be controlled by it."
+      }
+    ],
+    "vocabHighlights": [
+      "科技",
+      "深刻",
+      "支付",
+      "智能",
+      "普遍",
+      "自动",
+      "产品",
+      "隐私",
+      "数据",
+      "保密"
+    ]
+  },
+  {
+    "id": "r4-010",
+    "hskLevel": 4,
+    "title": "Friendship",
+    "titleZh": "友谊",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "真正的友谊是人生中最宝贵的财富之一。小时候，交朋友很简单，一起玩几次就成了好朋友。但是长大以后，维持一段友谊变得越来越不容易。",
+        "pinyin": "Zhēnzhèng de yǒuyì shì rénshēng zhōng zuì bǎoguì de cáifù zhī yī. Xiǎo shíhou, jiāo péngyou hěn jiǎndān, yìqǐ wán jǐ cì jiù chéng le hǎo péngyou. Dànshì zhǎng dà yǐhòu, wéichí yí duàn yǒuyì biàn de yuè lái yuè bù róngyì.",
+        "english": "True friendship is one of the most precious treasures in life. When we were young, making friends was simple — playing together a few times and you became good friends. But after growing up, maintaining a friendship becomes increasingly difficult."
+      },
+      {
+        "chinese": "我有一个最好的朋友叫小王，我们从小学就认识了。虽然大学毕业后我们去了不同的城市工作，但我们一直保持联系。每个月我们都会打视频电话，分享各自的生活。",
+        "pinyin": "Wǒ yǒu yí ge zuì hǎo de péngyou jiào Xiǎo Wáng, wǒmen cóng xiǎoxué jiù rènshi le. Suīrán dàxué bìyè hòu wǒmen qù le bùtóng de chéngshì gōngzuò, dàn wǒmen yìzhí bǎochí liánxì. Měi ge yuè wǒmen dōu huì dǎ shìpín diànhuà, fēnxiǎng gèzì de shēnghuó.",
+        "english": "I have a best friend named Xiao Wang. We've known each other since primary school. Although we went to different cities to work after college, we've always kept in touch. Every month we video call each other to share our lives."
+      },
+      {
+        "chinese": "我觉得好的友谊需要双方共同的努力。真正的朋友不一定每天都联系，但在你需要帮助的时候，他一定会出现。朋友之间最重要的是真诚和信任。有了这些，不管距离多远，友谊都不会改变。",
+        "pinyin": "Wǒ juéde hǎo de yǒuyì xūyào shuāngfāng gòngtóng de nǔlì. Zhēnzhèng de péngyou bú yídìng měi tiān dōu liánxì, dàn zài nǐ xūyào bāngzhù de shíhou, tā yídìng huì chūxiàn. Péngyou zhī jiān zuì zhòngyào de shì zhēnchéng hé xìnrèn. Yǒu le zhèxiē, bùguǎn jùlí duō yuǎn, yǒuyì dōu bú huì gǎibiàn.",
+        "english": "I think good friendship requires effort from both sides. True friends don't necessarily need to be in contact every day, but when you need help, they will definitely be there. The most important things between friends are sincerity and trust. With these, no matter how far apart, friendship won't change."
+      }
+    ],
+    "vocabHighlights": [
+      "友谊",
+      "宝贵",
+      "财富",
+      "维持",
+      "保持",
+      "联系",
+      "努力",
+      "真诚",
+      "信任",
+      "距离"
+    ]
+  },
+  {
+    "id": "r4-101",
+    "hskLevel": 4,
+    "title": "The Dream Job",
+    "titleZh": "梦想的工作",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "李娜从小就梦想成为一名记者。在大学里，她学的是新闻专业，成绩一直很优秀。毕业以后，她满怀信心地开始找工作。",
+        "pinyin": "Lǐ Nà cóng xiǎo jiù mèngxiǎng chéngwéi yì míng jìzhě. Zài dàxué lǐ, tā xué de shì xīnwén zhuānyè, chéngjì yìzhí hěn yōuxiù. Bìyè yǐhòu, tā mǎn huái xìnxīn de kāishǐ zhǎo gōngzuò.",
+        "english": "Li Na had dreamed of becoming a journalist since she was young. In college, she majored in journalism and always had excellent grades. After graduation, she started looking for a job full of confidence."
+      },
+      {
+        "chinese": "然而，现实并不像她想象的那么简单。她投了几十份简历，参加了很多次面试，但是都没有被录用。有些公司觉得她没有经验，有些公司已经招够了人。",
+        "pinyin": "Rán'ér, xiànshí bìng bú xiàng tā xiǎngxiàng de nàme jiǎndān. Tā tóu le jǐ shí fèn jiǎnlì, cānjiā le hěn duō cì miànshì, dànshì dōu méiyǒu bèi lùyòng. Yǒuxiē gōngsī juéde tā méiyǒu jīngyàn, yǒuxiē gōngsī yǐjīng zhāo gòu le rén.",
+        "english": "However, reality was not as simple as she had imagined. She sent dozens of resumes and attended many interviews, but was never hired. Some companies thought she lacked experience, and others had already filled their positions."
+      },
+      {
+        "chinese": "李娜开始怀疑自己的选择。她的父母劝她换一个更稳定的职业，比如当老师或者做公务员。但是李娜不想放弃自己的梦想。",
+        "pinyin": "Lǐ Nà kāishǐ huáiyí zìjǐ de xuǎnzé. Tā de fùmǔ quàn tā huàn yí ge gèng wěndìng de zhíyè, bǐrú dāng lǎoshī huòzhě zuò gōngwùyuán. Dànshì Lǐ Nà bù xiǎng fàngqì zìjǐ de mèngxiǎng.",
+        "english": "Li Na began to doubt her choice. Her parents advised her to switch to a more stable career, such as being a teacher or a civil servant. But Li Na didn't want to give up her dream."
+      },
+      {
+        "chinese": "她决定从实习做起。她在一家小报社找到了一个没有薪水的实习机会。虽然很辛苦，但她非常珍惜这个机会，每天都比别人更努力。",
+        "pinyin": "Tā juédìng cóng shíxí zuò qǐ. Tā zài yì jiā xiǎo bàoshè zhǎo dào le yí ge méiyǒu xīnshuǐ de shíxí jīhuì. Suīrán hěn xīnkǔ, dàn tā fēicháng zhēnxī zhè ge jīhuì, měi tiān dōu bǐ biéren gèng nǔlì.",
+        "english": "She decided to start from an internship. She found an unpaid internship opportunity at a small newspaper. Although it was very tough, she cherished this opportunity greatly and worked harder than everyone else every day."
+      },
+      {
+        "chinese": "三个月以后，报社的主编注意到了她的才华和态度。他给了她一个正式的职位，让她负责写文化方面的报道。李娜终于实现了自己的梦想。",
+        "pinyin": "Sān ge yuè yǐhòu, bàoshè de zhǔbiān zhùyì dào le tā de cáihuá hé tàidù. Tā gěi le tā yí ge zhèngshì de zhíwèi, ràng tā fùzé xiě wénhuà fāngmiàn de bàodào. Lǐ Nà zhōngyú shíxiàn le zìjǐ de mèngxiǎng.",
+        "english": "Three months later, the newspaper's editor-in-chief noticed her talent and attitude. He gave her a formal position, putting her in charge of writing cultural reports. Li Na had finally realized her dream."
+      },
+      {
+        "chinese": "现在，李娜已经是一名出色的记者了。她经常对年轻人说：「追求梦想的过程虽然艰难，但只要坚持，就一定会有收获。最怕的不是失败，而是从来没有去尝试。」",
+        "pinyin": "Xiànzài, Lǐ Nà yǐjīng shì yì míng chūsè de jìzhě le. Tā jīngcháng duì niánqīng rén shuō:「Zhuīqiú mèngxiǎng de guòchéng suīrán jiānnán, dàn zhǐyào jiānchí, jiù yídìng huì yǒu shōuhuò. Zuì pà de búshì shībài, ér shì cónglái méiyǒu qù chángshì.」",
+        "english": "Now, Li Na is an outstanding journalist. She often tells young people, 'The process of pursuing a dream may be difficult, but as long as you persist, there will definitely be rewards. The scariest thing is not failure, but never even trying.'"
+      }
+    ],
+    "vocabHighlights": [
+      "梦想",
+      "记者",
+      "简历",
+      "录用",
+      "怀疑",
+      "稳定",
+      "实习",
+      "珍惜",
+      "实现",
+      "坚持",
+      "尝试"
+    ]
+  },
+  {
+    "id": "r4-102",
+    "hskLevel": 4,
+    "title": "A Surprise Visit",
+    "titleZh": "意外的拜访",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "周六的下午，小美正在家里打扫卫生。突然，门铃响了。她打开门一看，竟然是她三年没见的大学同学小林。",
+        "pinyin": "Zhōuliù de xiàwǔ, Xiǎo Měi zhèngzài jiā lǐ dǎsǎo wèishēng. Tūrán, ménlíng xiǎng le. Tā dǎkāi mén yí kàn, jìngrán shì tā sān nián méi jiàn de dàxué tóngxué Xiǎo Lín.",
+        "english": "On Saturday afternoon, Xiao Mei was cleaning the house. Suddenly, the doorbell rang. She opened the door and was surprised to see Xiao Lin, her college classmate whom she hadn't seen for three years."
+      },
+      {
+        "chinese": "小美又惊又喜，连忙请小林进来坐。她问小林怎么突然来了，事先也没打个电话。小林笑着说她刚好出差到这个城市，想给小美一个惊喜。",
+        "pinyin": "Xiǎo Měi yòu jīng yòu xǐ, liánmáng qǐng Xiǎo Lín jìnlái zuò. Tā wèn Xiǎo Lín zěnme tūrán lái le, shìxiān yě méi dǎ ge diànhuà. Xiǎo Lín xiào zhe shuō tā gānghǎo chūchāi dào zhè ge chéngshì, xiǎng gěi Xiǎo Měi yí ge jīngxǐ.",
+        "english": "Xiao Mei was both surprised and delighted, and quickly invited Xiao Lin in to sit down. She asked why Xiao Lin came so suddenly, without even calling first. Xiao Lin smiled and said she happened to be on a business trip to this city and wanted to give Xiao Mei a surprise."
+      },
+      {
+        "chinese": "两个人坐下来聊天，仿佛回到了大学时代。她们聊了各自的工作和生活。小林现在在上海一家广告公司上班，工作虽然忙，但是她觉得很有成就感。",
+        "pinyin": "Liǎng ge rén zuò xiàlái liáotiān, fǎngfú huí dào le dàxué shídài. Tāmen liáo le gèzì de gōngzuò hé shēnghuó. Xiǎo Lín xiànzài zài Shànghǎi yì jiā guǎnggào gōngsī shàng bān, gōngzuò suīrán máng, dànshì tā juéde hěn yǒu chéngjiù gǎn.",
+        "english": "The two sat down to chat, as if they had returned to their college days. They talked about their respective work and lives. Xiao Lin now works at an advertising company in Shanghai. Although work is busy, she finds it very fulfilling."
+      },
+      {
+        "chinese": "小美说她已经结婚了，丈夫在一家银行工作。她最近刚升职成了部门经理。小林听了非常替她高兴。",
+        "pinyin": "Xiǎo Měi shuō tā yǐjīng jiéhūn le, zhàngfu zài yì jiā yínháng gōngzuò. Tā zuìjìn gāng shēng zhí chéng le bùmén jīnglǐ. Xiǎo Lín tīng le fēicháng tì tā gāoxìng.",
+        "english": "Xiao Mei said she was already married, and her husband works at a bank. She was recently promoted to department manager. Xiao Lin was very happy for her."
+      },
+      {
+        "chinese": "聊着聊着，天都黑了。小美坚持留小林吃晚饭。她亲自下厨，做了几道小林最爱吃的菜。两个人一边吃饭一边回忆大学里的趣事，笑个不停。",
+        "pinyin": "Liáo zhe liáo zhe, tiān dōu hēi le. Xiǎo Měi jiānchí liú Xiǎo Lín chī wǎnfàn. Tā qīnzì xiàchú, zuò le jǐ dào Xiǎo Lín zuì ài chī de cài. Liǎng ge rén yìbiān chī fàn yìbiān huíyì dàxué lǐ de qùshì, xiào ge bù tíng.",
+        "english": "As they chatted, it got dark. Xiao Mei insisted that Xiao Lin stay for dinner. She personally cooked several dishes that Xiao Lin loved most. The two reminisced about funny stories from college while eating, laughing non-stop."
+      },
+      {
+        "chinese": "离开的时候，小林拥抱了小美，说：「虽然我们不在同一个城市，但我一直把你当作最好的朋友。」小美感动得差点儿哭了。",
+        "pinyin": "Líkāi de shíhou, Xiǎo Lín yōngbào le Xiǎo Měi, shuō:「Suīrán wǒmen bú zài tóng yí ge chéngshì, dàn wǒ yìzhí bǎ nǐ dāng zuò zuì hǎo de péngyou.」Xiǎo Měi gǎndòng de chàdiǎnr kū le.",
+        "english": "When leaving, Xiao Lin hugged Xiao Mei and said, 'Although we're not in the same city, I've always considered you my best friend.' Xiao Mei was so touched she almost cried."
+      },
+      {
+        "chinese": "这次意外的拜访让小美明白，真正的友情不会因为时间和距离而改变。她决定以后要更主动地联系老朋友，不要让忙碌成为忽视友情的借口。",
+        "pinyin": "Zhè cì yìwài de bàifǎng ràng Xiǎo Měi míngbai, zhēnzhèng de yǒuqíng bú huì yīnwèi shíjiān hé jùlí ér gǎibiàn. Tā juédìng yǐhòu yào gèng zhǔdòng de liánxì lǎo péngyou, bú yào ràng mánglù chéngwéi hūshì yǒuqíng de jièkǒu.",
+        "english": "This unexpected visit made Xiao Mei realize that true friendship doesn't change because of time or distance. She decided to be more proactive about contacting old friends in the future and not let being busy become an excuse for neglecting friendships."
+      }
+    ],
+    "vocabHighlights": [
+      "拜访",
+      "惊喜",
+      "出差",
+      "广告",
+      "成就感",
+      "升职",
+      "回忆",
+      "拥抱",
+      "主动",
+      "借口",
+      "忽视"
+    ]
+  },
+  {
+    "id": "r4-103",
+    "hskLevel": 4,
+    "title": "Lost in Translation",
+    "titleZh": "翻译的故事",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "王明是一名英语翻译，在一家国际贸易公司工作。他的英语水平很高，同事们都很佩服他。有一天，公司来了一位重要的美国客户，老板让王明全程负责翻译。",
+        "pinyin": "Wáng Míng shì yì míng Yīngyǔ fānyì, zài yì jiā guójì màoyì gōngsī gōngzuò. Tā de Yīngyǔ shuǐpíng hěn gāo, tóngshìmen dōu hěn pèifú tā. Yǒu yì tiān, gōngsī lái le yí wèi zhòngyào de Měiguó kèhù, lǎobǎn ràng Wáng Míng quánchéng fùzé fānyì.",
+        "english": "Wang Ming is an English translator working at an international trading company. His English level is very high, and his colleagues all admire him. One day, an important American client came to the company, and the boss asked Wang Ming to handle all the translation."
+      },
+      {
+        "chinese": "会议进行得很顺利。王明准确地翻译了双方讨论的每一个细节。但是到了午餐的时候，问题出现了。",
+        "pinyin": "Huìyì jìnxíng de hěn shùnlì. Wáng Míng zhǔnquè de fānyì le shuāngfāng tǎolùn de měi yí ge xìjié. Dànshì dào le wǔcān de shíhou, wèntí chūxiàn le.",
+        "english": "The meeting went very smoothly. Wang Ming accurately translated every detail of both sides' discussion. But when it came to lunch, problems appeared."
+      },
+      {
+        "chinese": "老板请美国客户吃中餐。王明把菜名翻译成英文，但有些菜的名字很有文化含义，直接翻译会让人困惑。比如「蚂蚁上树」这道菜，如果直接翻译成英文，美国客户一定会以为是用蚂蚁做的。",
+        "pinyin": "Lǎobǎn qǐng Měiguó kèhù chī Zhōngcān. Wáng Míng bǎ cài míng fānyì chéng Yīngwén, dàn yǒuxiē cài de míngzi hěn yǒu wénhuà hányì, zhíjiē fānyì huì ràng rén kùnhuò. Bǐrú「mǎyǐ shàng shù」zhè dào cài, rúguǒ zhíjiē fānyì chéng Yīngwén, Měiguó kèhù yídìng huì yǐwéi shì yòng mǎyǐ zuò de.",
+        "english": "The boss treated the American client to Chinese food. Wang Ming translated the dish names into English, but some dish names carry cultural meanings and direct translation would be confusing. For example, the dish 'ants climbing a tree' — if translated directly into English, the American client would surely think it was made with ants."
+      },
+      {
+        "chinese": "王明灵机一动，不再逐字翻译菜名，而是向客户描述每道菜的食材和味道。美国客户听得津津有味，对每道菜都很感兴趣。",
+        "pinyin": "Wáng Míng língjī yí dòng, bú zài zhúzì fānyì cài míng, ér shì xiàng kèhù miáoshù měi dào cài de shícái hé wèidao. Měiguó kèhù tīng de jīnjīn yǒu wèi, duì měi dào cài dōu hěn gǎn xìngqù.",
+        "english": "Wang Ming had a flash of inspiration. Instead of translating the dish names word by word, he described the ingredients and flavors of each dish to the client. The American client listened with great interest and was curious about every dish."
+      },
+      {
+        "chinese": "吃完饭以后，美国客户对王明说：「你不但英语说得好，而且对中国文化了解得很深。通过你的翻译，我不仅了解了这些菜，还学到了很多中国文化知识。」",
+        "pinyin": "Chī wán fàn yǐhòu, Měiguó kèhù duì Wáng Míng shuō:「Nǐ búdàn Yīngyǔ shuō de hǎo, érqiě duì Zhōngguó wénhuà liǎojiě de hěn shēn. Tōngguò nǐ de fānyì, wǒ bùjǐn liǎojiě le zhèxiē cài, hái xué dào le hěn duō Zhōngguó wénhuà zhīshi.」",
+        "english": "After the meal, the American client said to Wang Ming, 'Not only is your English excellent, but you also have a deep understanding of Chinese culture. Through your translation, I not only learned about these dishes but also gained a lot of knowledge about Chinese culture.'"
+      },
+      {
+        "chinese": "老板也很满意，对王明说：「翻译不只是把一种语言变成另一种语言，更重要的是传达文化的内涵。你做得非常好。」",
+        "pinyin": "Lǎobǎn yě hěn mǎnyì, duì Wáng Míng shuō:「Fānyì bùzhǐ shì bǎ yì zhǒng yǔyán biàn chéng lìng yì zhǒng yǔyán, gèng zhòngyào de shì chuándá wénhuà de nèihán. Nǐ zuò de fēicháng hǎo.」",
+        "english": "The boss was also very satisfied and said to Wang Ming, 'Translation is not just about converting one language into another. More importantly, it's about conveying the deeper meaning of culture. You did an excellent job.'"
+      },
+      {
+        "chinese": "这件事让王明更加深刻地认识到，学习一门语言不仅仅是学习词汇和语法，更重要的是理解语言背后的文化。从那以后，他在翻译工作中更加注重文化的传递。",
+        "pinyin": "Zhè jiàn shì ràng Wáng Míng gèngjiā shēnkè de rènshi dào, xuéxí yì mén yǔyán bùjǐnjǐn shì xuéxí cíhuì hé yǔfǎ, gèng zhòngyào de shì lǐjiě yǔyán bèihòu de wénhuà. Cóng nà yǐhòu, tā zài fānyì gōngzuò zhōng gèngjiā zhùzhòng wénhuà de chuándì.",
+        "english": "This experience made Wang Ming realize more deeply that learning a language is not just about learning vocabulary and grammar — more importantly, it's about understanding the culture behind the language. From then on, he paid even more attention to cultural transmission in his translation work."
+      }
+    ],
+    "vocabHighlights": [
+      "翻译",
+      "贸易",
+      "佩服",
+      "准确",
+      "含义",
+      "困惑",
+      "描述",
+      "食材",
+      "传达",
+      "内涵",
+      "理解"
+    ]
+  },
+  {
+    "id": "r4-104",
+    "hskLevel": 4,
+    "title": "The Gift",
+    "titleZh": "礼物",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "妈妈的生日快到了，小华想送给她一件特别的礼物。他想了很久，觉得买什么都不如自己亲手做一件更有意义。",
+        "pinyin": "Māma de shēngrì kuài dào le, Xiǎo Huá xiǎng sòng gěi tā yí jiàn tèbié de lǐwù. Tā xiǎng le hěn jiǔ, juéde mǎi shénme dōu bùrú zìjǐ qīnshǒu zuò yí jiàn gèng yǒu yìyì.",
+        "english": "Mom's birthday was coming soon, and Xiao Hua wanted to give her a special gift. He thought about it for a long time and decided that nothing he could buy would be as meaningful as something he made himself."
+      },
+      {
+        "chinese": "小华记得妈妈以前说过，她最大的遗憾是没有一张全家人在一起的照片。因为爸爸去世得早，家里只有妈妈年轻时候和爸爸的合照。",
+        "pinyin": "Xiǎo Huá jìde māma yǐqián shuō guò, tā zuì dà de yíhàn shì méiyǒu yì zhāng quán jiā rén zài yìqǐ de zhàopiàn. Yīnwèi bàba qùshì de zǎo, jiā lǐ zhǐyǒu māma niánqīng shíhou hé bàba de hézhào.",
+        "english": "Xiao Hua remembered that his mother had once said her biggest regret was not having a photo of the whole family together. Because his father passed away early, the family only had photos of his parents together when they were young."
+      },
+      {
+        "chinese": "小华决定画一幅全家福。虽然他不是专业画家，但他从小就喜欢画画。他找出了所有能找到的家人照片，开始认真地画起来。",
+        "pinyin": "Xiǎo Huá juédìng huà yì fú quánjiāfú. Suīrán tā búshì zhuānyè huàjiā, dàn tā cóng xiǎo jiù xǐhuan huà huà. Tā zhǎo chū le suǒyǒu néng zhǎo dào de jiārén zhàopiàn, kāishǐ rènzhēn de huà qǐlái.",
+        "english": "Xiao Hua decided to paint a family portrait. Although he wasn't a professional painter, he had loved drawing since he was young. He found all the family photos he could and began to paint earnestly."
+      },
+      {
+        "chinese": "他花了整整两个星期的时间。每天下班回来，吃完饭就开始画。他仔细地画出了每个人的样子：微笑的爸爸、温柔的妈妈、调皮的妹妹和小时候的自己。",
+        "pinyin": "Tā huā le zhěngzhěng liǎng ge xīngqī de shíjiān. Měi tiān xià bān huílái, chī wán fàn jiù kāishǐ huà. Tā zǐxì de huà chū le měi ge rén de yàngzi: wēixiào de bàba, wēnróu de māma, tiáopí de mèimei hé xiǎo shíhou de zìjǐ.",
+        "english": "He spent a full two weeks. Every day after work and dinner, he would start painting. He carefully painted everyone's likeness: his smiling father, his gentle mother, his mischievous younger sister, and himself as a child."
+      },
+      {
+        "chinese": "画完以后，他还特意买了一个漂亮的相框，把画装了进去。然后他又写了一封信，感谢妈妈这些年来的辛苦和付出。",
+        "pinyin": "Huà wán yǐhòu, tā hái tèyì mǎi le yí ge piàoliang de xiàngkuāng, bǎ huà zhuāng le jìnqù. Ránhòu tā yòu xiě le yì fēng xìn, gǎnxiè māma zhèxiē nián lái de xīnkǔ hé fùchū.",
+        "english": "After finishing the painting, he specially bought a beautiful picture frame and put the painting in it. Then he also wrote a letter, thanking his mother for all her hard work and sacrifice over the years."
+      },
+      {
+        "chinese": "生日那天，妈妈打开礼物的一瞬间，眼泪就流了下来。她看着画里全家人在一起的样子，又哭又笑。她说这是她收到过的最珍贵的礼物。",
+        "pinyin": "Shēngrì nà tiān, māma dǎkāi lǐwù de yí shùnjiān, yǎnlèi jiù liú le xiàlái. Tā kàn zhe huà lǐ quán jiā rén zài yìqǐ de yàngzi, yòu kū yòu xiào. Tā shuō zhè shì tā shōu dào guò de zuì zhēnguì de lǐwù.",
+        "english": "On her birthday, the moment her mother opened the gift, tears streamed down her face. Looking at the painting of the whole family together, she cried and laughed at the same time. She said it was the most precious gift she had ever received."
+      },
+      {
+        "chinese": "妹妹看了也很感动。她说：「哥哥，虽然爸爸不在了，但是我们的爱把全家人连在了一起。」妈妈把画挂在了客厅最显眼的地方，每天都能看到。",
+        "pinyin": "Mèimei kàn le yě hěn gǎndòng. Tā shuō:「Gēge, suīrán bàba bú zài le, dànshì wǒmen de ài bǎ quán jiā rén lián zài le yìqǐ.」Māma bǎ huà guà zài le kètīng zuì xiǎnyǎn de dìfang, měi tiān dōu néng kàn dào.",
+        "english": "Her sister was also very moved. She said, 'Brother, although dad is no longer here, our love keeps the whole family connected.' Their mother hung the painting in the most prominent place in the living room, where she could see it every day."
+      },
+      {
+        "chinese": "小华明白了，最好的礼物不一定是最贵的。用心准备的礼物，才能真正打动人心。那幅画不只是一件礼物，它承载着一家人的爱和回忆。",
+        "pinyin": "Xiǎo Huá míngbai le, zuì hǎo de lǐwù bú yídìng shì zuì guì de. Yòng xīn zhǔnbèi de lǐwù, cái néng zhēnzhèng dǎdòng rénxīn. Nà fú huà bùzhǐ shì yí jiàn lǐwù, tā chéngzài zhe yì jiā rén de ài hé huíyì.",
+        "english": "Xiao Hua understood that the best gift is not necessarily the most expensive one. Only a gift prepared with heart can truly move people. That painting was more than just a gift — it carried a family's love and memories."
+      }
+    ],
+    "vocabHighlights": [
+      "礼物",
+      "意义",
+      "遗憾",
+      "全家福",
+      "仔细",
+      "温柔",
+      "相框",
+      "付出",
+      "珍贵",
+      "打动",
+      "承载"
+    ]
+  }
+]

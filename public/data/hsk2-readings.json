@@ -1,0 +1,494 @@
+[
+  {
+    "id": "r2-001",
+    "hskLevel": 2,
+    "title": "At the Hotel",
+    "titleZh": "在宾馆",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我到了宾馆。我想住一个房间。服务员问我想住几天。",
+        "pinyin": "Wǒ dào le bīnguǎn. Wǒ xiǎng zhù yí ge fángjiān. Fúwùyuán wèn wǒ xiǎng zhù jǐ tiān.",
+        "english": "I arrived at the hotel. I want to stay in a room. The attendant asked me how many days I want to stay."
+      },
+      {
+        "chinese": "我说住两天。房间很干净，也很大。我很满意。",
+        "pinyin": "Wǒ shuō zhù liǎng tiān. Fángjiān hěn gānjìng, yě hěn dà. Wǒ hěn mǎnyì.",
+        "english": "I said two days. The room is very clean and also very big. I'm very satisfied."
+      }
+    ],
+    "vocabHighlights": [
+      "到",
+      "宾馆",
+      "房间",
+      "服务员",
+      "问",
+      "两",
+      "干净",
+      "大"
+    ]
+  },
+  {
+    "id": "r2-002",
+    "hskLevel": 2,
+    "title": "Taking the Bus",
+    "titleZh": "坐公共汽车",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我每天坐公共汽车去上班。公共汽车站离我家很近。",
+        "pinyin": "Wǒ měi tiān zuò gōnggòng qìchē qù shàng bān. Gōnggòng qìchē zhàn lí wǒ jiā hěn jìn.",
+        "english": "I take the bus to work every day. The bus stop is very close to my home."
+      },
+      {
+        "chinese": "今天公共汽车上人很多。我没有座位，只能站着。但是路不远，很快就到了。",
+        "pinyin": "Jīntiān gōnggòng qìchē shang rén hěn duō. Wǒ méiyǒu zuòwèi, zhǐ néng zhàn zhe. Dànshì lù bù yuǎn, hěn kuài jiù dào le.",
+        "english": "Today there are many people on the bus. I don't have a seat and can only stand. But the road isn't far, and we arrived quickly."
+      }
+    ],
+    "vocabHighlights": [
+      "每",
+      "坐",
+      "公共汽车",
+      "上班",
+      "离",
+      "近",
+      "人",
+      "多",
+      "远",
+      "快"
+    ]
+  },
+  {
+    "id": "r2-003",
+    "hskLevel": 2,
+    "title": "Learning to Cook",
+    "titleZh": "学做饭",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我想学做饭。妈妈说她可以教我。",
+        "pinyin": "Wǒ xiǎng xué zuò fàn. Māma shuō tā kěyǐ jiāo wǒ.",
+        "english": "I want to learn to cook. Mom says she can teach me."
+      },
+      {
+        "chinese": "今天我们做了一个西红柿炒鸡蛋。很简单，但是非常好吃。我觉得做饭很有意思。",
+        "pinyin": "Jīntiān wǒmen zuò le yí ge xīhóngshì chǎo jīdàn. Hěn jiǎndān, dànshì fēicháng hǎochī. Wǒ juéde zuò fàn hěn yǒu yìsi.",
+        "english": "Today we made scrambled eggs with tomatoes. Very simple, but extremely delicious. I think cooking is very interesting."
+      }
+    ],
+    "vocabHighlights": [
+      "学",
+      "做饭",
+      "教",
+      "鸡蛋",
+      "简单",
+      "非常",
+      "好吃",
+      "觉得",
+      "有意思"
+    ]
+  },
+  {
+    "id": "r2-004",
+    "hskLevel": 2,
+    "title": "Weekend Plans",
+    "titleZh": "周末计划",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "这个周末我不用上班。我打算和朋友一起去公园玩。",
+        "pinyin": "Zhè ge zhōumò wǒ bú yòng shàng bān. Wǒ dǎsuàn hé péngyǒu yìqǐ qù gōngyuán wán.",
+        "english": "I don't have to work this weekend. I plan to go to the park with friends."
+      },
+      {
+        "chinese": "如果天气好，我们去跑步。如果下雨，我们就去看电影。",
+        "pinyin": "Rúguǒ tiānqì hǎo, wǒmen qù pǎobù. Rúguǒ xià yǔ, wǒmen jiù qù kàn diànyǐng.",
+        "english": "If the weather is good, we'll go running. If it rains, we'll go see a movie."
+      }
+    ],
+    "vocabHighlights": [
+      "周末",
+      "上班",
+      "打算",
+      "公园",
+      "玩",
+      "跑步",
+      "如果",
+      "下雨",
+      "电影"
+    ]
+  },
+  {
+    "id": "r2-005",
+    "hskLevel": 2,
+    "title": "Going to the Doctor",
+    "titleZh": "去看病",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我今天不太舒服。我的头疼，嗓子也疼。",
+        "pinyin": "Wǒ jīntiān bú tài shūfu. Wǒ de tóu téng, sǎngzi yě téng.",
+        "english": "I don't feel well today. My head hurts, and my throat hurts too."
+      },
+      {
+        "chinese": "妈妈带我去看医生。医生说我感冒了，要多喝水，多休息。他给我开了一些药。",
+        "pinyin": "Māma dài wǒ qù kàn yīshēng. Yīshēng shuō wǒ gǎnmào le, yào duō hē shuǐ, duō xiūxi. Tā gěi wǒ kāi le yìxiē yào.",
+        "english": "Mom took me to see the doctor. The doctor said I have a cold, and I should drink more water and rest more. He prescribed some medicine for me."
+      }
+    ],
+    "vocabHighlights": [
+      "舒服",
+      "头",
+      "疼",
+      "医生",
+      "感冒",
+      "水",
+      "休息",
+      "药"
+    ]
+  },
+  {
+    "id": "r2-006",
+    "hskLevel": 2,
+    "title": "Exercise",
+    "titleZh": "运动",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我每天早上跑步。跑步对身体很好。",
+        "pinyin": "Wǒ měi tiān zǎoshang pǎobù. Pǎobù duì shēntǐ hěn hǎo.",
+        "english": "I run every morning. Running is very good for the body."
+      },
+      {
+        "chinese": "我的哥哥喜欢打篮球。他打得很好。我们周末经常一起运动。",
+        "pinyin": "Wǒ de gēge xǐhuān dǎ lánqiú. Tā dǎ de hěn hǎo. Wǒmen zhōumò jīngcháng yìqǐ yùndòng.",
+        "english": "My older brother likes playing basketball. He plays very well. We often exercise together on weekends."
+      }
+    ],
+    "vocabHighlights": [
+      "每天",
+      "早上",
+      "跑步",
+      "身体",
+      "哥哥",
+      "篮球",
+      "得",
+      "经常",
+      "运动"
+    ]
+  },
+  {
+    "id": "r2-007",
+    "hskLevel": 2,
+    "title": "My Room",
+    "titleZh": "我的房间",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我的房间不太大，但是很干净。房间里有一张床、一张桌子和一把椅子。",
+        "pinyin": "Wǒ de fángjiān bú tài dà, dànshì hěn gānjìng. Fángjiān lǐ yǒu yì zhāng chuáng, yì zhāng zhuōzi hé yì bǎ yǐzi.",
+        "english": "My room is not very big, but it's very clean. In the room there is a bed, a desk, and a chair."
+      },
+      {
+        "chinese": "桌子上面有很多书。我喜欢在房间里看书和听音乐。",
+        "pinyin": "Zhuōzi shàngmiàn yǒu hěn duō shū. Wǒ xǐhuān zài fángjiān lǐ kàn shū hé tīng yīnyuè.",
+        "english": "There are many books on the desk. I like reading and listening to music in my room."
+      }
+    ],
+    "vocabHighlights": [
+      "房间",
+      "干净",
+      "床",
+      "桌子",
+      "椅子",
+      "上面",
+      "看书",
+      "听",
+      "音乐"
+    ]
+  },
+  {
+    "id": "r2-008",
+    "hskLevel": 2,
+    "title": "Asking for Directions",
+    "titleZh": "问路",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "请问，去火车站怎么走？你从这里一直往前走，到路口往左拐。",
+        "pinyin": "Qǐngwèn, qù huǒchē zhàn zěnme zǒu? Nǐ cóng zhèlǐ yìzhí wǎng qián zǒu, dào lùkǒu wǎng zuǒ guǎi.",
+        "english": "Excuse me, how do I get to the train station? Go straight from here, and turn left at the intersection."
+      },
+      {
+        "chinese": "火车站就在银行旁边。走路大概十分钟。",
+        "pinyin": "Huǒchē zhàn jiù zài yínháng pángbiān. Zǒulù dàgài shí fēnzhōng.",
+        "english": "The train station is right next to the bank. It's about ten minutes on foot."
+      }
+    ],
+    "vocabHighlights": [
+      "请问",
+      "火车站",
+      "怎么",
+      "走",
+      "往",
+      "前",
+      "左",
+      "旁边",
+      "分钟"
+    ]
+  },
+  {
+    "id": "r2-009",
+    "hskLevel": 2,
+    "title": "Shopping for Clothes",
+    "titleZh": "买衣服",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我想买一件新衣服。这件红色的裙子很漂亮。",
+        "pinyin": "Wǒ xiǎng mǎi yí jiàn xīn yīfu. Zhè jiàn hóngsè de qúnzi hěn piàoliang.",
+        "english": "I want to buy a new piece of clothing. This red dress is very pretty."
+      },
+      {
+        "chinese": "多少钱？两百块。太贵了！那件怎么样？那件一百块。好的，我要那件。",
+        "pinyin": "Duōshao qián? Liǎng bǎi kuài. Tài guì le! Nà jiàn zěnmeyàng? Nà jiàn yì bǎi kuài. Hǎo de, wǒ yào nà jiàn.",
+        "english": "How much? 200 yuan. Too expensive! How about that one? That one is 100 yuan. Okay, I'll take that one."
+      }
+    ],
+    "vocabHighlights": [
+      "件",
+      "新",
+      "衣服",
+      "红色",
+      "漂亮",
+      "钱",
+      "贵",
+      "怎么样",
+      "百"
+    ]
+  },
+  {
+    "id": "r2-010",
+    "hskLevel": 2,
+    "title": "Sending an Email",
+    "titleZh": "发电子邮件",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我要给老师发一封电子邮件。我告诉老师，我明天不能去上课，因为我生病了。",
+        "pinyin": "Wǒ yào gěi lǎoshī fā yì fēng diànzǐ yóujiàn. Wǒ gàosu lǎoshī, wǒ míngtiān bù néng qù shàng kè, yīnwèi wǒ shēng bìng le.",
+        "english": "I need to send the teacher an email. I tell the teacher that I can't go to class tomorrow because I'm sick."
+      },
+      {
+        "chinese": "老师回信说：「没关系，你好好休息。下个星期我把这个星期的作业给你。」",
+        "pinyin": "Lǎoshī huí xìn shuō: \"Méi guānxi, nǐ hǎohǎo xiūxi. Xià ge xīngqī wǒ bǎ zhè ge xīngqī de zuòyè gěi nǐ.\"",
+        "english": "The teacher replied: \"No problem, rest well. Next week I'll give you this week's homework.\""
+      }
+    ],
+    "vocabHighlights": [
+      "给",
+      "发",
+      "电子邮件",
+      "告诉",
+      "不能",
+      "因为",
+      "生病",
+      "没关系",
+      "休息",
+      "作业"
+    ]
+  },
+  {
+    "id": "r2-101",
+    "hskLevel": 2,
+    "title": "The Birthday Gift",
+    "titleZh": "生日礼物",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "下个星期是妈妈的生日。小明想给妈妈买一个礼物。但是他不知道买什么好。",
+        "pinyin": "Xià ge xīngqī shì māma de shēngrì. Xiǎomíng xiǎng gěi māma mǎi yí ge lǐwù. Dànshì tā bù zhīdào mǎi shénme hǎo.",
+        "english": "Next week is Mom's birthday. Xiaoming wants to buy Mom a gift. But he doesn't know what to buy."
+      },
+      {
+        "chinese": "他先去了书店。妈妈喜欢看书，可是她的书已经很多了。",
+        "pinyin": "Tā xiān qù le shūdiàn. Māma xǐhuān kàn shū, kěshì tā de shū yǐjīng hěn duō le.",
+        "english": "He first went to the bookstore. Mom likes reading, but she already has a lot of books."
+      },
+      {
+        "chinese": "然后他去了花店。他买了一束漂亮的花。但是他觉得还不够。",
+        "pinyin": "Ránhòu tā qù le huā diàn. Tā mǎi le yí shù piàoliang de huā. Dànshì tā juéde hái bú gòu.",
+        "english": "Then he went to the flower shop. He bought a beautiful bouquet of flowers. But he felt it wasn't enough."
+      },
+      {
+        "chinese": "最后他想到了一个好主意。他回家给妈妈做了一顿晚饭。他做了妈妈最喜欢吃的菜。",
+        "pinyin": "Zuìhòu tā xiǎng dào le yí ge hǎo zhǔyì. Tā huí jiā gěi māma zuò le yí dùn wǎnfàn. Tā zuò le māma zuì xǐhuān chī de cài.",
+        "english": "Finally he thought of a good idea. He went home and made dinner for Mom. He made Mom's favorite dish."
+      },
+      {
+        "chinese": "妈妈回来了。她看到桌子上的花和饭菜，非常高兴。她说：「这是我收到的最好的礼物！」",
+        "pinyin": "Māma huílái le. Tā kàn dào zhuōzi shang de huā hé fàncài, fēicháng gāoxìng. Tā shuō: \"Zhè shì wǒ shōu dào de zuì hǎo de lǐwù!\"",
+        "english": "Mom came home. She saw the flowers and food on the table, and was very happy. She said: \"This is the best gift I've ever received!\""
+      }
+    ],
+    "vocabHighlights": [
+      "生日",
+      "礼物",
+      "知道",
+      "先",
+      "书店",
+      "已经",
+      "花",
+      "觉得",
+      "最后",
+      "主意",
+      "晚饭",
+      "最",
+      "高兴"
+    ]
+  },
+  {
+    "id": "r2-102",
+    "hskLevel": 2,
+    "title": "The New Classmate",
+    "titleZh": "新同学",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "今天我们班来了一个新同学。他叫大卫，是美国人。他来中国学中文。",
+        "pinyin": "Jīntiān wǒmen bān lái le yí ge xīn tóngxué. Tā jiào Dàwèi, shì Měiguó rén. Tā lái Zhōngguó xué Zhōngwén.",
+        "english": "Today a new classmate came to our class. His name is David, and he's American. He came to China to study Chinese."
+      },
+      {
+        "chinese": "大卫的中文说得还不太好。有时候我们听不懂他说的话。但是他学得很努力。",
+        "pinyin": "Dàwèi de Zhōngwén shuō de hái bú tài hǎo. Yǒu shíhou wǒmen tīng bù dǒng tā shuō de huà. Dànshì tā xué de hěn nǔlì.",
+        "english": "David's Chinese is not very good yet. Sometimes we can't understand what he says. But he studies very hard."
+      },
+      {
+        "chinese": "下课以后，我帮他复习生词。我教他怎么写汉字。他很高兴。",
+        "pinyin": "Xià kè yǐhòu, wǒ bāng tā fùxí shēngcí. Wǒ jiāo tā zěnme xiě Hànzì. Tā hěn gāoxìng.",
+        "english": "After class, I help him review new words. I teach him how to write Chinese characters. He's very happy."
+      },
+      {
+        "chinese": "他也教我说英语。我们成了好朋友。我觉得帮助别人很快乐。",
+        "pinyin": "Tā yě jiāo wǒ shuō Yīngyǔ. Wǒmen chéng le hǎo péngyǒu. Wǒ juéde bāngzhù biéren hěn kuàilè.",
+        "english": "He also teaches me English. We became good friends. I think helping others is very joyful."
+      }
+    ],
+    "vocabHighlights": [
+      "同学",
+      "美国",
+      "中文",
+      "说",
+      "懂",
+      "努力",
+      "帮",
+      "复习",
+      "写",
+      "汉字",
+      "英语",
+      "帮助",
+      "快乐"
+    ]
+  },
+  {
+    "id": "r2-103",
+    "hskLevel": 2,
+    "title": "A Trip to the Park",
+    "titleZh": "公园之旅",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "星期天天气很好，我和姐姐去公园玩。公园里的人很多。",
+        "pinyin": "Xīngqītiān tiānqì hěn hǎo, wǒ hé jiějie qù gōngyuán wán. Gōngyuán lǐ de rén hěn duō.",
+        "english": "The weather is nice on Sunday, and my older sister and I go to the park. There are a lot of people in the park."
+      },
+      {
+        "chinese": "有的人在跑步，有的人在打太极拳，还有的人在唱歌。",
+        "pinyin": "Yǒu de rén zài pǎobù, yǒu de rén zài dǎ tàijí quán, hái yǒu de rén zài chàng gē.",
+        "english": "Some people are running, some are doing tai chi, and others are singing."
+      },
+      {
+        "chinese": "我们走了很长时间。姐姐说她饿了。我们找了一家小饭馆吃午饭。",
+        "pinyin": "Wǒmen zǒu le hěn cháng shíjiān. Jiějie shuō tā è le. Wǒmen zhǎo le yì jiā xiǎo fànguǎn chī wǔfàn.",
+        "english": "We walked for a long time. My sister said she was hungry. We found a small restaurant and had lunch."
+      },
+      {
+        "chinese": "吃完饭以后，我们去湖边坐了一会儿。湖水很清，旁边有很多花。",
+        "pinyin": "Chī wán fàn yǐhòu, wǒmen qù hú biān zuò le yíhuìr. Hú shuǐ hěn qīng, pángbiān yǒu hěn duō huā.",
+        "english": "After eating, we sat by the lake for a while. The lake water is clear, and there are many flowers beside it."
+      },
+      {
+        "chinese": "今天玩得很开心。下次我还想来这个公园。",
+        "pinyin": "Jīntiān wán de hěn kāixīn. Xià cì wǒ hái xiǎng lái zhè ge gōngyuán.",
+        "english": "We had a great time today. I want to come to this park again next time."
+      }
+    ],
+    "vocabHighlights": [
+      "姐姐",
+      "公园",
+      "跑步",
+      "唱歌",
+      "长",
+      "时间",
+      "饿",
+      "饭馆",
+      "完",
+      "湖",
+      "旁边",
+      "花",
+      "开心",
+      "下次"
+    ]
+  },
+  {
+    "id": "r2-104",
+    "hskLevel": 2,
+    "title": "Rainy Day at Home",
+    "titleZh": "下雨天在家",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "今天外面下大雨了。我不能出去玩。我只能在家里。",
+        "pinyin": "Jīntiān wàimiàn xià dà yǔ le. Wǒ bù néng chūqù wán. Wǒ zhǐ néng zài jiā lǐ.",
+        "english": "It's raining heavily outside today. I can't go out to play. I can only stay at home."
+      },
+      {
+        "chinese": "早上我看了两个小时的书。然后我觉得有点儿无聊。",
+        "pinyin": "Zǎoshang wǒ kàn le liǎng ge xiǎoshí de shū. Ránhòu wǒ juéde yǒudiǎnr wúliáo.",
+        "english": "In the morning I read for two hours. Then I felt a bit bored."
+      },
+      {
+        "chinese": "我打电话给我的好朋友小王。小王说他也在家。我请他来我家玩。",
+        "pinyin": "Wǒ dǎ diànhuà gěi wǒ de hǎo péngyǒu Xiǎo Wáng. Xiǎo Wáng shuō tā yě zài jiā. Wǒ qǐng tā lái wǒ jiā wán.",
+        "english": "I called my good friend Xiao Wang. Xiao Wang said he was also at home. I invited him to come to my home."
+      },
+      {
+        "chinese": "小王来了以后，我们一起下棋，一起看电影。妈妈给我们做了好吃的点心。",
+        "pinyin": "Xiǎo Wáng lái le yǐhòu, wǒmen yìqǐ xià qí, yìqǐ kàn diànyǐng. Māma gěi wǒmen zuò le hǎochī de diǎnxīn.",
+        "english": "After Xiao Wang came, we played chess and watched a movie together. Mom made us delicious snacks."
+      },
+      {
+        "chinese": "虽然外面一直下雨，但是我们在家玩得很开心。",
+        "pinyin": "Suīrán wàimiàn yìzhí xià yǔ, dànshì wǒmen zài jiā wán de hěn kāixīn.",
+        "english": "Although it kept raining outside, we had a great time at home."
+      }
+    ],
+    "vocabHighlights": [
+      "外面",
+      "下雨",
+      "出去",
+      "小时",
+      "无聊",
+      "打电话",
+      "请",
+      "下棋",
+      "电影",
+      "点心",
+      "虽然",
+      "一直",
+      "开心"
+    ]
+  }
+]

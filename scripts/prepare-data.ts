@@ -13,6 +13,7 @@
 
 import { writeFileSync, mkdirSync, existsSync } from "fs";
 import { join } from "path";
+import { thematicUnits } from "./thematic-units";
 
 const OUTPUT_DIR = join(__dirname, "..", "public", "data");
 
@@ -39,6 +40,9 @@ interface OutputWord {
   meaning: string;
   hskLevel: number;
   partOfSpeech?: string;
+  frequency?: number;
+  unitIndex: number;
+  unitName: string;
 }
 
 interface OutputGrammar {
@@ -91,34 +95,67 @@ async function prepareVocabulary(): Promise<void> {
     const raw = (await fetchJson(url)) as RawCompleteEntry[];
     console.log(`Fetched ${raw.length} total entries from complete.json`);
 
-    // Group by HSK level (old/classic 1-6)
-    const byLevel: Record<number, OutputWord[]> = { 1: [], 2: [], 3: [], 4: [], 5: [], 6: [] };
-
+    // Build a lookup: simplified -> raw entry data
+    const rawLookup = new Map<string, { level: number; entry: RawCompleteEntry }>();
     for (const entry of raw) {
       const level = getOldHskLevel(entry);
       if (!level || level < 1 || level > 6) continue;
-
-      const form = entry.forms?.[0];
-      const pinyin = form?.transcriptions?.pinyin || "";
-      const meaning = form?.meanings?.join("; ") || "";
-
-      const idx = byLevel[level].length + 1;
-      byLevel[level].push({
-        id: `hsk${level}-${String(idx).padStart(3, "0")}`,
-        simplified: entry.simplified,
-        pinyin,
-        meaning,
-        hskLevel: level,
-        partOfSpeech: entry.pos?.join(", "),
-      });
+      rawLookup.set(`${level}:${entry.simplified}`, { level, entry });
     }
 
+    // Build vocab ordered by thematic units, frequency within each unit
     for (let level = 1; level <= 6; level++) {
+      const units = thematicUnits[level] || [];
+      const words: OutputWord[] = [];
+
+      // Build a word-to-unit lookup
+      const wordToUnit = new Map<string, { unitIndex: number; unitName: string }>();
+      for (const unit of units) {
+        for (const w of unit.words) {
+          wordToUnit.set(w, { unitIndex: unit.index, unitName: unit.name });
+        }
+      }
+
+      // Collect all words for this level from raw data
+      const levelEntries: { entry: RawCompleteEntry; unitIndex: number; unitName: string }[] = [];
+      for (const entry of raw) {
+        const entryLevel = getOldHskLevel(entry);
+        if (entryLevel !== level) continue;
+        const unitInfo = wordToUnit.get(entry.simplified) || { unitIndex: 999, unitName: "Miscellaneous" };
+        levelEntries.push({ entry, ...unitInfo });
+      }
+
+      // Sort by unitIndex first, then by frequency within each unit (lower = more common)
+      levelEntries.sort((a, b) => {
+        if (a.unitIndex !== b.unitIndex) return a.unitIndex - b.unitIndex;
+        return (a.entry.frequency || 99999) - (b.entry.frequency || 99999);
+      });
+
+      // Build output
+      for (let i = 0; i < levelEntries.length; i++) {
+        const { entry, unitIndex, unitName } = levelEntries[i];
+        const form = entry.forms?.[0];
+        const pinyin = form?.transcriptions?.pinyin || "";
+        const meaning = form?.meanings?.join("; ") || "";
+
+        words.push({
+          id: `hsk${level}-${String(i + 1).padStart(3, "0")}`,
+          simplified: entry.simplified,
+          pinyin,
+          meaning,
+          hskLevel: level,
+          partOfSpeech: entry.pos?.join(", "),
+          frequency: entry.frequency,
+          unitIndex,
+          unitName,
+        });
+      }
+
       writeFileSync(
         join(OUTPUT_DIR, `hsk${level}-vocab.json`),
-        JSON.stringify(byLevel[level], null, 2)
+        JSON.stringify(words, null, 2)
       );
-      console.log(`HSK ${level}: ${byLevel[level].length} words`);
+      console.log(`HSK ${level}: ${words.length} words in ${units.length} thematic units`);
     }
   } catch (err) {
     console.error("Failed to fetch vocabulary:", err);

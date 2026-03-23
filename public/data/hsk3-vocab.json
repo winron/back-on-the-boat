@@ -1,315 +1,432 @@
 [
   {
     "id": "hsk3-001",
-    "simplified": "阿姨",
-    "pinyin": "ā yí",
-    "meaning": "maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child)",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-002",
-    "simplified": "啊",
-    "pinyin": "ā",
-    "meaning": "interjection of surprise; Ah!; Oh!",
-    "hskLevel": 3,
-    "partOfSpeech": "y, e"
-  },
-  {
-    "id": "hsk3-003",
-    "simplified": "矮",
-    "pinyin": "ǎi",
-    "meaning": "low; short (in length)",
-    "hskLevel": 3,
-    "partOfSpeech": "a, v"
-  },
-  {
-    "id": "hsk3-004",
-    "simplified": "爱好",
-    "pinyin": "ài hào",
-    "meaning": "to like; to be fond of; to take pleasure in; to be keen on; interest; hobby",
-    "hskLevel": 3,
-    "partOfSpeech": "n, v"
-  },
-  {
-    "id": "hsk3-005",
-    "simplified": "安静",
-    "pinyin": "ān jìng",
-    "meaning": "quiet; peaceful; calm",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-006",
-    "simplified": "把",
-    "pinyin": "bǎ",
-    "meaning": "to hold; to grasp; to hold a baby in position to help it urinate or defecate; handlebar; classifier: handful, bundle, bunch; classifier for things with handles; (used to put the object before the verb: 把 + {noun} + {verb})",
-    "hskLevel": 3,
-    "partOfSpeech": "p, qv, v, m"
-  },
-  {
-    "id": "hsk3-007",
-    "simplified": "班",
-    "pinyin": "Bān",
-    "meaning": "surname Ban",
-    "hskLevel": 3,
-    "partOfSpeech": "n, q, nr"
-  },
-  {
-    "id": "hsk3-008",
-    "simplified": "搬",
-    "pinyin": "bān",
-    "meaning": "to move (i.e. relocate oneself); to move (sth relatively heavy or bulky); to shift; to copy indiscriminately",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-009",
-    "simplified": "办法",
-    "pinyin": "bàn fǎ",
-    "meaning": "means; method; way (of doing sth)",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-010",
-    "simplified": "办公室",
-    "pinyin": "bàn gōng shì",
-    "meaning": "office; business premises; bureau",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-011",
-    "simplified": "半",
-    "pinyin": "bàn",
-    "meaning": "half; semi-; incomplete; (after a number) and a half",
-    "hskLevel": 3,
-    "partOfSpeech": "m"
-  },
-  {
-    "id": "hsk3-012",
-    "simplified": "帮忙",
-    "pinyin": "bāng máng",
-    "meaning": "to help; to lend a hand; to do a favor; to do a good turn",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-013",
-    "simplified": "包",
-    "pinyin": "Bāo",
-    "meaning": "surname Bao",
-    "hskLevel": 3,
-    "partOfSpeech": "v, n, q"
-  },
-  {
-    "id": "hsk3-014",
-    "simplified": "饱",
-    "pinyin": "bǎo",
-    "meaning": "to eat till full; satisfied",
-    "hskLevel": 3,
-    "partOfSpeech": "a, ad, v"
-  },
-  {
-    "id": "hsk3-015",
-    "simplified": "北方",
-    "pinyin": "běi fāng",
-    "meaning": "north; the northern part a country; China north of the Yellow River",
-    "hskLevel": 3,
-    "partOfSpeech": "s, f"
-  },
-  {
-    "id": "hsk3-016",
-    "simplified": "被",
-    "pinyin": "bèi",
-    "meaning": "quilt; to cover (with); (literary) to suffer (a misfortune); used to indicate passive voice (placed before the doer of the action like \"by\" in English passive-voice sentences, or, if the doer is not mentioned, before the verb); (since c. 2009) (sarcastic or jocular) used to indicate that the following word should be regarded as being in air quotes (as in 被旅游 to \"go on a trip\", for example)",
-    "hskLevel": 3,
-    "partOfSpeech": "p, g, d"
-  },
-  {
-    "id": "hsk3-017",
-    "simplified": "鼻子",
-    "pinyin": "bí zi",
-    "meaning": "nose",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-018",
-    "simplified": "比较",
-    "pinyin": "bǐ jiào",
-    "meaning": "to compare; to contrast; comparatively; relatively; quite; comparison",
-    "hskLevel": 3,
-    "partOfSpeech": "d, vn, v"
-  },
-  {
-    "id": "hsk3-019",
-    "simplified": "比赛",
-    "pinyin": "bǐ sài",
-    "meaning": "competition (sports etc); match; to compete",
-    "hskLevel": 3,
-    "partOfSpeech": "vn, v"
-  },
-  {
-    "id": "hsk3-020",
-    "simplified": "必须",
-    "pinyin": "bì xū",
-    "meaning": "to have to; must; compulsory; necessarily",
-    "hskLevel": 3,
-    "partOfSpeech": "d"
-  },
-  {
-    "id": "hsk3-021",
-    "simplified": "变化",
-    "pinyin": "biàn huà",
-    "meaning": "(intransitive) to change; to vary; change; variation",
-    "hskLevel": 3,
-    "partOfSpeech": "vn, v"
-  },
-  {
-    "id": "hsk3-022",
-    "simplified": "表示",
-    "pinyin": "biǎo shì",
-    "meaning": "to express; to show; to say; to state; to indicate; to mean",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-023",
-    "simplified": "表演",
-    "pinyin": "biǎo yǎn",
-    "meaning": "play; show; performance; exhibition; to perform; to act; to demonstrate",
-    "hskLevel": 3,
-    "partOfSpeech": "vn, v"
-  },
-  {
-    "id": "hsk3-024",
     "simplified": "别人",
     "pinyin": "bié ren",
     "meaning": "other people; others; other person",
     "hskLevel": 3,
-    "partOfSpeech": "r"
+    "partOfSpeech": "r",
+    "frequency": 397,
+    "unitIndex": 1,
+    "unitName": "Family & Relationships"
+  },
+  {
+    "id": "hsk3-002",
+    "simplified": "同事",
+    "pinyin": "tóng shì",
+    "meaning": "colleague; co-worker",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 2337,
+    "unitIndex": 1,
+    "unitName": "Family & Relationships"
+  },
+  {
+    "id": "hsk3-003",
+    "simplified": "客人",
+    "pinyin": "kè rén",
+    "meaning": "visitor; guest; customer; client",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 2750,
+    "unitIndex": 1,
+    "unitName": "Family & Relationships"
+  },
+  {
+    "id": "hsk3-004",
+    "simplified": "奶奶",
+    "pinyin": "nǎi nai",
+    "meaning": "(informal) grandma (paternal grandmother); (respectful) mistress of the house; (coll.) boobies; breasts",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 2809,
+    "unitIndex": 1,
+    "unitName": "Family & Relationships"
+  },
+  {
+    "id": "hsk3-005",
+    "simplified": "爷爷",
+    "pinyin": "yé ye",
+    "meaning": "(coll.) father's father; paternal grandfather",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3099,
+    "unitIndex": 1,
+    "unitName": "Family & Relationships"
+  },
+  {
+    "id": "hsk3-006",
+    "simplified": "邻居",
+    "pinyin": "lín jū",
+    "meaning": "neighbor; next door",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3360,
+    "unitIndex": 1,
+    "unitName": "Family & Relationships"
+  },
+  {
+    "id": "hsk3-007",
+    "simplified": "校长",
+    "pinyin": "xiào zhǎng",
+    "meaning": "(college, university) president; headmaster",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3365,
+    "unitIndex": 1,
+    "unitName": "Family & Relationships"
+  },
+  {
+    "id": "hsk3-008",
+    "simplified": "叔叔",
+    "pinyin": "shū shu",
+    "meaning": "father's younger brother; uncle; Taiwan pr. [shú shu]",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3510,
+    "unitIndex": 1,
+    "unitName": "Family & Relationships"
+  },
+  {
+    "id": "hsk3-009",
+    "simplified": "阿姨",
+    "pinyin": "ā yí",
+    "meaning": "maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child)",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 4355,
+    "unitIndex": 1,
+    "unitName": "Family & Relationships"
+  },
+  {
+    "id": "hsk3-010",
+    "simplified": "脸",
+    "pinyin": "liǎn",
+    "meaning": "face",
+    "hskLevel": 3,
+    "partOfSpeech": "n, q",
+    "frequency": 629,
+    "unitIndex": 2,
+    "unitName": "Body & Appearance"
+  },
+  {
+    "id": "hsk3-011",
+    "simplified": "口",
+    "pinyin": "kǒu",
+    "meaning": "mouth; classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls",
+    "hskLevel": 3,
+    "partOfSpeech": "q, n",
+    "frequency": 637,
+    "unitIndex": 2,
+    "unitName": "Body & Appearance"
+  },
+  {
+    "id": "hsk3-012",
+    "simplified": "脚",
+    "pinyin": "jiǎo",
+    "meaning": "foot; leg (of an animal or an object); base (of an object); classifier for kicks",
+    "hskLevel": 3,
+    "partOfSpeech": "n, q",
+    "frequency": 1024,
+    "unitIndex": 2,
+    "unitName": "Body & Appearance"
+  },
+  {
+    "id": "hsk3-013",
+    "simplified": "年轻",
+    "pinyin": "nián qīng",
+    "meaning": "young",
+    "hskLevel": 3,
+    "partOfSpeech": "a",
+    "frequency": 1100,
+    "unitIndex": 2,
+    "unitName": "Body & Appearance"
+  },
+  {
+    "id": "hsk3-014",
+    "simplified": "腿",
+    "pinyin": "tuǐ",
+    "meaning": "leg",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1216,
+    "unitIndex": 2,
+    "unitName": "Body & Appearance"
+  },
+  {
+    "id": "hsk3-015",
+    "simplified": "头发",
+    "pinyin": "tóu fa",
+    "meaning": "hair (on the head)",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1533,
+    "unitIndex": 2,
+    "unitName": "Body & Appearance"
+  },
+  {
+    "id": "hsk3-016",
+    "simplified": "胖",
+    "pinyin": "pán",
+    "meaning": "healthy; at ease",
+    "hskLevel": 3,
+    "partOfSpeech": "a",
+    "frequency": 2396,
+    "unitIndex": 2,
+    "unitName": "Body & Appearance"
+  },
+  {
+    "id": "hsk3-017",
+    "simplified": "瘦",
+    "pinyin": "shòu",
+    "meaning": "thin; to lose weight; (of clothing) tight; (of meat) lean; (of land) unproductive",
+    "hskLevel": 3,
+    "partOfSpeech": "a",
+    "frequency": 2595,
+    "unitIndex": 2,
+    "unitName": "Body & Appearance"
+  },
+  {
+    "id": "hsk3-018",
+    "simplified": "耳朵",
+    "pinyin": "ěr duo",
+    "meaning": "ear; handle (on a cup)",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3451,
+    "unitIndex": 2,
+    "unitName": "Body & Appearance"
+  },
+  {
+    "id": "hsk3-019",
+    "simplified": "鼻子",
+    "pinyin": "bí zi",
+    "meaning": "nose",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3484,
+    "unitIndex": 2,
+    "unitName": "Body & Appearance"
+  },
+  {
+    "id": "hsk3-020",
+    "simplified": "矮",
+    "pinyin": "ǎi",
+    "meaning": "low; short (in length)",
+    "hskLevel": 3,
+    "partOfSpeech": "a, v",
+    "frequency": 3952,
+    "unitIndex": 2,
+    "unitName": "Body & Appearance"
+  },
+  {
+    "id": "hsk3-021",
+    "simplified": "担心",
+    "pinyin": "dān xīn",
+    "meaning": "anxious; worried; uneasy; to worry; to be anxious",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 277,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
+  },
+  {
+    "id": "hsk3-022",
+    "simplified": "哭",
+    "pinyin": "kū",
+    "meaning": "to cry; to weep",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 898,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
+  },
+  {
+    "id": "hsk3-023",
+    "simplified": "健康",
+    "pinyin": "jiàn kāng",
+    "meaning": "health; healthy",
+    "hskLevel": 3,
+    "partOfSpeech": "a, an, ad",
+    "frequency": 952,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
+  },
+  {
+    "id": "hsk3-024",
+    "simplified": "饿",
+    "pinyin": "è",
+    "meaning": "to be hungry; hungry; to starve (sb)",
+    "hskLevel": 3,
+    "partOfSpeech": "v, a",
+    "frequency": 1477,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
   },
   {
     "id": "hsk3-025",
-    "simplified": "宾馆",
-    "pinyin": "bīn guǎn",
-    "meaning": "guesthouse; lodge; hotel",
+    "simplified": "害怕",
+    "pinyin": "hài pà",
+    "meaning": "to be afraid; to be scared",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v, vn",
+    "frequency": 1536,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
   },
   {
     "id": "hsk3-026",
-    "simplified": "冰箱",
-    "pinyin": "bīng xiāng",
-    "meaning": "icebox; freezer cabinet; refrigerator",
+    "simplified": "疼",
+    "pinyin": "téng",
+    "meaning": "(it) hurts; sore; to love dearly",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v, a",
+    "frequency": 1641,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
   },
   {
     "id": "hsk3-027",
-    "simplified": "才",
-    "pinyin": "cái",
-    "meaning": "ability; talent; sb of a certain type; a capable individual; then and only then; just now; (before an expression of quantity) only",
+    "simplified": "生气",
+    "pinyin": "shēng qì",
+    "meaning": "to get angry; to take offense; angry; vitality; liveliness",
     "hskLevel": 3,
-    "partOfSpeech": "d, c, n"
+    "partOfSpeech": "a, n, v, an",
+    "frequency": 2113,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
   },
   {
     "id": "hsk3-028",
-    "simplified": "菜单",
-    "pinyin": "cài dān",
-    "meaning": "menu",
+    "simplified": "舒服",
+    "pinyin": "shū fu",
+    "meaning": "comfortable; feeling well",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "a",
+    "frequency": 2343,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
   },
   {
     "id": "hsk3-029",
-    "simplified": "参加",
-    "pinyin": "cān jiā",
-    "meaning": "to participate; to take part; to join",
+    "simplified": "难过",
+    "pinyin": "nán guò",
+    "meaning": "to feel sad; to feel unwell; (of life) to be difficult",
     "hskLevel": 3,
-    "partOfSpeech": "v"
+    "partOfSpeech": "a",
+    "frequency": 2714,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
   },
   {
     "id": "hsk3-030",
-    "simplified": "草",
-    "pinyin": "cǎo",
-    "meaning": "variant of 草",
+    "simplified": "感冒",
+    "pinyin": "gǎn mào",
+    "meaning": "to catch cold; (common) cold; (coll.) to be interested in (often used in the negative); (Tw) to detest; can't stand",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v, vn",
+    "frequency": 3621,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
   },
   {
     "id": "hsk3-031",
-    "simplified": "层",
-    "pinyin": "céng",
-    "meaning": "to pile on top of one another; layer; stratum; floor (of a building); story; (math.) sheaf; classifier for layers",
+    "simplified": "着急",
+    "pinyin": "zháo jí",
+    "meaning": "to worry; to feel anxious; to feel a sense of urgency; to be in a hurry; Taiwan pr. [zhāo jí]",
     "hskLevel": 3,
-    "partOfSpeech": "qv, n"
+    "partOfSpeech": "a, ad",
+    "frequency": 4461,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
   },
   {
     "id": "hsk3-032",
-    "simplified": "差",
-    "pinyin": "chā",
-    "meaning": "difference; discrepancy; (math.) difference (amount remaining after a subtraction); (literary) a little; somewhat; slightly",
+    "simplified": "饱",
+    "pinyin": "bǎo",
+    "meaning": "to eat till full; satisfied",
     "hskLevel": 3,
-    "partOfSpeech": "a, v, g"
+    "partOfSpeech": "a, ad, v",
+    "frequency": 4742,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
   },
   {
     "id": "hsk3-033",
-    "simplified": "超市",
-    "pinyin": "chāo shì",
-    "meaning": "supermarket (abbr. for 超级市场)",
+    "simplified": "发烧",
+    "pinyin": "fā shāo",
+    "meaning": "to have a high temperature (from illness); to have a fever",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v, vn, b",
+    "frequency": 5836,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
   },
   {
     "id": "hsk3-034",
-    "simplified": "衬衫",
-    "pinyin": "chèn shān",
-    "meaning": "shirt; blouse",
+    "simplified": "渴",
+    "pinyin": "kě",
+    "meaning": "thirsty",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "a, v",
+    "frequency": 9442,
+    "unitIndex": 3,
+    "unitName": "Health & Feelings"
   },
   {
     "id": "hsk3-035",
-    "simplified": "成绩",
-    "pinyin": "chéng jì",
-    "meaning": "achievement; performance records; grades",
+    "simplified": "糖",
+    "pinyin": "táng",
+    "meaning": "sugar; sweets; candy",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "n",
+    "frequency": 2036,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
     "id": "hsk3-036",
-    "simplified": "城市",
-    "pinyin": "chéng shì",
-    "meaning": "city; town",
+    "simplified": "甜",
+    "pinyin": "tián",
+    "meaning": "sweet",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "a",
+    "frequency": 2472,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
     "id": "hsk3-037",
-    "simplified": "迟到",
-    "pinyin": "chí dào",
-    "meaning": "to arrive late",
+    "simplified": "啤酒",
+    "pinyin": "pí jiǔ",
+    "meaning": "beer (loanword)",
     "hskLevel": 3,
-    "partOfSpeech": "v, vn"
+    "partOfSpeech": "n",
+    "frequency": 2622,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
     "id": "hsk3-038",
-    "simplified": "出现",
-    "pinyin": "chū xiàn",
-    "meaning": "to appear; to arise; to emerge; to show up",
+    "simplified": "蛋糕",
+    "pinyin": "dàn gāo",
+    "meaning": "cake",
     "hskLevel": 3,
-    "partOfSpeech": "v, vn"
+    "partOfSpeech": "n",
+    "frequency": 2650,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
     "id": "hsk3-039",
-    "simplified": "除了",
-    "pinyin": "chú le",
-    "meaning": "besides; apart from (... also...); in addition to; except (for)",
+    "simplified": "碗",
+    "pinyin": "wǎn",
+    "meaning": "variant of 碗",
     "hskLevel": 3,
-    "partOfSpeech": "p"
+    "partOfSpeech": "n, q",
+    "frequency": 2866,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
     "id": "hsk3-040",
@@ -317,743 +434,1022 @@
     "pinyin": "chú fáng",
     "meaning": "kitchen",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "n",
+    "frequency": 3076,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
     "id": "hsk3-041",
-    "simplified": "春",
-    "pinyin": "chūn",
-    "meaning": "old variant of 春",
+    "simplified": "面包",
+    "pinyin": "miàn bāo",
+    "meaning": "bread",
     "hskLevel": 3,
-    "partOfSpeech": "tg"
+    "partOfSpeech": "n",
+    "frequency": 4138,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
     "id": "hsk3-042",
-    "simplified": "词语",
-    "pinyin": "cí yǔ",
-    "meaning": "word (general term including monosyllables through to short phrases); term (e.g. technical term); expression",
+    "simplified": "冰箱",
+    "pinyin": "bīng xiāng",
+    "meaning": "icebox; freezer cabinet; refrigerator",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "n",
+    "frequency": 4168,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
     "id": "hsk3-043",
-    "simplified": "聪明",
-    "pinyin": "cōng ming",
-    "meaning": "intelligent; clever; bright; smart; acute (of sight and hearing)",
+    "simplified": "香蕉",
+    "pinyin": "xiāng jiāo",
+    "meaning": "banana",
     "hskLevel": 3,
-    "partOfSpeech": "a, an"
+    "partOfSpeech": "n",
+    "frequency": 5473,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
     "id": "hsk3-044",
-    "simplified": "打扫",
-    "pinyin": "dǎ sǎo",
-    "meaning": "to clean; to sweep",
+    "simplified": "葡萄",
+    "pinyin": "pú tao",
+    "meaning": "grape",
     "hskLevel": 3,
-    "partOfSpeech": "v"
+    "partOfSpeech": "n",
+    "frequency": 6422,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
     "id": "hsk3-045",
-    "simplified": "打算",
-    "pinyin": "dǎ suàn",
-    "meaning": "to plan; to intend; to calculate; plan; intention; calculation",
+    "simplified": "菜单",
+    "pinyin": "cài dān",
+    "meaning": "menu",
     "hskLevel": 3,
-    "partOfSpeech": "v, n, vn"
+    "partOfSpeech": "n",
+    "frequency": 7509,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
     "id": "hsk3-046",
-    "simplified": "带",
-    "pinyin": "dài",
-    "meaning": "band; belt; girdle; ribbon; tire; area; zone; region; to wear; to carry; to take along; to bear (i.e. to have); to lead; to bring; to look after; to raise",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-047",
-    "simplified": "担心",
-    "pinyin": "dān xīn",
-    "meaning": "anxious; worried; uneasy; to worry; to be anxious",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-048",
-    "simplified": "蛋糕",
-    "pinyin": "dàn gāo",
-    "meaning": "cake",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-049",
-    "simplified": "当然",
-    "pinyin": "dāng rán",
-    "meaning": "only natural; as it should be; certainly; of course; without doubt",
-    "hskLevel": 3,
-    "partOfSpeech": "d, b"
-  },
-  {
-    "id": "hsk3-050",
-    "simplified": "地",
-    "pinyin": "de",
-    "meaning": "-ly; structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct",
-    "hskLevel": 3,
-    "partOfSpeech": "u, n"
-  },
-  {
-    "id": "hsk3-051",
-    "simplified": "地方",
-    "pinyin": "dì fāng",
-    "meaning": "region; regional (away from the central administration); local",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-052",
-    "simplified": "地铁",
-    "pinyin": "dì tiě",
-    "meaning": "underground railway; subway; subway train",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-053",
-    "simplified": "地图",
-    "pinyin": "dì tú",
-    "meaning": "map",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-054",
-    "simplified": "灯",
-    "pinyin": "dēng",
-    "meaning": "lamp; light; lantern",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-055",
-    "simplified": "低",
-    "pinyin": "dī",
-    "meaning": "low; beneath; to lower (one's head); to let droop; to hang down; to incline",
-    "hskLevel": 3,
-    "partOfSpeech": "a, ad, v"
-  },
-  {
-    "id": "hsk3-056",
-    "simplified": "电梯",
-    "pinyin": "diàn tī",
-    "meaning": "elevator; escalator",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-057",
-    "simplified": "电子",
-    "pinyin": "diàn zǐ",
-    "meaning": "electronic; electron (particle physics)",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-058",
-    "simplified": "东",
-    "pinyin": "Dōng",
-    "meaning": "surname Dong",
-    "hskLevel": 3,
-    "partOfSpeech": "f, b"
-  },
-  {
-    "id": "hsk3-059",
-    "simplified": "冬",
-    "pinyin": "dōng",
-    "meaning": "winter",
-    "hskLevel": 3,
-    "partOfSpeech": "tg"
-  },
-  {
-    "id": "hsk3-060",
-    "simplified": "动物",
-    "pinyin": "dòng wù",
-    "meaning": "animal",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-061",
-    "simplified": "短",
-    "pinyin": "duǎn",
-    "meaning": "short; brief; to lack; weak point; fault",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-062",
-    "simplified": "段",
-    "pinyin": "Duàn",
-    "meaning": "surname Duan",
-    "hskLevel": 3,
-    "partOfSpeech": "q, g"
-  },
-  {
-    "id": "hsk3-063",
-    "simplified": "锻炼",
-    "pinyin": "duàn liàn",
-    "meaning": "to toughen; to temper; to engage in physical exercise; to work out; (fig.) to develop one's skills; to train oneself",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-064",
-    "simplified": "多么",
-    "pinyin": "duō me",
-    "meaning": "how (wonderful etc); what (a great idea etc); however (difficult it may be etc); (in interrogative sentences) how (much etc); to what extent",
-    "hskLevel": 3,
-    "partOfSpeech": "d, a"
-  },
-  {
-    "id": "hsk3-065",
-    "simplified": "饿",
-    "pinyin": "è",
-    "meaning": "to be hungry; hungry; to starve (sb)",
-    "hskLevel": 3,
-    "partOfSpeech": "v, a"
-  },
-  {
-    "id": "hsk3-066",
-    "simplified": "而且",
-    "pinyin": "ér qiě",
-    "meaning": "(not only ...) but also; moreover; in addition; furthermore",
-    "hskLevel": 3,
-    "partOfSpeech": "c"
-  },
-  {
-    "id": "hsk3-067",
-    "simplified": "耳朵",
-    "pinyin": "ěr duo",
-    "meaning": "ear; handle (on a cup)",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-068",
-    "simplified": "发烧",
-    "pinyin": "fā shāo",
-    "meaning": "to have a high temperature (from illness); to have a fever",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn, b"
-  },
-  {
-    "id": "hsk3-069",
-    "simplified": "发现",
-    "pinyin": "fā xiàn",
-    "meaning": "to notice; to become aware of; to discover; to find; to detect; a discovery",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-070",
-    "simplified": "方便",
-    "pinyin": "fāng biàn",
-    "meaning": "convenient; suitable; to facilitate; to make things easy; having money to spare; (euphemism) to relieve oneself",
-    "hskLevel": 3,
-    "partOfSpeech": "v, a, an"
-  },
-  {
-    "id": "hsk3-071",
-    "simplified": "放",
-    "pinyin": "fàng",
-    "meaning": "to put; to place; to release; to free; to let go; to let out; to set off (fireworks)",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-072",
-    "simplified": "放心",
-    "pinyin": "fàng xīn",
-    "meaning": "to feel relieved; to feel reassured; to be at ease",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-073",
-    "simplified": "分",
-    "pinyin": "fēn",
-    "meaning": "to divide; to separate; to distribute; to allocate; to distinguish (good and bad); (bound form) branch of (an organization); sub- (as in 局); fraction; one tenth (of certain units); unit of length equivalent to 0.33 cm; minute (unit of time); minute (angular measurement unit); a point (in sports or games); 0.01 yuan (unit of money)",
-    "hskLevel": 3,
-    "partOfSpeech": "t, qt, v, g, n, d"
-  },
-  {
-    "id": "hsk3-074",
-    "simplified": "附近",
-    "pinyin": "fù jìn",
-    "meaning": "nearby; neighboring; (in the) vicinity (of); neighborhood",
-    "hskLevel": 3,
-    "partOfSpeech": "f"
-  },
-  {
-    "id": "hsk3-075",
-    "simplified": "复习",
-    "pinyin": "fù xí",
-    "meaning": "to review; revision",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-076",
-    "simplified": "敢",
-    "pinyin": "gǎn",
-    "meaning": "to dare; daring; (polite) may I venture",
-    "hskLevel": 3,
-    "partOfSpeech": "v, g"
-  },
-  {
-    "id": "hsk3-077",
-    "simplified": "感冒",
-    "pinyin": "gǎn mào",
-    "meaning": "to catch cold; (common) cold; (coll.) to be interested in (often used in the negative); (Tw) to detest; can't stand",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-078",
-    "simplified": "干净",
-    "pinyin": "gān jìng",
-    "meaning": "clean; neat",
-    "hskLevel": 3,
-    "partOfSpeech": "a, ad"
-  },
-  {
-    "id": "hsk3-079",
-    "simplified": "刚才",
-    "pinyin": "gāng cái",
-    "meaning": "just now; a moment ago",
-    "hskLevel": 3,
-    "partOfSpeech": "t"
-  },
-  {
-    "id": "hsk3-080",
-    "simplified": "根据",
-    "pinyin": "gēn jù",
-    "meaning": "according to; based on; basis; foundation",
-    "hskLevel": 3,
-    "partOfSpeech": "p, n, v"
-  },
-  {
-    "id": "hsk3-081",
-    "simplified": "跟",
-    "pinyin": "gēn",
-    "meaning": "heel; to follow closely; to go with; (of a woman) to marry sb; with; compared with; to; towards; and (joining two nouns)",
-    "hskLevel": 3,
-    "partOfSpeech": "p, v"
-  },
-  {
-    "id": "hsk3-082",
-    "simplified": "更",
-    "pinyin": "gēng",
-    "meaning": "to change or replace; to experience; one of the five two-hour periods into which the night was formerly divided; watch (e.g. of a sentry or guard)",
-    "hskLevel": 3,
-    "partOfSpeech": "d"
-  },
-  {
-    "id": "hsk3-083",
-    "simplified": "公园",
-    "pinyin": "gōng yuán",
-    "meaning": "park (for public recreation)",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-084",
-    "simplified": "故事",
-    "pinyin": "gù shì",
-    "meaning": "old practice",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-085",
-    "simplified": "刮",
-    "pinyin": "guā",
-    "meaning": "to scrape; to blow; to shave; to plunder; to extort",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-086",
-    "simplified": "关",
-    "pinyin": "Guān",
-    "meaning": "surname Guan",
-    "hskLevel": 3,
-    "partOfSpeech": "v, n, nr"
-  },
-  {
-    "id": "hsk3-087",
-    "simplified": "关系",
-    "pinyin": "guān xi",
-    "meaning": "relation; relationship; to concern; to affect; to have to do with; guanxi",
-    "hskLevel": 3,
-    "partOfSpeech": "n, v"
-  },
-  {
-    "id": "hsk3-088",
-    "simplified": "关心",
-    "pinyin": "guān xīn",
-    "meaning": "to be concerned about; to care about",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-089",
-    "simplified": "关于",
-    "pinyin": "guān yú",
-    "meaning": "pertaining to; concerning; with regard to; about; a matter of",
-    "hskLevel": 3,
-    "partOfSpeech": "p"
-  },
-  {
-    "id": "hsk3-090",
-    "simplified": "国家",
-    "pinyin": "guó jiā",
-    "meaning": "country; nation; state",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-091",
     "simplified": "果汁",
     "pinyin": "guǒ zhī",
     "meaning": "fruit juice",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "n",
+    "frequency": 7765,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
-    "id": "hsk3-092",
-    "simplified": "过去",
-    "pinyin": "guò qù",
-    "meaning": "(in the) past; former; previous; to go over; to pass by",
+    "id": "hsk3-047",
+    "simplified": "面条",
+    "pinyin": "miàn tiáo",
+    "meaning": "noodles",
     "hskLevel": 3,
-    "partOfSpeech": "v, t"
+    "partOfSpeech": "n",
+    "frequency": 8961,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
-    "id": "hsk3-093",
-    "simplified": "还是",
-    "pinyin": "hái shi",
-    "meaning": "still (as before); had better; unexpectedly; or",
+    "id": "hsk3-048",
+    "simplified": "盘子",
+    "pinyin": "pán zi",
+    "meaning": "tray; plate; dish",
     "hskLevel": 3,
-    "partOfSpeech": "c, d, v"
+    "partOfSpeech": "n",
+    "frequency": 9039,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
-    "id": "hsk3-094",
-    "simplified": "害怕",
-    "pinyin": "hài pà",
-    "meaning": "to be afraid; to be scared",
+    "id": "hsk3-049",
+    "simplified": "筷子",
+    "pinyin": "kuài zi",
+    "meaning": "chopsticks",
     "hskLevel": 3,
-    "partOfSpeech": "v, vn"
+    "partOfSpeech": "n",
+    "frequency": 10486,
+    "unitIndex": 4,
+    "unitName": "Food & Kitchen"
   },
   {
-    "id": "hsk3-095",
-    "simplified": "河",
-    "pinyin": "hé",
-    "meaning": "river",
+    "id": "hsk3-050",
+    "simplified": "信",
+    "pinyin": "xìn",
+    "meaning": "letter; mail; to trust; to believe; to profess faith in; truthful; confidence; trust; at will; at random",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "n, v",
+    "frequency": 419,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
   },
   {
-    "id": "hsk3-096",
-    "simplified": "黑板",
-    "pinyin": "hēi bǎn",
-    "meaning": "blackboard",
+    "id": "hsk3-051",
+    "simplified": "包",
+    "pinyin": "Bāo",
+    "meaning": "surname Bao",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v, n, q",
+    "frequency": 755,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
   },
   {
-    "id": "hsk3-097",
-    "simplified": "护照",
-    "pinyin": "hù zhào",
-    "meaning": "passport",
+    "id": "hsk3-052",
+    "simplified": "鞋",
+    "pinyin": "xié",
+    "meaning": "shoe",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "n",
+    "frequency": 1249,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
   },
   {
-    "id": "hsk3-098",
-    "simplified": "花",
-    "pinyin": "Huā",
-    "meaning": "surname Hua",
+    "id": "hsk3-053",
+    "simplified": "灯",
+    "pinyin": "dēng",
+    "meaning": "lamp; light; lantern",
     "hskLevel": 3,
-    "partOfSpeech": "v, n, a"
+    "partOfSpeech": "n",
+    "frequency": 2001,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
   },
   {
-    "id": "hsk3-099",
+    "id": "hsk3-054",
+    "simplified": "帽子",
+    "pinyin": "mào zi",
+    "meaning": "hat; cap; (fig.) label; bad name",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3553,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
+  },
+  {
+    "id": "hsk3-055",
+    "simplified": "裤子",
+    "pinyin": "kù zi",
+    "meaning": "variant of 裤子, trousers; pants",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3765,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
+  },
+  {
+    "id": "hsk3-056",
+    "simplified": "眼镜",
+    "pinyin": "yǎn jìng",
+    "meaning": "spectacles; eyeglasses",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3998,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
+  },
+  {
+    "id": "hsk3-057",
+    "simplified": "空调",
+    "pinyin": "kōng tiáo",
+    "meaning": "air conditioning; air conditioner (including units that have a heating mode)",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 4763,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
+  },
+  {
+    "id": "hsk3-058",
+    "simplified": "衬衫",
+    "pinyin": "chèn shān",
+    "meaning": "shirt; blouse",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 4988,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
+  },
+  {
+    "id": "hsk3-059",
+    "simplified": "裙子",
+    "pinyin": "qún zi",
+    "meaning": "skirt",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 5466,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
+  },
+  {
+    "id": "hsk3-060",
+    "simplified": "伞",
+    "pinyin": "sǎn",
+    "meaning": "umbrella; parasol",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 6101,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
+  },
+  {
+    "id": "hsk3-061",
+    "simplified": "铅笔",
+    "pinyin": "qiān bǐ",
+    "meaning": "(lead) pencil",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 9108,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
+  },
+  {
+    "id": "hsk3-062",
+    "simplified": "照相机",
+    "pinyin": "zhào xiàng jī",
+    "meaning": "camera",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 10452,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
+  },
+  {
+    "id": "hsk3-063",
+    "simplified": "字典",
+    "pinyin": "zì diǎn",
+    "meaning": "Chinese character dictionary (containing entries for single characters, contrasted with a 词典, which has entries for words of one or more characters); (coll.) dictionary",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 13961,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
+  },
+  {
+    "id": "hsk3-064",
+    "simplified": "行李箱",
+    "pinyin": "xíng li xiāng",
+    "meaning": "suitcase; baggage compartment; overhead bin; (car) trunk; boot",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 16680,
+    "unitIndex": 5,
+    "unitName": "Clothing & Objects"
+  },
+  {
+    "id": "hsk3-065",
+    "simplified": "地方",
+    "pinyin": "dì fāng",
+    "meaning": "region; regional (away from the central administration); local",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 254,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-066",
+    "simplified": "站",
+    "pinyin": "zhàn",
+    "meaning": "station; to stand; to halt; to stop; branch of a company or organization; website",
+    "hskLevel": 3,
+    "partOfSpeech": "v, n, q",
+    "frequency": 399,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-067",
+    "simplified": "楼",
+    "pinyin": "Lóu",
+    "meaning": "surname Lou",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 765,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-068",
+    "simplified": "银行",
+    "pinyin": "yín háng",
+    "meaning": "bank",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 769,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-069",
+    "simplified": "西",
+    "pinyin": "Xī",
+    "meaning": "the West; abbr. for Spain 牙; Spanish",
+    "hskLevel": 3,
+    "partOfSpeech": "f, b",
+    "frequency": 958,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-070",
+    "simplified": "附近",
+    "pinyin": "fù jìn",
+    "meaning": "nearby; neighboring; (in the) vicinity (of); neighborhood",
+    "hskLevel": 3,
+    "partOfSpeech": "f",
+    "frequency": 1020,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-071",
+    "simplified": "办公室",
+    "pinyin": "bàn gōng shì",
+    "meaning": "office; business premises; bureau",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1162,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-072",
+    "simplified": "层",
+    "pinyin": "céng",
+    "meaning": "to pile on top of one another; layer; stratum; floor (of a building); story; (math.) sheaf; classifier for layers",
+    "hskLevel": 3,
+    "partOfSpeech": "qv, n",
+    "frequency": 1202,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-073",
+    "simplified": "东",
+    "pinyin": "Dōng",
+    "meaning": "surname Dong",
+    "hskLevel": 3,
+    "partOfSpeech": "f, b",
+    "frequency": 1509,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-074",
+    "simplified": "南",
+    "pinyin": "Nán",
+    "meaning": "surname Nan",
+    "hskLevel": 3,
+    "partOfSpeech": "b, f",
+    "frequency": 1709,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-075",
+    "simplified": "中间",
+    "pinyin": "zhōng jiān",
+    "meaning": "the middle; the inside; in the middle; within; between; among; during; in the meantime",
+    "hskLevel": 3,
+    "partOfSpeech": "f",
+    "frequency": 1889,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-076",
+    "simplified": "公园",
+    "pinyin": "gōng yuán",
+    "meaning": "park (for public recreation)",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 2134,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-077",
+    "simplified": "地铁",
+    "pinyin": "dì tiě",
+    "meaning": "underground railway; subway; subway train",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3046,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-078",
     "simplified": "花园",
     "pinyin": "huā yuán",
     "meaning": "garden",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "n",
+    "frequency": 3403,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
   },
   {
-    "id": "hsk3-100",
-    "simplified": "画",
-    "pinyin": "huà",
-    "meaning": "to draw; to paint; picture; painting; to draw (a line) (variant of 划); stroke of a Chinese character (variant of 划); (calligraphy) horizontal stroke (variant of 划)",
+    "id": "hsk3-079",
+    "simplified": "地图",
+    "pinyin": "dì tú",
+    "meaning": "map",
     "hskLevel": 3,
-    "partOfSpeech": "n, v, q"
+    "partOfSpeech": "n",
+    "frequency": 3548,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
   },
   {
-    "id": "hsk3-101",
-    "simplified": "坏",
-    "pinyin": "huài",
-    "meaning": "bad; spoiled; broken; to break down; (suffix) to the utmost",
-    "hskLevel": 3,
-    "partOfSpeech": "a, v"
-  },
-  {
-    "id": "hsk3-102",
-    "simplified": "环境",
-    "pinyin": "huán jìng",
-    "meaning": "environment; circumstances; surroundings; ambient",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-103",
-    "simplified": "换",
-    "pinyin": "huàn",
-    "meaning": "to exchange; to change (clothes etc); to substitute; to switch; to convert (currency)",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-104",
-    "simplified": "黄",
-    "pinyin": "Huáng",
-    "meaning": "surname Huang or Hwang",
-    "hskLevel": 3,
-    "partOfSpeech": "nr, a, b"
-  },
-  {
-    "id": "hsk3-105",
-    "simplified": "会议",
-    "pinyin": "huì yì",
-    "meaning": "meeting; conference",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-106",
-    "simplified": "或者",
-    "pinyin": "huò zhě",
-    "meaning": "or; possibly; maybe; perhaps",
-    "hskLevel": 3,
-    "partOfSpeech": "c, d"
-  },
-  {
-    "id": "hsk3-107",
-    "simplified": "机会",
-    "pinyin": "jī huì",
-    "meaning": "opportunity; chance; occasion",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-108",
-    "simplified": "极",
-    "pinyin": "jí",
-    "meaning": "extremely; pole (geography, physics); utmost; top",
-    "hskLevel": 3,
-    "partOfSpeech": "d, g"
-  },
-  {
-    "id": "hsk3-109",
-    "simplified": "几乎",
-    "pinyin": "jī hū",
-    "meaning": "almost; nearly; practically",
-    "hskLevel": 3,
-    "partOfSpeech": "d"
-  },
-  {
-    "id": "hsk3-110",
-    "simplified": "记得",
-    "pinyin": "jì de",
-    "meaning": "to remember",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-111",
-    "simplified": "季节",
-    "pinyin": "jì jié",
-    "meaning": "time; season; period",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-112",
-    "simplified": "检查",
-    "pinyin": "jiǎn chá",
-    "meaning": "inspection; to examine; to inspect",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-113",
-    "simplified": "简单",
-    "pinyin": "jiǎn dān",
-    "meaning": "simple; not complicated",
-    "hskLevel": 3,
-    "partOfSpeech": "a, ad"
-  },
-  {
-    "id": "hsk3-114",
-    "simplified": "见面",
-    "pinyin": "jiàn miàn",
-    "meaning": "to meet; to see each other",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-115",
-    "simplified": "健康",
-    "pinyin": "jiàn kāng",
-    "meaning": "health; healthy",
-    "hskLevel": 3,
-    "partOfSpeech": "a, an, ad"
-  },
-  {
-    "id": "hsk3-116",
-    "simplified": "讲",
-    "pinyin": "jiǎng",
-    "meaning": "to speak; to explain; to negotiate; to emphasize; to be particular about; as far as sth is concerned; speech; lecture",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-117",
-    "simplified": "角",
-    "pinyin": "Jué",
-    "meaning": "surname Jue",
-    "hskLevel": 3,
-    "partOfSpeech": "n, q, g"
-  },
-  {
-    "id": "hsk3-118",
-    "simplified": "脚",
-    "pinyin": "jiǎo",
-    "meaning": "foot; leg (of an animal or an object); base (of an object); classifier for kicks",
-    "hskLevel": 3,
-    "partOfSpeech": "n, q"
-  },
-  {
-    "id": "hsk3-119",
-    "simplified": "教",
-    "pinyin": "Jiào",
-    "meaning": "surname Jiao",
-    "hskLevel": 3,
-    "partOfSpeech": "v, g"
-  },
-  {
-    "id": "hsk3-120",
-    "simplified": "接",
-    "pinyin": "jiē",
-    "meaning": "to receive; to answer (the phone); to meet or welcome sb; to connect; to catch; to join; to extend; to take one's turn on duty; to take over for sb",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-121",
+    "id": "hsk3-080",
     "simplified": "街道",
     "pinyin": "jiē dào",
     "meaning": "street; subdistrict; residential district",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "n",
+    "frequency": 3604,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-081",
+    "simplified": "图书馆",
+    "pinyin": "tú shū guǎn",
+    "meaning": "library",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3836,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-082",
+    "simplified": "超市",
+    "pinyin": "chāo shì",
+    "meaning": "supermarket (abbr. for 超级市场)",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 4427,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-083",
+    "simplified": "北方",
+    "pinyin": "běi fāng",
+    "meaning": "north; the northern part a country; China north of the Yellow River",
+    "hskLevel": 3,
+    "partOfSpeech": "s, f",
+    "frequency": 4879,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-084",
+    "simplified": "宾馆",
+    "pinyin": "bīn guǎn",
+    "meaning": "guesthouse; lodge; hotel",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 4994,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-085",
+    "simplified": "洗手间",
+    "pinyin": "xǐ shǒu jiān",
+    "meaning": "toilet; lavatory; washroom",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 9674,
+    "unitIndex": 6,
+    "unitName": "Places & Directions"
+  },
+  {
+    "id": "hsk3-086",
+    "simplified": "花",
+    "pinyin": "Huā",
+    "meaning": "surname Hua",
+    "hskLevel": 3,
+    "partOfSpeech": "v, n, a",
+    "frequency": 435,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-087",
+    "simplified": "马",
+    "pinyin": "Mǎ",
+    "meaning": "surname Ma; abbr. for Malaysia 马来西亚",
+    "hskLevel": 3,
+    "partOfSpeech": "n, nr, b",
+    "frequency": 605,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-088",
+    "simplified": "环境",
+    "pinyin": "huán jìng",
+    "meaning": "environment; circumstances; surroundings; ambient",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1171,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-089",
+    "simplified": "动物",
+    "pinyin": "dòng wù",
+    "meaning": "animal",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1438,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-090",
+    "simplified": "树",
+    "pinyin": "shù",
+    "meaning": "tree; to cultivate; to set up",
+    "hskLevel": 3,
+    "partOfSpeech": "n, v",
+    "frequency": 1481,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-091",
+    "simplified": "鸟",
+    "pinyin": "diǎo",
+    "meaning": "variant of 屌; penis",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1593,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-092",
+    "simplified": "太阳",
+    "pinyin": "tài yang",
+    "meaning": "sun; abbr. for 太阳穴",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 2001,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-093",
+    "simplified": "河",
+    "pinyin": "hé",
+    "meaning": "river",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 2245,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-094",
+    "simplified": "草",
+    "pinyin": "cǎo",
+    "meaning": "variant of 草",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 2467,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-095",
+    "simplified": "云",
+    "pinyin": "yún",
+    "meaning": "(classical) to say",
+    "hskLevel": 3,
+    "partOfSpeech": "n, g, b",
+    "frequency": 3335,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-096",
+    "simplified": "夏",
+    "pinyin": "Xià",
+    "meaning": "the Xia or Hsia dynasty c. 2000 BC; Xia of the Sixteen Kingdoms (407-432); surname Xia",
+    "hskLevel": 3,
+    "partOfSpeech": "tg, g, nr",
+    "frequency": 3828,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-097",
+    "simplified": "春",
+    "pinyin": "chūn",
+    "meaning": "old variant of 春",
+    "hskLevel": 3,
+    "partOfSpeech": "tg",
+    "frequency": 4065,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-098",
+    "simplified": "季节",
+    "pinyin": "jì jié",
+    "meaning": "time; season; period",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 4724,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-099",
+    "simplified": "月亮",
+    "pinyin": "yuè liang",
+    "meaning": "the moon",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 4781,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-100",
+    "simplified": "冬",
+    "pinyin": "dōng",
+    "meaning": "winter",
+    "hskLevel": 3,
+    "partOfSpeech": "tg",
+    "frequency": 5272,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-101",
+    "simplified": "秋",
+    "pinyin": "Qiū",
+    "meaning": "surname Qiu",
+    "hskLevel": 3,
+    "partOfSpeech": "tg, g",
+    "frequency": 5603,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-102",
+    "simplified": "熊猫",
+    "pinyin": "xióng māo",
+    "meaning": "panda",
+    "hskLevel": 3,
+    "partOfSpeech": "n, nz",
+    "frequency": 7123,
+    "unitIndex": 7,
+    "unitName": "Nature & Environment"
+  },
+  {
+    "id": "hsk3-103",
+    "simplified": "历史",
+    "pinyin": "lì shǐ",
+    "meaning": "history",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 882,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-104",
+    "simplified": "教",
+    "pinyin": "Jiào",
+    "meaning": "surname Jiao",
+    "hskLevel": 3,
+    "partOfSpeech": "v, g",
+    "frequency": 988,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-105",
+    "simplified": "班",
+    "pinyin": "Bān",
+    "meaning": "surname Ban",
+    "hskLevel": 3,
+    "partOfSpeech": "n, q, nr",
+    "frequency": 1238,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-106",
+    "simplified": "文化",
+    "pinyin": "wén huà",
+    "meaning": "culture; civilization; cultural",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1632,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-107",
+    "simplified": "成绩",
+    "pinyin": "chéng jì",
+    "meaning": "achievement; performance records; grades",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1888,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-108",
+    "simplified": "作业",
+    "pinyin": "zuò yè",
+    "meaning": "school assignment; homework; work; task; operation; to operate",
+    "hskLevel": 3,
+    "partOfSpeech": "n, v, vn",
+    "frequency": 2574,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-109",
+    "simplified": "数学",
+    "pinyin": "shù xué",
+    "meaning": "mathematics; mathematical",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3024,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-110",
+    "simplified": "练习",
+    "pinyin": "liàn xí",
+    "meaning": "to practice; exercise; drill; practice",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 3084,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-111",
+    "simplified": "复习",
+    "pinyin": "fù xí",
+    "meaning": "to review; revision",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 6867,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-112",
+    "simplified": "年级",
+    "pinyin": "nián jí",
+    "meaning": "grade; year (in school, college etc)",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 7644,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-113",
+    "simplified": "词语",
+    "pinyin": "cí yǔ",
+    "meaning": "word (general term including monosyllables through to short phrases); term (e.g. technical term); expression",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 10379,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-114",
+    "simplified": "句子",
+    "pinyin": "jù zi",
+    "meaning": "sentence",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 10428,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-115",
+    "simplified": "普通话",
+    "pinyin": "pǔ tōng huà",
+    "meaning": "Mandarin (common language); Putonghua (common speech of the Chinese language); ordinary speech",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 14869,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-116",
+    "simplified": "黑板",
+    "pinyin": "hēi bǎn",
+    "meaning": "blackboard",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 15524,
+    "unitIndex": 8,
+    "unitName": "School & Study"
+  },
+  {
+    "id": "hsk3-117",
+    "simplified": "世界",
+    "pinyin": "shì jiè",
+    "meaning": "world",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 238,
+    "unitIndex": 9,
+    "unitName": "Work & Society"
+  },
+  {
+    "id": "hsk3-118",
+    "simplified": "国家",
+    "pinyin": "guó jiā",
+    "meaning": "country; nation; state",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 356,
+    "unitIndex": 9,
+    "unitName": "Work & Society"
+  },
+  {
+    "id": "hsk3-119",
+    "simplified": "城市",
+    "pinyin": "chéng shì",
+    "meaning": "city; town",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 593,
+    "unitIndex": 9,
+    "unitName": "Work & Society"
+  },
+  {
+    "id": "hsk3-120",
+    "simplified": "新闻",
+    "pinyin": "xīn wén",
+    "meaning": "news",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 805,
+    "unitIndex": 9,
+    "unitName": "Work & Society"
+  },
+  {
+    "id": "hsk3-121",
+    "simplified": "会议",
+    "pinyin": "huì yì",
+    "meaning": "meeting; conference",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 928,
+    "unitIndex": 9,
+    "unitName": "Work & Society"
   },
   {
     "id": "hsk3-122",
-    "simplified": "节目",
-    "pinyin": "jié mù",
-    "meaning": "program; item (on a program)",
+    "simplified": "司机",
+    "pinyin": "sī jī",
+    "meaning": "chauffeur; driver",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "n",
+    "frequency": 1804,
+    "unitIndex": 9,
+    "unitName": "Work & Society"
   },
   {
     "id": "hsk3-123",
-    "simplified": "节日",
-    "pinyin": "jié rì",
-    "meaning": "holiday; festival",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-124",
-    "simplified": "结婚",
-    "pinyin": "jié hūn",
-    "meaning": "to marry; to get married",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-125",
-    "simplified": "结束",
-    "pinyin": "jié shù",
-    "meaning": "termination; to finish; to end; to conclude; to close",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-126",
-    "simplified": "解决",
-    "pinyin": "jiě jué",
-    "meaning": "to solve; to resolve; to settle (a problem); to eliminate; to wipe out (an enemy, bandits etc)",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-127",
-    "simplified": "借",
-    "pinyin": "jiè",
-    "meaning": "to lend; to borrow; by means of; to take (an opportunity)",
-    "hskLevel": 3,
-    "partOfSpeech": "v, p"
-  },
-  {
-    "id": "hsk3-128",
-    "simplified": "经常",
-    "pinyin": "jīng cháng",
-    "meaning": "frequently; constantly; regularly; often; day-to-day; everyday; daily",
-    "hskLevel": 3,
-    "partOfSpeech": "d, b"
-  },
-  {
-    "id": "hsk3-129",
-    "simplified": "经过",
-    "pinyin": "jīng guò",
-    "meaning": "to pass; to go through; process; course",
-    "hskLevel": 3,
-    "partOfSpeech": "p, v, n"
-  },
-  {
-    "id": "hsk3-130",
     "simplified": "经理",
     "pinyin": "jīng lǐ",
     "meaning": "manager; director",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "n",
+    "frequency": 1838,
+    "unitIndex": 9,
+    "unitName": "Work & Society"
+  },
+  {
+    "id": "hsk3-124",
+    "simplified": "带",
+    "pinyin": "dài",
+    "meaning": "band; belt; girdle; ribbon; tire; area; zone; region; to wear; to carry; to take along; to bear (i.e. to have); to lead; to bring; to look after; to raise",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 177,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
+  },
+  {
+    "id": "hsk3-125",
+    "simplified": "放",
+    "pinyin": "fàng",
+    "meaning": "to put; to place; to release; to free; to let go; to let out; to set off (fireworks)",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 280,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
+  },
+  {
+    "id": "hsk3-126",
+    "simplified": "拿",
+    "pinyin": "ná",
+    "meaning": "old variant of 拿",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 287,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
+  },
+  {
+    "id": "hsk3-127",
+    "simplified": "参加",
+    "pinyin": "cān jiā",
+    "meaning": "to participate; to take part; to join",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 355,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
+  },
+  {
+    "id": "hsk3-128",
+    "simplified": "接",
+    "pinyin": "jiē",
+    "meaning": "to receive; to answer (the phone); to meet or welcome sb; to connect; to catch; to join; to extend; to take one's turn on duty; to take over for sb",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 425,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
+  },
+  {
+    "id": "hsk3-129",
+    "simplified": "换",
+    "pinyin": "huàn",
+    "meaning": "to exchange; to change (clothes etc); to substitute; to switch; to convert (currency)",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 618,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
+  },
+  {
+    "id": "hsk3-130",
+    "simplified": "检查",
+    "pinyin": "jiǎn chá",
+    "meaning": "inspection; to examine; to inspect",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 659,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
     "id": "hsk3-131",
-    "simplified": "久",
-    "pinyin": "jiǔ",
-    "meaning": "(long) time; (long) duration of time",
+    "simplified": "画",
+    "pinyin": "huà",
+    "meaning": "to draw; to paint; picture; painting; to draw (a line) (variant of 划); stroke of a Chinese character (variant of 划); (calligraphy) horizontal stroke (variant of 划)",
     "hskLevel": 3,
-    "partOfSpeech": "a, g, ad"
+    "partOfSpeech": "n, v, q",
+    "frequency": 1119,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
     "id": "hsk3-132",
-    "simplified": "旧",
-    "pinyin": "jiù",
-    "meaning": "old; opposite: new 新; former; worn (with age)",
+    "simplified": "关",
+    "pinyin": "Guān",
+    "meaning": "surname Guan",
     "hskLevel": 3,
-    "partOfSpeech": "a, g"
+    "partOfSpeech": "v, n, nr",
+    "frequency": 1129,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
     "id": "hsk3-133",
@@ -1061,1127 +1457,1550 @@
     "pinyin": "jǔ xíng",
     "meaning": "to hold (a meeting, ceremony etc)",
     "hskLevel": 3,
-    "partOfSpeech": "v"
+    "partOfSpeech": "v",
+    "frequency": 1431,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
     "id": "hsk3-134",
-    "simplified": "句子",
-    "pinyin": "jù zi",
-    "meaning": "sentence",
+    "simplified": "借",
+    "pinyin": "jiè",
+    "meaning": "to lend; to borrow; by means of; to take (an opportunity)",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v, p",
+    "frequency": 1495,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
     "id": "hsk3-135",
-    "simplified": "决定",
-    "pinyin": "jué dìng",
-    "meaning": "to decide (to do something); to resolve; decision; certainly",
-    "hskLevel": 3,
-    "partOfSpeech": "v, n"
-  },
-  {
-    "id": "hsk3-136",
-    "simplified": "可爱",
-    "pinyin": "kě ài",
-    "meaning": "adorable; cute; lovely",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-137",
-    "simplified": "渴",
-    "pinyin": "kě",
-    "meaning": "thirsty",
-    "hskLevel": 3,
-    "partOfSpeech": "a, v"
-  },
-  {
-    "id": "hsk3-138",
-    "simplified": "刻",
-    "pinyin": "kè",
-    "meaning": "quarter (hour); moment; to carve; to engrave; to cut; oppressive; classifier for short time intervals",
-    "hskLevel": 3,
-    "partOfSpeech": "v, qt"
-  },
-  {
-    "id": "hsk3-139",
-    "simplified": "客人",
-    "pinyin": "kè rén",
-    "meaning": "visitor; guest; customer; client",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-140",
-    "simplified": "空调",
-    "pinyin": "kōng tiáo",
-    "meaning": "air conditioning; air conditioner (including units that have a heating mode)",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-141",
-    "simplified": "口",
-    "pinyin": "kǒu",
-    "meaning": "mouth; classifier for things with mouths (people, domestic animals, cannons, wells etc); classifier for bites or mouthfuls",
-    "hskLevel": 3,
-    "partOfSpeech": "q, n"
-  },
-  {
-    "id": "hsk3-142",
-    "simplified": "哭",
-    "pinyin": "kū",
-    "meaning": "to cry; to weep",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-143",
-    "simplified": "裤子",
-    "pinyin": "kù zi",
-    "meaning": "variant of 裤子, trousers; pants",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-144",
-    "simplified": "筷子",
-    "pinyin": "kuài zi",
-    "meaning": "chopsticks",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-145",
-    "simplified": "蓝",
-    "pinyin": "Lán",
-    "meaning": "surname Lan",
-    "hskLevel": 3,
-    "partOfSpeech": "a, g"
-  },
-  {
-    "id": "hsk3-146",
-    "simplified": "老",
-    "pinyin": "lǎo",
-    "meaning": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; old (of people); venerable (person); experienced; of long standing; always; all the time; of the past; very; outdated; (of meat etc) tough",
-    "hskLevel": 3,
-    "partOfSpeech": "a, d, g"
-  },
-  {
-    "id": "hsk3-147",
-    "simplified": "了解",
-    "pinyin": "liǎo jiě",
-    "meaning": "to understand; to realize; to find out",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-148",
-    "simplified": "离开",
-    "pinyin": "lí kāi",
-    "meaning": "to depart; to leave",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-149",
-    "simplified": "礼物",
-    "pinyin": "lǐ wù",
-    "meaning": "gift; present",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-150",
-    "simplified": "历史",
-    "pinyin": "lì shǐ",
-    "meaning": "history",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-151",
-    "simplified": "脸",
-    "pinyin": "liǎn",
-    "meaning": "face",
-    "hskLevel": 3,
-    "partOfSpeech": "n, q"
-  },
-  {
-    "id": "hsk3-152",
-    "simplified": "练习",
-    "pinyin": "liàn xí",
-    "meaning": "to practice; exercise; drill; practice",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-153",
-    "simplified": "辆",
-    "pinyin": "liàng",
-    "meaning": "classifier for vehicles",
-    "hskLevel": 3,
-    "partOfSpeech": "q"
-  },
-  {
-    "id": "hsk3-154",
-    "simplified": "邻居",
-    "pinyin": "lín jū",
-    "meaning": "neighbor; next door",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-155",
-    "simplified": "楼",
-    "pinyin": "Lóu",
-    "meaning": "surname Lou",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-156",
-    "simplified": "绿",
-    "pinyin": "lǜ",
-    "meaning": "green; (slang) (derived from 绿帽子) to cheat on (one's spouse or boyfriend or girlfriend)",
-    "hskLevel": 3,
-    "partOfSpeech": "a, an"
-  },
-  {
-    "id": "hsk3-157",
-    "simplified": "马",
-    "pinyin": "Mǎ",
-    "meaning": "surname Ma; abbr. for Malaysia 马来西亚",
-    "hskLevel": 3,
-    "partOfSpeech": "n, nr, b"
-  },
-  {
-    "id": "hsk3-158",
-    "simplified": "马上",
-    "pinyin": "mǎ shàng",
-    "meaning": "at once; right away; immediately; on horseback (i.e. by military force)",
-    "hskLevel": 3,
-    "partOfSpeech": "d, s"
-  },
-  {
-    "id": "hsk3-159",
-    "simplified": "满意",
-    "pinyin": "mǎn yì",
-    "meaning": "satisfied; pleased; to one's satisfaction",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-160",
-    "simplified": "帽子",
-    "pinyin": "mào zi",
-    "meaning": "hat; cap; (fig.) label; bad name",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-161",
-    "simplified": "米",
-    "pinyin": "Mǐ",
-    "meaning": "surname Mi",
-    "hskLevel": 3,
-    "partOfSpeech": "n, q"
-  },
-  {
-    "id": "hsk3-162",
-    "simplified": "面包",
-    "pinyin": "miàn bāo",
-    "meaning": "bread",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-163",
-    "simplified": "面条",
-    "pinyin": "miàn tiáo",
-    "meaning": "noodles",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-164",
-    "simplified": "明白",
-    "pinyin": "míng bai",
-    "meaning": "clear; obvious; unequivocal; to understand; to realize",
-    "hskLevel": 3,
-    "partOfSpeech": "v, a, an"
-  },
-  {
-    "id": "hsk3-165",
-    "simplified": "拿",
-    "pinyin": "ná",
-    "meaning": "old variant of 拿",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-166",
-    "simplified": "奶奶",
-    "pinyin": "nǎi nai",
-    "meaning": "(informal) grandma (paternal grandmother); (respectful) mistress of the house; (coll.) boobies; breasts",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-167",
-    "simplified": "南",
-    "pinyin": "Nán",
-    "meaning": "surname Nan",
-    "hskLevel": 3,
-    "partOfSpeech": "b, f"
-  },
-  {
-    "id": "hsk3-168",
-    "simplified": "难",
-    "pinyin": "nán",
-    "meaning": "difficult (to...); problem; difficulty; difficult; not good",
-    "hskLevel": 3,
-    "partOfSpeech": "ad, a, v, g"
-  },
-  {
-    "id": "hsk3-169",
-    "simplified": "难过",
-    "pinyin": "nán guò",
-    "meaning": "to feel sad; to feel unwell; (of life) to be difficult",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-170",
-    "simplified": "年级",
-    "pinyin": "nián jí",
-    "meaning": "grade; year (in school, college etc)",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-171",
-    "simplified": "年轻",
-    "pinyin": "nián qīng",
-    "meaning": "young",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-172",
-    "simplified": "鸟",
-    "pinyin": "diǎo",
-    "meaning": "variant of 屌; penis",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-173",
-    "simplified": "努力",
-    "pinyin": "nǔ lì",
-    "meaning": "to make an effort; to try hard; to strive; hard-working; conscientious",
-    "hskLevel": 3,
-    "partOfSpeech": "ad, an, a"
-  },
-  {
-    "id": "hsk3-174",
-    "simplified": "爬山",
-    "pinyin": "pá shān",
-    "meaning": "to climb a mountain; to mountaineer; hiking; mountaineering",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-175",
-    "simplified": "盘子",
-    "pinyin": "pán zi",
-    "meaning": "tray; plate; dish",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-176",
-    "simplified": "胖",
-    "pinyin": "pán",
-    "meaning": "healthy; at ease",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-177",
-    "simplified": "啤酒",
-    "pinyin": "pí jiǔ",
-    "meaning": "beer (loanword)",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-178",
-    "simplified": "葡萄",
-    "pinyin": "pú tao",
-    "meaning": "grape",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-179",
-    "simplified": "普通话",
-    "pinyin": "pǔ tōng huà",
-    "meaning": "Mandarin (common language); Putonghua (common speech of the Chinese language); ordinary speech",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-180",
-    "simplified": "其实",
-    "pinyin": "qí shí",
-    "meaning": "actually; in fact; really",
-    "hskLevel": 3,
-    "partOfSpeech": "d"
-  },
-  {
-    "id": "hsk3-181",
-    "simplified": "其他",
-    "pinyin": "qí tā",
-    "meaning": "other; (sth or sb) else; the rest",
-    "hskLevel": 3,
-    "partOfSpeech": "r"
-  },
-  {
-    "id": "hsk3-182",
-    "simplified": "奇怪",
-    "pinyin": "qí guài",
-    "meaning": "strange; odd; to marvel; to be baffled",
-    "hskLevel": 3,
-    "partOfSpeech": "v, a"
-  },
-  {
-    "id": "hsk3-183",
     "simplified": "骑",
     "pinyin": "jì",
     "meaning": "(Tw) saddle horse; mounted soldier",
     "hskLevel": 3,
-    "partOfSpeech": "v"
+    "partOfSpeech": "v",
+    "frequency": 2231,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
-    "id": "hsk3-184",
-    "simplified": "铅笔",
-    "pinyin": "qiān bǐ",
-    "meaning": "(lead) pencil",
+    "id": "hsk3-136",
+    "simplified": "搬",
+    "pinyin": "bān",
+    "meaning": "to move (i.e. relocate oneself); to move (sth relatively heavy or bulky); to shift; to copy indiscriminately",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v",
+    "frequency": 2254,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
-    "id": "hsk3-185",
-    "simplified": "清楚",
-    "pinyin": "qīng chu",
-    "meaning": "clear; distinct; to understand thoroughly; to be clear about",
-    "hskLevel": 3,
-    "partOfSpeech": "a, v, ad"
-  },
-  {
-    "id": "hsk3-186",
-    "simplified": "秋",
-    "pinyin": "Qiū",
-    "meaning": "surname Qiu",
-    "hskLevel": 3,
-    "partOfSpeech": "tg, g"
-  },
-  {
-    "id": "hsk3-187",
-    "simplified": "裙子",
-    "pinyin": "qún zi",
-    "meaning": "skirt",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-188",
-    "simplified": "然后",
-    "pinyin": "rán hòu",
-    "meaning": "then; after that; afterwards",
-    "hskLevel": 3,
-    "partOfSpeech": "c"
-  },
-  {
-    "id": "hsk3-189",
-    "simplified": "热情",
-    "pinyin": "rè qíng",
-    "meaning": "cordial; enthusiastic; passion; passionate; passionately",
-    "hskLevel": 3,
-    "partOfSpeech": "an, a, ad"
-  },
-  {
-    "id": "hsk3-190",
-    "simplified": "认为",
-    "pinyin": "rèn wéi",
-    "meaning": "to believe; to think; to consider; to feel",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-191",
-    "simplified": "认真",
-    "pinyin": "rèn zhēn",
-    "meaning": "conscientious; earnest; serious; to take seriously; to take to heart",
-    "hskLevel": 3,
-    "partOfSpeech": "a, ad"
-  },
-  {
-    "id": "hsk3-192",
-    "simplified": "容易",
-    "pinyin": "róng yì",
-    "meaning": "easy; straightforward; likely; liable to; apt to",
-    "hskLevel": 3,
-    "partOfSpeech": "a, ad"
-  },
-  {
-    "id": "hsk3-193",
-    "simplified": "如果",
-    "pinyin": "rú guǒ",
-    "meaning": "if; in case; in the event that",
-    "hskLevel": 3,
-    "partOfSpeech": "c, v"
-  },
-  {
-    "id": "hsk3-194",
-    "simplified": "伞",
-    "pinyin": "sǎn",
-    "meaning": "umbrella; parasol",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-195",
-    "simplified": "上网",
-    "pinyin": "shàng wǎng",
-    "meaning": "to go online; to connect to the Internet; (of a document etc) to be uploaded to the Internet; (tennis, volleyball etc) to move in close to the net",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-196",
-    "simplified": "生气",
-    "pinyin": "shēng qì",
-    "meaning": "to get angry; to take offense; angry; vitality; liveliness",
-    "hskLevel": 3,
-    "partOfSpeech": "a, n, v, an"
-  },
-  {
-    "id": "hsk3-197",
-    "simplified": "声音",
-    "pinyin": "shēng yīn",
-    "meaning": "voice; sound",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-198",
-    "simplified": "使",
-    "pinyin": "shǐ",
-    "meaning": "to make; to cause; to enable; to use; to employ; to send; to instruct sb to do sth; envoy; messenger",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-199",
-    "simplified": "世界",
-    "pinyin": "shì jiè",
-    "meaning": "world",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-200",
-    "simplified": "瘦",
-    "pinyin": "shòu",
-    "meaning": "thin; to lose weight; (of clothing) tight; (of meat) lean; (of land) unproductive",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-201",
-    "simplified": "叔叔",
-    "pinyin": "shū shu",
-    "meaning": "father's younger brother; uncle; Taiwan pr. [shú shu]",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-202",
-    "simplified": "舒服",
-    "pinyin": "shū fu",
-    "meaning": "comfortable; feeling well",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-203",
-    "simplified": "树",
-    "pinyin": "shù",
-    "meaning": "tree; to cultivate; to set up",
-    "hskLevel": 3,
-    "partOfSpeech": "n, v"
-  },
-  {
-    "id": "hsk3-204",
-    "simplified": "数学",
-    "pinyin": "shù xué",
-    "meaning": "mathematics; mathematical",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-205",
+    "id": "hsk3-137",
     "simplified": "刷",
     "pinyin": "shuā",
     "meaning": "to brush; to paint; to daub; to paste up; to skip class (of students); to fire from a job",
     "hskLevel": 3,
-    "partOfSpeech": "v, o"
+    "partOfSpeech": "v, o",
+    "frequency": 3060,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
-    "id": "hsk3-206",
-    "simplified": "双",
-    "pinyin": "Shuāng",
-    "meaning": "surname Shuang",
-    "hskLevel": 3,
-    "partOfSpeech": "m, q"
-  },
-  {
-    "id": "hsk3-207",
-    "simplified": "水平",
-    "pinyin": "shuǐ píng",
-    "meaning": "level (of achievement etc); standard; horizontal",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-208",
-    "simplified": "司机",
-    "pinyin": "sī jī",
-    "meaning": "chauffeur; driver",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-209",
-    "simplified": "虽然",
-    "pinyin": "suī rán",
-    "meaning": "although; even though (often used correlatively with 是 or 是 etc)",
-    "hskLevel": 3,
-    "partOfSpeech": "c"
-  },
-  {
-    "id": "hsk3-210",
-    "simplified": "太阳",
-    "pinyin": "tài yang",
-    "meaning": "sun; abbr. for 太阳穴",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-211",
-    "simplified": "糖",
-    "pinyin": "táng",
-    "meaning": "sugar; sweets; candy",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-212",
-    "simplified": "特别",
-    "pinyin": "tè bié",
-    "meaning": "unusual; special; very; especially; particularly; expressly; for a specific purpose; (often followed by 是) in particular",
-    "hskLevel": 3,
-    "partOfSpeech": "d, a"
-  },
-  {
-    "id": "hsk3-213",
-    "simplified": "疼",
-    "pinyin": "téng",
-    "meaning": "(it) hurts; sore; to love dearly",
-    "hskLevel": 3,
-    "partOfSpeech": "v, a"
-  },
-  {
-    "id": "hsk3-214",
-    "simplified": "提高",
-    "pinyin": "tí gāo",
-    "meaning": "to raise; to increase; to improve",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-215",
-    "simplified": "体育",
-    "pinyin": "tǐ yù",
-    "meaning": "sports; physical education",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-216",
-    "simplified": "甜",
-    "pinyin": "tián",
-    "meaning": "sweet",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-217",
-    "simplified": "条",
-    "pinyin": "tiáo",
-    "meaning": "strip; item; article; clause (of law or treaty); classifier for long thin things (ribbon, river, road, trousers etc)",
-    "hskLevel": 3,
-    "partOfSpeech": "q"
-  },
-  {
-    "id": "hsk3-218",
-    "simplified": "同事",
-    "pinyin": "tóng shì",
-    "meaning": "colleague; co-worker",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-219",
-    "simplified": "同意",
-    "pinyin": "tóng yì",
-    "meaning": "to agree; to consent; to approve",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-220",
-    "simplified": "头发",
-    "pinyin": "tóu fa",
-    "meaning": "hair (on the head)",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-221",
-    "simplified": "突然",
-    "pinyin": "tū rán",
-    "meaning": "sudden; abrupt; unexpected",
-    "hskLevel": 3,
-    "partOfSpeech": "ad, a"
-  },
-  {
-    "id": "hsk3-222",
-    "simplified": "图书馆",
-    "pinyin": "tú shū guǎn",
-    "meaning": "library",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-223",
-    "simplified": "腿",
-    "pinyin": "tuǐ",
-    "meaning": "leg",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-224",
-    "simplified": "完成",
-    "pinyin": "wán chéng",
-    "meaning": "to complete; to accomplish",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-225",
-    "simplified": "碗",
-    "pinyin": "wǎn",
-    "meaning": "variant of 碗",
-    "hskLevel": 3,
-    "partOfSpeech": "n, q"
-  },
-  {
-    "id": "hsk3-226",
-    "simplified": "万",
-    "pinyin": "mò",
-    "meaning": "used in 俟",
-    "hskLevel": 3,
-    "partOfSpeech": "m, t"
-  },
-  {
-    "id": "hsk3-227",
-    "simplified": "忘记",
-    "pinyin": "wàng jì",
-    "meaning": "to forget",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-228",
-    "simplified": "为了",
-    "pinyin": "wèi le",
-    "meaning": "for; for the purpose of; in order to",
-    "hskLevel": 3,
-    "partOfSpeech": "p, v"
-  },
-  {
-    "id": "hsk3-229",
-    "simplified": "为什么",
-    "pinyin": "wèi shén me",
-    "meaning": "why?; for what reason?",
-    "hskLevel": 3,
-    "partOfSpeech": "r"
-  },
-  {
-    "id": "hsk3-230",
-    "simplified": "位",
-    "pinyin": "wèi",
-    "meaning": "position; location; place; seat; classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes); (physics) potential",
-    "hskLevel": 3,
-    "partOfSpeech": "q, g"
-  },
-  {
-    "id": "hsk3-231",
-    "simplified": "文化",
-    "pinyin": "wén huà",
-    "meaning": "culture; civilization; cultural",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-232",
-    "simplified": "习惯",
-    "pinyin": "xí guàn",
-    "meaning": "habit; custom; usual practice; to be used to",
-    "hskLevel": 3,
-    "partOfSpeech": "n, v"
-  },
-  {
-    "id": "hsk3-233",
-    "simplified": "洗手间",
-    "pinyin": "xǐ shǒu jiān",
-    "meaning": "toilet; lavatory; washroom",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-234",
+    "id": "hsk3-138",
     "simplified": "洗澡",
     "pinyin": "xǐ zǎo",
     "meaning": "to bathe; to take a shower",
     "hskLevel": 3,
-    "partOfSpeech": "v, vn"
+    "partOfSpeech": "v, vn",
+    "frequency": 3512,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
-    "id": "hsk3-235",
-    "simplified": "西",
-    "pinyin": "Xī",
-    "meaning": "the West; abbr. for Spain 牙; Spanish",
+    "id": "hsk3-139",
+    "simplified": "上网",
+    "pinyin": "shàng wǎng",
+    "meaning": "to go online; to connect to the Internet; (of a document etc) to be uploaded to the Internet; (tennis, volleyball etc) to move in close to the net",
     "hskLevel": 3,
-    "partOfSpeech": "f, b"
+    "partOfSpeech": "v, vn",
+    "frequency": 4061,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
-    "id": "hsk3-236",
-    "simplified": "夏",
-    "pinyin": "Xià",
-    "meaning": "the Xia or Hsia dynasty c. 2000 BC; Xia of the Sixteen Kingdoms (407-432); surname Xia",
+    "id": "hsk3-140",
+    "simplified": "打扫",
+    "pinyin": "dǎ sǎo",
+    "meaning": "to clean; to sweep",
     "hskLevel": 3,
-    "partOfSpeech": "tg, g, nr"
+    "partOfSpeech": "v",
+    "frequency": 6258,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
-    "id": "hsk3-237",
-    "simplified": "先",
-    "pinyin": "xiān",
-    "meaning": "early; prior; former; in advance; first",
+    "id": "hsk3-141",
+    "simplified": "爬山",
+    "pinyin": "pá shān",
+    "meaning": "to climb a mountain; to mountaineer; hiking; mountaineering",
     "hskLevel": 3,
-    "partOfSpeech": "d, g"
+    "partOfSpeech": "v, vn",
+    "frequency": 15470,
+    "unitIndex": 10,
+    "unitName": "Physical Actions"
   },
   {
-    "id": "hsk3-238",
-    "simplified": "相同",
-    "pinyin": "xiāng tóng",
-    "meaning": "identical; same",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-239",
-    "simplified": "相信",
-    "pinyin": "xiāng xìn",
-    "meaning": "to be convinced (that sth is true); to believe; to accept sth as true",
-    "hskLevel": 3,
-    "partOfSpeech": "v"
-  },
-  {
-    "id": "hsk3-240",
-    "simplified": "香蕉",
-    "pinyin": "xiāng jiāo",
-    "meaning": "banana",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-241",
-    "simplified": "像",
-    "pinyin": "xiàng",
-    "meaning": "to resemble; to be like; to look as if; such as; appearance; image; portrait; image under a mapping (math.)",
-    "hskLevel": 3,
-    "partOfSpeech": "v, p, n, d"
-  },
-  {
-    "id": "hsk3-242",
-    "simplified": "小心",
-    "pinyin": "xiǎo xīn",
-    "meaning": "to be careful; to take care",
-    "hskLevel": 3,
-    "partOfSpeech": "a, v, ad"
-  },
-  {
-    "id": "hsk3-243",
-    "simplified": "校长",
-    "pinyin": "xiào zhǎng",
-    "meaning": "(college, university) president; headmaster",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-244",
-    "simplified": "鞋",
-    "pinyin": "xié",
-    "meaning": "shoe",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-245",
-    "simplified": "新闻",
-    "pinyin": "xīn wén",
-    "meaning": "news",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-246",
-    "simplified": "新鲜",
-    "pinyin": "xīn xiān",
-    "meaning": "fresh (experience, food etc); freshness; novel; uncommon",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-247",
-    "simplified": "信",
-    "pinyin": "xìn",
-    "meaning": "letter; mail; to trust; to believe; to profess faith in; truthful; confidence; trust; at will; at random",
-    "hskLevel": 3,
-    "partOfSpeech": "n, v"
-  },
-  {
-    "id": "hsk3-248",
-    "simplified": "行李箱",
-    "pinyin": "xíng li xiāng",
-    "meaning": "suitcase; baggage compartment; overhead bin; (car) trunk; boot",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-249",
-    "simplified": "兴趣",
-    "pinyin": "xìng qù",
-    "meaning": "interest (desire to know about sth); interest (thing in which one is interested); hobby",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-250",
-    "simplified": "熊猫",
-    "pinyin": "xióng māo",
-    "meaning": "panda",
-    "hskLevel": 3,
-    "partOfSpeech": "n, nz"
-  },
-  {
-    "id": "hsk3-251",
+    "id": "hsk3-142",
     "simplified": "需要",
     "pinyin": "xū yào",
     "meaning": "to need; to want; to demand; to require; needs",
     "hskLevel": 3,
-    "partOfSpeech": "v, n, vn"
+    "partOfSpeech": "v, n, vn",
+    "frequency": 131,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
   },
   {
-    "id": "hsk3-252",
+    "id": "hsk3-143",
+    "simplified": "认为",
+    "pinyin": "rèn wéi",
+    "meaning": "to believe; to think; to consider; to feel",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 168,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
+  },
+  {
+    "id": "hsk3-144",
+    "simplified": "发现",
+    "pinyin": "fā xiàn",
+    "meaning": "to notice; to become aware of; to discover; to find; to detect; a discovery",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 189,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
+  },
+  {
+    "id": "hsk3-145",
+    "simplified": "了解",
+    "pinyin": "liǎo jiě",
+    "meaning": "to understand; to realize; to find out",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 336,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
+  },
+  {
+    "id": "hsk3-146",
+    "simplified": "决定",
+    "pinyin": "jué dìng",
+    "meaning": "to decide (to do something); to resolve; decision; certainly",
+    "hskLevel": 3,
+    "partOfSpeech": "v, n",
+    "frequency": 366,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
+  },
+  {
+    "id": "hsk3-147",
     "simplified": "选择",
     "pinyin": "xuǎn zé",
     "meaning": "to select; to pick; choice; option; alternative",
     "hskLevel": 3,
-    "partOfSpeech": "v, vn"
+    "partOfSpeech": "v, vn",
+    "frequency": 373,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
   },
   {
-    "id": "hsk3-253",
-    "simplified": "眼镜",
-    "pinyin": "yǎn jìng",
-    "meaning": "spectacles; eyeglasses",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-254",
+    "id": "hsk3-148",
     "simplified": "要求",
     "pinyin": "yāo qiú",
     "meaning": "to request; to require; requirement; to stake a claim; to ask; to demand",
     "hskLevel": 3,
-    "partOfSpeech": "v, n"
+    "partOfSpeech": "v, n",
+    "frequency": 409,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
   },
   {
-    "id": "hsk3-255",
-    "simplified": "爷爷",
-    "pinyin": "yé ye",
-    "meaning": "(coll.) father's father; paternal grandfather",
+    "id": "hsk3-149",
+    "simplified": "相信",
+    "pinyin": "xiāng xìn",
+    "meaning": "to be convinced (that sth is true); to believe; to accept sth as true",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v",
+    "frequency": 431,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
   },
   {
-    "id": "hsk3-256",
-    "simplified": "一般",
-    "pinyin": "yī bān",
-    "meaning": "same; ordinary; so-so; common; general; generally; in general",
+    "id": "hsk3-150",
+    "simplified": "注意",
+    "pinyin": "zhù yì",
+    "meaning": "to take note of; to pay attention to",
     "hskLevel": 3,
-    "partOfSpeech": "a, ad, u"
+    "partOfSpeech": "v, vn",
+    "frequency": 547,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
   },
   {
-    "id": "hsk3-257",
-    "simplified": "一边",
-    "pinyin": "yī biān",
-    "meaning": "one side; either side; on the one hand; on the other hand; doing while",
-    "hskLevel": 3,
-    "partOfSpeech": "d, f"
-  },
-  {
-    "id": "hsk3-258",
-    "simplified": "一定",
-    "pinyin": "yī dìng",
-    "meaning": "surely; certainly; necessarily; fixed; a certain (extent etc); given; particular; must",
-    "hskLevel": 3,
-    "partOfSpeech": "d, b"
-  },
-  {
-    "id": "hsk3-259",
-    "simplified": "一共",
-    "pinyin": "yī gòng",
-    "meaning": "altogether",
-    "hskLevel": 3,
-    "partOfSpeech": "d"
-  },
-  {
-    "id": "hsk3-260",
-    "simplified": "一会儿",
-    "pinyin": "yī huì r",
-    "meaning": "a moment; a while; in a moment; now...now...; also pr. [yī huǐ r]",
-    "hskLevel": 3,
-    "partOfSpeech": "mq"
-  },
-  {
-    "id": "hsk3-261",
-    "simplified": "一样",
-    "pinyin": "yī yàng",
-    "meaning": "same; like; equal to; the same as; just like",
-    "hskLevel": 3,
-    "partOfSpeech": "u, a, ad"
-  },
-  {
-    "id": "hsk3-262",
-    "simplified": "一直",
-    "pinyin": "yī zhí",
-    "meaning": "straight (in a straight line); continuously; always; all the way through",
-    "hskLevel": 3,
-    "partOfSpeech": "d"
-  },
-  {
-    "id": "hsk3-263",
-    "simplified": "以后",
-    "pinyin": "yǐ hòu",
-    "meaning": "after; later; afterwards; following; later on; in the future",
-    "hskLevel": 3,
-    "partOfSpeech": "f"
-  },
-  {
-    "id": "hsk3-264",
-    "simplified": "以前",
-    "pinyin": "yǐ qián",
-    "meaning": "before; formerly; previous; ago",
-    "hskLevel": 3,
-    "partOfSpeech": "f"
-  },
-  {
-    "id": "hsk3-265",
+    "id": "hsk3-151",
     "simplified": "以为",
     "pinyin": "yǐ wéi",
     "meaning": "to think (i.e. to take it to be true that ...) (Usually there is an implication that the notion is mistaken – except when expressing one's own current opinion.)",
     "hskLevel": 3,
-    "partOfSpeech": "v"
+    "partOfSpeech": "v",
+    "frequency": 567,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
   },
   {
-    "id": "hsk3-266",
-    "simplified": "音乐",
-    "pinyin": "yīn yuè",
-    "meaning": "music",
+    "id": "hsk3-152",
+    "simplified": "明白",
+    "pinyin": "míng bai",
+    "meaning": "clear; obvious; unequivocal; to understand; to realize",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v, a, an",
+    "frequency": 676,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
   },
   {
-    "id": "hsk3-267",
-    "simplified": "银行",
-    "pinyin": "yín háng",
-    "meaning": "bank",
+    "id": "hsk3-153",
+    "simplified": "记得",
+    "pinyin": "jì de",
+    "meaning": "to remember",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v",
+    "frequency": 699,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
   },
   {
-    "id": "hsk3-268",
-    "simplified": "应该",
-    "pinyin": "yīng gāi",
-    "meaning": "ought to; should; must",
+    "id": "hsk3-154",
+    "simplified": "敢",
+    "pinyin": "gǎn",
+    "meaning": "to dare; daring; (polite) may I venture",
     "hskLevel": 3,
-    "partOfSpeech": "v"
+    "partOfSpeech": "v, g",
+    "frequency": 902,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
   },
   {
-    "id": "hsk3-269",
-    "simplified": "影响",
-    "pinyin": "yǐng xiǎng",
-    "meaning": "influence; effect; to influence; to affect (usually adversely); to disturb",
+    "id": "hsk3-155",
+    "simplified": "忘记",
+    "pinyin": "wàng jì",
+    "meaning": "to forget",
     "hskLevel": 3,
-    "partOfSpeech": "v, vn"
+    "partOfSpeech": "v",
+    "frequency": 1335,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
   },
   {
-    "id": "hsk3-270",
-    "simplified": "用",
-    "pinyin": "yòng",
-    "meaning": "to use; to employ; to have to; to eat or drink; expense or outlay; usefulness; hence; therefore",
+    "id": "hsk3-156",
+    "simplified": "打算",
+    "pinyin": "dǎ suàn",
+    "meaning": "to plan; to intend; to calculate; plan; intention; calculation",
     "hskLevel": 3,
-    "partOfSpeech": "v, p, g"
+    "partOfSpeech": "v, n, vn",
+    "frequency": 1374,
+    "unitIndex": 11,
+    "unitName": "Mental Verbs"
   },
   {
-    "id": "hsk3-271",
-    "simplified": "游戏",
-    "pinyin": "yóu xì",
-    "meaning": "game; to play",
+    "id": "hsk3-157",
+    "simplified": "重要",
+    "pinyin": "zhòng yào",
+    "meaning": "important; significant; major",
     "hskLevel": 3,
-    "partOfSpeech": "n, v"
+    "partOfSpeech": "a",
+    "frequency": 240,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
   },
   {
-    "id": "hsk3-272",
+    "id": "hsk3-158",
+    "simplified": "特别",
+    "pinyin": "tè bié",
+    "meaning": "unusual; special; very; especially; particularly; expressly; for a specific purpose; (often followed by 是) in particular",
+    "hskLevel": 3,
+    "partOfSpeech": "d, a",
+    "frequency": 541,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-159",
+    "simplified": "难",
+    "pinyin": "nán",
+    "meaning": "difficult (to...); problem; difficulty; difficult; not good",
+    "hskLevel": 3,
+    "partOfSpeech": "ad, a, v, g",
+    "frequency": 544,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-160",
+    "simplified": "容易",
+    "pinyin": "róng yì",
+    "meaning": "easy; straightforward; likely; liable to; apt to",
+    "hskLevel": 3,
+    "partOfSpeech": "a, ad",
+    "frequency": 664,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-161",
+    "simplified": "简单",
+    "pinyin": "jiǎn dān",
+    "meaning": "simple; not complicated",
+    "hskLevel": 3,
+    "partOfSpeech": "a, ad",
+    "frequency": 726,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-162",
+    "simplified": "清楚",
+    "pinyin": "qīng chu",
+    "meaning": "clear; distinct; to understand thoroughly; to be clear about",
+    "hskLevel": 3,
+    "partOfSpeech": "a, v, ad",
+    "frequency": 766,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-163",
+    "simplified": "可爱",
+    "pinyin": "kě ài",
+    "meaning": "adorable; cute; lovely",
+    "hskLevel": 3,
+    "partOfSpeech": "a",
+    "frequency": 799,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-164",
+    "simplified": "低",
+    "pinyin": "dī",
+    "meaning": "low; beneath; to lower (one's head); to let droop; to hang down; to incline",
+    "hskLevel": 3,
+    "partOfSpeech": "a, ad, v",
+    "frequency": 951,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-165",
+    "simplified": "短",
+    "pinyin": "duǎn",
+    "meaning": "short; brief; to lack; weak point; fault",
+    "hskLevel": 3,
+    "partOfSpeech": "a",
+    "frequency": 983,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-166",
+    "simplified": "认真",
+    "pinyin": "rèn zhēn",
+    "meaning": "conscientious; earnest; serious; to take seriously; to take to heart",
+    "hskLevel": 3,
+    "partOfSpeech": "a, ad",
+    "frequency": 1020,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-167",
+    "simplified": "久",
+    "pinyin": "jiǔ",
+    "meaning": "(long) time; (long) duration of time",
+    "hskLevel": 3,
+    "partOfSpeech": "a, g, ad",
+    "frequency": 1103,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-168",
+    "simplified": "坏",
+    "pinyin": "huài",
+    "meaning": "bad; spoiled; broken; to break down; (suffix) to the utmost",
+    "hskLevel": 3,
+    "partOfSpeech": "a, v",
+    "frequency": 1239,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-169",
+    "simplified": "蓝",
+    "pinyin": "Lán",
+    "meaning": "surname Lan",
+    "hskLevel": 3,
+    "partOfSpeech": "a, g",
+    "frequency": 1615,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-170",
+    "simplified": "奇怪",
+    "pinyin": "qí guài",
+    "meaning": "strange; odd; to marvel; to be baffled",
+    "hskLevel": 3,
+    "partOfSpeech": "v, a",
+    "frequency": 1655,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-171",
+    "simplified": "满意",
+    "pinyin": "mǎn yì",
+    "meaning": "satisfied; pleased; to one's satisfaction",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 1761,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-172",
+    "simplified": "旧",
+    "pinyin": "jiù",
+    "meaning": "old; opposite: new 新; former; worn (with age)",
+    "hskLevel": 3,
+    "partOfSpeech": "a, g",
+    "frequency": 1787,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-173",
+    "simplified": "黄",
+    "pinyin": "Huáng",
+    "meaning": "surname Huang or Hwang",
+    "hskLevel": 3,
+    "partOfSpeech": "nr, a, b",
+    "frequency": 1809,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-174",
+    "simplified": "聪明",
+    "pinyin": "cōng ming",
+    "meaning": "intelligent; clever; bright; smart; acute (of sight and hearing)",
+    "hskLevel": 3,
+    "partOfSpeech": "a, an",
+    "frequency": 1918,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-175",
+    "simplified": "方便",
+    "pinyin": "fāng biàn",
+    "meaning": "convenient; suitable; to facilitate; to make things easy; having money to spare; (euphemism) to relieve oneself",
+    "hskLevel": 3,
+    "partOfSpeech": "v, a, an",
+    "frequency": 2014,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-176",
+    "simplified": "热情",
+    "pinyin": "rè qíng",
+    "meaning": "cordial; enthusiastic; passion; passionate; passionately",
+    "hskLevel": 3,
+    "partOfSpeech": "an, a, ad",
+    "frequency": 2149,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-177",
+    "simplified": "干净",
+    "pinyin": "gān jìng",
+    "meaning": "clean; neat",
+    "hskLevel": 3,
+    "partOfSpeech": "a, ad",
+    "frequency": 2430,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-178",
+    "simplified": "安静",
+    "pinyin": "ān jìng",
+    "meaning": "quiet; peaceful; calm",
+    "hskLevel": 3,
+    "partOfSpeech": "a",
+    "frequency": 2501,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-179",
+    "simplified": "绿",
+    "pinyin": "lǜ",
+    "meaning": "green; (slang) (derived from 绿帽子) to cheat on (one's spouse or boyfriend or girlfriend)",
+    "hskLevel": 3,
+    "partOfSpeech": "a, an",
+    "frequency": 2608,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-180",
+    "simplified": "新鲜",
+    "pinyin": "xīn xiān",
+    "meaning": "fresh (experience, food etc); freshness; novel; uncommon",
+    "hskLevel": 3,
+    "partOfSpeech": "a",
+    "frequency": 2651,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
+  },
+  {
+    "id": "hsk3-181",
     "simplified": "有名",
     "pinyin": "yǒu míng",
     "meaning": "famous; well-known",
     "hskLevel": 3,
-    "partOfSpeech": "a"
+    "partOfSpeech": "a",
+    "frequency": 6219,
+    "unitIndex": 12,
+    "unitName": "Descriptions"
   },
   {
-    "id": "hsk3-273",
+    "id": "hsk3-182",
     "simplified": "又",
     "pinyin": "yòu",
     "meaning": "(once) again; also; both... and...; and yet; (used for emphasis) anyway",
     "hskLevel": 3,
-    "partOfSpeech": "d, c"
+    "partOfSpeech": "d, c",
+    "frequency": 91,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-183",
+    "simplified": "才",
+    "pinyin": "cái",
+    "meaning": "ability; talent; sb of a certain type; a capable individual; then and only then; just now; (before an expression of quantity) only",
+    "hskLevel": 3,
+    "partOfSpeech": "d, c, n",
+    "frequency": 133,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-184",
+    "simplified": "一直",
+    "pinyin": "yī zhí",
+    "meaning": "straight (in a straight line); continuously; always; all the way through",
+    "hskLevel": 3,
+    "partOfSpeech": "d",
+    "frequency": 203,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-185",
+    "simplified": "先",
+    "pinyin": "xiān",
+    "meaning": "early; prior; former; in advance; first",
+    "hskLevel": 3,
+    "partOfSpeech": "d, g",
+    "frequency": 306,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-186",
+    "simplified": "过去",
+    "pinyin": "guò qù",
+    "meaning": "(in the) past; former; previous; to go over; to pass by",
+    "hskLevel": 3,
+    "partOfSpeech": "v, t",
+    "frequency": 353,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-187",
+    "simplified": "以后",
+    "pinyin": "yǐ hòu",
+    "meaning": "after; later; afterwards; following; later on; in the future",
+    "hskLevel": 3,
+    "partOfSpeech": "f",
+    "frequency": 407,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-188",
+    "simplified": "以前",
+    "pinyin": "yǐ qián",
+    "meaning": "before; formerly; previous; ago",
+    "hskLevel": 3,
+    "partOfSpeech": "f",
+    "frequency": 524,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-189",
+    "simplified": "最近",
+    "pinyin": "zuì jìn",
+    "meaning": "recently; soon; nearest",
+    "hskLevel": 3,
+    "partOfSpeech": "t",
+    "frequency": 612,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-190",
+    "simplified": "终于",
+    "pinyin": "zhōng yú",
+    "meaning": "at last; in the end; finally; eventually",
+    "hskLevel": 3,
+    "partOfSpeech": "d",
+    "frequency": 625,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-191",
+    "simplified": "总是",
+    "pinyin": "zǒng shì",
+    "meaning": "always",
+    "hskLevel": 3,
+    "partOfSpeech": "d, v",
+    "frequency": 638,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-192",
+    "simplified": "突然",
+    "pinyin": "tū rán",
+    "meaning": "sudden; abrupt; unexpected",
+    "hskLevel": 3,
+    "partOfSpeech": "ad, a",
+    "frequency": 644,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-193",
+    "simplified": "半",
+    "pinyin": "bàn",
+    "meaning": "half; semi-; incomplete; (after a number) and a half",
+    "hskLevel": 3,
+    "partOfSpeech": "m",
+    "frequency": 727,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-194",
+    "simplified": "马上",
+    "pinyin": "mǎ shàng",
+    "meaning": "at once; right away; immediately; on horseback (i.e. by military force)",
+    "hskLevel": 3,
+    "partOfSpeech": "d, s",
+    "frequency": 847,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-195",
+    "simplified": "经常",
+    "pinyin": "jīng cháng",
+    "meaning": "frequently; constantly; regularly; often; day-to-day; everyday; daily",
+    "hskLevel": 3,
+    "partOfSpeech": "d, b",
+    "frequency": 940,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-196",
+    "simplified": "刚才",
+    "pinyin": "gāng cái",
+    "meaning": "just now; a moment ago",
+    "hskLevel": 3,
+    "partOfSpeech": "t",
+    "frequency": 1149,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-197",
+    "simplified": "周末",
+    "pinyin": "zhōu mò",
+    "meaning": "weekend",
+    "hskLevel": 3,
+    "partOfSpeech": "t",
+    "frequency": 1269,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-198",
+    "simplified": "一会儿",
+    "pinyin": "yī huì r",
+    "meaning": "a moment; a while; in a moment; now...now...; also pr. [yī huǐ r]",
+    "hskLevel": 3,
+    "partOfSpeech": "mq",
+    "frequency": 2207,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-199",
+    "simplified": "节日",
+    "pinyin": "jié rì",
+    "meaning": "holiday; festival",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 3477,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-200",
+    "simplified": "刻",
+    "pinyin": "kè",
+    "meaning": "quarter (hour); moment; to carve; to engrave; to cut; oppressive; classifier for short time intervals",
+    "hskLevel": 3,
+    "partOfSpeech": "v, qt",
+    "frequency": 3756,
+    "unitIndex": 13,
+    "unitName": "Time & Frequency"
+  },
+  {
+    "id": "hsk3-201",
+    "simplified": "只",
+    "pinyin": "zhǐ",
+    "meaning": "only; merely; just; but",
+    "hskLevel": 3,
+    "partOfSpeech": "d, q",
+    "frequency": 98,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-202",
+    "simplified": "更",
+    "pinyin": "gēng",
+    "meaning": "to change or replace; to experience; one of the five two-hour periods into which the night was formerly divided; watch (e.g. of a sentry or guard)",
+    "hskLevel": 3,
+    "partOfSpeech": "d",
+    "frequency": 127,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-203",
+    "simplified": "一定",
+    "pinyin": "yī dìng",
+    "meaning": "surely; certainly; necessarily; fixed; a certain (extent etc); given; particular; must",
+    "hskLevel": 3,
+    "partOfSpeech": "d, b",
+    "frequency": 198,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-204",
+    "simplified": "一样",
+    "pinyin": "yī yàng",
+    "meaning": "same; like; equal to; the same as; just like",
+    "hskLevel": 3,
+    "partOfSpeech": "u, a, ad",
+    "frequency": 235,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-205",
+    "simplified": "越",
+    "pinyin": "Yuè",
+    "meaning": "generic word for peoples or states of south China or south Asia at different historical periods; abbr. for Vietnam 越南",
+    "hskLevel": 3,
+    "partOfSpeech": "d, g, b",
+    "frequency": 574,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-206",
+    "simplified": "比较",
+    "pinyin": "bǐ jiào",
+    "meaning": "to compare; to contrast; comparatively; relatively; quite; comparison",
+    "hskLevel": 3,
+    "partOfSpeech": "d, vn, v",
+    "frequency": 607,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-207",
+    "simplified": "一般",
+    "pinyin": "yī bān",
+    "meaning": "same; ordinary; so-so; common; general; generally; in general",
+    "hskLevel": 3,
+    "partOfSpeech": "a, ad, u",
+    "frequency": 798,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-208",
+    "simplified": "差",
+    "pinyin": "chā",
+    "meaning": "difference; discrepancy; (math.) difference (amount remaining after a subtraction); (literary) a little; somewhat; slightly",
+    "hskLevel": 3,
+    "partOfSpeech": "a, v, g",
+    "frequency": 968,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-209",
+    "simplified": "几乎",
+    "pinyin": "jī hū",
+    "meaning": "almost; nearly; practically",
+    "hskLevel": 3,
+    "partOfSpeech": "d",
+    "frequency": 1001,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-210",
+    "simplified": "一边",
+    "pinyin": "yī biān",
+    "meaning": "one side; either side; on the one hand; on the other hand; doing while",
+    "hskLevel": 3,
+    "partOfSpeech": "d, f",
+    "frequency": 1241,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-211",
+    "simplified": "极",
+    "pinyin": "jí",
+    "meaning": "extremely; pole (geography, physics); utmost; top",
+    "hskLevel": 3,
+    "partOfSpeech": "d, g",
+    "frequency": 1404,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-212",
+    "simplified": "多么",
+    "pinyin": "duō me",
+    "meaning": "how (wonderful etc); what (a great idea etc); however (difficult it may be etc); (in interrogative sentences) how (much etc); to what extent",
+    "hskLevel": 3,
+    "partOfSpeech": "d, a",
+    "frequency": 1940,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-213",
+    "simplified": "一共",
+    "pinyin": "yī gòng",
+    "meaning": "altogether",
+    "hskLevel": 3,
+    "partOfSpeech": "d",
+    "frequency": 4765,
+    "unitIndex": 14,
+    "unitName": "Degree & Comparison"
+  },
+  {
+    "id": "hsk3-214",
+    "simplified": "啊",
+    "pinyin": "ā",
+    "meaning": "interjection of surprise; Ah!; Oh!",
+    "hskLevel": 3,
+    "partOfSpeech": "y, e",
+    "frequency": 47,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-215",
+    "simplified": "把",
+    "pinyin": "bǎ",
+    "meaning": "to hold; to grasp; to hold a baby in position to help it urinate or defecate; handlebar; classifier: handful, bundle, bunch; classifier for things with handles; (used to put the object before the verb: 把 + {noun} + {verb})",
+    "hskLevel": 3,
+    "partOfSpeech": "p, qv, v, m",
+    "frequency": 50,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-216",
+    "simplified": "被",
+    "pinyin": "bèi",
+    "meaning": "quilt; to cover (with); (literary) to suffer (a misfortune); used to indicate passive voice (placed before the doer of the action like \"by\" in English passive-voice sentences, or, if the doer is not mentioned, before the verb); (since c. 2009) (sarcastic or jocular) used to indicate that the following word should be regarded as being in air quotes (as in 被旅游 to \"go on a trip\", for example)",
+    "hskLevel": 3,
+    "partOfSpeech": "p, g, d",
+    "frequency": 54,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-217",
+    "simplified": "自己",
+    "pinyin": "zì jǐ",
+    "meaning": "oneself; one's own",
+    "hskLevel": 3,
+    "partOfSpeech": "r, v",
+    "frequency": 56,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-218",
+    "simplified": "用",
+    "pinyin": "yòng",
+    "meaning": "to use; to employ; to have to; to eat or drink; expense or outlay; usefulness; hence; therefore",
+    "hskLevel": 3,
+    "partOfSpeech": "v, p, g",
+    "frequency": 79,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-219",
+    "simplified": "如果",
+    "pinyin": "rú guǒ",
+    "meaning": "if; in case; in the event that",
+    "hskLevel": 3,
+    "partOfSpeech": "c, v",
+    "frequency": 89,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-220",
+    "simplified": "地",
+    "pinyin": "de",
+    "meaning": "-ly; structural particle: used before a verb or adjective, linking it to preceding modifying adverbial adjunct",
+    "hskLevel": 3,
+    "partOfSpeech": "u, n",
+    "frequency": 132,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-221",
+    "simplified": "跟",
+    "pinyin": "gēn",
+    "meaning": "heel; to follow closely; to go with; (of a woman) to marry sb; with; compared with; to; towards; and (joining two nouns)",
+    "hskLevel": 3,
+    "partOfSpeech": "p, v",
+    "frequency": 135,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-222",
+    "simplified": "像",
+    "pinyin": "xiàng",
+    "meaning": "to resemble; to be like; to look as if; such as; appearance; image; portrait; image under a mapping (math.)",
+    "hskLevel": 3,
+    "partOfSpeech": "v, p, n, d",
+    "frequency": 151,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-223",
+    "simplified": "还是",
+    "pinyin": "hái shi",
+    "meaning": "still (as before); had better; unexpectedly; or",
+    "hskLevel": 3,
+    "partOfSpeech": "c, d, v",
+    "frequency": 160,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-224",
+    "simplified": "应该",
+    "pinyin": "yīng gāi",
+    "meaning": "ought to; should; must",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 174,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-225",
+    "simplified": "位",
+    "pinyin": "wèi",
+    "meaning": "position; location; place; seat; classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes); (physics) potential",
+    "hskLevel": 3,
+    "partOfSpeech": "q, g",
+    "frequency": 177,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-226",
+    "simplified": "种",
+    "pinyin": "zhǒng",
+    "meaning": "seed; species; kind; type; classifier for types, kinds, sorts",
+    "hskLevel": 3,
+    "partOfSpeech": "q, v, g",
+    "frequency": 179,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-227",
+    "simplified": "为了",
+    "pinyin": "wèi le",
+    "meaning": "for; for the purpose of; in order to",
+    "hskLevel": 3,
+    "partOfSpeech": "p, v",
+    "frequency": 229,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-228",
+    "simplified": "而且",
+    "pinyin": "ér qiě",
+    "meaning": "(not only ...) but also; moreover; in addition; furthermore",
+    "hskLevel": 3,
+    "partOfSpeech": "c",
+    "frequency": 239,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-229",
+    "simplified": "必须",
+    "pinyin": "bì xū",
+    "meaning": "to have to; must; compulsory; necessarily",
+    "hskLevel": 3,
+    "partOfSpeech": "d",
+    "frequency": 241,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-230",
+    "simplified": "老",
+    "pinyin": "lǎo",
+    "meaning": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; old (of people); venerable (person); experienced; of long standing; always; all the time; of the past; very; outdated; (of meat etc) tough",
+    "hskLevel": 3,
+    "partOfSpeech": "a, d, g",
+    "frequency": 266,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-231",
+    "simplified": "其他",
+    "pinyin": "qí tā",
+    "meaning": "other; (sth or sb) else; the rest",
+    "hskLevel": 3,
+    "partOfSpeech": "r",
+    "frequency": 267,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-232",
+    "simplified": "比赛",
+    "pinyin": "bǐ sài",
+    "meaning": "competition (sports etc); match; to compete",
+    "hskLevel": 3,
+    "partOfSpeech": "vn, v",
+    "frequency": 275,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-233",
+    "simplified": "然后",
+    "pinyin": "rán hòu",
+    "meaning": "then; after that; afterwards",
+    "hskLevel": 3,
+    "partOfSpeech": "c",
+    "frequency": 275,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-234",
+    "simplified": "条",
+    "pinyin": "tiáo",
+    "meaning": "strip; item; article; clause (of law or treaty); classifier for long thin things (ribbon, river, road, trousers etc)",
+    "hskLevel": 3,
+    "partOfSpeech": "q",
+    "frequency": 277,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-235",
+    "simplified": "为什么",
+    "pinyin": "wèi shén me",
+    "meaning": "why?; for what reason?",
+    "hskLevel": 3,
+    "partOfSpeech": "r",
+    "frequency": 299,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-236",
+    "simplified": "关系",
+    "pinyin": "guān xi",
+    "meaning": "relation; relationship; to concern; to affect; to have to do with; guanxi",
+    "hskLevel": 3,
+    "partOfSpeech": "n, v",
+    "frequency": 318,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-237",
+    "simplified": "出现",
+    "pinyin": "chū xiàn",
+    "meaning": "to appear; to arise; to emerge; to show up",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 323,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-238",
+    "simplified": "分",
+    "pinyin": "fēn",
+    "meaning": "to divide; to separate; to distribute; to allocate; to distinguish (good and bad); (bound form) branch of (an organization); sub- (as in 局); fraction; one tenth (of certain units); unit of length equivalent to 0.33 cm; minute (unit of time); minute (angular measurement unit); a point (in sports or games); 0.01 yuan (unit of money)",
+    "hskLevel": 3,
+    "partOfSpeech": "t, qt, v, g, n, d",
+    "frequency": 372,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-239",
+    "simplified": "或者",
+    "pinyin": "huò zhě",
+    "meaning": "or; possibly; maybe; perhaps",
+    "hskLevel": 3,
+    "partOfSpeech": "c, d",
+    "frequency": 382,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-240",
+    "simplified": "机会",
+    "pinyin": "jī huì",
+    "meaning": "opportunity; chance; occasion",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 393,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-241",
+    "simplified": "使",
+    "pinyin": "shǐ",
+    "meaning": "to make; to cause; to enable; to use; to employ; to send; to instruct sb to do sth; envoy; messenger",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 400,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-242",
+    "simplified": "其实",
+    "pinyin": "qí shí",
+    "meaning": "actually; in fact; really",
+    "hskLevel": 3,
+    "partOfSpeech": "d",
+    "frequency": 405,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-243",
+    "simplified": "当然",
+    "pinyin": "dāng rán",
+    "meaning": "only natural; as it should be; certainly; of course; without doubt",
+    "hskLevel": 3,
+    "partOfSpeech": "d, b",
+    "frequency": 423,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-244",
+    "simplified": "虽然",
+    "pinyin": "suī rán",
+    "meaning": "although; even though (often used correlatively with 是 or 是 etc)",
+    "hskLevel": 3,
+    "partOfSpeech": "c",
+    "frequency": 440,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-245",
+    "simplified": "解决",
+    "pinyin": "jiě jué",
+    "meaning": "to solve; to resolve; to settle (a problem); to eliminate; to wipe out (an enemy, bandits etc)",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 458,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-246",
+    "simplified": "关于",
+    "pinyin": "guān yú",
+    "meaning": "pertaining to; concerning; with regard to; about; a matter of",
+    "hskLevel": 3,
+    "partOfSpeech": "p",
+    "frequency": 478,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-247",
+    "simplified": "完成",
+    "pinyin": "wán chéng",
+    "meaning": "to complete; to accomplish",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 486,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-248",
+    "simplified": "结束",
+    "pinyin": "jié shù",
+    "meaning": "termination; to finish; to end; to conclude; to close",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 498,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-249",
+    "simplified": "努力",
+    "pinyin": "nǔ lì",
+    "meaning": "to make an effort; to try hard; to strive; hard-working; conscientious",
+    "hskLevel": 3,
+    "partOfSpeech": "ad, an, a",
+    "frequency": 505,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-250",
+    "simplified": "办法",
+    "pinyin": "bàn fǎ",
+    "meaning": "means; method; way (of doing sth)",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 538,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-251",
+    "simplified": "讲",
+    "pinyin": "jiǎng",
+    "meaning": "to speak; to explain; to negotiate; to emphasize; to be particular about; as far as sth is concerned; speech; lecture",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 555,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-252",
+    "simplified": "离开",
+    "pinyin": "lí kāi",
+    "meaning": "to depart; to leave",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 557,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-253",
+    "simplified": "万",
+    "pinyin": "mò",
+    "meaning": "used in 俟",
+    "hskLevel": 3,
+    "partOfSpeech": "m, t",
+    "frequency": 557,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-254",
+    "simplified": "影响",
+    "pinyin": "yǐng xiǎng",
+    "meaning": "influence; effect; to influence; to affect (usually adversely); to disturb",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 598,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-255",
+    "simplified": "游戏",
+    "pinyin": "yóu xì",
+    "meaning": "game; to play",
+    "hskLevel": 3,
+    "partOfSpeech": "n, v",
+    "frequency": 603,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-256",
+    "simplified": "除了",
+    "pinyin": "chú le",
+    "meaning": "besides; apart from (... also...); in addition to; except (for)",
+    "hskLevel": 3,
+    "partOfSpeech": "p",
+    "frequency": 638,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-257",
+    "simplified": "双",
+    "pinyin": "Shuāng",
+    "meaning": "surname Shuang",
+    "hskLevel": 3,
+    "partOfSpeech": "m, q",
+    "frequency": 642,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-258",
+    "simplified": "段",
+    "pinyin": "Duàn",
+    "meaning": "surname Duan",
+    "hskLevel": 3,
+    "partOfSpeech": "q, g",
+    "frequency": 647,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-259",
+    "simplified": "米",
+    "pinyin": "Mǐ",
+    "meaning": "surname Mi",
+    "hskLevel": 3,
+    "partOfSpeech": "n, q",
+    "frequency": 663,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-260",
+    "simplified": "根据",
+    "pinyin": "gēn jù",
+    "meaning": "according to; based on; basis; foundation",
+    "hskLevel": 3,
+    "partOfSpeech": "p, n, v",
+    "frequency": 694,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-261",
+    "simplified": "辆",
+    "pinyin": "liàng",
+    "meaning": "classifier for vehicles",
+    "hskLevel": 3,
+    "partOfSpeech": "q",
+    "frequency": 699,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-262",
+    "simplified": "愿意",
+    "pinyin": "yuàn yì",
+    "meaning": "to wish; to want; ready; willing (to do sth)",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 738,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-263",
+    "simplified": "音乐",
+    "pinyin": "yīn yuè",
+    "meaning": "music",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 742,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-264",
+    "simplified": "照片",
+    "pinyin": "zhào piàn",
+    "meaning": "photograph; picture",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 766,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-265",
+    "simplified": "故事",
+    "pinyin": "gù shì",
+    "meaning": "old practice",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 772,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-266",
+    "simplified": "声音",
+    "pinyin": "shēng yīn",
+    "meaning": "voice; sound",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 841,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-267",
+    "simplified": "表示",
+    "pinyin": "biǎo shì",
+    "meaning": "to express; to show; to say; to state; to indicate; to mean",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 854,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-268",
+    "simplified": "经过",
+    "pinyin": "jīng guò",
+    "meaning": "to pass; to go through; process; course",
+    "hskLevel": 3,
+    "partOfSpeech": "p, v, n",
+    "frequency": 867,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-269",
+    "simplified": "节目",
+    "pinyin": "jié mù",
+    "meaning": "program; item (on a program)",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 951,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-270",
+    "simplified": "作用",
+    "pinyin": "zuò yòng",
+    "meaning": "to act on; to affect; action; function; activity; impact; result; effect; purpose; intent; (suffix) -ation, -tion etc, as in 用, inhibition",
+    "hskLevel": 3,
+    "partOfSpeech": "n, v",
+    "frequency": 955,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-271",
+    "simplified": "结婚",
+    "pinyin": "jié hūn",
+    "meaning": "to marry; to get married",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 982,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-272",
+    "simplified": "同意",
+    "pinyin": "tóng yì",
+    "meaning": "to agree; to consent; to approve",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 985,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-273",
+    "simplified": "主要",
+    "pinyin": "zhǔ yào",
+    "meaning": "main; principal; major; primary",
+    "hskLevel": 3,
+    "partOfSpeech": "b, d",
+    "frequency": 1031,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
   },
   {
     "id": "hsk3-274",
@@ -2189,198 +3008,273 @@
     "pinyin": "yù dào",
     "meaning": "to meet; to run into; to come across",
     "hskLevel": 3,
-    "partOfSpeech": "v"
+    "partOfSpeech": "v",
+    "frequency": 1063,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
   },
   {
     "id": "hsk3-275",
-    "simplified": "愿意",
-    "pinyin": "yuàn yì",
-    "meaning": "to wish; to want; ready; willing (to do sth)",
+    "simplified": "表演",
+    "pinyin": "biǎo yǎn",
+    "meaning": "play; show; performance; exhibition; to perform; to act; to demonstrate",
     "hskLevel": 3,
-    "partOfSpeech": "v"
+    "partOfSpeech": "vn, v",
+    "frequency": 1127,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
   },
   {
     "id": "hsk3-276",
-    "simplified": "月亮",
-    "pinyin": "yuè liang",
-    "meaning": "the moon",
+    "simplified": "关心",
+    "pinyin": "guān xīn",
+    "meaning": "to be concerned about; to care about",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v, vn",
+    "frequency": 1190,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
   },
   {
     "id": "hsk3-277",
-    "simplified": "越",
-    "pinyin": "Yuè",
-    "meaning": "generic word for peoples or states of south China or south Asia at different historical periods; abbr. for Vietnam 越南",
-    "hskLevel": 3,
-    "partOfSpeech": "d, g, b"
-  },
-  {
-    "id": "hsk3-278",
-    "simplified": "云",
-    "pinyin": "yún",
-    "meaning": "(classical) to say",
-    "hskLevel": 3,
-    "partOfSpeech": "n, g, b"
-  },
-  {
-    "id": "hsk3-279",
-    "simplified": "站",
-    "pinyin": "zhàn",
-    "meaning": "station; to stand; to halt; to stop; branch of a company or organization; website",
-    "hskLevel": 3,
-    "partOfSpeech": "v, n, q"
-  },
-  {
-    "id": "hsk3-280",
-    "simplified": "照顾",
-    "pinyin": "zhào gu",
-    "meaning": "to take care of; to show consideration; to attend to; to look after",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-281",
-    "simplified": "照片",
-    "pinyin": "zhào piàn",
-    "meaning": "photograph; picture",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-282",
-    "simplified": "照相机",
-    "pinyin": "zhào xiàng jī",
-    "meaning": "camera",
-    "hskLevel": 3,
-    "partOfSpeech": "n"
-  },
-  {
-    "id": "hsk3-283",
-    "simplified": "着急",
-    "pinyin": "zháo jí",
-    "meaning": "to worry; to feel anxious; to feel a sense of urgency; to be in a hurry; Taiwan pr. [zhāo jí]",
-    "hskLevel": 3,
-    "partOfSpeech": "a, ad"
-  },
-  {
-    "id": "hsk3-284",
-    "simplified": "只",
-    "pinyin": "zhǐ",
-    "meaning": "only; merely; just; but",
-    "hskLevel": 3,
-    "partOfSpeech": "d, q"
-  },
-  {
-    "id": "hsk3-285",
-    "simplified": "中间",
-    "pinyin": "zhōng jiān",
-    "meaning": "the middle; the inside; in the middle; within; between; among; during; in the meantime",
-    "hskLevel": 3,
-    "partOfSpeech": "f"
-  },
-  {
-    "id": "hsk3-286",
-    "simplified": "终于",
-    "pinyin": "zhōng yú",
-    "meaning": "at last; in the end; finally; eventually",
-    "hskLevel": 3,
-    "partOfSpeech": "d"
-  },
-  {
-    "id": "hsk3-287",
-    "simplified": "种",
-    "pinyin": "zhǒng",
-    "meaning": "seed; species; kind; type; classifier for types, kinds, sorts",
-    "hskLevel": 3,
-    "partOfSpeech": "q, v, g"
-  },
-  {
-    "id": "hsk3-288",
-    "simplified": "重要",
-    "pinyin": "zhòng yào",
-    "meaning": "important; significant; major",
-    "hskLevel": 3,
-    "partOfSpeech": "a"
-  },
-  {
-    "id": "hsk3-289",
-    "simplified": "周末",
-    "pinyin": "zhōu mò",
-    "meaning": "weekend",
-    "hskLevel": 3,
-    "partOfSpeech": "t"
-  },
-  {
-    "id": "hsk3-290",
-    "simplified": "主要",
-    "pinyin": "zhǔ yào",
-    "meaning": "main; principal; major; primary",
-    "hskLevel": 3,
-    "partOfSpeech": "b, d"
-  },
-  {
-    "id": "hsk3-291",
-    "simplified": "注意",
-    "pinyin": "zhù yì",
-    "meaning": "to take note of; to pay attention to",
-    "hskLevel": 3,
-    "partOfSpeech": "v, vn"
-  },
-  {
-    "id": "hsk3-292",
     "simplified": "祝",
     "pinyin": "Zhù",
     "meaning": "surname Zhu",
     "hskLevel": 3,
-    "partOfSpeech": "v, nr"
+    "partOfSpeech": "v, nr",
+    "frequency": 1197,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-278",
+    "simplified": "习惯",
+    "pinyin": "xí guàn",
+    "meaning": "habit; custom; usual practice; to be used to",
+    "hskLevel": 3,
+    "partOfSpeech": "n, v",
+    "frequency": 1251,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-279",
+    "simplified": "变化",
+    "pinyin": "biàn huà",
+    "meaning": "(intransitive) to change; to vary; change; variation",
+    "hskLevel": 3,
+    "partOfSpeech": "vn, v",
+    "frequency": 1262,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-280",
+    "simplified": "小心",
+    "pinyin": "xiǎo xīn",
+    "meaning": "to be careful; to take care",
+    "hskLevel": 3,
+    "partOfSpeech": "a, v, ad",
+    "frequency": 1411,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-281",
+    "simplified": "水平",
+    "pinyin": "shuǐ píng",
+    "meaning": "level (of achievement etc); standard; horizontal",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1490,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-282",
+    "simplified": "照顾",
+    "pinyin": "zhào gu",
+    "meaning": "to take care of; to show consideration; to attend to; to look after",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 1631,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-283",
+    "simplified": "礼物",
+    "pinyin": "lǐ wù",
+    "meaning": "gift; present",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1673,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-284",
+    "simplified": "提高",
+    "pinyin": "tí gāo",
+    "meaning": "to raise; to increase; to improve",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 1724,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-285",
+    "simplified": "兴趣",
+    "pinyin": "xìng qù",
+    "meaning": "interest (desire to know about sth); interest (thing in which one is interested); hobby",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1847,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-286",
+    "simplified": "帮忙",
+    "pinyin": "bāng máng",
+    "meaning": "to help; to lend a hand; to do a favor; to do a good turn",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 1860,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-287",
+    "simplified": "电子",
+    "pinyin": "diàn zǐ",
+    "meaning": "electronic; electron (particle physics)",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 1874,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-288",
+    "simplified": "见面",
+    "pinyin": "jiàn miàn",
+    "meaning": "to meet; to see each other",
+    "hskLevel": 3,
+    "partOfSpeech": "v",
+    "frequency": 1876,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-289",
+    "simplified": "相同",
+    "pinyin": "xiāng tóng",
+    "meaning": "identical; same",
+    "hskLevel": 3,
+    "partOfSpeech": "a",
+    "frequency": 2110,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-290",
+    "simplified": "体育",
+    "pinyin": "tǐ yù",
+    "meaning": "sports; physical education",
+    "hskLevel": 3,
+    "partOfSpeech": "n",
+    "frequency": 2354,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-291",
+    "simplified": "角",
+    "pinyin": "Jué",
+    "meaning": "surname Jue",
+    "hskLevel": 3,
+    "partOfSpeech": "n, q, g",
+    "frequency": 2370,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
+  },
+  {
+    "id": "hsk3-292",
+    "simplified": "放心",
+    "pinyin": "fàng xīn",
+    "meaning": "to feel relieved; to feel reassured; to be at ease",
+    "hskLevel": 3,
+    "partOfSpeech": "v, vn",
+    "frequency": 2458,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
   },
   {
     "id": "hsk3-293",
-    "simplified": "字典",
-    "pinyin": "zì diǎn",
-    "meaning": "Chinese character dictionary (containing entries for single characters, contrasted with a 词典, which has entries for words of one or more characters); (coll.) dictionary",
+    "simplified": "迟到",
+    "pinyin": "chí dào",
+    "meaning": "to arrive late",
     "hskLevel": 3,
-    "partOfSpeech": "n"
+    "partOfSpeech": "v, vn",
+    "frequency": 3667,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
   },
   {
     "id": "hsk3-294",
-    "simplified": "自己",
-    "pinyin": "zì jǐ",
-    "meaning": "oneself; one's own",
+    "simplified": "锻炼",
+    "pinyin": "duàn liàn",
+    "meaning": "to toughen; to temper; to engage in physical exercise; to work out; (fig.) to develop one's skills; to train oneself",
     "hskLevel": 3,
-    "partOfSpeech": "r, v"
+    "partOfSpeech": "v, vn",
+    "frequency": 3764,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
   },
   {
     "id": "hsk3-295",
-    "simplified": "总是",
-    "pinyin": "zǒng shì",
-    "meaning": "always",
+    "simplified": "电梯",
+    "pinyin": "diàn tī",
+    "meaning": "elevator; escalator",
     "hskLevel": 3,
-    "partOfSpeech": "d, v"
+    "partOfSpeech": "n",
+    "frequency": 3894,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
   },
   {
     "id": "hsk3-296",
-    "simplified": "最近",
-    "pinyin": "zuì jìn",
-    "meaning": "recently; soon; nearest",
+    "simplified": "刮",
+    "pinyin": "guā",
+    "meaning": "to scrape; to blow; to shave; to plunder; to extort",
     "hskLevel": 3,
-    "partOfSpeech": "t"
+    "partOfSpeech": "v",
+    "frequency": 3910,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
   },
   {
     "id": "hsk3-297",
-    "simplified": "作业",
-    "pinyin": "zuò yè",
-    "meaning": "school assignment; homework; work; task; operation; to operate",
+    "simplified": "爱好",
+    "pinyin": "ài hào",
+    "meaning": "to like; to be fond of; to take pleasure in; to be keen on; interest; hobby",
     "hskLevel": 3,
-    "partOfSpeech": "n, v, vn"
+    "partOfSpeech": "n, v",
+    "frequency": 4902,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
   },
   {
     "id": "hsk3-298",
-    "simplified": "作用",
-    "pinyin": "zuò yòng",
-    "meaning": "to act on; to affect; action; function; activity; impact; result; effect; purpose; intent; (suffix) -ation, -tion etc, as in 用, inhibition",
+    "simplified": "护照",
+    "pinyin": "hù zhào",
+    "meaning": "passport",
     "hskLevel": 3,
-    "partOfSpeech": "n, v"
+    "partOfSpeech": "n",
+    "frequency": 7152,
+    "unitIndex": 15,
+    "unitName": "Grammar & Miscellaneous"
   }
 ]

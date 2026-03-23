@@ -1,0 +1,629 @@
+[
+  {
+    "id": "r1-001",
+    "hskLevel": 1,
+    "title": "Self Introduction",
+    "titleZh": "自我介绍",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "你好！我叫小明。我是中国人。我是学生。",
+        "pinyin": "Nǐ hǎo! Wǒ jiào Xiǎomíng. Wǒ shì Zhōngguó rén. Wǒ shì xuéshēng.",
+        "english": "Hello! My name is Xiaoming. I am Chinese. I am a student."
+      },
+      {
+        "chinese": "我喜欢看书。我也喜欢喝茶。",
+        "pinyin": "Wǒ xǐhuān kàn shū. Wǒ yě xǐhuān hē chá.",
+        "english": "I like reading books. I also like drinking tea."
+      }
+    ],
+    "vocabHighlights": [
+      "叫",
+      "是",
+      "学生",
+      "喜欢",
+      "看",
+      "书",
+      "也",
+      "喝",
+      "茶"
+    ]
+  },
+  {
+    "id": "r1-002",
+    "hskLevel": 1,
+    "title": "My Family",
+    "titleZh": "我的家",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我家有四个人。爸爸、妈妈、我和妹妹。",
+        "pinyin": "Wǒ jiā yǒu sì ge rén. Bàba, māma, wǒ hé mèimei.",
+        "english": "There are four people in my family. Dad, mom, me, and my younger sister."
+      },
+      {
+        "chinese": "爸爸是老师。妈妈是医生。我们都很好。",
+        "pinyin": "Bàba shì lǎoshī. Māma shì yīshēng. Wǒmen dōu hěn hǎo.",
+        "english": "Dad is a teacher. Mom is a doctor. We are all doing well."
+      }
+    ],
+    "vocabHighlights": [
+      "家",
+      "有",
+      "个",
+      "人",
+      "爸爸",
+      "妈妈",
+      "和",
+      "老师",
+      "医生",
+      "都"
+    ]
+  },
+  {
+    "id": "r1-003",
+    "hskLevel": 1,
+    "title": "What Day Is Today?",
+    "titleZh": "今天星期几？",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "今天是星期一。明天是星期二。",
+        "pinyin": "Jīntiān shì xīngqī yī. Míngtiān shì xīngqī èr.",
+        "english": "Today is Monday. Tomorrow is Tuesday."
+      },
+      {
+        "chinese": "我今天上午有课。下午没有课。我想去商店买东西。",
+        "pinyin": "Wǒ jīntiān shàngwǔ yǒu kè. Xiàwǔ méiyǒu kè. Wǒ xiǎng qù shāngdiàn mǎi dōngxi.",
+        "english": "I have class this morning. I don't have class this afternoon. I want to go to the store to buy things."
+      }
+    ],
+    "vocabHighlights": [
+      "今天",
+      "星期",
+      "明天",
+      "上午",
+      "课",
+      "下午",
+      "没有",
+      "想",
+      "去",
+      "商店",
+      "买",
+      "东西"
+    ]
+  },
+  {
+    "id": "r1-004",
+    "hskLevel": 1,
+    "title": "The Weather",
+    "titleZh": "天气",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "今天天气很好。不冷也不热。",
+        "pinyin": "Jīntiān tiānqì hěn hǎo. Bù lěng yě bú rè.",
+        "english": "The weather is very nice today. It's not cold and not hot."
+      },
+      {
+        "chinese": "昨天下雨了。明天也会下雨。我不喜欢下雨天。",
+        "pinyin": "Zuótiān xià yǔ le. Míngtiān yě huì xià yǔ. Wǒ bù xǐhuān xià yǔ tiān.",
+        "english": "It rained yesterday. It will also rain tomorrow. I don't like rainy days."
+      }
+    ],
+    "vocabHighlights": [
+      "天气",
+      "好",
+      "冷",
+      "热",
+      "昨天",
+      "下雨",
+      "了",
+      "会",
+      "不"
+    ]
+  },
+  {
+    "id": "r1-005",
+    "hskLevel": 1,
+    "title": "Drinking Tea",
+    "titleZh": "喝茶",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "你想喝什么？我想喝茶。",
+        "pinyin": "Nǐ xiǎng hē shénme? Wǒ xiǎng hē chá.",
+        "english": "What would you like to drink? I'd like to drink tea."
+      },
+      {
+        "chinese": "你喜欢喝热的还是冷的？我喜欢喝热茶。谢谢你！",
+        "pinyin": "Nǐ xǐhuān hē rè de háishi lěng de? Wǒ xǐhuān hē rè chá. Xièxie nǐ!",
+        "english": "Do you like to drink it hot or cold? I like to drink hot tea. Thank you!"
+      }
+    ],
+    "vocabHighlights": [
+      "想",
+      "喝",
+      "什么",
+      "茶",
+      "喜欢",
+      "热",
+      "还是",
+      "冷",
+      "谢谢"
+    ]
+  },
+  {
+    "id": "r1-006",
+    "hskLevel": 1,
+    "title": "At School",
+    "titleZh": "在学校",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我在学校学习中文。我的老师姓王。",
+        "pinyin": "Wǒ zài xuéxiào xuéxí Zhōngwén. Wǒ de lǎoshī xìng Wáng.",
+        "english": "I study Chinese at school. My teacher's last name is Wang."
+      },
+      {
+        "chinese": "我们班有十五个学生。大家都很喜欢学中文。",
+        "pinyin": "Wǒmen bān yǒu shíwǔ ge xuéshēng. Dàjiā dōu hěn xǐhuān xué Zhōngwén.",
+        "english": "There are fifteen students in our class. Everyone likes studying Chinese."
+      }
+    ],
+    "vocabHighlights": [
+      "在",
+      "学校",
+      "学习",
+      "中文",
+      "老师",
+      "姓",
+      "学生",
+      "大家",
+      "都"
+    ]
+  },
+  {
+    "id": "r1-007",
+    "hskLevel": 1,
+    "title": "Making a Phone Call",
+    "titleZh": "打电话",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "喂？你好！我是小明。请问，你妈妈在家吗？",
+        "pinyin": "Wèi? Nǐ hǎo! Wǒ shì Xiǎomíng. Qǐngwèn, nǐ māma zài jiā ma?",
+        "english": "Hello? Hi! I'm Xiaoming. May I ask, is your mom at home?"
+      },
+      {
+        "chinese": "她不在。你可以打她的手机。号码是一三九八七六五四三二一。",
+        "pinyin": "Tā bú zài. Nǐ kěyǐ dǎ tā de shǒujī. Hàomǎ shì yī sān jiǔ bā qī liù wǔ sì sān èr yī.",
+        "english": "She's not here. You can call her cell phone. The number is 13987654321."
+      }
+    ],
+    "vocabHighlights": [
+      "打电话",
+      "请问",
+      "在",
+      "家",
+      "可以",
+      "手机",
+      "号码"
+    ]
+  },
+  {
+    "id": "r1-008",
+    "hskLevel": 1,
+    "title": "Eating Fruit",
+    "titleZh": "吃水果",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我很喜欢吃水果。苹果、香蕉，我都喜欢。",
+        "pinyin": "Wǒ hěn xǐhuān chī shuǐguǒ. Píngguǒ, xiāngjiāo, wǒ dōu xǐhuān.",
+        "english": "I really like eating fruit. Apples, bananas, I like them all."
+      },
+      {
+        "chinese": "你喜欢吃什么水果？我们一起去买吧！",
+        "pinyin": "Nǐ xǐhuān chī shénme shuǐguǒ? Wǒmen yìqǐ qù mǎi ba!",
+        "english": "What fruit do you like to eat? Let's go buy some together!"
+      }
+    ],
+    "vocabHighlights": [
+      "吃",
+      "水果",
+      "苹果",
+      "都",
+      "什么",
+      "一起",
+      "买",
+      "吧"
+    ]
+  },
+  {
+    "id": "r1-009",
+    "hskLevel": 1,
+    "title": "How Old Are You?",
+    "titleZh": "你多大？",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我今年二十岁。我的生日是六月十五号。",
+        "pinyin": "Wǒ jīnnián èrshí suì. Wǒ de shēngrì shì liù yuè shíwǔ hào.",
+        "english": "I'm twenty years old this year. My birthday is June 15th."
+      },
+      {
+        "chinese": "我的朋友小李今年也二十岁。他的生日是下个月。",
+        "pinyin": "Wǒ de péngyǒu Xiǎo Lǐ jīnnián yě èrshí suì. Tā de shēngrì shì xià ge yuè.",
+        "english": "My friend Xiao Li is also twenty this year. His birthday is next month."
+      }
+    ],
+    "vocabHighlights": [
+      "今年",
+      "岁",
+      "生日",
+      "月",
+      "号",
+      "朋友",
+      "也",
+      "下"
+    ]
+  },
+  {
+    "id": "r1-010",
+    "hskLevel": 1,
+    "title": "Going to the Store",
+    "titleZh": "去商店",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我想去商店买一些东西。我要买一本书和一个杯子。",
+        "pinyin": "Wǒ xiǎng qù shāngdiàn mǎi yìxiē dōngxi. Wǒ yào mǎi yì běn shū hé yí ge bēizi.",
+        "english": "I want to go to the store to buy some things. I need to buy a book and a cup."
+      },
+      {
+        "chinese": "这本书多少钱？十块钱。好的，我买了。",
+        "pinyin": "Zhè běn shū duōshao qián? Shí kuài qián. Hǎo de, wǒ mǎi le.",
+        "english": "How much is this book? Ten yuan. Okay, I'll buy it."
+      }
+    ],
+    "vocabHighlights": [
+      "商店",
+      "买",
+      "东西",
+      "要",
+      "本",
+      "书",
+      "杯子",
+      "多少",
+      "钱",
+      "块"
+    ]
+  },
+  {
+    "id": "r1-011",
+    "hskLevel": 1,
+    "title": "At the Restaurant",
+    "titleZh": "在饭馆",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我们去饭馆吃饭吧。你想吃什么？",
+        "pinyin": "Wǒmen qù fànguǎn chī fàn ba. Nǐ xiǎng chī shénme?",
+        "english": "Let's go to a restaurant to eat. What do you want to eat?"
+      },
+      {
+        "chinese": "我想吃米饭和菜。你呢？我想喝一杯水。",
+        "pinyin": "Wǒ xiǎng chī mǐfàn hé cài. Nǐ ne? Wǒ xiǎng hē yì bēi shuǐ.",
+        "english": "I want to eat rice and vegetables. How about you? I want to drink a glass of water."
+      }
+    ],
+    "vocabHighlights": [
+      "饭馆",
+      "吃饭",
+      "吃",
+      "什么",
+      "米饭",
+      "菜",
+      "呢",
+      "杯",
+      "水"
+    ]
+  },
+  {
+    "id": "r1-012",
+    "hskLevel": 1,
+    "title": "What Time Is It?",
+    "titleZh": "现在几点？",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "现在几点？现在上午九点。我要去上课了。",
+        "pinyin": "Xiànzài jǐ diǎn? Xiànzài shàngwǔ jiǔ diǎn. Wǒ yào qù shàng kè le.",
+        "english": "What time is it now? It's 9 AM now. I need to go to class."
+      },
+      {
+        "chinese": "下午三点我们一起去打球，好吗？好的！",
+        "pinyin": "Xiàwǔ sān diǎn wǒmen yìqǐ qù dǎ qiú, hǎo ma? Hǎo de!",
+        "english": "At 3 PM let's go play ball together, okay? Sure!"
+      }
+    ],
+    "vocabHighlights": [
+      "现在",
+      "几",
+      "点",
+      "上午",
+      "上课",
+      "下午",
+      "一起",
+      "打球",
+      "好"
+    ]
+  },
+  {
+    "id": "r1-013",
+    "hskLevel": 1,
+    "title": "Where Do You Live?",
+    "titleZh": "你住在哪儿？",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "你住在哪儿？我住在北京。我家在学校前面。",
+        "pinyin": "Nǐ zhù zài nǎr? Wǒ zhù zài Běijīng. Wǒ jiā zài xuéxiào qiánmiàn.",
+        "english": "Where do you live? I live in Beijing. My home is in front of the school."
+      },
+      {
+        "chinese": "你的家大吗？不大，但是很好。",
+        "pinyin": "Nǐ de jiā dà ma? Bú dà, dànshì hěn hǎo.",
+        "english": "Is your home big? Not big, but very nice."
+      }
+    ],
+    "vocabHighlights": [
+      "住",
+      "在",
+      "哪儿",
+      "北京",
+      "家",
+      "学校",
+      "前面",
+      "大",
+      "但是"
+    ]
+  },
+  {
+    "id": "r1-014",
+    "hskLevel": 1,
+    "title": "I Like Chinese Food",
+    "titleZh": "我喜欢中国菜",
+    "type": "short",
+    "paragraphs": [
+      {
+        "chinese": "我很喜欢中国菜。中国菜很好吃。",
+        "pinyin": "Wǒ hěn xǐhuān Zhōngguó cài. Zhōngguó cài hěn hǎochī.",
+        "english": "I really like Chinese food. Chinese food is very delicious."
+      },
+      {
+        "chinese": "我会做一些中国菜。我的朋友们都喜欢吃我做的菜。",
+        "pinyin": "Wǒ huì zuò yìxiē Zhōngguó cài. Wǒ de péngyǒumen dōu xǐhuān chī wǒ zuò de cài.",
+        "english": "I can cook some Chinese dishes. My friends all like eating the food I make."
+      }
+    ],
+    "vocabHighlights": [
+      "喜欢",
+      "中国",
+      "菜",
+      "好吃",
+      "会",
+      "做",
+      "朋友",
+      "们",
+      "都"
+    ]
+  },
+  {
+    "id": "r1-101",
+    "hskLevel": 1,
+    "title": "Xiaoming's Day",
+    "titleZh": "小明的一天",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "小明是一个学生。他今年十八岁。他住在北京。",
+        "pinyin": "Xiǎomíng shì yí ge xuéshēng. Tā jīnnián shíbā suì. Tā zhù zài Běijīng.",
+        "english": "Xiaoming is a student. He is eighteen years old this year. He lives in Beijing."
+      },
+      {
+        "chinese": "今天是星期一。小明早上七点起床。他吃了早饭，然后去学校。",
+        "pinyin": "Jīntiān shì xīngqī yī. Xiǎomíng zǎoshang qī diǎn qǐchuáng. Tā chī le zǎofàn, ránhòu qù xuéxiào.",
+        "english": "Today is Monday. Xiaoming gets up at 7 in the morning. He eats breakfast, then goes to school."
+      },
+      {
+        "chinese": "上午他有中文课和数学课。他很喜欢中文课。他的中文老师很好。",
+        "pinyin": "Shàngwǔ tā yǒu Zhōngwén kè hé shùxué kè. Tā hěn xǐhuān Zhōngwén kè. Tā de Zhōngwén lǎoshī hěn hǎo.",
+        "english": "In the morning he has Chinese class and math class. He really likes Chinese class. His Chinese teacher is very good."
+      },
+      {
+        "chinese": "中午他和朋友一起吃饭。下午他没有课。他去图书馆看书。",
+        "pinyin": "Zhōngwǔ tā hé péngyǒu yìqǐ chī fàn. Xiàwǔ tā méiyǒu kè. Tā qù túshūguǎn kàn shū.",
+        "english": "At noon he eats with friends. In the afternoon he has no class. He goes to the library to read."
+      },
+      {
+        "chinese": "晚上他回家。他做作业，然后看电视。十点他睡觉了。",
+        "pinyin": "Wǎnshang tā huí jiā. Tā zuò zuòyè, ránhòu kàn diànshì. Shí diǎn tā shuìjiào le.",
+        "english": "In the evening he goes home. He does homework, then watches TV. At 10 o'clock he goes to sleep."
+      }
+    ],
+    "vocabHighlights": [
+      "学生",
+      "岁",
+      "住",
+      "起床",
+      "早饭",
+      "学校",
+      "课",
+      "中午",
+      "朋友",
+      "图书馆",
+      "看书",
+      "回家",
+      "作业",
+      "电视",
+      "睡觉"
+    ]
+  },
+  {
+    "id": "r1-102",
+    "hskLevel": 1,
+    "title": "New Friends",
+    "titleZh": "新朋友",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "我叫小红。今天是我在新学校的第一天。",
+        "pinyin": "Wǒ jiào Xiǎohóng. Jīntiān shì wǒ zài xīn xuéxiào de dì yī tiān.",
+        "english": "My name is Xiaohong. Today is my first day at the new school."
+      },
+      {
+        "chinese": "我有一点儿紧张。我不认识这里的人。",
+        "pinyin": "Wǒ yǒu yìdiǎnr jǐnzhāng. Wǒ bú rènshi zhèlǐ de rén.",
+        "english": "I'm a little nervous. I don't know anyone here."
+      },
+      {
+        "chinese": "上课的时候，一个女孩对我说：「你好！你叫什么名字？」",
+        "pinyin": "Shàng kè de shíhou, yí ge nǚhái duì wǒ shuō: \"Nǐ hǎo! Nǐ jiào shénme míngzi?\"",
+        "english": "During class, a girl said to me: \"Hello! What's your name?\""
+      },
+      {
+        "chinese": "我说：「我叫小红。」她说：「我叫小丽。我们做朋友吧！」",
+        "pinyin": "Wǒ shuō: \"Wǒ jiào Xiǎohóng.\" Tā shuō: \"Wǒ jiào Xiǎolì. Wǒmen zuò péngyǒu ba!\"",
+        "english": "I said: \"My name is Xiaohong.\" She said: \"I'm Xiaoli. Let's be friends!\""
+      },
+      {
+        "chinese": "下课以后，小丽带我去吃饭。我们吃了米饭和菜。我们说了很多话。",
+        "pinyin": "Xià kè yǐhòu, Xiǎolì dài wǒ qù chī fàn. Wǒmen chī le mǐfàn hé cài. Wǒmen shuō le hěn duō huà.",
+        "english": "After class, Xiaoli took me to eat. We ate rice and vegetables. We talked a lot."
+      },
+      {
+        "chinese": "回家的时候，我很高兴。我有了一个新朋友！",
+        "pinyin": "Huí jiā de shíhou, wǒ hěn gāoxìng. Wǒ yǒu le yí ge xīn péngyǒu!",
+        "english": "When I went home, I was very happy. I made a new friend!"
+      }
+    ],
+    "vocabHighlights": [
+      "新",
+      "学校",
+      "第一",
+      "天",
+      "认识",
+      "名字",
+      "朋友",
+      "吃饭",
+      "高兴"
+    ]
+  },
+  {
+    "id": "r1-103",
+    "hskLevel": 1,
+    "title": "The Lost Cat",
+    "titleZh": "走丢的猫",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "小明家有一只小猫。小猫叫花花。花花很可爱。",
+        "pinyin": "Xiǎomíng jiā yǒu yì zhī xiǎo māo. Xiǎo māo jiào Huāhua. Huāhua hěn kě'ài.",
+        "english": "Xiaoming's family has a little cat. The cat is called Huahua. Huahua is very cute."
+      },
+      {
+        "chinese": "一天，小明回家。他看不到花花了。花花不在家！",
+        "pinyin": "Yì tiān, Xiǎomíng huí jiā. Tā kàn bú dào Huāhua le. Huāhua bú zài jiā!",
+        "english": "One day, Xiaoming came home. He couldn't see Huahua. Huahua was not at home!"
+      },
+      {
+        "chinese": "小明很着急。他去外面找花花。他问他的朋友：「你看到我的猫了吗？」",
+        "pinyin": "Xiǎomíng hěn zháojí. Tā qù wàimiàn zhǎo Huāhua. Tā wèn tā de péngyǒu: \"Nǐ kàn dào wǒ de māo le ma?\"",
+        "english": "Xiaoming was very anxious. He went outside to look for Huahua. He asked his friends: \"Have you seen my cat?\""
+      },
+      {
+        "chinese": "朋友说：「我没有看到。」小明到处找，但是找不到。",
+        "pinyin": "Péngyǒu shuō: \"Wǒ méiyǒu kàn dào.\" Xiǎomíng dàochù zhǎo, dànshì zhǎo bú dào.",
+        "english": "The friend said: \"I haven't seen it.\" Xiaoming looked everywhere, but couldn't find it."
+      },
+      {
+        "chinese": "天快黑了，小明回家了。他很不高兴。",
+        "pinyin": "Tiān kuài hēi le, Xiǎomíng huí jiā le. Tā hěn bù gāoxìng.",
+        "english": "It was getting dark, and Xiaoming went home. He was very unhappy."
+      },
+      {
+        "chinese": "他开门的时候，花花在门后面！花花一直在家里！小明太高兴了！",
+        "pinyin": "Tā kāi mén de shíhou, Huāhua zài mén hòumiàn! Huāhua yìzhí zài jiā lǐ! Xiǎomíng tài gāoxìng le!",
+        "english": "When he opened the door, Huahua was behind the door! Huahua had been at home all along! Xiaoming was so happy!"
+      }
+    ],
+    "vocabHighlights": [
+      "猫",
+      "可爱",
+      "回家",
+      "看",
+      "找",
+      "问",
+      "没有",
+      "但是",
+      "高兴",
+      "门",
+      "后面"
+    ]
+  },
+  {
+    "id": "r1-104",
+    "hskLevel": 1,
+    "title": "Birthday Party",
+    "titleZh": "生日聚会",
+    "type": "story",
+    "paragraphs": [
+      {
+        "chinese": "明天是小丽的生日。她今年二十岁了。",
+        "pinyin": "Míngtiān shì Xiǎolì de shēngrì. Tā jīnnián èrshí suì le.",
+        "english": "Tomorrow is Xiaoli's birthday. She is turning twenty this year."
+      },
+      {
+        "chinese": "小丽请了很多朋友来她家。她的爸爸妈妈买了一个大蛋糕。",
+        "pinyin": "Xiǎolì qǐng le hěn duō péngyǒu lái tā jiā. Tā de bàba māma mǎi le yí ge dà dàngāo.",
+        "english": "Xiaoli invited many friends to her home. Her parents bought a big cake."
+      },
+      {
+        "chinese": "朋友们都来了。大家给小丽唱生日歌。小丽很高兴。",
+        "pinyin": "Péngyǒumen dōu lái le. Dàjiā gěi Xiǎolì chàng shēngrì gē. Xiǎolì hěn gāoxìng.",
+        "english": "All the friends came. Everyone sang the birthday song for Xiaoli. Xiaoli was very happy."
+      },
+      {
+        "chinese": "他们吃蛋糕，喝饮料，说了很多话。大家都很开心。",
+        "pinyin": "Tāmen chī dàngāo, hē yǐnliào, shuō le hěn duō huà. Dàjiā dōu hěn kāixīn.",
+        "english": "They ate cake, drank beverages, and talked a lot. Everyone was very happy."
+      },
+      {
+        "chinese": "小明送给小丽一本书。小丽说：「谢谢你！这是我最喜欢的礼物！」",
+        "pinyin": "Xiǎomíng sòng gěi Xiǎolì yì běn shū. Xiǎolì shuō: \"Xièxie nǐ! Zhè shì wǒ zuì xǐhuān de lǐwù!\"",
+        "english": "Xiaoming gave Xiaoli a book. Xiaoli said: \"Thank you! This is my favorite gift!\""
+      },
+      {
+        "chinese": "晚上十点，大家回家了。小丽说这是她最好的生日。",
+        "pinyin": "Wǎnshang shí diǎn, dàjiā huí jiā le. Xiǎolì shuō zhè shì tā zuì hǎo de shēngrì.",
+        "english": "At 10 PM, everyone went home. Xiaoli said this was her best birthday."
+      }
+    ],
+    "vocabHighlights": [
+      "生日",
+      "岁",
+      "请",
+      "朋友",
+      "蛋糕",
+      "高兴",
+      "吃",
+      "喝",
+      "送",
+      "书",
+      "礼物",
+      "最"
+    ]
+  }
+]

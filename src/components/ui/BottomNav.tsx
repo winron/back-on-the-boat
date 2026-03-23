@@ -8,7 +8,7 @@ const tabs = [
   { href: "/characters", label: "Characters", icon: "字" },
   { href: "/grammar", label: "Grammar", icon: "文" },
   { href: "/sentences", label: "Sentences", icon: "句" },
-  { href: "/dialogue", label: "Dialogue", icon: "话" },
+  { href: "/reading", label: "Reading", icon: "读" },
 ] as const;
 
 export default function BottomNav() {

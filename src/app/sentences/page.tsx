@@ -28,7 +28,8 @@ export default function SentencesPage() {
   useEffect(() => {
     loadSentences(level)
       .then((data) => {
-        setExercises(data);
+        // Shuffle exercise order daily so content feels fresh
+        setExercises(shuffleArray(data));
         setCurrentIndex(0);
       })
       .catch(() => setExercises([]));
