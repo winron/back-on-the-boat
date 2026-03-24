@@ -5,6 +5,7 @@ import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { useReview, createNewSrsCard } from "@/hooks/useReview";
 import { loadVocabulary } from "@/lib/data-loader";
+import { getUnitNameZh } from "@/lib/unit-names";
 import { db } from "@/lib/db";
 import { useTTS } from "@/hooks/useTTS";
 import ReviewCard from "@/components/character/ReviewCard";
@@ -28,6 +29,7 @@ export default function CharactersPage() {
   const [mode, setMode] = useState<Mode>("review");
   const [words, setWords] = useState<HskWord[]>([]);
   const [browseIndex, setBrowseIndex] = useState(0);
+  const [expandedUnits, setExpandedUnits] = useState<Set<string>>(new Set());
   const review = useReview("characters");
 
   useTTS();
@@ -41,6 +43,11 @@ export default function CharactersPage() {
     loadVocabulary(level)
       .then(async (vocab) => {
         setWords(vocab);
+
+        // Default: expand only the first unit
+        if (vocab.length > 0) {
+          setExpandedUnits(new Set([vocab[0].unitName]));
+        }
 
         // Seed SRS cards for words that don't exist yet
         const existingIds = new Set(
@@ -71,16 +78,35 @@ export default function CharactersPage() {
 
   const browseWord = words[browseIndex] ?? null;
 
-  // Group words by unit for browse mode
-  const unitGroups = words.reduce<{ name: string; words: HskWord[] }[]>((acc, word) => {
+  // Group words by unit for browse/learn mode, carrying unitIndex for Chinese name lookup
+  const unitGroups = words.reduce<
+    { name: string; unitIndex: number; words: HskWord[] }[]
+  >((acc, word) => {
     const lastGroup = acc[acc.length - 1];
     if (lastGroup && lastGroup.name === word.unitName) {
       lastGroup.words.push(word);
     } else {
-      acc.push({ name: word.unitName, words: [word] });
+      acc.push({ name: word.unitName, unitIndex: word.unitIndex, words: [word] });
     }
     return acc;
   }, []);
+
+  function toggleUnit(name: string) {
+    setExpandedUnits((prev) => {
+      const next = new Set(prev);
+      if (next.has(name)) {
+        next.delete(name);
+      } else {
+        next.add(name);
+      }
+      return next;
+    });
+  }
+
+  // Chinese name for the current learn-mode word's unit
+  const learnUnitNameZh = browseWord
+    ? (getUnitNameZh(level, browseWord.unitIndex) ?? browseWord.unitName)
+    : "";
 
   return (
     <div className="tab-color-2 space-y-6">
@@ -89,7 +115,7 @@ export default function CharactersPage() {
         <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
       </div>
 
-      {/* Mode tabs — same row, equal width */}
+      {/* Mode tabs */}
       <div className="flex gap-2">
         {(["review", "learn", "browse"] as Mode[]).map((m) => (
           <button
@@ -110,22 +136,24 @@ export default function CharactersPage() {
         <>
           {!review.loaded ? (
             <p className="text-center text-muted-foreground py-8">
-              Loading...
+              <TrilingualLabel chinese="加载中…" pinyin="jiāzài zhōng" english="Loading…" size="sm" />
             </p>
           ) : review.isComplete ? (
             <div className="text-center py-12">
               <p className="text-4xl mb-4">🎉</p>
-              <p className="text-lg font-medium">All caught up!</p>
+              <p className="text-lg font-medium">
+                <TrilingualLabel chinese="全部完成！" pinyin="quánbù wánchéng！" english="All caught up!" size="sm" />
+              </p>
               <p className="text-muted-foreground text-sm mt-1">
                 {review.totalReviewed > 0
-                  ? `Reviewed ${review.totalReviewed} cards (${review.correctCount} correct)`
+                  ? `${review.totalReviewed} cards reviewed (${review.correctCount} correct)`
                   : "No cards due for review. Come back later or tap Check again."}
               </p>
               <button
                 onClick={() => review.loadCards(`hsk${level}-`)}
                 className="mt-4 px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm"
               >
-                Check again
+                <TrilingualLabel chinese="再次检查" pinyin="zàicì jiǎnchá" english="Check again" size="xs" />
               </button>
             </div>
           ) : currentWord ? (
@@ -142,7 +170,7 @@ export default function CharactersPage() {
             </div>
           ) : (
             <p className="text-center text-muted-foreground py-8">
-              Loading cards...
+              <TrilingualLabel chinese="加载卡片…" pinyin="jiāzài kǎpiàn" english="Loading cards…" size="sm" />
             </p>
           )}
         </>
@@ -150,9 +178,7 @@ export default function CharactersPage() {
 
       {mode === "learn" && browseWord && (
         <div className="space-y-6">
-          <p className="text-xs text-muted-foreground text-center">
-            {browseWord.unitName}
-          </p>
+          <p className="text-xs text-muted-foreground text-center">{learnUnitNameZh}</p>
           <CharacterCard word={browseWord} showPinyin />
           <StrokeOrder character={browseWord.simplified} />
           <div className="flex justify-between">
@@ -161,7 +187,7 @@ export default function CharactersPage() {
               disabled={browseIndex === 0}
               className="px-4 py-2 bg-muted rounded-lg text-sm disabled:opacity-30"
             >
-              Previous
+              <TrilingualLabel chinese="上一个" pinyin="shàng yī gè" english="Previous" size="xs" />
             </button>
             <span className="text-sm text-muted-foreground self-center">
               {browseIndex + 1} / {words.length}
@@ -173,7 +199,7 @@ export default function CharactersPage() {
               disabled={browseIndex === words.length - 1}
               className="px-4 py-2 bg-muted rounded-lg text-sm disabled:opacity-30"
             >
-              Next
+              <TrilingualLabel chinese="下一个" pinyin="xià yī gè" english="Next" size="xs" />
             </button>
           </div>
         </div>
@@ -186,30 +212,51 @@ export default function CharactersPage() {
       )}
 
       {mode === "browse" && (
-        <div className="space-y-3">
-          {unitGroups.map((group) => (
-            <div key={group.name}>
-              <h3 className="text-sm font-semibold text-muted-foreground uppercase tracking-wide mt-4 mb-2 px-1">
-                {group.name}
-              </h3>
-              {group.words.map((word) => (
-                <div
-                  key={word.id}
-                  className="bg-card rounded-lg p-4 border border-border flex items-center gap-4 mb-2"
+        <div className="space-y-1">
+          {unitGroups.map((group) => {
+            const nameZh = getUnitNameZh(level, group.unitIndex) ?? group.name;
+            const isExpanded = expandedUnits.has(group.name);
+            return (
+              <div key={group.name}>
+                {/* Accordion header */}
+                <button
+                  onClick={() => toggleUnit(group.name)}
+                  className="w-full flex items-center justify-between px-3 py-2.5 mt-2 rounded-lg bg-muted hover:bg-muted/80 transition-colors"
                 >
-                  <span className="text-3xl w-12 text-center">
-                    {word.simplified}
+                  <span className="flex items-center gap-2">
+                    <span className="text-base font-semibold">{nameZh}</span>
+                    <span className="text-xs text-muted-foreground">{group.name}</span>
                   </span>
-                  <div className="flex-1 min-w-0">
-                    <p className="text-sm font-medium">{word.pinyin}</p>
-                    <p className="text-sm text-foreground">
-                      {word.meaning}
-                    </p>
+                  <span className="flex items-center gap-2 text-muted-foreground">
+                    <span className="text-xs">{group.words.length}</span>
+                    <span className="text-sm transition-transform duration-200" style={{ transform: isExpanded ? "rotate(180deg)" : "rotate(0deg)" }}>
+                      ▾
+                    </span>
+                  </span>
+                </button>
+
+                {/* Word list — shown when expanded */}
+                {isExpanded && (
+                  <div className="mt-1 space-y-1">
+                    {group.words.map((word) => (
+                      <div
+                        key={word.id}
+                        className="bg-card rounded-lg p-4 border border-border flex items-center gap-4"
+                      >
+                        <span className="text-3xl w-12 text-center">
+                          {word.simplified}
+                        </span>
+                        <div className="flex-1 min-w-0">
+                          <p className="text-sm font-medium">{word.pinyin}</p>
+                          <p className="text-sm text-foreground">{word.meaning}</p>
+                        </div>
+                      </div>
+                    ))}
                   </div>
-                </div>
-              ))}
-            </div>
-          ))}
+                )}
+              </div>
+            );
+          })}
           {words.length === 0 && (
             <p className="text-center text-muted-foreground py-8">
               No vocabulary data available for this level.

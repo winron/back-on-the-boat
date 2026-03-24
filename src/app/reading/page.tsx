@@ -63,6 +63,9 @@ export default function ReadingPage() {
     }
   };
 
+  const allTranslationsShown =
+    selected != null && revealedTranslations.size === selected.paragraphs.length;
+
   return (
     <div className="tab-color-5 space-y-6">
       <div className="flex items-center justify-between">
@@ -74,9 +77,15 @@ export default function ReadingPage() {
         <div className="space-y-4">
           <button
             onClick={() => setSelectedId(null)}
-            className="text-sm text-primary"
+            className="text-sm text-primary flex items-center gap-1"
           >
-            &larr; Back to list
+            ←{" "}
+            <TrilingualLabel
+              chinese="返回列表"
+              pinyin="fǎnhuí lièbiǎo"
+              english="Back to list"
+              size="xs"
+            />
           </button>
 
           <div className="bg-card rounded-lg p-4 border border-border">
@@ -87,9 +96,14 @@ export default function ReadingPage() {
               </span>
             </h2>
             <p className="text-xs text-muted-foreground mt-1">
-              {selected.type === "short" ? "Short passage" : "Mini story"} &middot;{" "}
-              {selected.paragraphs.length} paragraph
-              {selected.paragraphs.length > 1 ? "s" : ""}
+              {selected.type === "short" ? (
+                <TrilingualLabel chinese="短文" pinyin="duǎn wén" english="Short passage" size="xs" />
+              ) : (
+                <TrilingualLabel chinese="故事" pinyin="gùshi" english="Mini story" size="xs" />
+              )}
+              {" · "}
+              {selected.paragraphs.length}{" "}
+              {selected.paragraphs.length > 1 ? "paragraphs" : "paragraph"}
             </p>
           </div>
 
@@ -102,22 +116,27 @@ export default function ReadingPage() {
                   : "bg-muted"
               }`}
             >
-              {showPinyin ? "Hide" : "Show"} Pinyin
+              <TrilingualLabel
+                chinese={showPinyin ? "隐藏拼音" : "显示拼音"}
+                pinyin={showPinyin ? "yǐncáng pīnyīn" : "xiǎnshì pīnyīn"}
+                english={showPinyin ? "Hide Pinyin" : "Show Pinyin"}
+                size="xs"
+              />
             </button>
             <button
               onClick={toggleAllTranslations}
               className={`flex-1 py-2.5 rounded-lg font-medium text-sm ${
-                selected &&
-                revealedTranslations.size === selected.paragraphs.length
+                allTranslationsShown
                   ? "bg-primary text-primary-foreground"
                   : "bg-muted"
               }`}
             >
-              {selected &&
-              revealedTranslations.size === selected.paragraphs.length
-                ? "Hide"
-                : "Show"}{" "}
-              All Translations
+              <TrilingualLabel
+                chinese={allTranslationsShown ? "隐藏翻译" : "显示翻译"}
+                pinyin={allTranslationsShown ? "yǐncáng fānyì" : "xiǎnshì fānyì"}
+                english={allTranslationsShown ? "Hide All Translations" : "Show All Translations"}
+                size="xs"
+              />
             </button>
           </div>
 
@@ -135,14 +154,15 @@ export default function ReadingPage() {
                   onClick={() => toggleTranslation(i)}
                   className="text-xs text-primary"
                 >
-                  {revealedTranslations.has(i)
-                    ? "Hide translation"
-                    : "Show translation"}
+                  <TrilingualLabel
+                    chinese={revealedTranslations.has(i) ? "隐藏翻译" : "显示翻译"}
+                    pinyin={revealedTranslations.has(i) ? "yǐncáng fānyì" : "xiǎnshì fānyì"}
+                    english={revealedTranslations.has(i) ? "Hide translation" : "Show translation"}
+                    size="xs"
+                  />
                 </button>
                 {revealedTranslations.has(i) && (
-                  <p className="text-sm text-muted-foreground">
-                    {para.english}
-                  </p>
+                  <p className="text-sm text-muted-foreground">{para.english}</p>
                 )}
               </div>
             ))}
@@ -151,7 +171,7 @@ export default function ReadingPage() {
           {selected.vocabHighlights.length > 0 && (
             <div className="bg-card rounded-lg p-4 border border-border">
               <p className="text-xs font-medium text-muted-foreground mb-2">
-                Key Vocabulary
+                <TrilingualLabel chinese="重点词汇" pinyin="zhòngdiǎn cíhuì" english="Key Vocabulary" size="xs" />
               </p>
               <div className="flex flex-wrap gap-2">
                 {selected.vocabHighlights.map((word) => (
@@ -177,7 +197,7 @@ export default function ReadingPage() {
                   : "bg-muted text-muted-foreground"
               }`}
             >
-              Short
+              <TrilingualLabel chinese="短文" pinyin="duǎn wén" english="Short" size="xs" />
             </button>
             <button
               onClick={() => setTab("story")}
@@ -187,7 +207,7 @@ export default function ReadingPage() {
                   : "bg-muted text-muted-foreground"
               }`}
             >
-              Stories
+              <TrilingualLabel chinese="故事" pinyin="gùshi" english="Stories" size="xs" />
             </button>
           </div>
 
