@@ -36,9 +36,15 @@ export default function GrammarPage() {
         <div className="space-y-4">
           <button
             onClick={() => setSelectedId(null)}
-            className="text-sm text-primary"
+            className="text-sm text-primary flex items-center gap-1"
           >
-            &larr; Back to list
+            ←{" "}
+            <TrilingualLabel
+              chinese="返回列表"
+              pinyin="fǎnhuí lièbiǎo"
+              english="Back to list"
+              size="xs"
+            />
           </button>
           <div className="bg-card rounded-lg p-6 border border-border">
             <h2 className="text-lg font-semibold mb-2">{selected.title}</h2>
@@ -49,7 +55,9 @@ export default function GrammarPage() {
               {selected.explanation}
             </p>
             <div className="space-y-3">
-              <h3 className="text-sm font-semibold">Examples</h3>
+              <h3 className="text-sm font-semibold">
+                <TrilingualLabel chinese="例句" pinyin="lìjù" english="Examples" size="xs" />
+              </h3>
               {selected.examples.map((ex, i) => (
                 <div
                   key={i}

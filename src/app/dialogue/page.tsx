@@ -2,15 +2,18 @@
 
 import { useState, useEffect } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
+import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { loadDialogues } from "@/lib/data-loader";
 import { useTTS } from "@/hooks/useTTS";
 import LevelSelector from "@/components/shared/LevelSelector";
+import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
 import AudioButton from "@/components/shared/AudioButton";
 import type { Dialogue } from "@/types";
 
 export default function DialoguePage() {
   const { level, setLevel } = useHskLevel();
+  const { unlockedLevel } = useUnlockedLevel();
   const [dialogues, setDialogues] = useState<Dialogue[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [revealedLines, setRevealedLines] = useState(0);
@@ -40,17 +43,25 @@ export default function DialoguePage() {
   };
 
   return (
-    <div className="space-y-6">
-      <h1 className="text-xl font-bold">Dialogue</h1>
-      <LevelSelector currentLevel={level} onSelect={setLevel} />
+    <div className="tab-color-4 space-y-6">
+      <div className="flex items-center justify-between">
+        <TrilingualLabel chinese="对话" pinyin="duìhuà" english="Dialogue" size="lg" />
+        <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+      </div>
 
       {selected ? (
         <div className="space-y-4">
           <button
             onClick={() => setSelectedId(null)}
-            className="text-sm text-primary"
+            className="text-sm text-primary flex items-center gap-1"
           >
-            &larr; Back to list
+            ←{" "}
+            <TrilingualLabel
+              chinese="返回列表"
+              pinyin="fǎnhuí lièbiǎo"
+              english="Back to list"
+              size="xs"
+            />
           </button>
 
           <div className="bg-card rounded-lg p-4 border border-border">
@@ -95,14 +106,19 @@ export default function DialoguePage() {
                 onClick={revealNext}
                 className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium text-sm"
               >
-                Next line
+                <TrilingualLabel chinese="下一句" pinyin="xià yī jù" english="Next line" size="xs" />
               </button>
             )}
             <button
               onClick={() => setShowTranslations((s) => !s)}
               className="flex-1 py-3 bg-muted rounded-lg font-medium text-sm"
             >
-              {showTranslations ? "Hide" : "Show"} translations
+              <TrilingualLabel
+                chinese={showTranslations ? "隐藏翻译" : "显示翻译"}
+                pinyin={showTranslations ? "yǐncáng fānyì" : "xiǎnshì fānyì"}
+                english={showTranslations ? "Hide translations" : "Show translations"}
+                size="xs"
+              />
             </button>
           </div>
         </div>
@@ -119,7 +135,8 @@ export default function DialoguePage() {
                 <p className="text-sm text-muted-foreground">{d.context}</p>
               )}
               <p className="text-xs text-muted-foreground mt-1">
-                {d.lines.length} lines
+                {d.lines.length}{" "}
+                <TrilingualLabel chinese="句" pinyin="jù" english="lines" size="xs" />
               </p>
             </button>
           ))}

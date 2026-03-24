@@ -10,6 +10,7 @@ export interface HskWord {
   frequency?: number;
   unitIndex: number;
   unitName: string;
+  improvedMeaning?: boolean;
   exampleSentence?: string;
   examplePinyin?: string;
   exampleMeaning?: string;

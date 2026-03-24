@@ -6,10 +6,12 @@
     "dev": "next dev --webpack",
     "build": "next build --webpack",
     "prepare-data": "tsx scripts/prepare-data.ts",
+    "improve-translations": "tsx scripts/improve-translations.ts",
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.36.0",
     "@serwist/next": "^9.5.7",
     "dexie": "^4.3.0",
     "dexie-react-hooks": "^4.2.0",
