@@ -38,7 +38,6 @@ export default function GrammarPage() {
             onClick={() => setSelectedId(null)}
             className="text-sm text-primary flex items-center gap-1"
           >
-            ←{" "}
             <TrilingualLabel
               chinese="返回列表"
               pinyin="fǎnhuí lièbiǎo"
@@ -77,7 +76,7 @@ export default function GrammarPage() {
       ) : (
         <div className="space-y-3">
           <p className="text-xs text-muted-foreground">
-            {patterns.length} pattern{patterns.length !== 1 ? "s" : ""}
+            {patterns.length} <TrilingualLabel chinese="个语法点" pinyin="gè yǔfǎ diǎn" english="pattern(s)" size="xs" />
           </p>
           {patterns.map((pattern) => (
             <button
@@ -93,7 +92,7 @@ export default function GrammarPage() {
           ))}
           {patterns.length === 0 && (
             <p className="text-center text-muted-foreground py-8">
-              No grammar data available yet.
+              <TrilingualLabel chinese="暂无语法数据" pinyin="zàn wú yǔfǎ shùjù" english="No grammar data yet" size="sm" />
             </p>
           )}
         </div>

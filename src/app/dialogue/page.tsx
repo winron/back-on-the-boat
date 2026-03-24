@@ -55,7 +55,6 @@ export default function DialoguePage() {
             onClick={() => setSelectedId(null)}
             className="text-sm text-primary flex items-center gap-1"
           >
-            ←{" "}
             <TrilingualLabel
               chinese="返回列表"
               pinyin="fǎnhuí lièbiǎo"
@@ -142,7 +141,7 @@ export default function DialoguePage() {
           ))}
           {dialogues.length === 0 && (
             <p className="text-center text-muted-foreground py-8">
-              No dialogue data available yet. Run the data preparation script.
+              <TrilingualLabel chinese="暂无对话数据" pinyin="zàn wú duìhuà shùjù" english="No dialogue data yet" size="sm" />
             </p>
           )}
         </div>

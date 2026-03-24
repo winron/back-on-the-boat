@@ -76,7 +76,7 @@ export default function SentencesPage() {
           <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
         </div>
         <p className="text-center text-muted-foreground py-8">
-          No sentence exercises available yet.
+          <TrilingualLabel chinese="暂无练习题" pinyin="zàn wú liànxí tí" english="No exercises yet" size="sm" />
         </p>
       </div>
     );
@@ -95,7 +95,9 @@ export default function SentencesPage() {
 
       {/* Target meaning */}
       <div className="bg-card rounded-lg p-4 border border-border">
-        <p className="text-muted-foreground text-sm mb-1">Translate:</p>
+        <p className="text-muted-foreground text-sm mb-1">
+          <TrilingualLabel chinese="翻译" pinyin="fānyì" english="Translate" size="xs" />
+        </p>
         <p className="text-base font-medium">{exercise.targetMeaning}</p>
       </div>
 
@@ -103,7 +105,7 @@ export default function SentencesPage() {
       <div className="min-h-[60px] bg-muted rounded-lg p-3 flex flex-wrap gap-2">
         {selected.length === 0 && (
           <p className="text-sm text-muted-foreground">
-            Tap words below to build the sentence
+            <TrilingualLabel chinese="点击下方词语组句" pinyin="diǎnjī xiàfāng cíyǔ zǔjù" english="Tap words to build the sentence" size="xs" />
           </p>
         )}
         {selected.map((word, i) => (
@@ -140,7 +142,11 @@ export default function SentencesPage() {
           }`}
         >
           <p className="font-medium">
-            {result === "correct" ? "Correct!" : "Not quite"}
+            {result === "correct" ? (
+              <TrilingualLabel chinese="正确！" pinyin="zhèngquè！" english="Correct!" size="sm" />
+            ) : (
+              <TrilingualLabel chinese="差一点" pinyin="chà yīdiǎn" english="Not quite" size="sm" />
+            )}
           </p>
           {result === "incorrect" && (
             <div className="mt-2 space-y-1">
@@ -165,7 +171,7 @@ export default function SentencesPage() {
             disabled={selected.length === 0}
             className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium disabled:opacity-30"
           >
-            Check
+            <TrilingualLabel chinese="检查" pinyin="jiǎnchá" english="Check" size="xs" />
           </button>
         )}
         {result && currentIndex < exercises.length - 1 && (
@@ -173,7 +179,7 @@ export default function SentencesPage() {
             onClick={handleNext}
             className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium"
           >
-            Next
+            <TrilingualLabel chinese="下一题" pinyin="xià yī tí" english="Next" size="xs" />
           </button>
         )}
       </div>
