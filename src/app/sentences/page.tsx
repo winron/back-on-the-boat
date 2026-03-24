@@ -84,8 +84,10 @@ export default function SentencesPage() {
 
   return (
     <div className="tab-color-4 space-y-6">
-      <TrilingualLabel chinese="造句" pinyin="zàojù" english="Sentences" size="lg" />
-      <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+      <div className="flex items-center justify-between">
+        <TrilingualLabel chinese="造句" pinyin="zàojù" english="Sentences" size="lg" />
+        <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+      </div>
 
       <p className="text-sm text-muted-foreground">
         {currentIndex + 1} / {exercises.length}

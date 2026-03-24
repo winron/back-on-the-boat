@@ -99,7 +99,7 @@ export default function StrokeOrder({
       <div className="flex gap-2">
         <button
           onClick={handleAnimate}
-          className={`px-4 py-1.5 rounded-full text-sm font-medium transition-colors ${
+          className={`px-4 py-1.5 rounded-lg text-sm font-medium transition-colors ${
             mode === "animate"
               ? "bg-primary text-primary-foreground"
               : "bg-muted text-muted-foreground"
@@ -109,7 +109,7 @@ export default function StrokeOrder({
         </button>
         <button
           onClick={handleQuiz}
-          className={`px-4 py-1.5 rounded-full text-sm font-medium transition-colors ${
+          className={`px-4 py-1.5 rounded-lg text-sm font-medium transition-colors ${
             mode === "quiz"
               ? "bg-primary text-primary-foreground"
               : "bg-muted text-muted-foreground"

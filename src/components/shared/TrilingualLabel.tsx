@@ -30,11 +30,11 @@ export default function TrilingualLabel({
   return (
     <span className={`inline-flex flex-col items-center ${className}`}>
       {showPinyin && (
-        <span className={`${s.pinyin} text-foreground opacity-70`}>{pinyin}</span>
+        <span className={`${s.pinyin} text-foreground`}>{pinyin}</span>
       )}
       <span className={s.chinese}>{chinese}</span>
       {showEnglish && (
-        <span className={`${s.english} text-foreground opacity-70`}>{english}</span>
+        <span className={`${s.english} text-foreground`}>{english}</span>
       )}
     </span>
   );
