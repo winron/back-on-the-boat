@@ -14,11 +14,11 @@ interface ReviewCardProps {
   onRate: (grade: Grade) => void;
 }
 
-const ratingButtons: { grade: Grade; label: string; color: string }[] = [
-  { grade: Rating.Again, label: "Again", color: "bg-red-500 hover:bg-red-600" },
-  { grade: Rating.Hard, label: "Hard", color: "bg-orange-500 hover:bg-orange-600" },
-  { grade: Rating.Good, label: "Good", color: "bg-green-500 hover:bg-green-600" },
-  { grade: Rating.Easy, label: "Easy", color: "bg-blue-500 hover:bg-blue-600" },
+const ratingButtons: { grade: Grade; chinese: string; pinyin: string; english: string; color: string }[] = [
+  { grade: Rating.Again, chinese: "再来", pinyin: "zàilái", english: "Again", color: "bg-red-500 hover:bg-red-600" },
+  { grade: Rating.Hard, chinese: "难", pinyin: "nán", english: "Hard", color: "bg-orange-500 hover:bg-orange-600" },
+  { grade: Rating.Good, chinese: "好", pinyin: "hǎo", english: "Good", color: "bg-green-500 hover:bg-green-600" },
+  { grade: Rating.Easy, chinese: "容易", pinyin: "róngyì", english: "Easy", color: "bg-blue-500 hover:bg-blue-600" },
 ];
 
 export default function ReviewCard({
@@ -73,11 +73,11 @@ export default function ReviewCard({
         <div className="grid grid-cols-4 gap-2">
           {ratingButtons.map((btn) => (
             <button
-              key={btn.label}
+              key={btn.english}
               onClick={() => onRate(btn.grade)}
               className={`${btn.color} text-white py-3 rounded-lg text-sm font-medium transition-colors`}
             >
-              {btn.label}
+              <TrilingualLabel chinese={btn.chinese} pinyin={btn.pinyin} english={btn.english} size="xs" />
             </button>
           ))}
         </div>

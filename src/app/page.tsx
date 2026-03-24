@@ -26,11 +26,7 @@ export default function HomePage() {
 
       {/* Current Level */}
       <div className="text-center space-y-1">
-        <p className="text-foreground text-sm">
-          {showPinyin && <span className="block text-xs">dāngqián děngjí</span>}
-          当前等级
-          {showEnglish && <span className="block text-xs">Current Level</span>}
-        </p>
+        <TrilingualLabel chinese="当前等级" pinyin="dāngqián děngjí" english="Current Level" size="sm" />
         <p
           className="text-5xl font-bold"
           style={{ color: "var(--color-tab-1)" }}
@@ -53,15 +49,11 @@ export default function HomePage() {
             {loading
               ? "..."
               : isLevelComplete
-              ? showEnglish ? "Level Up!" : "升级！"
+              ? "升级！"
               : `${masteredCount} / ${totalCount}`}
           </span>
         </div>
-        <p className="text-center text-xs text-foreground">
-          {showPinyin && <span className="block text-[10px]">zhǎngwò</span>}
-          掌握
-          {showEnglish && <span className="block text-[10px]">Mastered</span>}
-        </p>
+        <TrilingualLabel chinese="掌握" pinyin="zhǎngwò" english="Mastered" size="xs" />
       </div>
 
       {/* Display Toggles */}

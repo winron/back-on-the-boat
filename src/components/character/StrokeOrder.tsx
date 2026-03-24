@@ -2,6 +2,7 @@
 
 import { useRef, useEffect, useState } from "react";
 import HanziWriter from "hanzi-writer";
+import TrilingualLabel from "@/components/shared/TrilingualLabel";
 
 interface StrokeOrderProps {
   character: string;
@@ -105,7 +106,7 @@ export default function StrokeOrder({
               : "bg-muted text-muted-foreground"
           }`}
         >
-          Animate
+          <TrilingualLabel chinese="动画" pinyin="dònghuà" english="Animate" size="xs" />
         </button>
         <button
           onClick={handleQuiz}
@@ -115,7 +116,7 @@ export default function StrokeOrder({
               : "bg-muted text-muted-foreground"
           }`}
         >
-          Practice
+          <TrilingualLabel chinese="练习" pinyin="liànxí" english="Practice" size="xs" />
         </button>
       </div>
     </div>

@@ -140,14 +140,13 @@ export default function CharactersPage() {
             </p>
           ) : review.isComplete ? (
             <div className="text-center py-12">
-              <p className="text-4xl mb-4">🎉</p>
               <p className="text-lg font-medium">
                 <TrilingualLabel chinese="全部完成！" pinyin="quánbù wánchéng！" english="All caught up!" size="sm" />
               </p>
               <p className="text-muted-foreground text-sm mt-1">
                 {review.totalReviewed > 0
                   ? `${review.totalReviewed} cards reviewed (${review.correctCount} correct)`
-                  : "No cards due for review. Come back later or tap Check again."}
+                  : "暂无到期卡片，稍后再来。"}
               </p>
               <button
                 onClick={() => review.loadCards(`hsk${level}-`)}
@@ -207,7 +206,7 @@ export default function CharactersPage() {
 
       {mode === "learn" && !browseWord && words.length === 0 && (
         <p className="text-center text-muted-foreground py-8">
-          No vocabulary data available for this level.
+          暂无词汇数据。
         </p>
       )}
 
@@ -259,7 +258,7 @@ export default function CharactersPage() {
           })}
           {words.length === 0 && (
             <p className="text-center text-muted-foreground py-8">
-              No vocabulary data available for this level.
+              暂无词汇数据。
             </p>
           )}
         </div>

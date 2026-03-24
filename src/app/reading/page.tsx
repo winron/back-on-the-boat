@@ -79,7 +79,6 @@ export default function ReadingPage() {
             onClick={() => setSelectedId(null)}
             className="text-sm text-primary flex items-center gap-1"
           >
-            ←{" "}
             <TrilingualLabel
               chinese="返回列表"
               pinyin="fǎnhuí lièbiǎo"
@@ -103,7 +102,7 @@ export default function ReadingPage() {
               )}
               {" · "}
               {selected.paragraphs.length}{" "}
-              {selected.paragraphs.length > 1 ? "paragraphs" : "paragraph"}
+              <TrilingualLabel chinese="段" pinyin="duàn" english="paragraph(s)" size="xs" />
             </p>
           </div>
 
@@ -221,14 +220,13 @@ export default function ReadingPage() {
                 <p className="font-medium">{r.titleZh}</p>
                 <p className="text-sm text-muted-foreground">{r.title}</p>
                 <p className="text-xs text-muted-foreground mt-1">
-                  {r.paragraphs.length} paragraph
-                  {r.paragraphs.length > 1 ? "s" : ""}
+                  {r.paragraphs.length} <TrilingualLabel chinese="段" pinyin="duàn" english="paragraph(s)" size="xs" />
                 </p>
               </button>
             ))}
             {filtered.length === 0 && (
               <p className="text-center text-muted-foreground py-8">
-                No reading passages available for this level yet.
+                <TrilingualLabel chinese="暂无阅读材料" pinyin="zàn wú yuèdú cáiliào" english="No reading passages yet" size="sm" />
               </p>
             )}
           </div>

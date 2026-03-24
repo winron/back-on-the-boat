@@ -32,7 +32,7 @@ export default function LevelSelector({
           disabled={level > unlockedLevel}
           className="bg-card text-foreground"
         >
-          HSK {level}{level > unlockedLevel ? " (locked)" : ""}
+          HSK {level}{level > unlockedLevel ? " （锁定）" : ""}
         </option>
       ))}
     </select>
