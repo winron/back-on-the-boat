@@ -65,8 +65,10 @@ export default function ReadingPage() {
 
   return (
     <div className="tab-color-5 space-y-6">
-      <TrilingualLabel chinese="阅读" pinyin="yuèdú" english="Reading" size="lg" />
-      <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+      <div className="flex items-center justify-between">
+        <TrilingualLabel chinese="阅读" pinyin="yuèdú" english="Reading" size="lg" />
+        <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+      </div>
 
       {selected ? (
         <div className="space-y-4">
@@ -77,7 +79,7 @@ export default function ReadingPage() {
             &larr; Back to list
           </button>
 
-          <div className="bg-card rounded-xl p-4 border border-border">
+          <div className="bg-card rounded-lg p-4 border border-border">
             <h2 className="font-semibold">
               {selected.titleZh}
               <span className="text-muted-foreground font-normal ml-2 text-sm">
@@ -94,7 +96,7 @@ export default function ReadingPage() {
           <div className="flex gap-3">
             <button
               onClick={() => setShowPinyin((s) => !s)}
-              className={`flex-1 py-2.5 rounded-xl font-medium text-sm ${
+              className={`flex-1 py-2.5 rounded-lg font-medium text-sm ${
                 showPinyin
                   ? "bg-primary text-primary-foreground"
                   : "bg-muted"
@@ -104,7 +106,7 @@ export default function ReadingPage() {
             </button>
             <button
               onClick={toggleAllTranslations}
-              className={`flex-1 py-2.5 rounded-xl font-medium text-sm ${
+              className={`flex-1 py-2.5 rounded-lg font-medium text-sm ${
                 selected &&
                 revealedTranslations.size === selected.paragraphs.length
                   ? "bg-primary text-primary-foreground"
@@ -123,7 +125,7 @@ export default function ReadingPage() {
             {selected.paragraphs.map((para, i) => (
               <div
                 key={i}
-                className="bg-card rounded-xl p-4 border border-border space-y-2"
+                className="bg-card rounded-lg p-4 border border-border space-y-2"
               >
                 <p className="text-base leading-relaxed">{para.chinese}</p>
                 {showPinyin && (
@@ -147,7 +149,7 @@ export default function ReadingPage() {
           </div>
 
           {selected.vocabHighlights.length > 0 && (
-            <div className="bg-card rounded-xl p-4 border border-border">
+            <div className="bg-card rounded-lg p-4 border border-border">
               <p className="text-xs font-medium text-muted-foreground mb-2">
                 Key Vocabulary
               </p>
@@ -169,7 +171,7 @@ export default function ReadingPage() {
           <div className="flex gap-2">
             <button
               onClick={() => setTab("short")}
-              className={`flex-1 py-2.5 rounded-xl font-medium text-sm transition-colors ${
+              className={`flex-1 py-2.5 rounded-lg font-medium text-sm transition-colors ${
                 tab === "short"
                   ? "bg-primary text-primary-foreground"
                   : "bg-muted text-muted-foreground"
@@ -179,7 +181,7 @@ export default function ReadingPage() {
             </button>
             <button
               onClick={() => setTab("story")}
-              className={`flex-1 py-2.5 rounded-xl font-medium text-sm transition-colors ${
+              className={`flex-1 py-2.5 rounded-lg font-medium text-sm transition-colors ${
                 tab === "story"
                   ? "bg-primary text-primary-foreground"
                   : "bg-muted text-muted-foreground"
@@ -194,7 +196,7 @@ export default function ReadingPage() {
               <button
                 key={r.id}
                 onClick={() => handleSelect(r.id)}
-                className="w-full text-left bg-card rounded-xl p-4 border border-border hover:border-primary transition-colors"
+                className="w-full text-left bg-card rounded-lg p-4 border border-border hover:border-primary transition-colors"
               >
                 <p className="font-medium">{r.titleZh}</p>
                 <p className="text-sm text-muted-foreground">{r.title}</p>

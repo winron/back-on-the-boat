@@ -27,8 +27,10 @@ export default function GrammarPage() {
 
   return (
     <div className="tab-color-3 space-y-6">
-      <TrilingualLabel chinese="语法" pinyin="yǔfǎ" english="Grammar" size="lg" />
-      <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+      <div className="flex items-center justify-between">
+        <TrilingualLabel chinese="语法" pinyin="yǔfǎ" english="Grammar" size="lg" />
+        <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+      </div>
 
       {selected ? (
         <div className="space-y-4">
@@ -38,7 +40,7 @@ export default function GrammarPage() {
           >
             &larr; Back to list
           </button>
-          <div className="bg-card rounded-xl p-6 border border-border">
+          <div className="bg-card rounded-lg p-6 border border-border">
             <h2 className="text-lg font-semibold mb-2">{selected.title}</h2>
             <p className="text-sm text-primary font-mono mb-3">
               {selected.structure}
@@ -73,7 +75,7 @@ export default function GrammarPage() {
             <button
               key={pattern.id}
               onClick={() => setSelectedId(pattern.id)}
-              className="w-full text-left bg-card rounded-xl p-4 border border-border hover:border-primary transition-colors"
+              className="w-full text-left bg-card rounded-lg p-4 border border-border hover:border-primary transition-colors"
             >
               <p className="font-medium">{pattern.title}</p>
               <p className="text-sm text-primary font-mono">

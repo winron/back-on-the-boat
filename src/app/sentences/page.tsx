@@ -71,8 +71,10 @@ export default function SentencesPage() {
   if (!exercise) {
     return (
       <div className="tab-color-4 space-y-6">
-        <TrilingualLabel chinese="造句" pinyin="zàojù" english="Sentences" size="lg" />
-        <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+        <div className="flex items-center justify-between">
+          <TrilingualLabel chinese="造句" pinyin="zàojù" english="Sentences" size="lg" />
+          <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+        </div>
         <p className="text-center text-muted-foreground py-8">
           No sentence exercises available yet.
         </p>
@@ -90,13 +92,13 @@ export default function SentencesPage() {
       </p>
 
       {/* Target meaning */}
-      <div className="bg-card rounded-xl p-4 border border-border">
+      <div className="bg-card rounded-lg p-4 border border-border">
         <p className="text-muted-foreground text-sm mb-1">Translate:</p>
         <p className="text-base font-medium">{exercise.targetMeaning}</p>
       </div>
 
       {/* Selected words (answer area) */}
-      <div className="min-h-[60px] bg-muted rounded-xl p-3 flex flex-wrap gap-2">
+      <div className="min-h-[60px] bg-muted rounded-lg p-3 flex flex-wrap gap-2">
         {selected.length === 0 && (
           <p className="text-sm text-muted-foreground">
             Tap words below to build the sentence
@@ -129,7 +131,7 @@ export default function SentencesPage() {
       {/* Result */}
       {result && (
         <div
-          className={`rounded-xl p-4 ${
+          className={`rounded-lg p-4 ${
             result === "correct"
               ? "bg-green-950 border border-green-800"
               : "bg-red-950 border border-red-800"
@@ -159,7 +161,7 @@ export default function SentencesPage() {
           <button
             onClick={handleCheck}
             disabled={selected.length === 0}
-            className="flex-1 py-3 bg-primary text-primary-foreground rounded-xl font-medium disabled:opacity-30"
+            className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium disabled:opacity-30"
           >
             Check
           </button>
@@ -167,7 +169,7 @@ export default function SentencesPage() {
         {result && currentIndex < exercises.length - 1 && (
           <button
             onClick={handleNext}
-            className="flex-1 py-3 bg-primary text-primary-foreground rounded-xl font-medium"
+            className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium"
           >
             Next
           </button>

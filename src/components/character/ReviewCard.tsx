@@ -4,6 +4,7 @@ import { Rating } from "ts-fsrs";
 import type { Grade } from "ts-fsrs";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
 import AudioButton from "@/components/shared/AudioButton";
+import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import type { HskWord } from "@/types";
 
 interface ReviewCardProps {
@@ -29,7 +30,7 @@ export default function ReviewCard({
   return (
     <div className="space-y-4">
       <div
-        className="bg-card rounded-2xl p-8 border border-border text-center min-h-[280px] flex flex-col items-center justify-center cursor-pointer select-none"
+        className="bg-card rounded-lg p-8 border border-border text-center min-h-[280px] flex flex-col items-center justify-center cursor-pointer select-none"
         onClick={() => !isFlipped && onFlip()}
       >
         <p className="text-7xl font-normal mb-4">{word.simplified}</p>
@@ -59,7 +60,12 @@ export default function ReviewCard({
             </div>
           </div>
         ) : (
-          <p className="text-sm text-muted-foreground">Tap to reveal answer</p>
+          <TrilingualLabel
+            chinese="点击显示答案"
+            pinyin="diǎnjī xiǎnshì dá'àn"
+            english="Tap to reveal answer"
+            size="sm"
+          />
         )}
       </div>
 
@@ -69,7 +75,7 @@ export default function ReviewCard({
             <button
               key={btn.label}
               onClick={() => onRate(btn.grade)}
-              className={`${btn.color} text-white py-3 rounded-xl text-sm font-medium transition-colors`}
+              className={`${btn.color} text-white py-3 rounded-lg text-sm font-medium transition-colors`}
             >
               {btn.label}
             </button>

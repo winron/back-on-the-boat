@@ -84,20 +84,21 @@ export default function CharactersPage() {
 
   return (
     <div className="tab-color-2 space-y-6">
-      <TrilingualLabel chinese="汉字" pinyin="hànzì" english="Characters" size="lg" />
+      <div className="flex items-center justify-between">
+        <TrilingualLabel chinese="汉字" pinyin="hànzì" english="Characters" size="lg" />
+        <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+      </div>
 
-      <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
-
-      {/* Mode tabs — full width */}
-      <div className="flex flex-col gap-2">
+      {/* Mode tabs — same row, equal width */}
+      <div className="flex gap-2">
         {(["review", "learn", "browse"] as Mode[]).map((m) => (
           <button
             key={m}
             onClick={() => setMode(m)}
-            className={`w-full py-3 rounded-xl text-sm font-medium transition-colors ${
+            className={`flex-1 py-3 rounded-lg text-sm font-medium transition-colors ${
               mode === m
                 ? "bg-primary text-primary-foreground"
-                : "bg-muted text-muted-foreground"
+                : "bg-muted text-foreground"
             }`}
           >
             <TrilingualLabel {...modeLabels[m]} size="sm" />
@@ -194,14 +195,14 @@ export default function CharactersPage() {
               {group.words.map((word) => (
                 <div
                   key={word.id}
-                  className="bg-card rounded-xl p-4 border border-border flex items-center gap-4 mb-2"
+                  className="bg-card rounded-lg p-4 border border-border flex items-center gap-4 mb-2"
                 >
                   <span className="text-3xl w-12 text-center">
                     {word.simplified}
                   </span>
                   <div className="flex-1 min-w-0">
                     <p className="text-sm font-medium">{word.pinyin}</p>
-                    <p className="text-sm text-muted-foreground truncate">
+                    <p className="text-sm text-foreground">
                       {word.meaning}
                     </p>
                   </div>

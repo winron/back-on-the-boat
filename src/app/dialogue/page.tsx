@@ -53,7 +53,7 @@ export default function DialoguePage() {
             &larr; Back to list
           </button>
 
-          <div className="bg-card rounded-xl p-4 border border-border">
+          <div className="bg-card rounded-lg p-4 border border-border">
             <h2 className="font-semibold">{selected.title}</h2>
             {selected.context && (
               <p className="text-sm text-muted-foreground">{selected.context}</p>
@@ -64,7 +64,7 @@ export default function DialoguePage() {
             {selected.lines.slice(0, revealedLines).map((line, i) => (
               <div
                 key={i}
-                className={`rounded-xl p-4 ${
+                className={`rounded-lg p-4 ${
                   line.speaker === "A"
                     ? "bg-card border border-border mr-8"
                     : "bg-muted ml-8"
@@ -93,14 +93,14 @@ export default function DialoguePage() {
             {revealedLines < selected.lines.length && (
               <button
                 onClick={revealNext}
-                className="flex-1 py-3 bg-primary text-primary-foreground rounded-xl font-medium text-sm"
+                className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium text-sm"
               >
                 Next line
               </button>
             )}
             <button
               onClick={() => setShowTranslations((s) => !s)}
-              className="flex-1 py-3 bg-muted rounded-xl font-medium text-sm"
+              className="flex-1 py-3 bg-muted rounded-lg font-medium text-sm"
             >
               {showTranslations ? "Hide" : "Show"} translations
             </button>
@@ -112,7 +112,7 @@ export default function DialoguePage() {
             <button
               key={d.id}
               onClick={() => handleSelectDialogue(d.id)}
-              className="w-full text-left bg-card rounded-xl p-4 border border-border hover:border-primary transition-colors"
+              className="w-full text-left bg-card rounded-lg p-4 border border-border hover:border-primary transition-colors"
             >
               <p className="font-medium">{d.title}</p>
               {d.context && (

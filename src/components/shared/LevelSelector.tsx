@@ -16,26 +16,25 @@ export default function LevelSelector({
   unlockedLevel = 6,
 }: LevelSelectorProps) {
   return (
-    <div className="flex gap-2">
-      {levels.map((level) => {
-        const locked = level > unlockedLevel;
-        return (
-          <button
-            key={level}
-            onClick={() => !locked && onSelect(level)}
-            disabled={locked}
-            className={`px-3 py-1.5 rounded-full text-sm font-medium transition-colors ${
-              locked
-                ? "bg-muted text-muted-foreground opacity-30 cursor-not-allowed"
-                : level === currentLevel
-                ? "bg-primary text-primary-foreground"
-                : "bg-muted text-muted-foreground hover:bg-border"
-            }`}
-          >
-            {locked ? "🔒" : ""} HSK {level}
-          </button>
-        );
-      })}
-    </div>
+    <select
+      value={currentLevel}
+      onChange={(e) => {
+        const val = Number(e.target.value) as HskLevel;
+        if (val <= unlockedLevel) onSelect(val);
+      }}
+      className="bg-muted text-foreground border border-border rounded-lg px-3 py-2 text-sm font-medium appearance-none cursor-pointer min-w-[5.5rem] text-center"
+      style={{ backgroundImage: "none" }}
+    >
+      {levels.map((level) => (
+        <option
+          key={level}
+          value={level}
+          disabled={level > unlockedLevel}
+          className="bg-card text-foreground"
+        >
+          HSK {level}{level > unlockedLevel ? " (locked)" : ""}
+        </option>
+      ))}
+    </select>
   );
 }

@@ -2,7 +2,6 @@
 
 import { useDisplaySettings } from "@/hooks/useDisplaySettings";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
-import Link from "next/link";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 
 export default function HomePage() {
@@ -27,8 +26,8 @@ export default function HomePage() {
 
       {/* Current Level */}
       <div className="text-center space-y-1">
-        <p className="text-muted-foreground text-sm">
-          {showPinyin && <span className="block text-xs">děngjí</span>}
+        <p className="text-foreground text-sm">
+          {showPinyin && <span className="block text-xs">dāngqián děngjí</span>}
           当前等级
           {showEnglish && <span className="block text-xs">Current Level</span>}
         </p>
@@ -42,9 +41,9 @@ export default function HomePage() {
 
       {/* XP Progress Bar */}
       <div className="w-full max-w-xs space-y-2">
-        <div className="relative h-6 bg-muted rounded-full overflow-hidden border border-border">
+        <div className="relative h-[3.75rem] bg-muted rounded-lg overflow-hidden border border-border">
           <div
-            className="absolute inset-y-0 left-0 rounded-full transition-all duration-500"
+            className="absolute inset-y-0 left-0 rounded-lg transition-all duration-500"
             style={{
               width: `${percent}%`,
               background: `linear-gradient(90deg, var(--color-tab-1), var(--color-tab-2))`,
@@ -58,7 +57,7 @@ export default function HomePage() {
               : `${masteredCount} / ${totalCount}`}
           </span>
         </div>
-        <p className="text-center text-xs text-muted-foreground">
+        <p className="text-center text-xs text-foreground">
           {showPinyin && <span className="block text-[10px]">zhǎngwò</span>}
           掌握
           {showEnglish && <span className="block text-[10px]">Mastered</span>}
@@ -66,13 +65,13 @@ export default function HomePage() {
       </div>
 
       {/* Display Toggles */}
-      <div className="flex gap-4">
+      <div className="flex gap-3 w-full max-w-xs">
         <button
           onClick={togglePinyin}
-          className={`px-5 py-3 rounded-xl text-sm font-medium transition-all border ${
+          className={`flex-1 py-3 rounded-lg text-sm font-medium transition-all border ${
             showPinyin
               ? "bg-primary text-primary-foreground border-primary"
-              : "bg-muted text-muted-foreground border-border"
+              : "bg-muted text-foreground border-border"
           }`}
         >
           <span className="block text-xs">pīnyīn</span>
@@ -81,10 +80,10 @@ export default function HomePage() {
         </button>
         <button
           onClick={toggleEnglish}
-          className={`px-5 py-3 rounded-xl text-sm font-medium transition-all border ${
+          className={`flex-1 py-3 rounded-lg text-sm font-medium transition-all border ${
             showEnglish
               ? "bg-primary text-primary-foreground border-primary"
-              : "bg-muted text-muted-foreground border-border"
+              : "bg-muted text-foreground border-border"
           }`}
         >
           <span className="block text-xs">yīngwén</span>
@@ -93,18 +92,6 @@ export default function HomePage() {
         </button>
       </div>
 
-      {/* Settings link */}
-      <Link
-        href="/settings"
-        className="text-xs text-muted-foreground hover:text-foreground transition-colors"
-      >
-        <TrilingualLabel
-          chinese="设置"
-          pinyin="shèzhì"
-          english="Settings"
-          size="xs"
-        />
-      </Link>
     </div>
   );
 }

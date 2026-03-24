@@ -11,10 +11,10 @@ interface TrilingualLabelProps {
 }
 
 const sizeMap = {
-  xs: { pinyin: "text-[8px] leading-tight", chinese: "text-xs", english: "text-[8px] leading-tight" },
-  sm: { pinyin: "text-[9px] leading-tight", chinese: "text-sm", english: "text-[9px] leading-tight" },
-  md: { pinyin: "text-xs", chinese: "text-base font-medium", english: "text-xs" },
-  lg: { pinyin: "text-sm", chinese: "text-xl font-bold", english: "text-sm" },
+  xs: { pinyin: "text-[12px] leading-tight", chinese: "text-sm", english: "text-[12px] leading-tight" },
+  sm: { pinyin: "text-[13.5px] leading-tight", chinese: "text-base", english: "text-[13.5px] leading-tight" },
+  md: { pinyin: "text-sm", chinese: "text-lg font-medium", english: "text-sm" },
+  lg: { pinyin: "text-base", chinese: "text-3xl font-bold", english: "text-base" },
 };
 
 export default function TrilingualLabel({
@@ -30,11 +30,11 @@ export default function TrilingualLabel({
   return (
     <span className={`inline-flex flex-col items-center ${className}`}>
       {showPinyin && (
-        <span className={`${s.pinyin} text-muted-foreground`}>{pinyin}</span>
+        <span className={`${s.pinyin} text-foreground opacity-70`}>{pinyin}</span>
       )}
       <span className={s.chinese}>{chinese}</span>
       {showEnglish && (
-        <span className={`${s.english} text-muted-foreground`}>{english}</span>
+        <span className={`${s.english} text-foreground opacity-70`}>{english}</span>
       )}
     </span>
   );
