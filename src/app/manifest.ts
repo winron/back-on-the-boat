@@ -2,9 +2,9 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "HSK Master",
-    short_name: "HSK",
-    description: "Master HSK 1-6 Chinese characters, grammar, and dialogue",
+    name: "回到船上 - Back on the Boat",
+    short_name: "回到船上",
+    description: "Master HSK 1-6 Chinese characters, grammar, and reading",
     start_url: "/",
     display: "standalone",
     background_color: "#121218",

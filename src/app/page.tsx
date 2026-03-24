@@ -17,6 +17,14 @@ export default function HomePage() {
 
   return (
     <div className="tab-color-1 flex flex-col items-center justify-center min-h-[calc(100vh-8rem)] space-y-8">
+      {/* App Title */}
+      <TrilingualLabel
+        chinese="回到船上"
+        pinyin="huí dào chuán shàng"
+        english="BACK ON THE BOAT"
+        size="lg"
+      />
+
       {/* Current Level */}
       <div className="text-center space-y-1">
         <p className="text-muted-foreground text-sm">

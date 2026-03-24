@@ -15,12 +15,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HSK Master",
-  description: "Master HSK 1-6 Chinese characters, grammar, and reading",
+  title: "回到船上 - Back on the Boat",
+  description: "回到船上 - Master HSK 1-6 Chinese characters, grammar, and reading",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "HSK Master",
+    title: "回到船上 - Back on the Boat",
   },
 };
 
