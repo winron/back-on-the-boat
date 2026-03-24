@@ -1,44 +1,34 @@
 "use client";
 
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
+import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { loadGrammar } from "@/lib/data-loader";
 import LevelSelector from "@/components/shared/LevelSelector";
+import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
 import AudioButton from "@/components/shared/AudioButton";
 import type { GrammarPattern } from "@/types";
 
 export default function GrammarPage() {
-  const { level, setLevel } = useHskLevel();
+  const { level, setLevel } = useHskLevel("grammar");
+  const { unlockedLevel } = useUnlockedLevel();
   const [patterns, setPatterns] = useState<GrammarPattern[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
-  const [search, setSearch] = useState("");
 
   useEffect(() => {
     loadGrammar(level)
       .then(setPatterns)
       .catch(() => setPatterns([]));
     setSelectedId(null);
-    setSearch("");
   }, [level]);
-
-  const filtered = useMemo(() => {
-    if (!search.trim()) return patterns;
-    const q = search.toLowerCase();
-    return patterns.filter(
-      (p) =>
-        p.title.toLowerCase().includes(q) ||
-        p.structure.toLowerCase().includes(q) ||
-        p.explanation.toLowerCase().includes(q)
-    );
-  }, [patterns, search]);
 
   const selected = patterns.find((p) => p.id === selectedId);
 
   return (
-    <div className="space-y-6">
-      <h1 className="text-xl font-bold">Grammar</h1>
-      <LevelSelector currentLevel={level} onSelect={setLevel} />
+    <div className="tab-color-3 space-y-6">
+      <TrilingualLabel chinese="语法" pinyin="yǔfǎ" english="Grammar" size="lg" />
+      <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
 
       {selected ? (
         <div className="space-y-4">
@@ -76,18 +66,10 @@ export default function GrammarPage() {
         </div>
       ) : (
         <div className="space-y-3">
-          <input
-            type="text"
-            placeholder="Search grammar patterns..."
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            className="w-full px-4 py-2.5 bg-muted rounded-xl text-sm placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary"
-          />
           <p className="text-xs text-muted-foreground">
-            {filtered.length} pattern{filtered.length !== 1 ? "s" : ""}
-            {search && ` matching "${search}"`}
+            {patterns.length} pattern{patterns.length !== 1 ? "s" : ""}
           </p>
-          {filtered.map((pattern) => (
+          {patterns.map((pattern) => (
             <button
               key={pattern.id}
               onClick={() => setSelectedId(pattern.id)}
@@ -99,14 +81,9 @@ export default function GrammarPage() {
               </p>
             </button>
           ))}
-          {filtered.length === 0 && patterns.length > 0 && (
-            <p className="text-center text-muted-foreground py-8">
-              No patterns match your search.
-            </p>
-          )}
           {patterns.length === 0 && (
             <p className="text-center text-muted-foreground py-8">
-              No grammar data available yet. Run the data preparation script.
+              No grammar data available yet.
             </p>
           )}
         </div>

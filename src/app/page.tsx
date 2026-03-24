@@ -1,112 +1,102 @@
 "use client";
 
-import { useLiveQuery } from "dexie-react-hooks";
-import { db } from "@/lib/db";
-import { useTodayStats, useStreak } from "@/hooks/useStats";
-import { useHskLevel } from "@/hooks/useHskLevel";
-import LevelSelector from "@/components/shared/LevelSelector";
+import { useDisplaySettings } from "@/hooks/useDisplaySettings";
+import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import Link from "next/link";
+import TrilingualLabel from "@/components/shared/TrilingualLabel";
 
-export default function Dashboard() {
-  const { level, setLevel } = useHskLevel();
-  const todayStats = useTodayStats();
-  const streak = useStreak();
+export default function HomePage() {
+  const { showPinyin, showEnglish, togglePinyin, toggleEnglish } =
+    useDisplaySettings();
+  const { currentProgressLevel, masteredCount, totalCount, loading } =
+    useUnlockedLevel();
 
-  const dueCount = useLiveQuery(async () => {
-    const now = new Date();
-    return db.srsCards
-      .where("due")
-      .belowOrEqual(now)
-      .count();
-  }, []);
+  const percent =
+    totalCount > 0 ? Math.round((masteredCount / totalCount) * 100) : 0;
+  const isLevelComplete = totalCount > 0 && masteredCount >= totalCount;
 
   return (
-    <div className="space-y-6">
-      <div className="flex items-center justify-between">
-        <h1 className="text-2xl font-bold">HSK Master</h1>
-        <Link
-          href="/settings"
-          className="p-2 rounded-lg hover:bg-muted transition-colors"
-          aria-label="Settings"
+    <div className="tab-color-1 flex flex-col items-center justify-center min-h-[calc(100vh-8rem)] space-y-8">
+      {/* Current Level */}
+      <div className="text-center space-y-1">
+        <p className="text-muted-foreground text-sm">
+          {showPinyin && <span className="block text-xs">děngjí</span>}
+          当前等级
+          {showEnglish && <span className="block text-xs">Current Level</span>}
+        </p>
+        <p
+          className="text-5xl font-bold"
+          style={{ color: "var(--color-tab-1)" }}
         >
-          <svg
-            width="24"
-            height="24"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          >
-            <circle cx="12" cy="12" r="3" />
-            <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" />
-          </svg>
-        </Link>
+          HSK {currentProgressLevel}
+        </p>
       </div>
 
-      <LevelSelector currentLevel={level} onSelect={setLevel} />
-
-      {/* Stats row */}
-      <div className="grid grid-cols-3 gap-3">
-        <div className="bg-card rounded-xl p-4 text-center border border-border">
-          <p className="text-2xl font-bold text-primary">{dueCount ?? 0}</p>
-          <p className="text-xs text-muted-foreground mt-1">Due Today</p>
+      {/* XP Progress Bar */}
+      <div className="w-full max-w-xs space-y-2">
+        <div className="relative h-6 bg-muted rounded-full overflow-hidden border border-border">
+          <div
+            className="absolute inset-y-0 left-0 rounded-full transition-all duration-500"
+            style={{
+              width: `${percent}%`,
+              background: `linear-gradient(90deg, var(--color-tab-1), var(--color-tab-2))`,
+            }}
+          />
+          <span className="absolute inset-0 flex items-center justify-center text-xs font-medium text-foreground">
+            {loading
+              ? "..."
+              : isLevelComplete
+              ? showEnglish ? "Level Up!" : "升级！"
+              : `${masteredCount} / ${totalCount}`}
+          </span>
         </div>
-        <div className="bg-card rounded-xl p-4 text-center border border-border">
-          <p className="text-2xl font-bold">{todayStats?.cardsReviewed ?? 0}</p>
-          <p className="text-xs text-muted-foreground mt-1">Reviewed</p>
-        </div>
-        <div className="bg-card rounded-xl p-4 text-center border border-border">
-          <p className="text-2xl font-bold">{streak}</p>
-          <p className="text-xs text-muted-foreground mt-1">Day Streak</p>
-        </div>
+        <p className="text-center text-xs text-muted-foreground">
+          {showPinyin && <span className="block text-[10px]">zhǎngwò</span>}
+          掌握
+          {showEnglish && <span className="block text-[10px]">Mastered</span>}
+        </p>
       </div>
 
-      {/* Accuracy */}
-      {todayStats && todayStats.totalCount > 0 && (
-        <div className="bg-card rounded-xl p-4 border border-border">
-          <div className="flex justify-between items-center mb-2">
-            <span className="text-sm text-muted-foreground">
-              Today&apos;s Accuracy
-            </span>
-            <span className="text-sm font-medium">
-              {Math.round((todayStats.correctCount / todayStats.totalCount) * 100)}%
-            </span>
-          </div>
-          <div className="h-2 bg-muted rounded-full overflow-hidden">
-            <div
-              className="h-full bg-primary rounded-full transition-all"
-              style={{
-                width: `${(todayStats.correctCount / todayStats.totalCount) * 100}%`,
-              }}
-            />
-          </div>
-        </div>
-      )}
-
-      {/* Quick actions */}
-      <div className="space-y-3">
-        <h2 className="text-lg font-semibold">Study</h2>
-        <div className="grid grid-cols-2 gap-3">
-          {[
-            { href: "/characters", label: "Characters", icon: "字", desc: "Learn & review" },
-            { href: "/grammar", label: "Grammar", icon: "文", desc: "Patterns & rules" },
-            { href: "/sentences", label: "Sentences", icon: "句", desc: "Build sentences" },
-            { href: "/dialogue", label: "Dialogue", icon: "话", desc: "Read & practice" },
-          ].map((item) => (
-            <Link
-              key={item.href}
-              href={item.href}
-              className="bg-card rounded-xl p-4 border border-border hover:border-primary transition-colors"
-            >
-              <span className="text-2xl">{item.icon}</span>
-              <p className="font-medium mt-2">{item.label}</p>
-              <p className="text-xs text-muted-foreground">{item.desc}</p>
-            </Link>
-          ))}
-        </div>
+      {/* Display Toggles */}
+      <div className="flex gap-4">
+        <button
+          onClick={togglePinyin}
+          className={`px-5 py-3 rounded-xl text-sm font-medium transition-all border ${
+            showPinyin
+              ? "bg-primary text-primary-foreground border-primary"
+              : "bg-muted text-muted-foreground border-border"
+          }`}
+        >
+          <span className="block text-xs">pīnyīn</span>
+          拼音
+          <span className="block text-xs">Pinyin</span>
+        </button>
+        <button
+          onClick={toggleEnglish}
+          className={`px-5 py-3 rounded-xl text-sm font-medium transition-all border ${
+            showEnglish
+              ? "bg-primary text-primary-foreground border-primary"
+              : "bg-muted text-muted-foreground border-border"
+          }`}
+        >
+          <span className="block text-xs">yīngwén</span>
+          英文
+          <span className="block text-xs">English</span>
+        </button>
       </div>
+
+      {/* Settings link */}
+      <Link
+        href="/settings"
+        className="text-xs text-muted-foreground hover:text-foreground transition-colors"
+      >
+        <TrilingualLabel
+          chinese="设置"
+          pinyin="shèzhì"
+          english="Settings"
+          size="xs"
+        />
+      </Link>
     </div>
   );
 }

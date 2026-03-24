@@ -82,6 +82,25 @@ export interface SrsCardState {
   lapses: number;
   state: 0 | 1 | 2 | 3; // New | Learning | Review | Relearning
   last_review?: Date;
+  bestGrade?: number;
+}
+
+// === Display Settings ===
+export interface DisplaySettings {
+  id: "displaySettings";
+  showPinyin: boolean;
+  showEnglish: boolean;
+}
+
+// === Per-Page HSK Levels ===
+export type PageKey = "characters" | "grammar" | "sentences" | "reading";
+
+export interface PageLevels {
+  id: "pageLevels";
+  characters: HskLevel;
+  grammar: HskLevel;
+  sentences: HskLevel;
+  reading: HskLevel;
 }
 
 // === User Settings ===

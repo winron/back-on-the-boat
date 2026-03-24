@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
+import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { useReview, createNewSrsCard } from "@/hooks/useReview";
 import { loadVocabulary } from "@/lib/data-loader";
 import { db } from "@/lib/db";
@@ -10,12 +11,20 @@ import ReviewCard from "@/components/character/ReviewCard";
 import StrokeOrder from "@/components/character/StrokeOrder";
 import CharacterCard from "@/components/character/CharacterCard";
 import LevelSelector from "@/components/shared/LevelSelector";
+import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import type { HskWord } from "@/types";
 
 type Mode = "review" | "learn" | "browse";
 
+const modeLabels: Record<Mode, { chinese: string; pinyin: string; english: string }> = {
+  review: { chinese: "复习", pinyin: "fùxí", english: "Review" },
+  learn: { chinese: "学习", pinyin: "xuéxí", english: "Learn" },
+  browse: { chinese: "浏览", pinyin: "liúlǎn", english: "Browse" },
+};
+
 export default function CharactersPage() {
-  const { level, setLevel } = useHskLevel();
+  const { level, setLevel } = useHskLevel("characters");
+  const { unlockedLevel } = useUnlockedLevel();
   const [mode, setMode] = useState<Mode>("review");
   const [words, setWords] = useState<HskWord[]>([]);
   const [browseIndex, setBrowseIndex] = useState(0);
@@ -74,26 +83,24 @@ export default function CharactersPage() {
   }, []);
 
   return (
-    <div className="space-y-6">
-      <div className="flex items-center justify-between">
-        <h1 className="text-xl font-bold">Characters</h1>
-      </div>
+    <div className="tab-color-2 space-y-6">
+      <TrilingualLabel chinese="汉字" pinyin="hànzì" english="Characters" size="lg" />
 
-      <LevelSelector currentLevel={level} onSelect={setLevel} />
+      <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
 
-      {/* Mode tabs */}
-      <div className="flex gap-2">
+      {/* Mode tabs — full width */}
+      <div className="flex flex-col gap-2">
         {(["review", "learn", "browse"] as Mode[]).map((m) => (
           <button
             key={m}
             onClick={() => setMode(m)}
-            className={`px-4 py-2 rounded-lg text-sm font-medium capitalize transition-colors ${
+            className={`w-full py-3 rounded-xl text-sm font-medium transition-colors ${
               mode === m
                 ? "bg-primary text-primary-foreground"
                 : "bg-muted text-muted-foreground"
             }`}
           >
-            {m}
+            <TrilingualLabel {...modeLabels[m]} size="sm" />
           </button>
         ))}
       </div>

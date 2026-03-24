@@ -2,8 +2,10 @@
 
 import { useState, useEffect, useCallback } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
+import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { loadSentences } from "@/lib/data-loader";
 import LevelSelector from "@/components/shared/LevelSelector";
+import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
 import AudioButton from "@/components/shared/AudioButton";
 import type { SentenceExercise } from "@/types";
@@ -18,7 +20,8 @@ function shuffleArray<T>(arr: T[]): T[] {
 }
 
 export default function SentencesPage() {
-  const { level, setLevel } = useHskLevel();
+  const { level, setLevel } = useHskLevel("sentences");
+  const { unlockedLevel } = useUnlockedLevel();
   const [exercises, setExercises] = useState<SentenceExercise[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selected, setSelected] = useState<string[]>([]);
@@ -28,7 +31,6 @@ export default function SentencesPage() {
   useEffect(() => {
     loadSentences(level)
       .then((data) => {
-        // Shuffle exercise order daily so content feels fresh
         setExercises(shuffleArray(data));
         setCurrentIndex(0);
       })
@@ -68,20 +70,20 @@ export default function SentencesPage() {
 
   if (!exercise) {
     return (
-      <div className="space-y-6">
-        <h1 className="text-xl font-bold">Sentences</h1>
-        <LevelSelector currentLevel={level} onSelect={setLevel} />
+      <div className="tab-color-4 space-y-6">
+        <TrilingualLabel chinese="造句" pinyin="zàojù" english="Sentences" size="lg" />
+        <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
         <p className="text-center text-muted-foreground py-8">
-          No sentence exercises available yet. Run the data preparation script.
+          No sentence exercises available yet.
         </p>
       </div>
     );
   }
 
   return (
-    <div className="space-y-6">
-      <h1 className="text-xl font-bold">Sentences</h1>
-      <LevelSelector currentLevel={level} onSelect={setLevel} />
+    <div className="tab-color-4 space-y-6">
+      <TrilingualLabel chinese="造句" pinyin="zàojù" english="Sentences" size="lg" />
+      <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
 
       <p className="text-sm text-muted-foreground">
         {currentIndex + 1} / {exercises.length}
@@ -129,8 +131,8 @@ export default function SentencesPage() {
         <div
           className={`rounded-xl p-4 ${
             result === "correct"
-              ? "bg-green-50 dark:bg-green-950 border border-green-200 dark:border-green-800"
-              : "bg-red-50 dark:bg-red-950 border border-red-200 dark:border-red-800"
+              ? "bg-green-950 border border-green-800"
+              : "bg-red-950 border border-red-800"
           }`}
         >
           <p className="font-medium">

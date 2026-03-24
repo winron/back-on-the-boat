@@ -2,15 +2,18 @@
 
 import { useState, useEffect } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
+import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { loadReadings } from "@/lib/data-loader";
 import LevelSelector from "@/components/shared/LevelSelector";
+import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
 import type { ReadingPassage } from "@/types";
 
 type TabMode = "short" | "story";
 
 export default function ReadingPage() {
-  const { level, setLevel } = useHskLevel();
+  const { level, setLevel } = useHskLevel("reading");
+  const { unlockedLevel } = useUnlockedLevel();
   const [readings, setReadings] = useState<ReadingPassage[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [tab, setTab] = useState<TabMode>("short");
@@ -61,9 +64,9 @@ export default function ReadingPage() {
   };
 
   return (
-    <div className="space-y-6">
-      <h1 className="text-xl font-bold">Reading</h1>
-      <LevelSelector currentLevel={level} onSelect={setLevel} />
+    <div className="tab-color-5 space-y-6">
+      <TrilingualLabel chinese="阅读" pinyin="yuèdú" english="Reading" size="lg" />
+      <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
 
       {selected ? (
         <div className="space-y-4">

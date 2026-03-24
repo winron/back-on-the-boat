@@ -7,8 +7,8 @@ export default function manifest(): MetadataRoute.Manifest {
     description: "Master HSK 1-6 Chinese characters, grammar, and dialogue",
     start_url: "/",
     display: "standalone",
-    background_color: "#ffffff",
-    theme_color: "#dc2626",
+    background_color: "#121218",
+    theme_color: "#121218",
     icons: [
       {
         src: "/icons/icon-192.png",

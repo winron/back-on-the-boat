@@ -2,21 +2,15 @@
 
 import { useState, useEffect } from "react";
 import { db } from "@/lib/db";
-import { useTheme } from "@/components/shared/ThemeProvider";
-import { useHskLevel } from "@/hooks/useHskLevel";
-import LevelSelector from "@/components/shared/LevelSelector";
+import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import type { UserSettings } from "@/types";
 
 export default function SettingsPage() {
-  const { theme, setTheme } = useTheme();
-  const { level, setLevel } = useHskLevel();
-  const [showPinyin, setShowPinyin] = useState(true);
   const [dailyGoal, setDailyGoal] = useState(20);
 
   useEffect(() => {
     db.settings.get("settings").then((s) => {
       if (s) {
-        setShowPinyin(s.showPinyin);
         setDailyGoal(s.dailyGoal);
       }
     });
@@ -29,10 +23,10 @@ export default function SettingsPage() {
     } else {
       await db.settings.put({
         id: "settings",
-        currentHskLevel: level,
-        theme,
+        currentHskLevel: 1,
+        theme: "dark",
         dailyGoal,
-        showPinyin,
+        showPinyin: true,
         ...updates,
       });
     }
@@ -42,7 +36,9 @@ export default function SettingsPage() {
     const cards = await db.srsCards.toArray();
     const stats = await db.dailyStats.toArray();
     const settings = await db.settings.get("settings");
-    const data = JSON.stringify({ cards, stats, settings }, null, 2);
+    const displaySettings = await db.displaySettings.get("displaySettings");
+    const pageLevels = await db.pageLevels.get("pageLevels");
+    const data = JSON.stringify({ cards, stats, settings, displaySettings, pageLevels }, null, 2);
     const blob = new Blob([data], { type: "application/json" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");
@@ -64,6 +60,8 @@ export default function SettingsPage() {
       if (data.cards) await db.srsCards.bulkPut(data.cards);
       if (data.stats) await db.dailyStats.bulkPut(data.stats);
       if (data.settings) await db.settings.put(data.settings);
+      if (data.displaySettings) await db.displaySettings.put(data.displaySettings);
+      if (data.pageLevels) await db.pageLevels.put(data.pageLevels);
       window.location.reload();
     };
     input.click();
@@ -78,65 +76,15 @@ export default function SettingsPage() {
       await db.srsCards.clear();
       await db.dailyStats.clear();
       await db.settings.clear();
+      await db.displaySettings.clear();
+      await db.pageLevels.clear();
       window.location.reload();
     }
   };
 
   return (
     <div className="space-y-6">
-      <h1 className="text-xl font-bold">Settings</h1>
-
-      {/* HSK Level */}
-      <div className="space-y-2">
-        <label className="text-sm font-medium">HSK Level</label>
-        <LevelSelector currentLevel={level} onSelect={setLevel} />
-      </div>
-
-      {/* Theme */}
-      <div className="space-y-2">
-        <label className="text-sm font-medium">Theme</label>
-        <div className="flex gap-2">
-          {(["system", "light", "dark"] as const).map((t) => (
-            <button
-              key={t}
-              onClick={() => setTheme(t)}
-              className={`px-4 py-2 rounded-lg text-sm font-medium capitalize transition-colors ${
-                theme === t
-                  ? "bg-primary text-primary-foreground"
-                  : "bg-muted text-muted-foreground"
-              }`}
-            >
-              {t}
-            </button>
-          ))}
-        </div>
-      </div>
-
-      {/* Show Pinyin */}
-      <div className="flex items-center justify-between">
-        <div>
-          <p className="text-sm font-medium">Show Pinyin</p>
-          <p className="text-xs text-muted-foreground">
-            Display pinyin by default on cards
-          </p>
-        </div>
-        <button
-          onClick={() => {
-            const newVal = !showPinyin;
-            setShowPinyin(newVal);
-            updateSetting({ showPinyin: newVal });
-          }}
-          className={`w-12 h-7 rounded-full transition-colors relative ${
-            showPinyin ? "bg-primary" : "bg-muted"
-          }`}
-        >
-          <span
-            className={`absolute top-1 w-5 h-5 rounded-full bg-white transition-transform ${
-              showPinyin ? "left-6" : "left-1"
-            }`}
-          />
-        </button>
-      </div>
+      <TrilingualLabel chinese="设置" pinyin="shèzhì" english="Settings" size="lg" />
 
       {/* Daily Goal */}
       <div className="space-y-2">

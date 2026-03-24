@@ -71,6 +71,10 @@ export function useReview(module: SrsCardState["module"]) {
       if (!card) return;
 
       const updated = reviewSrsCard(card, grade);
+      // Track highest grade ever achieved (for progression/mastery)
+      if (grade >= Rating.Easy) {
+        updated.bestGrade = Math.max(updated.bestGrade ?? 0, grade as number);
+      }
       await db.srsCards.put(updated);
 
       const correct = grade >= Rating.Good;

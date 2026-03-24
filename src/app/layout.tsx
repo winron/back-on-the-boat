@@ -1,6 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import { ThemeProvider } from "@/components/shared/ThemeProvider";
+import { DisplaySettingsProvider } from "@/hooks/useDisplaySettings";
 import BottomNav from "@/components/ui/BottomNav";
 import "./globals.css";
 
@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "HSK Master",
-  description: "Master HSK 1-6 Chinese characters, grammar, and dialogue",
+  description: "Master HSK 1-6 Chinese characters, grammar, and reading",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
@@ -29,7 +29,7 @@ export const viewport: Viewport = {
   initialScale: 1,
   maximumScale: 1,
   userScalable: false,
-  themeColor: "#dc2626",
+  themeColor: "#121218",
 };
 
 export default function RootLayout({
@@ -39,17 +39,17 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      lang="zh"
+      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased dark`}
       suppressHydrationWarning
     >
       <body className="min-h-full flex flex-col bg-background text-foreground">
-        <ThemeProvider>
+        <DisplaySettingsProvider>
           <main className="flex-1 pb-20 max-w-lg mx-auto w-full px-4 pt-4">
             {children}
           </main>
           <BottomNav />
-        </ThemeProvider>
+        </DisplaySettingsProvider>
       </body>
     </html>
   );
