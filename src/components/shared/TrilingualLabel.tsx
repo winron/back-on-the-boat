@@ -22,10 +22,14 @@ export default function TrilingualLabel({ chinese, pinyin, english, size = 'md',
 	const s = sizeMap[size];
 
 	return (
-		<span className={`inline-flex flex-col items-center ${className}`}>
-			{showPinyin && <span className={s.pinyin}>{pinyin}</span>}
+		<span className={`inline-flex items-center gap-1 ${className}`}>
 			<span className={s.chinese}>{chinese}</span>
-			{showEnglish && <span className={s.english}>{english}</span>}
+			{(showPinyin || showEnglish) && (
+				<span className="flex flex-col">
+					{showPinyin && <span className={s.pinyin}>{pinyin}</span>}
+					{showEnglish && <span className={s.english}>{english}</span>}
+				</span>
+			)}
 		</span>
 	);
 }
