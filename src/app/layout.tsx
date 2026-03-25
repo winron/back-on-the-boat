@@ -20,7 +20,11 @@ export const metadata: Metadata = {
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "回到船上 - Back on the Boat",
+    title: "回到船上",
+  },
+  icons: {
+    icon: "/icons/sailboat.png",
+    apple: "/icons/sailboat.png",
   },
 };
 
