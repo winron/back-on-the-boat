@@ -85,16 +85,13 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
     }
   }, [revealed]);
 
-  // Scroll card into view when revealed — use "start" so the full expanded card is visible
+  // Scroll card into view after expand animation finishes (120ms)
   useEffect(() => {
-    if (revealed && cardRef.current) {
-      // Double rAF to let the DOM fully expand before scrolling
-      requestAnimationFrame(() => {
-        requestAnimationFrame(() => {
-          cardRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
-        });
-      });
-    }
+    if (!revealed) return;
+    const t = setTimeout(() => {
+      cardRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 140);
+    return () => clearTimeout(t);
   }, [revealed]);
 
   const handleAnimate = () => {
