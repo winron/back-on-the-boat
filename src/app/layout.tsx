@@ -47,9 +47,9 @@ export default function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased dark`}
       suppressHydrationWarning
     >
-      <body className="min-h-full flex flex-col bg-background text-foreground">
+      <body className="h-full flex flex-col bg-background text-foreground overflow-hidden overscroll-none">
         <DisplaySettingsProvider>
-          <main className="flex-1 pb-20 max-w-lg mx-auto w-full px-4 pt-4">
+          <main className="flex-1 pb-20 max-w-lg mx-auto w-full px-4 pt-4 overflow-y-auto overscroll-none">
             {children}
           </main>
           <BottomNav />

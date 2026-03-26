@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+/* Disable swipe-back/forward navigation gestures */
+html, body {
+  overscroll-behavior-x: none;
+  -webkit-overflow-scrolling: touch;
+}
+
 :root {
   --background: #121218;
   --foreground: #e8e8f0;
