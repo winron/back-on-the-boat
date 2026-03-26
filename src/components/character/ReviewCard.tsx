@@ -55,7 +55,7 @@ export default function ReviewCard({
                   )}
                 </div>
               )}
-              <div className="flex justify-center mt-2">
+              <div className="flex justify-center mt-2" onClick={(e) => e.stopPropagation()}>
                 <AudioButton text={word.simplified} />
               </div>
             </div>

@@ -5,7 +5,7 @@
     "pinyin": "kāi xīn",
     "meaning": "to feel happy; to rejoice; to have a great time",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb, adjective + noun",
+    "partOfSpeech": "adjective / verb",
     "frequency": 667,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -27,7 +27,7 @@
     "pinyin": "gǎn shòu",
     "meaning": "to sense; perception; to feel (through the senses)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1286,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -38,7 +38,7 @@
     "pinyin": "tòng kǔ",
     "meaning": "pain; suffering; painful",
     "hskLevel": 5,
-    "partOfSpeech": "adjective + noun, adjective, adverb + adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1336,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -49,7 +49,7 @@
     "pinyin": "xiǎng xiàng",
     "meaning": "to imagine; to envision; imagination",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1608,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -60,7 +60,7 @@
     "pinyin": "kǒng bù",
     "meaning": "terrible; frightful; frightening",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1623,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -71,7 +71,7 @@
     "pinyin": "xìng yùn",
     "meaning": "fortunate; lucky; fortune",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, adverb + adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1830,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -82,7 +82,7 @@
     "pinyin": "yí hàn",
     "meaning": "regret; to regret; to be sorry that",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1908,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -104,7 +104,7 @@
     "pinyin": "xīn shǎng",
     "meaning": "to appreciate; to enjoy; to admire",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2305,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -126,7 +126,7 @@
     "pinyin": "shēn kè",
     "meaning": "profound; deep; deep-going",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 2542,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -148,7 +148,7 @@
     "pinyin": "bù hǎo yì si",
     "meaning": "to feel embarrassed; to find it embarrassing; to be sorry (for inconveniencing sb)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adjective",
+    "partOfSpeech": "verb / adjective",
     "frequency": 2805,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -181,7 +181,7 @@
     "pinyin": "fèn nù",
     "meaning": "angry; indignant; wrath",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, adverb + adjective, verb",
+    "partOfSpeech": "adjective / noun",
     "frequency": 3127,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -192,7 +192,7 @@
     "pinyin": "wěi tuō",
     "meaning": "to entrust; to trust; to commission",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 3172,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -203,7 +203,7 @@
     "pinyin": "chén mò",
     "meaning": "taciturn; uncommunicative; silent",
     "hskLevel": 5,
-    "partOfSpeech": "adjective + noun, adjective, verb",
+    "partOfSpeech": "adjective / noun",
     "frequency": 3369,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -214,7 +214,7 @@
     "pinyin": "wēn róu",
     "meaning": "gentle and soft; tender; sweet (commonly used to describe a girl or woman)",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, adverb + adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 3534,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -225,7 +225,7 @@
     "pinyin": "ān wèi",
     "meaning": "to comfort; to console",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun, adjective + noun, adjective",
+    "partOfSpeech": "verb / noun",
     "frequency": 3563,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -236,7 +236,7 @@
     "pinyin": "jì mò",
     "meaning": "lonely; lonesome; (of a place) quiet",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 3580,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -247,7 +247,7 @@
     "pinyin": "huái niàn",
     "meaning": "to cherish the memory of; to think of; to reminisce",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3668,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -258,7 +258,7 @@
     "pinyin": "gǎn jī",
     "meaning": "to be grateful; to appreciate; thankful",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3692,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -269,7 +269,7 @@
     "pinyin": "hào qí",
     "meaning": "inquisitive; curious; inquisitiveness",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb, adjective + noun",
+    "partOfSpeech": "adjective / verb",
     "frequency": 3798,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -280,7 +280,7 @@
     "pinyin": "mào xiǎn",
     "meaning": "to take risks; to take chances; foray",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3841,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -291,7 +291,7 @@
     "pinyin": "lè guān",
     "meaning": "optimistic; hopeful",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 4002,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -302,7 +302,7 @@
     "pinyin": "shàn liáng",
     "meaning": "good and honest; kindhearted",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 4078,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -324,7 +324,7 @@
     "pinyin": "bù ān",
     "meaning": "unpeaceful; unstable; uneasy",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 4472,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -335,7 +335,7 @@
     "pinyin": "yóu yù",
     "meaning": "to hesitate",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 5102,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -346,7 +346,7 @@
     "pinyin": "dǎo méi",
     "meaning": "to have bad luck; to be out of luck",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 5252,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -401,7 +401,7 @@
     "pinyin": "qīn qiè",
     "meaning": "amiable; cordial; close and dear",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 6543,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -423,7 +423,7 @@
     "pinyin": "pí láo",
     "meaning": "fatigue; wearily; weariness",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, adverb + adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 7419,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -434,7 +434,7 @@
     "pinyin": "wú nài",
     "meaning": "to have no alternative; frustrated; exasperated",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, adjective + noun, adjective, noun",
+    "partOfSpeech": "adverb / adjective",
     "frequency": 8772,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -445,7 +445,7 @@
     "pinyin": "tòng kuài",
     "meaning": "delighted; to one's heart's content; straightforward",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 9101,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -478,7 +478,7 @@
     "pinyin": "ài hù",
     "meaning": "to cherish; to treasure; to take care of",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 10522,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -489,7 +489,7 @@
     "pinyin": "bēi guān",
     "meaning": "pessimistic",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 10593,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -500,7 +500,7 @@
     "pinyin": "wěi qu",
     "meaning": "to feel wronged; to cause sb to feel wronged; grievance",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb, adjective + noun, verb + noun, adverb + adjective",
+    "partOfSpeech": "adjective / verb",
     "frequency": 10626,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -522,7 +522,7 @@
     "pinyin": "cán kuì",
     "meaning": "ashamed",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 11505,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -544,7 +544,7 @@
     "pinyin": "dān diào",
     "meaning": "monotonous",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 12994,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -566,7 +566,7 @@
     "pinyin": "chī kuī",
     "meaning": "to suffer losses; to come to grief; to lose out",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb",
+    "partOfSpeech": "adjective / verb",
     "frequency": 14289,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -621,7 +621,7 @@
     "pinyin": "xū xīn",
     "meaning": "open-minded; humble",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 25241,
     "unitIndex": 1,
     "unitName": "Emotions & Psychology"
@@ -641,7 +641,7 @@
     "id": "hsk5-059",
     "simplified": "老板",
     "pinyin": "lǎo bǎn",
-    "meaning": "variant of 老板",
+    "meaning": "boss; owner; shopkeeper",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 1185,
@@ -720,7 +720,7 @@
     "pinyin": "wáng zǐ",
     "meaning": "prince; son of a king",
     "hskLevel": 5,
-    "partOfSpeech": "noun, proper noun (person)",
+    "partOfSpeech": "noun",
     "frequency": 3631,
     "unitIndex": 2,
     "unitName": "Family & People"
@@ -817,7 +817,7 @@
     "id": "hsk5-075",
     "simplified": "姥姥",
     "pinyin": "lǎo lao",
-    "meaning": "(coll.) mother's mother; maternal grandmother",
+    "meaning": "mother's mother; maternal grandmother",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 12173,
@@ -852,7 +852,7 @@
     "pinyin": "zhì liáo",
     "meaning": "to treat (an illness); medical treatment; therapy",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 691,
     "unitIndex": 3,
     "unitName": "Body & Health"
@@ -874,7 +874,7 @@
     "pinyin": "shòu shāng",
     "meaning": "to sustain injuries; wounded (in an accident etc); harmed",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1454,
     "unitIndex": 3,
     "unitName": "Body & Health"
@@ -885,7 +885,7 @@
     "pinyin": "hū xī",
     "meaning": "to breathe",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2003,
     "unitIndex": 3,
     "unitName": "Body & Health"
@@ -894,9 +894,9 @@
     "id": "hsk5-082",
     "simplified": "胸",
     "pinyin": "xiōng",
-    "meaning": "variant of 胸",
+    "meaning": "chest; breast; heart; mind",
     "hskLevel": 5,
-    "partOfSpeech": "morpheme, noun",
+    "partOfSpeech": "noun",
     "frequency": 2291,
     "unitIndex": 3,
     "unitName": "Body & Health"
@@ -929,7 +929,7 @@
     "pinyin": "zhěn duàn",
     "meaning": "to diagnose",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3008,
     "unitIndex": 3,
     "unitName": "Body & Health"
@@ -1028,7 +1028,7 @@
     "pinyin": "guò mǐn",
     "meaning": "oversensitive; allergic; allergy",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5527,
     "unitIndex": 3,
     "unitName": "Body & Health"
@@ -1059,7 +1059,7 @@
     "id": "hsk5-097",
     "simplified": "尾巴",
     "pinyin": "wěi ba",
-    "meaning": "tail; colloquial pr. [yǐ ba]",
+    "meaning": "tail",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 6892,
@@ -1072,7 +1072,7 @@
     "pinyin": "shī mián",
     "meaning": "to suffer from insomnia",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7134,
     "unitIndex": 3,
     "unitName": "Body & Health"
@@ -1116,7 +1116,7 @@
     "pinyin": "nèi kē",
     "meaning": "internal medicine; general medicine",
     "hskLevel": 5,
-    "partOfSpeech": "noun, proper noun (person)",
+    "partOfSpeech": "noun",
     "frequency": 13792,
     "unitIndex": 3,
     "unitName": "Body & Health"
@@ -1127,7 +1127,7 @@
     "pinyin": "téng ài",
     "meaning": "to love dearly",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 14247,
     "unitIndex": 3,
     "unitName": "Body & Health"
@@ -1136,7 +1136,7 @@
     "id": "hsk5-104",
     "simplified": "着凉",
     "pinyin": "zháo liáng",
-    "meaning": "to catch cold; Taiwan pr. [zhāo liáng]",
+    "meaning": "to catch a cold",
     "hskLevel": 5,
     "partOfSpeech": "verb",
     "frequency": 22241,
@@ -1193,7 +1193,7 @@
     "pinyin": "tàng",
     "meaning": "to scald; to burn (by scalding); to blanch (cooking)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adjective",
+    "partOfSpeech": "verb / adjective",
     "frequency": 4676,
     "unitIndex": 4,
     "unitName": "Food & Cooking"
@@ -1215,7 +1215,7 @@
     "pinyin": "jiān",
     "meaning": "to pan fry; to sauté",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5908,
     "unitIndex": 4,
     "unitName": "Food & Cooking"
@@ -1400,7 +1400,7 @@
     "id": "hsk5-128",
     "simplified": "桔子",
     "pinyin": "jú zi",
-    "meaning": "tangerine; also written 橘子",
+    "meaning": "tangerine; mandarin orange",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 12210,
@@ -1479,7 +1479,7 @@
     "pinyin": "guō",
     "meaning": "pot; pan; wok",
     "hskLevel": 5,
-    "partOfSpeech": "noun, measure word",
+    "partOfSpeech": "noun / measure word",
     "frequency": 3812,
     "unitIndex": 5,
     "unitName": "Home & Daily Life"
@@ -1512,7 +1512,7 @@
     "pinyin": "lù yīn",
     "meaning": "to record (sound); sound recording",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5402,
     "unitIndex": 5,
     "unitName": "Home & Daily Life"
@@ -1534,7 +1534,7 @@
     "pinyin": "pén",
     "meaning": "basin; flower pot; unit of volume equal to 12 斗 and 8 升, approx 128 liters",
     "hskLevel": 5,
-    "partOfSpeech": "noun, measure word",
+    "partOfSpeech": "noun / measure word",
     "frequency": 6022,
     "unitIndex": 5,
     "unitName": "Home & Daily Life"
@@ -1600,7 +1600,7 @@
     "pinyin": "hú",
     "meaning": "pot; classifier for bottled liquid",
     "hskLevel": 5,
-    "partOfSpeech": "morpheme, measure word",
+    "partOfSpeech": "measure word",
     "frequency": 7796,
     "unitIndex": 5,
     "unitName": "Home & Daily Life"
@@ -1864,7 +1864,7 @@
     "pinyin": "shǒu gōng",
     "meaning": "handwork; manual",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adverb",
+    "partOfSpeech": "noun / adverb",
     "frequency": 6943,
     "unitIndex": 6,
     "unitName": "Clothing & Fashion"
@@ -1917,9 +1917,9 @@
     "id": "hsk5-175",
     "simplified": "龙",
     "pinyin": "Lóng",
-    "meaning": "surname Long",
+    "meaning": "dragon",
     "hskLevel": 5,
-    "partOfSpeech": "noun, proper noun (person)",
+    "partOfSpeech": "noun",
     "frequency": 1547,
     "unitIndex": 7,
     "unitName": "Nature & Animals"
@@ -1939,7 +1939,7 @@
     "id": "hsk5-177",
     "simplified": "岛",
     "pinyin": "dǎo",
-    "meaning": "variant of 岛",
+    "meaning": "island",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 1816,
@@ -1983,7 +1983,7 @@
     "id": "hsk5-181",
     "simplified": "蛇",
     "pinyin": "shé",
-    "meaning": "variant of 蛇",
+    "meaning": "snake",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 3448,
@@ -2060,7 +2060,7 @@
     "id": "hsk5-188",
     "simplified": "土豆",
     "pinyin": "tǔ dòu",
-    "meaning": "potato; (Tw) peanut",
+    "meaning": "potato; peanut",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 5611,
@@ -2073,7 +2073,7 @@
     "pinyin": "tiān zhēn",
     "meaning": "naive; innocent; artless",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 5823,
     "unitIndex": 7,
     "unitName": "Nature & Animals"
@@ -2095,7 +2095,7 @@
     "pinyin": "shǎn diàn",
     "meaning": "lightning",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 6256,
     "unitIndex": 7,
     "unitName": "Nature & Animals"
@@ -2148,9 +2148,9 @@
     "id": "hsk5-196",
     "simplified": "岸",
     "pinyin": "àn",
-    "meaning": "variant of 岸",
+    "meaning": "shore; bank; coast",
     "hskLevel": 5,
-    "partOfSpeech": "noun, morpheme",
+    "partOfSpeech": "noun",
     "frequency": 6867,
     "unitIndex": 7,
     "unitName": "Nature & Animals"
@@ -2247,7 +2247,7 @@
     "id": "hsk5-205",
     "simplified": "俱乐部",
     "pinyin": "jù lè bù",
-    "meaning": "club (the organisation or its premises) (loanword)",
+    "meaning": "club (organization)",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 1603,
@@ -2260,7 +2260,7 @@
     "pinyin": "tǎ",
     "meaning": "pagoda; tower; minaret",
     "hskLevel": 5,
-    "partOfSpeech": "noun, distinguishing word",
+    "partOfSpeech": "noun / adjective",
     "frequency": 2198,
     "unitIndex": 8,
     "unitName": "Buildings & Places"
@@ -2359,7 +2359,7 @@
     "pinyin": "gé bì",
     "meaning": "next door; neighbor",
     "hskLevel": 5,
-    "partOfSpeech": "s",
+    "partOfSpeech": "noun",
     "frequency": 5305,
     "unitIndex": 8,
     "unitName": "Buildings & Places"
@@ -2392,7 +2392,7 @@
     "pinyin": "jiāo qū",
     "meaning": "suburban district; outskirts; suburbs",
     "hskLevel": 5,
-    "partOfSpeech": "s",
+    "partOfSpeech": "noun",
     "frequency": 7855,
     "unitIndex": 8,
     "unitName": "Buildings & Places"
@@ -2491,7 +2491,7 @@
     "pinyin": "shí yàn",
     "meaning": "experiment; test; experimental",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 1879,
     "unitIndex": 9,
     "unitName": "Education & Learning"
@@ -2502,7 +2502,7 @@
     "pinyin": "chéng zhǎng",
     "meaning": "to mature; to grow; growth",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2157,
     "unitIndex": 9,
     "unitName": "Education & Learning"
@@ -2524,7 +2524,7 @@
     "pinyin": "jiào xun",
     "meaning": "to provide guidance; to lecture sb; to upbraid",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 3265,
     "unitIndex": 9,
     "unitName": "Education & Learning"
@@ -2557,7 +2557,7 @@
     "pinyin": "shí jiàn",
     "meaning": "practice; to put into practice; to live up to (a promise)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5107,
     "unitIndex": 9,
     "unitName": "Education & Learning"
@@ -2579,7 +2579,7 @@
     "pinyin": "shí xí",
     "meaning": "to practice; field work; to intern",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 6022,
     "unitIndex": 9,
     "unitName": "Education & Learning"
@@ -2601,7 +2601,7 @@
     "pinyin": "fǔ dǎo",
     "meaning": "to give guidance; to mentor; to counsel",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7641,
     "unitIndex": 9,
     "unitName": "Education & Learning"
@@ -2612,7 +2612,7 @@
     "pinyin": "qǐ fā",
     "meaning": "to enlighten; to explain (a text etc); to stimulate (a mental attitude)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7784,
     "unitIndex": 9,
     "unitName": "Education & Learning"
@@ -2634,7 +2634,7 @@
     "pinyin": "jiǎng jiu",
     "meaning": "to pay particular attention to; carefully selected for quality; tastefully chosen",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adjective, verb + noun",
+    "partOfSpeech": "verb / adjective",
     "frequency": 9711,
     "unitIndex": 9,
     "unitName": "Education & Learning"
@@ -2645,7 +2645,7 @@
     "pinyin": "cè yàn",
     "meaning": "test; to test",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 9742,
     "unitIndex": 9,
     "unitName": "Education & Learning"
@@ -2656,7 +2656,7 @@
     "pinyin": "chū jí",
     "meaning": "junior; primary",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word",
+    "partOfSpeech": "adjective",
     "frequency": 10185,
     "unitIndex": 9,
     "unitName": "Education & Learning"
@@ -2733,7 +2733,7 @@
     "pinyin": "lì yòng",
     "meaning": "to exploit; to make use of; to use",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 766,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -2744,7 +2744,7 @@
     "pinyin": "chǎn shēng",
     "meaning": "to arise; to come into being; to come about",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1155,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -2755,7 +2755,7 @@
     "pinyin": "tóu zī",
     "meaning": "investment; to invest",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1236,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -2788,7 +2788,7 @@
     "pinyin": "xiāo shòu",
     "meaning": "to sell; to market; sales (representative, agreement etc)",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 1999,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -2843,7 +2843,7 @@
     "pinyin": "dài kuǎn",
     "meaning": "a loan; to provide a loan (e.g. bank); to raise a loan (from e.g. a bank)",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb, verb + noun",
+    "partOfSpeech": "noun / verb",
     "frequency": 2589,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -2887,7 +2887,7 @@
     "pinyin": "cí zhí",
     "meaning": "to resign",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3889,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -2898,7 +2898,7 @@
     "pinyin": "mào yì",
     "meaning": "(commercial) trade",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 4129,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -2920,7 +2920,7 @@
     "pinyin": "xiāo fèi",
     "meaning": "to consume; to spend",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 4382,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -2942,7 +2942,7 @@
     "pinyin": "pò chǎn",
     "meaning": "to go bankrupt; to become impoverished; bankruptcy",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4674,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -2953,7 +2953,7 @@
     "pinyin": "láo dòng",
     "meaning": "work; toil; physical labor",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 4748,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -2986,7 +2986,7 @@
     "pinyin": "yíng yè",
     "meaning": "to do business; to trade",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 6105,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -3008,7 +3008,7 @@
     "pinyin": "zhèng qián",
     "meaning": "to make money",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7421,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -3030,7 +3030,7 @@
     "pinyin": "gù yōng",
     "meaning": "to employ; to hire",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 8415,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -3041,7 +3041,7 @@
     "pinyin": "fù kuǎn",
     "meaning": "to pay a sum of money; payment",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 9045,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -3052,7 +3052,7 @@
     "pinyin": "yìng pìn",
     "meaning": "to accept a job offer; to apply for an advertised position",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 12946,
     "unitIndex": 10,
     "unitName": "Work & Business"
@@ -3107,7 +3107,7 @@
     "pinyin": "jué duì",
     "meaning": "absolute; unconditional",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, adjective",
+    "partOfSpeech": "adverb / adjective",
     "frequency": 744,
     "unitIndex": 11,
     "unitName": "Politics & Society"
@@ -3195,7 +3195,7 @@
     "pinyin": "lǐng dǎo",
     "meaning": "lead; leading; to lead",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb, verb + noun",
+    "partOfSpeech": "noun / verb",
     "frequency": 1433,
     "unitIndex": 11,
     "unitName": "Politics & Society"
@@ -3239,7 +3239,7 @@
     "pinyin": "jué sài",
     "meaning": "finals (of a competition)",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 2326,
     "unitIndex": 11,
     "unitName": "Politics & Society"
@@ -3305,7 +3305,7 @@
     "pinyin": "gé mìng",
     "meaning": "to withdraw the mandate of heaven (and transition to a new dynasty) (original meaning); revolution; revolutionary",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 2986,
     "unitIndex": 11,
     "unitName": "Politics & Society"
@@ -3316,7 +3316,7 @@
     "pinyin": "xuǎn jǔ",
     "meaning": "to elect; election",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3104,
     "unitIndex": 11,
     "unitName": "Politics & Society"
@@ -3327,7 +3327,7 @@
     "pinyin": "tǒng yī",
     "meaning": "to unify; to integrate; unified",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun, adjective, adverb + adjective",
+    "partOfSpeech": "verb / noun",
     "frequency": 3308,
     "unitIndex": 11,
     "unitName": "Politics & Society"
@@ -3338,7 +3338,7 @@
     "pinyin": "mín zhǔ",
     "meaning": "democracy",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, adverb + adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 3363,
     "unitIndex": 11,
     "unitName": "Politics & Society"
@@ -3349,7 +3349,7 @@
     "pinyin": "jué xīn",
     "meaning": "determination; resolution; determined",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adverb",
+    "partOfSpeech": "noun / adverb",
     "frequency": 4092,
     "unitIndex": 11,
     "unitName": "Politics & Society"
@@ -3371,7 +3371,7 @@
     "pinyin": "tǒng zhì",
     "meaning": "to rule (a country); to govern; rule",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 4679,
     "unitIndex": 11,
     "unitName": "Politics & Society"
@@ -3415,7 +3415,7 @@
     "pinyin": "qīn lu:è",
     "meaning": "to invade; invasion",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6964,
     "unitIndex": 11,
     "unitName": "Politics & Society"
@@ -3448,7 +3448,7 @@
     "pinyin": "Guó qìng jié",
     "meaning": "PRC National Day (October 1st)",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 19292,
     "unitIndex": 11,
     "unitName": "Politics & Society"
@@ -3470,7 +3470,7 @@
     "pinyin": "bào gào",
     "meaning": "to inform; to report; to make known",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 681,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3481,7 +3481,7 @@
     "pinyin": "chuán tǒng",
     "meaning": "tradition; traditional; convention",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 1363,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3525,7 +3525,7 @@
     "pinyin": "xuān chuán",
     "meaning": "to disseminate; to give publicity to; propaganda",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 2072,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3558,7 +3558,7 @@
     "pinyin": "chū bǎn",
     "meaning": "to publish",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2994,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3569,7 +3569,7 @@
     "pinyin": "chuán shuō",
     "meaning": "legend; folk tale; to repeat from mouth to mouth",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 3138,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3580,7 +3580,7 @@
     "pinyin": "chuán bō",
     "meaning": "to disseminate; to propagate; to spread",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3790,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3602,7 +3602,7 @@
     "pinyin": "gào bié",
     "meaning": "to leave; to part from; to bid farewell to",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4591,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3624,7 +3624,7 @@
     "pinyin": "shuō fú",
     "meaning": "to persuade; to convince; to talk sb over",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4892,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3635,7 +3635,7 @@
     "pinyin": "chuán dì",
     "meaning": "to transmit; to pass on to sb else; (math.) transitive",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4948,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3646,7 +3646,7 @@
     "pinyin": "chēng hu",
     "meaning": "to call; to address as; form of address",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6082,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3657,7 +3657,7 @@
     "pinyin": "chuán rǎn",
     "meaning": "to infect; contagious",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7193,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3679,7 +3679,7 @@
     "pinyin": "dǎ zhāo hu",
     "meaning": "to greet sb by word or action; to give prior notice",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7931,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3701,7 +3701,7 @@
     "pinyin": "chēng zàn",
     "meaning": "to praise; to acclaim; to commend",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 8495,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3712,7 +3712,7 @@
     "pinyin": "miáo xiě",
     "meaning": "to describe; to depict; to portray",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 9246,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3723,7 +3723,7 @@
     "pinyin": "xù shù",
     "meaning": "to relate (a story or information); to tell or talk about; to recount",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 9937,
     "unitIndex": 12,
     "unitName": "Communication & Media"
@@ -3866,7 +3866,7 @@
     "pinyin": "ān zhuāng",
     "meaning": "to install; to erect; to fix",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3653,
     "unitIndex": 13,
     "unitName": "Technology & Science"
@@ -3886,7 +3886,7 @@
     "id": "hsk5-354",
     "simplified": "摩托车",
     "pinyin": "mó tuō chē",
-    "meaning": "(loanword) motorbike; motorcycle",
+    "meaning": "motorcycle; motorbike",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 4123,
@@ -3897,7 +3897,7 @@
     "id": "hsk5-355",
     "simplified": "下载",
     "pinyin": "xià zǎi",
-    "meaning": "to download; also pr. [xià zài]",
+    "meaning": "to download",
     "hskLevel": 5,
     "partOfSpeech": "verb",
     "frequency": 4502,
@@ -3910,7 +3910,7 @@
     "pinyin": "shū rù",
     "meaning": "to import; to input",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4724,
     "unitIndex": 13,
     "unitName": "Technology & Science"
@@ -3932,7 +3932,7 @@
     "pinyin": "kǎ chē",
     "meaning": "truck",
     "hskLevel": 5,
-    "partOfSpeech": "noun, measure word",
+    "partOfSpeech": "noun / measure word",
     "frequency": 5046,
     "unitIndex": 13,
     "unitName": "Technology & Science"
@@ -4031,7 +4031,7 @@
     "pinyin": "pāi",
     "meaning": "to pat; to clap; to slap",
     "hskLevel": 5,
-    "partOfSpeech": "verb, measure word, morpheme",
+    "partOfSpeech": "verb / measure word",
     "frequency": 567,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4042,7 +4042,7 @@
     "pinyin": "tào",
     "meaning": "to cover; to encase; cover",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, verb, morpheme",
+    "partOfSpeech": "measure word / verb",
     "frequency": 715,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4053,7 +4053,7 @@
     "pinyin": "pài",
     "meaning": "clique; school; group",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun, measure word",
+    "partOfSpeech": "verb / noun",
     "frequency": 751,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4119,7 +4119,7 @@
     "pinyin": "shēng",
     "meaning": "to ascend; to rise to the rank of; to promote",
     "hskLevel": 5,
-    "partOfSpeech": "verb, measure word",
+    "partOfSpeech": "verb / measure word",
     "frequency": 1863,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4163,7 +4163,7 @@
     "pinyin": "tuī jiàn",
     "meaning": "to recommend; recommendation",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2168,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4174,7 +4174,7 @@
     "pinyin": "jià",
     "meaning": "(of a woman) to marry; to marry off a daughter; to shift (blame etc)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2300,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4185,7 +4185,7 @@
     "pinyin": "zhuī qiú",
     "meaning": "to pursue (a goal etc) stubbornly; to seek after; to woo",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2302,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4216,7 +4216,7 @@
     "id": "hsk5-384",
     "simplified": "煮",
     "pinyin": "zhǔ",
-    "meaning": "variant of 煮",
+    "meaning": "to boil; to cook",
     "hskLevel": 5,
     "partOfSpeech": "verb",
     "frequency": 2829,
@@ -4240,7 +4240,7 @@
     "pinyin": "jià shǐ",
     "meaning": "to pilot (ship, airplane etc); to drive",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2978,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4249,7 +4249,7 @@
     "id": "hsk5-387",
     "simplified": "踩",
     "pinyin": "cǎi",
-    "meaning": "variant of 踩",
+    "meaning": "to step on; to trample",
     "hskLevel": 5,
     "partOfSpeech": "verb",
     "frequency": 3087,
@@ -4262,7 +4262,7 @@
     "pinyin": "zhù cè",
     "meaning": "to register; to enroll",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3097,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4273,7 +4273,7 @@
     "pinyin": "shè yǐng",
     "meaning": "to take a photograph; photography; to shoot (a movie)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3191,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4284,7 +4284,7 @@
     "pinyin": "dǎng",
     "meaning": "to resist; to obstruct; to hinder",
     "hskLevel": 5,
-    "partOfSpeech": "verb, measure word",
+    "partOfSpeech": "verb / measure word",
     "frequency": 3211,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4317,7 +4317,7 @@
     "pinyin": "tuì xiū",
     "meaning": "to retire (from the workforce); to go into retirement",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3442,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4337,9 +4337,9 @@
     "id": "hsk5-395",
     "simplified": "晒",
     "pinyin": "shài",
-    "meaning": "variant of 晒",
+    "meaning": "to dry in the sun; to sunbathe; to show off",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb",
     "frequency": 3679,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4405,7 +4405,7 @@
     "pinyin": "pái duì",
     "meaning": "to line up",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4300,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4447,7 +4447,7 @@
     "id": "hsk5-405",
     "simplified": "逗",
     "pinyin": "dòu",
-    "meaning": "to tease (playfully); to entice; (coll.) to joke",
+    "meaning": "to tease (playfully); to entice; to joke",
     "hskLevel": 5,
     "partOfSpeech": "verb",
     "frequency": 4825,
@@ -4460,7 +4460,7 @@
     "pinyin": "dǎ gōng",
     "meaning": "to work a temporary or casual job; (of students) to have a job outside of class time, or during vacation",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4894,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4471,7 +4471,7 @@
     "pinyin": "wān",
     "meaning": "to bend; bent; a bend",
     "hskLevel": 5,
-    "partOfSpeech": "verb, morpheme, adjective, measure word",
+    "partOfSpeech": "verb / adjective",
     "frequency": 5007,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4482,7 +4482,7 @@
     "pinyin": "shè jī",
     "meaning": "to shoot; to fire (a gun)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5059,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4504,7 +4504,7 @@
     "pinyin": "wāi",
     "meaning": "askew; at a crooked angle; devious",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb",
+    "partOfSpeech": "adjective / verb",
     "frequency": 5307,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4515,7 +4515,7 @@
     "pinyin": "lán",
     "meaning": "to block sb's path; to obstruct; to flag down (a taxi)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5693,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4537,7 +4537,7 @@
     "pinyin": "tuī guǎng",
     "meaning": "to extend; to spread; to popularize",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6093,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4603,7 +4603,7 @@
     "pinyin": "liú lǎn",
     "meaning": "to skim over; to browse",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7707,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4625,7 +4625,7 @@
     "pinyin": "huá bīng",
     "meaning": "to skate; skating",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 11501,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4647,7 +4647,7 @@
     "pinyin": "zhǔ fù",
     "meaning": "to tell; to exhort; injunction",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 17575,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4658,7 +4658,7 @@
     "pinyin": "tuì bù",
     "meaning": "to do less well than before; to make a concession; setback",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 21136,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4669,7 +4669,7 @@
     "pinyin": "huá chuán",
     "meaning": "to row a boat; rowing boat; rowing (sport)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 21694,
     "unitIndex": 14,
     "unitName": "Actions & Movement"
@@ -4713,7 +4713,7 @@
     "pinyin": "bì yào",
     "meaning": "necessary; essential; indispensable",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1191,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4724,7 +4724,7 @@
     "pinyin": "jì lù",
     "meaning": "to record; record (written account); note-taker",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 1305,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4746,7 +4746,7 @@
     "pinyin": "guān chá",
     "meaning": "to observe; to watch; to survey",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1708,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4757,7 +4757,7 @@
     "pinyin": "jì yì",
     "meaning": "to remember; to recall; memory",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 1839,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4801,7 +4801,7 @@
     "pinyin": "sī kǎo",
     "meaning": "to reflect on; to ponder over",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2231,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4812,7 +4812,7 @@
     "pinyin": "biān jí",
     "meaning": "to edit; to compile; editor",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb, verb + noun",
+    "partOfSpeech": "noun / verb",
     "frequency": 2447,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4834,7 +4834,7 @@
     "pinyin": "jì niàn",
     "meaning": "to commemorate; to honor the memory of; memento",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2842,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4845,7 +4845,7 @@
     "pinyin": "bǎ wò",
     "meaning": "to grasp (also fig.); to seize; to hold",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3068,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4867,7 +4867,7 @@
     "pinyin": "jiǎ rú",
     "meaning": "if",
     "hskLevel": 5,
-    "partOfSpeech": "conjunction, verb",
+    "partOfSpeech": "conjunction / verb",
     "frequency": 3671,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4876,9 +4876,9 @@
     "id": "hsk5-444",
     "simplified": "纪录",
     "pinyin": "jì lù",
-    "meaning": "variant of 记录 (but in Taiwan, not for the verb sense \"to record\")",
+    "meaning": "record; achievement; to record",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 3694,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4920,7 +4920,7 @@
     "id": "hsk5-448",
     "simplified": "逻辑",
     "pinyin": "luó ji",
-    "meaning": "logic (loanword)",
+    "meaning": "logic",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 4974,
@@ -4933,7 +4933,7 @@
     "pinyin": "bì rán",
     "meaning": "inevitable; certain; necessity",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, distinguishing word, noun",
+    "partOfSpeech": "adverb / adjective",
     "frequency": 5199,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4955,7 +4955,7 @@
     "pinyin": "bì xū",
     "meaning": "to need; to require; essential",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7251,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4966,7 +4966,7 @@
     "pinyin": "biàn lùn",
     "meaning": "debate; argument; to argue over",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 7547,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4977,7 +4977,7 @@
     "pinyin": "gài kuò",
     "meaning": "to summarize; to generalize; briefly",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 11872,
     "unitIndex": 15,
     "unitName": "Thinking & Cognition"
@@ -4988,7 +4988,7 @@
     "pinyin": "míng xiǎn",
     "meaning": "clear; distinct; obvious",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 710,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -4999,7 +4999,7 @@
     "pinyin": "xiāng dāng",
     "meaning": "equivalent to; appropriate; considerably",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, verb, verb + noun",
+    "partOfSpeech": "adverb / verb",
     "frequency": 1139,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5010,7 +5010,7 @@
     "pinyin": "bàng",
     "meaning": "stick; club; cudgel",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, morpheme, measure word",
+    "partOfSpeech": "adjective / measure word",
     "frequency": 1228,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5021,7 +5021,7 @@
     "pinyin": "wán měi",
     "meaning": "perfect",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 1292,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5032,7 +5032,7 @@
     "pinyin": "zhēn shí",
     "meaning": "true; real",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1299,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5054,7 +5054,7 @@
     "pinyin": "wěn dìng",
     "meaning": "steady; stable; stability",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, verb, adverb + adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1539,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5076,7 +5076,7 @@
     "pinyin": "tè shū",
     "meaning": "special; particular; unusual",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 1632,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5087,7 +5087,7 @@
     "pinyin": "chè dǐ",
     "meaning": "thorough; thoroughly; complete",
     "hskLevel": 5,
-    "partOfSpeech": "adverb + adjective, adjective",
+    "partOfSpeech": "adjective",
     "frequency": 1659,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5098,7 +5098,7 @@
     "pinyin": "xiāng guān",
     "meaning": "related; relevant; pertinent",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 1782,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5109,7 +5109,7 @@
     "pinyin": "dú lì",
     "meaning": "independent; independence; to stand alone",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb, adverb + adjective, adjective + noun, verb + noun",
+    "partOfSpeech": "adjective / verb",
     "frequency": 1876,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5120,7 +5120,7 @@
     "pinyin": "hé lǐ",
     "meaning": "rational; reasonable; sensible",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 1935,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5131,7 +5131,7 @@
     "pinyin": "qiáng liè",
     "meaning": "strong; intense",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 2212,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5153,7 +5153,7 @@
     "pinyin": "míng què",
     "meaning": "clear-cut; definite; explicit",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb, adverb + adjective",
+    "partOfSpeech": "adjective / verb",
     "frequency": 2369,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5164,7 +5164,7 @@
     "pinyin": "làn",
     "meaning": "soft; mushy; well-cooked and soft",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb",
+    "partOfSpeech": "adjective / verb",
     "frequency": 2387,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5175,7 +5175,7 @@
     "pinyin": "chōng fèn",
     "meaning": "ample; sufficient; adequate",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 2392,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5186,7 +5186,7 @@
     "pinyin": "jiān qiáng",
     "meaning": "staunch; strong",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 2557,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5197,7 +5197,7 @@
     "pinyin": "hé fǎ",
     "meaning": "lawful; legitimate; legal",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 2570,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5208,7 +5208,7 @@
     "pinyin": "wán zhěng",
     "meaning": "complete; intact",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 2824,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5219,7 +5219,7 @@
     "pinyin": "chòu",
     "meaning": "stench; smelly; to smell (bad)",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, morpheme",
+    "partOfSpeech": "adjective",
     "frequency": 2909,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5230,7 +5230,7 @@
     "pinyin": "píng héng",
     "meaning": "balance; equilibrium",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, verb",
+    "partOfSpeech": "adjective / noun",
     "frequency": 3034,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5241,7 +5241,7 @@
     "pinyin": "píng jìng",
     "meaning": "tranquil; undisturbed; serene",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, adverb + adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 3136,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5263,7 +5263,7 @@
     "pinyin": "píng jūn",
     "meaning": "average; on average; evenly",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, verb",
+    "partOfSpeech": "adjective / verb",
     "frequency": 3513,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5274,7 +5274,7 @@
     "pinyin": "yán sù",
     "meaning": "solemn; grave; serious",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, verb",
+    "partOfSpeech": "adjective / verb",
     "frequency": 3552,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5285,7 +5285,7 @@
     "pinyin": "háo huá",
     "meaning": "luxurious",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 3618,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5294,9 +5294,9 @@
     "id": "hsk5-482",
     "simplified": "高速",
     "pinyin": "gāo sù",
-    "meaning": "high speed; expressway (abbr. for 路)",
+    "meaning": "high-speed; expressway",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word, adverb",
+    "partOfSpeech": "adjective / noun",
     "frequency": 3638,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5307,7 +5307,7 @@
     "pinyin": "xiāng duì",
     "meaning": "relatively; opposite; to resist",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, verb, distinguishing word",
+    "partOfSpeech": "adverb / verb",
     "frequency": 3673,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5327,9 +5327,9 @@
     "id": "hsk5-485",
     "simplified": "丑",
     "pinyin": "Chǒu",
-    "meaning": "surname Chou",
+    "meaning": "ugly; shameful; clown",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, morpheme",
+    "partOfSpeech": "adjective / noun",
     "frequency": 3841,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5340,7 +5340,7 @@
     "pinyin": "tū chū",
     "meaning": "prominent; outstanding; to give prominence to",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb, adverb + adjective",
+    "partOfSpeech": "adjective / verb",
     "frequency": 3980,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5360,7 +5360,7 @@
     "id": "hsk5-488",
     "simplified": "薄",
     "pinyin": "Bó",
-    "meaning": "surname Bo",
+    "meaning": "thin; slight; weak",
     "hskLevel": 5,
     "partOfSpeech": "adjective",
     "frequency": 4129,
@@ -5373,7 +5373,7 @@
     "pinyin": "píng cháng",
     "meaning": "ordinary; common; usually",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb, time word, noun",
+    "partOfSpeech": "adjective / adverb",
     "frequency": 4153,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5384,7 +5384,7 @@
     "pinyin": "shū shì",
     "meaning": "cozy; snug",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 4270,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5395,7 +5395,7 @@
     "pinyin": "mò shēng",
     "meaning": "strange; unfamiliar",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 4488,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5406,7 +5406,7 @@
     "pinyin": "dān chún",
     "meaning": "simple; pure; unsophisticated",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 4715,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5417,7 +5417,7 @@
     "pinyin": "píng děng",
     "meaning": "equal; equality",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 4880,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5439,7 +5439,7 @@
     "pinyin": "huó yuè",
     "meaning": "active; lively; excited",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adjective",
+    "partOfSpeech": "verb / adjective",
     "frequency": 4961,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5450,7 +5450,7 @@
     "pinyin": "mì qiè",
     "meaning": "close; familiar; intimate",
     "hskLevel": 5,
-    "partOfSpeech": "adverb + adjective, adjective, verb",
+    "partOfSpeech": "adjective / verb",
     "frequency": 5024,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5461,7 +5461,7 @@
     "pinyin": "guāng míng",
     "meaning": "light; radiance; (fig.) bright (prospects etc)",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 5030,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5472,7 +5472,7 @@
     "pinyin": "guāng róng",
     "meaning": "honor and glory; glorious",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 5045,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5483,7 +5483,7 @@
     "pinyin": "jiān jué",
     "meaning": "firm; resolute; determined",
     "hskLevel": 5,
-    "partOfSpeech": "adverb + adjective, adjective",
+    "partOfSpeech": "adjective",
     "frequency": 5120,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5494,7 +5494,7 @@
     "pinyin": "mó hu",
     "meaning": "vague; indistinct; fuzzy",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb",
+    "partOfSpeech": "adjective / verb",
     "frequency": 5378,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5505,7 +5505,7 @@
     "pinyin": "kè guān",
     "meaning": "objective; impartial",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, noun, adverb + adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 5447,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5527,7 +5527,7 @@
     "pinyin": "wán shàn",
     "meaning": "(of systems, facilities etc) comprehensive; well-developed; excellent",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adjective",
+    "partOfSpeech": "verb / adjective",
     "frequency": 5660,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5538,7 +5538,7 @@
     "pinyin": "è liè",
     "meaning": "vile; nasty; of very poor quality",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 6454,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5549,7 +5549,7 @@
     "pinyin": "gāo dàng",
     "meaning": "superior quality; high grade; top grade",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word",
+    "partOfSpeech": "adjective",
     "frequency": 6468,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5560,7 +5560,7 @@
     "pinyin": "líng huó",
     "meaning": "flexible; nimble; agile",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 6491,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5582,7 +5582,7 @@
     "pinyin": "tòu míng",
     "meaning": "transparent; (fig.) transparent; open to scrutiny",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 6636,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5604,7 +5604,7 @@
     "pinyin": "shí yòng",
     "meaning": "practical; functional; pragmatic",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb + noun",
+    "partOfSpeech": "adjective / verb",
     "frequency": 8149,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5615,7 +5615,7 @@
     "pinyin": "pò qiè",
     "meaning": "urgent; pressing",
     "hskLevel": 5,
-    "partOfSpeech": "adverb + adjective, adjective",
+    "partOfSpeech": "adjective",
     "frequency": 8352,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5637,7 +5637,7 @@
     "pinyin": "qiǎo miào",
     "meaning": "ingenious; clever; ingenuity",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 8987,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5648,7 +5648,7 @@
     "pinyin": "shú liàn",
     "meaning": "practiced; proficient; skilled",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 9623,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5659,7 +5659,7 @@
     "pinyin": "jiǎo huá",
     "meaning": "crafty; cunning; sly",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 10112,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5681,7 +5681,7 @@
     "pinyin": "jiān ruì",
     "meaning": "sharp; intense; penetrating",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 11251,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5692,7 +5692,7 @@
     "pinyin": "jūn yún",
     "meaning": "even; well-distributed; homogeneous",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 11945,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5714,7 +5714,7 @@
     "pinyin": "kè kǔ",
     "meaning": "hardworking; assiduous",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 12964,
     "unitIndex": 16,
     "unitName": "Descriptions"
@@ -5769,7 +5769,7 @@
     "pinyin": "tóng shí",
     "meaning": "at the same time; simultaneously",
     "hskLevel": 5,
-    "partOfSpeech": "conjunction, noun, adverb",
+    "partOfSpeech": "conjunction / noun",
     "frequency": 566,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -5791,7 +5791,7 @@
     "pinyin": "yǐ lái",
     "meaning": "since (a previous event)",
     "hskLevel": 5,
-    "partOfSpeech": "directional word",
+    "partOfSpeech": "noun",
     "frequency": 1117,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -5802,7 +5802,7 @@
     "pinyin": "yī dàn",
     "meaning": "in case (sth happens); if; once (sth happens, then...)",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, conjunction",
+    "partOfSpeech": "adverb / conjunction",
     "frequency": 1323,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -5835,7 +5835,7 @@
     "pinyin": "shí kè",
     "meaning": "time; juncture; moment",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adverb",
+    "partOfSpeech": "noun / adverb",
     "frequency": 1705,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -5846,7 +5846,7 @@
     "pinyin": "yī zhì",
     "meaning": "unanimous; identical (views or opinions)",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, adverb + adjective, proper noun (other)",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1957,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -5901,7 +5901,7 @@
     "pinyin": "yī lù",
     "meaning": "the whole journey; all the way; going the same way",
     "hskLevel": 5,
-    "partOfSpeech": "mq, adverb",
+    "partOfSpeech": "mq / adverb",
     "frequency": 2451,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -5923,7 +5923,7 @@
     "pinyin": "shǐ zhōng",
     "meaning": "from beginning to end; all along",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, noun",
+    "partOfSpeech": "adverb / noun",
     "frequency": 2984,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -5934,7 +5934,7 @@
     "pinyin": "lín shí",
     "meaning": "as the time draws near; at the last moment; temporary",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word, adverb",
+    "partOfSpeech": "adjective / adverb",
     "frequency": 3015,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -6000,7 +6000,7 @@
     "pinyin": "cóng qián",
     "meaning": "previously; formerly; once upon a time",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 5145,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -6011,7 +6011,7 @@
     "pinyin": "rì cháng",
     "meaning": "day-to-day; daily; everyday",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word",
+    "partOfSpeech": "adjective",
     "frequency": 5145,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -6022,7 +6022,7 @@
     "pinyin": "dāng dài",
     "meaning": "the present age; the contemporary era",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 8383,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -6044,7 +6044,7 @@
     "pinyin": "bàng wǎn",
     "meaning": "in the evening; when night falls; towards evening",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 9979,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -6066,7 +6066,7 @@
     "pinyin": "Yuán dàn",
     "meaning": "New Year's Day",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 17634,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -6077,7 +6077,7 @@
     "pinyin": "jìn dài",
     "meaning": "the not-very-distant past; modern times, excluding recent decades; (in the context of Chinese history) the period from the Opium Wars until the May 4th Movement (mid-19th century to 1919)",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 20713,
     "unitIndex": 17,
     "unitName": "Time & Sequence"
@@ -6099,7 +6099,7 @@
     "pinyin": "piān",
     "meaning": "disk; sheet",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, morpheme",
+    "partOfSpeech": "measure word",
     "frequency": 560,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6108,9 +6108,9 @@
     "id": "hsk5-556",
     "simplified": "克",
     "pinyin": "Kè",
-    "meaning": "abbr. for 克罗地亚, Croatia; (Tw) abbr. for 克罗埃西亚, Croatia",
+    "meaning": "gram; to overcome; to restrain",
     "hskLevel": 5,
-    "partOfSpeech": "morpheme, measure word, distinguishing word, verb",
+    "partOfSpeech": "measure word / verb",
     "frequency": 738,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6130,9 +6130,9 @@
     "id": "hsk5-558",
     "simplified": "秒",
     "pinyin": "miǎo",
-    "meaning": "second (unit of time); arc second (angular measurement unit); (coll.) instantly",
+    "meaning": "second (unit of time); arc second (angular measurement unit); instantly",
     "hskLevel": 5,
-    "partOfSpeech": "time word, time measure word",
+    "partOfSpeech": "noun / measure word",
     "frequency": 1034,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6143,7 +6143,7 @@
     "pinyin": "gēn",
     "meaning": "root; basis; classifier for long slender objects, e.g. cigarettes, guitar strings",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, noun",
+    "partOfSpeech": "measure word / noun",
     "frequency": 1181,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6198,7 +6198,7 @@
     "pinyin": "suì",
     "meaning": "(transitive or intransitive verb) to break into pieces; to shatter; to crumble",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb",
+    "partOfSpeech": "adjective / verb",
     "frequency": 2313,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6209,7 +6209,7 @@
     "pinyin": "quán miàn",
     "meaning": "all-around; comprehensive; total",
     "hskLevel": 5,
-    "partOfSpeech": "adverb + adjective, adjective",
+    "partOfSpeech": "adjective",
     "frequency": 2552,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6220,7 +6220,7 @@
     "pinyin": "jiǎ",
     "meaning": "first of the ten Heavenly Stems 干; first (in a list, as a party to a contract etc); armor plating",
     "hskLevel": 5,
-    "partOfSpeech": "noun, Mg, numeral",
+    "partOfSpeech": "noun / Mg",
     "frequency": 2984,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6231,7 +6231,7 @@
     "pinyin": "dà xíng",
     "meaning": "large; large-scale",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word",
+    "partOfSpeech": "adjective",
     "frequency": 3051,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6253,7 +6253,7 @@
     "pinyin": "pī",
     "meaning": "mate; one of a pair",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, morpheme",
+    "partOfSpeech": "measure word",
     "frequency": 3794,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6262,7 +6262,7 @@
     "id": "hsk5-570",
     "simplified": "吨",
     "pinyin": "dūn",
-    "meaning": "ton (loanword); Taiwan pr. [dùn]",
+    "meaning": "ton (unit of weight)",
     "hskLevel": 5,
     "partOfSpeech": "measure word",
     "frequency": 4023,
@@ -6275,7 +6275,7 @@
     "pinyin": "lì",
     "meaning": "grain; granule; classifier for small round things (peas, bullets, peanuts, pills, grains etc)",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, morpheme",
+    "partOfSpeech": "measure word",
     "frequency": 4781,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6286,7 +6286,7 @@
     "pinyin": "zǒng suàn",
     "meaning": "at long last; finally; on the whole",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, verb",
+    "partOfSpeech": "adverb / verb",
     "frequency": 4933,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6319,7 +6319,7 @@
     "pinyin": "yǐ",
     "meaning": "second of the ten Heavenly Stems 干; second in order; letter \"B\" or Roman \"II\" in list \"A, B, C\", or \"I, II, III\" etc",
     "hskLevel": 5,
-    "partOfSpeech": "numeral, Mg, noun, morpheme",
+    "partOfSpeech": "numeral / Mg",
     "frequency": 7820,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6330,7 +6330,7 @@
     "pinyin": "cè",
     "meaning": "book; booklet; classifier for books",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, morpheme",
+    "partOfSpeech": "measure word",
     "frequency": 8165,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6341,7 +6341,7 @@
     "pinyin": "fán shì",
     "meaning": "each and every; every; all",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, proper noun (other)",
+    "partOfSpeech": "adverb / noun",
     "frequency": 8759,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6363,7 +6363,7 @@
     "pinyin": "píng fāng",
     "meaning": "square (as in square foot, square mile, square root)",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, noun",
+    "partOfSpeech": "measure word / noun",
     "frequency": 13429,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6374,7 +6374,7 @@
     "pinyin": "piàn miàn",
     "meaning": "unilateral; one-sided",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 16993,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6383,9 +6383,9 @@
     "id": "hsk5-581",
     "simplified": "立方",
     "pinyin": "lì fāng",
-    "meaning": "cube (math.); abbr. for 立方体; abbr. for 米",
+    "meaning": "cube; cubic",
     "hskLevel": 5,
-    "partOfSpeech": "measure word",
+    "partOfSpeech": "noun / adjective",
     "frequency": 22390,
     "unitIndex": 18,
     "unitName": "Quantity & Measure"
@@ -6407,7 +6407,7 @@
     "pinyin": "suǒ",
     "meaning": "actually; place; classifier for houses, small buildings, institutions etc",
     "hskLevel": 5,
-    "partOfSpeech": "particle, measure word, noun",
+    "partOfSpeech": "particle / measure word",
     "frequency": 159,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6418,7 +6418,7 @@
     "pinyin": "zhēng",
     "meaning": "first month of the lunar year",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, distinguishing word, adjective, verb",
+    "partOfSpeech": "adverb / adjective",
     "frequency": 294,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6440,7 +6440,7 @@
     "pinyin": "zuò wéi",
     "meaning": "one's conduct; deed; activity",
     "hskLevel": 5,
-    "partOfSpeech": "preposition, verb",
+    "partOfSpeech": "preposition / verb",
     "frequency": 405,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6451,7 +6451,7 @@
     "pinyin": "wéi yī",
     "meaning": "only; sole",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word, adverb",
+    "partOfSpeech": "adjective / adverb",
     "frequency": 426,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6462,7 +6462,7 @@
     "pinyin": "biǎo xiàn",
     "meaning": "to show; to show off; to display",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 452,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6495,7 +6495,7 @@
     "pinyin": "chǔ lǐ",
     "meaning": "to handle; to deal with; to punish",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 525,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6506,7 +6506,7 @@
     "pinyin": "xì tǒng",
     "meaning": "system",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adverb + adjective, adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 552,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6539,7 +6539,7 @@
     "pinyin": "yǐ jí",
     "meaning": "as well as; too; and",
     "hskLevel": 5,
-    "partOfSpeech": "coordinating conjunction",
+    "partOfSpeech": "conjunction",
     "frequency": 558,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6550,7 +6550,7 @@
     "pinyin": "kòng zhì",
     "meaning": "to control",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 569,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6561,7 +6561,7 @@
     "pinyin": "zhěng gè",
     "meaning": "whole; entire; total",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word, numeral, noun",
+    "partOfSpeech": "adjective / numeral",
     "frequency": 572,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6572,7 +6572,7 @@
     "pinyin": "gēn běn",
     "meaning": "fundamental; basic; root",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, noun, adjective",
+    "partOfSpeech": "adverb / noun",
     "frequency": 591,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6583,7 +6583,7 @@
     "pinyin": "mù qián",
     "meaning": "at the present time; currently",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 603,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6594,7 +6594,7 @@
     "pinyin": "chóng",
     "meaning": "to repeat; repetition; again",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb, verb, measure word, morpheme",
+    "partOfSpeech": "adjective / adverb",
     "frequency": 608,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6605,7 +6605,7 @@
     "pinyin": "cún zài",
     "meaning": "to exist; to be; existence",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 621,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6627,7 +6627,7 @@
     "pinyin": "bǎo chí",
     "meaning": "to keep; to maintain; to hold",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 644,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6649,7 +6649,7 @@
     "pinyin": "què dìng",
     "meaning": "definite; certain; fixed",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 651,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6682,7 +6682,7 @@
     "pinyin": "xíng dòng",
     "meaning": "operation; action; to move about",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 666,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6693,7 +6693,7 @@
     "pinyin": "hé zuò",
     "meaning": "to cooperate; to collaborate; to work together",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 668,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6702,9 +6702,9 @@
     "id": "hsk5-610",
     "simplified": "哈",
     "pinyin": "Hā",
-    "meaning": "abbr. for 哈萨克斯坦, Kazakhstan; abbr. for 哈尔滨, Harbin",
+    "meaning": "ha (laughter); to exhale; to bend at the waist",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word, verb",
+    "partOfSpeech": "exclamation / verb",
     "frequency": 676,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6748,7 +6748,7 @@
     "pinyin": "shè jì",
     "meaning": "to design; to plan; design",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 765,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6759,7 +6759,7 @@
     "pinyin": "wèi lái",
     "meaning": "future; tomorrow; approaching",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 765,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6781,7 +6781,7 @@
     "pinyin": "dǎo",
     "meaning": "to fall; to collapse; to lie horizontally",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adverb",
+    "partOfSpeech": "verb / adverb",
     "frequency": 780,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6792,7 +6792,7 @@
     "pinyin": "jiàn yì",
     "meaning": "to propose; to suggest; to recommend",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 782,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6814,7 +6814,7 @@
     "pinyin": "biàn",
     "meaning": "plain; informal; suitable",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, morpheme",
+    "partOfSpeech": "adverb",
     "frequency": 811,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6823,9 +6823,9 @@
     "id": "hsk5-621",
     "simplified": "项",
     "pinyin": "Xiàng",
-    "meaning": "surname Xiang",
+    "meaning": "item; measure word for items or tasks",
     "hskLevel": 5,
-    "partOfSpeech": "measure word",
+    "partOfSpeech": "noun / measure word",
     "frequency": 837,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6867,9 +6867,9 @@
     "id": "hsk5-625",
     "simplified": "支",
     "pinyin": "Zhī",
-    "meaning": "surname Zhi",
+    "meaning": "measure word for stick-like things; to support; branch",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, verb",
+    "partOfSpeech": "measure word / verb",
     "frequency": 915,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6878,7 +6878,7 @@
     "id": "hsk5-626",
     "simplified": "提",
     "pinyin": "dī",
-    "meaning": "used in 防 and 溜",
+    "meaning": "to carry; to lift; to raise; to mention",
     "hskLevel": 5,
     "partOfSpeech": "verb",
     "frequency": 919,
@@ -6889,9 +6889,9 @@
     "id": "hsk5-627",
     "simplified": "非",
     "pinyin": "Fēi",
-    "meaning": "abbr. for 洲, Africa",
+    "meaning": "not; non-; wrong",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word",
+    "partOfSpeech": "adverb / adjective",
     "frequency": 949,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6913,7 +6913,7 @@
     "pinyin": "zé",
     "meaning": "(conjunction used to express contrast with a previous clause) but; then; standard",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, conjunction, measure word, morpheme",
+    "partOfSpeech": "adverb / conjunction",
     "frequency": 966,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6935,7 +6935,7 @@
     "pinyin": "xùn liàn",
     "meaning": "to train; to drill; training",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 985,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -6988,9 +6988,9 @@
     "id": "hsk5-636",
     "simplified": "方",
     "pinyin": "Fāng",
-    "meaning": "surname Fang",
+    "meaning": "square; direction; side; method",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, adverb, morpheme, adjective, directional word, distinguishing word",
+    "partOfSpeech": "noun / adjective",
     "frequency": 1012,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7001,7 +7001,7 @@
     "pinyin": "cān yù",
     "meaning": "to participate (in sth)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1027,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7012,7 +7012,7 @@
     "pinyin": "xiǎn shì",
     "meaning": "to show; to illustrate; to display",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1030,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7034,7 +7034,7 @@
     "pinyin": "shǒu shù",
     "meaning": "(surgical) operation; surgery",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb, verb + noun",
+    "partOfSpeech": "noun / verb",
     "frequency": 1041,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7045,7 +7045,7 @@
     "pinyin": "zì yóu",
     "meaning": "freedom; liberty; free",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, adverb + adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1067,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7054,9 +7054,9 @@
     "id": "hsk5-642",
     "simplified": "夜",
     "pinyin": "yè",
-    "meaning": "variant of 夜",
+    "meaning": "night; evening",
     "hskLevel": 5,
-    "partOfSpeech": "tg, time measure word",
+    "partOfSpeech": "noun",
     "frequency": 1082,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7078,7 +7078,7 @@
     "pinyin": "jī běn",
     "meaning": "basic; fundamental; main",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1095,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7100,7 +7100,7 @@
     "pinyin": "lèi",
     "meaning": "kind; type; class",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, noun, morpheme",
+    "partOfSpeech": "measure word / noun",
     "frequency": 1096,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7122,7 +7122,7 @@
     "pinyin": "fēn xī",
     "meaning": "to analyze; analysis",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1101,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7133,7 +7133,7 @@
     "pinyin": "xiǎng shòu",
     "meaning": "to enjoy; to live it up; pleasure",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1102,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7144,7 +7144,7 @@
     "pinyin": "fǎn yìng",
     "meaning": "to react; to respond; reaction",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1118,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7188,7 +7188,7 @@
     "pinyin": "shí xiàn",
     "meaning": "to achieve; to implement; to realize",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1144,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7232,7 +7232,7 @@
     "pinyin": "jiàn lì",
     "meaning": "to establish; to set up; to found",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1182,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7265,7 +7265,7 @@
     "pinyin": "jiē",
     "meaning": "see 节骨眼",
     "hskLevel": 5,
-    "partOfSpeech": "noun, measure word, morpheme, verb",
+    "partOfSpeech": "noun / measure word",
     "frequency": 1196,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7276,7 +7276,7 @@
     "pinyin": "shǎ",
     "meaning": "foolish",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1197,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7285,9 +7285,9 @@
     "id": "hsk5-663",
     "simplified": "救",
     "pinyin": "jiù",
-    "meaning": "variant of 救",
+    "meaning": "to save; to rescue",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb",
     "frequency": 1217,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7298,7 +7298,7 @@
     "pinyin": "huī fù",
     "meaning": "to reinstate; to resume; to restore",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1219,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7320,7 +7320,7 @@
     "pinyin": "xiàn shí",
     "meaning": "reality; actuality; real",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 1237,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7353,7 +7353,7 @@
     "pinyin": "jí zhōng",
     "meaning": "to concentrate; to centralize; to focus",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adverb + adjective, adjective",
+    "partOfSpeech": "verb / adjective",
     "frequency": 1271,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7375,7 +7375,7 @@
     "pinyin": "cuò wù",
     "meaning": "mistaken; false; wrong",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 1305,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7397,7 +7397,7 @@
     "pinyin": "qī dài",
     "meaning": "to look forward to; to await; expectation",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1312,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7406,9 +7406,9 @@
     "id": "hsk5-674",
     "simplified": "毛",
     "pinyin": "Máo",
-    "meaning": "surname Mao",
+    "meaning": "hair; fur; feather; mao (1/10 yuan); rough",
     "hskLevel": 5,
-    "partOfSpeech": "proper noun (person), noun, measure word",
+    "partOfSpeech": "noun",
     "frequency": 1319,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7417,9 +7417,9 @@
     "id": "hsk5-675",
     "simplified": "朝",
     "pinyin": "Cháo",
-    "meaning": "abbr. for 朝鲜 Korea",
+    "meaning": "toward; facing; dynasty; morning",
     "hskLevel": 5,
-    "partOfSpeech": "preposition, tg, distinguishing word, verb, measure word",
+    "partOfSpeech": "preposition / noun",
     "frequency": 1321,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7430,7 +7430,7 @@
     "pinyin": "chéng rèn",
     "meaning": "to admit; to concede; to recognize",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1327,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7441,7 +7441,7 @@
     "pinyin": "zhí xíng",
     "meaning": "to implement; to carry out; to execute",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1328,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7452,7 +7452,7 @@
     "pinyin": "jiē zhe",
     "meaning": "to catch and hold on; to continue; to go on to do sth",
     "hskLevel": 5,
-    "partOfSpeech": "conjunction, verb",
+    "partOfSpeech": "conjunction / verb",
     "frequency": 1329,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7474,7 +7474,7 @@
     "pinyin": "xiǎn rán",
     "meaning": "clearly; evidently; obviously",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 1345,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7527,9 +7527,9 @@
     "id": "hsk5-685",
     "simplified": "要是",
     "pinyin": "yào shi",
-    "meaning": "(coll.) if",
+    "meaning": "if",
     "hskLevel": 5,
-    "partOfSpeech": "conjunction, verb",
+    "partOfSpeech": "conjunction / verb",
     "frequency": 1413,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7540,7 +7540,7 @@
     "pinyin": "xì",
     "meaning": "to connect; to relate to; to tie up",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1415,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7549,9 +7549,9 @@
     "id": "hsk5-687",
     "simplified": "直",
     "pinyin": "Zhí",
-    "meaning": "surname Zhi; Zhi (c. 2000 BC), fifth of the legendary Flame Emperors 帝 descended from Shennong 神农 Farmer God",
+    "meaning": "straight; direct; continuously",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, adjective, verb",
+    "partOfSpeech": "adjective / adverb",
     "frequency": 1420,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7560,9 +7560,9 @@
     "id": "hsk5-688",
     "simplified": "枪",
     "pinyin": "Qiāng",
-    "meaning": "surname Qiang",
+    "meaning": "gun; rifle; spear",
     "hskLevel": 5,
-    "partOfSpeech": "noun, measure word",
+    "partOfSpeech": "noun",
     "frequency": 1429,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7573,7 +7573,7 @@
     "pinyin": "bǎo xiǎn",
     "meaning": "insurance; to insure; safe",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adjective, verb",
+    "partOfSpeech": "noun / adjective",
     "frequency": 1430,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7595,7 +7595,7 @@
     "pinyin": "shèng lì",
     "meaning": "victory",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun, proper noun (other)",
+    "partOfSpeech": "verb / noun",
     "frequency": 1445,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7628,7 +7628,7 @@
     "pinyin": "chuàng zào",
     "meaning": "to create; to bring about; to produce",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1476,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7639,7 +7639,7 @@
     "pinyin": "dāi",
     "meaning": "foolish; stupid; expressionless",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adjective",
+    "partOfSpeech": "verb / adjective",
     "frequency": 1485,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7648,9 +7648,9 @@
     "id": "hsk5-696",
     "simplified": "雷",
     "pinyin": "Léi",
-    "meaning": "surname Lei",
+    "meaning": "thunder; mine (explosive)",
     "hskLevel": 5,
-    "partOfSpeech": "noun, proper noun (person)",
+    "partOfSpeech": "noun",
     "frequency": 1494,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7672,7 +7672,7 @@
     "pinyin": "juān",
     "meaning": "to confine; to lock up; to pen in",
     "hskLevel": 5,
-    "partOfSpeech": "verbal measure word, noun, verb",
+    "partOfSpeech": "measure word / noun",
     "frequency": 1517,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7683,7 +7683,7 @@
     "pinyin": "pò huài",
     "meaning": "destruction; damage; to wreck",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1527,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7694,7 +7694,7 @@
     "pinyin": "xiāo shī",
     "meaning": "to disappear; to fade away",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1528,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7705,7 +7705,7 @@
     "pinyin": "mǎn zú",
     "meaning": "to satisfy; to meet (the needs of); satisfied",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adjective + noun, adjective, verb + noun",
+    "partOfSpeech": "verb / adjective",
     "frequency": 1555,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7716,7 +7716,7 @@
     "pinyin": "wēi xié",
     "meaning": "to threaten; to menace",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1564,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7727,7 +7727,7 @@
     "pinyin": "děng dài",
     "meaning": "to wait; to wait for",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1567,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7738,7 +7738,7 @@
     "pinyin": "tiǎo zhàn",
     "meaning": "to challenge; challenge",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 1571,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7749,7 +7749,7 @@
     "pinyin": "mì mì",
     "meaning": "secret; private; confidential",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adjective, adverb + adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 1577,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7771,7 +7771,7 @@
     "pinyin": "tuán",
     "meaning": "round; lump; ball",
     "hskLevel": 5,
-    "partOfSpeech": "noun, measure word",
+    "partOfSpeech": "noun / measure word",
     "frequency": 1597,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7782,7 +7782,7 @@
     "pinyin": "jǐn",
     "meaning": "tight; strict; close at hand",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb",
+    "partOfSpeech": "adjective / adverb",
     "frequency": 1601,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7804,7 +7804,7 @@
     "pinyin": "suǒ wèi",
     "meaning": "so-called; what is called",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1616,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7813,9 +7813,9 @@
     "id": "hsk5-711",
     "simplified": "背",
     "pinyin": "bēi",
-    "meaning": "variant of 背",
+    "meaning": "back (body part); to carry on one's back; to memorize",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun",
+    "partOfSpeech": "noun / verb",
     "frequency": 1623,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7826,7 +7826,7 @@
     "pinyin": "dǐng",
     "meaning": "apex; crown of the head; top",
     "hskLevel": 5,
-    "partOfSpeech": "verb, measure word, morpheme, directional word",
+    "partOfSpeech": "verb / measure word",
     "frequency": 1623,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7837,7 +7837,7 @@
     "pinyin": "jù tǐ",
     "meaning": "concrete; definite; specific",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 1638,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7859,7 +7859,7 @@
     "pinyin": "jiàn zhù",
     "meaning": "to construct; building",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb + noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 1649,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7881,7 +7881,7 @@
     "pinyin": "fēng kuáng",
     "meaning": "crazy; frenzied; wild",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1657,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7892,7 +7892,7 @@
     "pinyin": "chū kǒu",
     "meaning": "an exit; to speak; to export",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1693,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7901,9 +7901,9 @@
     "id": "hsk5-719",
     "simplified": "布",
     "pinyin": "bù",
-    "meaning": "variant of 布; to announce; to spread",
+    "meaning": "cloth; fabric; to spread; to announce",
     "hskLevel": 5,
-    "partOfSpeech": "noun, morpheme, distinguishing word, proper noun (person)",
+    "partOfSpeech": "noun / verb",
     "frequency": 1694,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7925,7 +7925,7 @@
     "pinyin": "qī jiān",
     "meaning": "period of time; time; time period",
     "hskLevel": 5,
-    "partOfSpeech": "directional word",
+    "partOfSpeech": "noun",
     "frequency": 1703,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7936,7 +7936,7 @@
     "pinyin": "yì wài",
     "meaning": "unexpected; accident; mishap",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, adverb + adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 1703,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7956,9 +7956,9 @@
     "id": "hsk5-724",
     "simplified": "平",
     "pinyin": "Píng",
-    "meaning": "surname Ping",
+    "meaning": "flat; level; even; calm; ordinary",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb",
+    "partOfSpeech": "adjective",
     "frequency": 1707,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7967,9 +7967,9 @@
     "id": "hsk5-725",
     "simplified": "钟",
     "pinyin": "Zhōng",
-    "meaning": "surname Zhong",
+    "meaning": "clock; bell; o'clock",
     "hskLevel": 5,
-    "partOfSpeech": "noun, proper noun (person)",
+    "partOfSpeech": "noun",
     "frequency": 1714,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7980,7 +7980,7 @@
     "pinyin": "hèn",
     "meaning": "to hate; to regret",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1715,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -7991,7 +7991,7 @@
     "pinyin": "jiē jìn",
     "meaning": "to approach; to get close to",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1720,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8024,7 +8024,7 @@
     "pinyin": "chí xù",
     "meaning": "to continue; to persist; to last",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1749,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8035,7 +8035,7 @@
     "pinyin": "Hé píng",
     "meaning": "Heping District of Shenyang city 沈阳市, Liaoning; Heping or Hoping Township in Taichung County 台中县, Taiwan",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adverb + adjective, adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 1750,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8046,7 +8046,7 @@
     "pinyin": "qiē",
     "meaning": "to cut; to slice; to carve",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adverb, morpheme",
+    "partOfSpeech": "verb / adverb",
     "frequency": 1757,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8088,7 +8088,7 @@
     "id": "hsk5-736",
     "simplified": "官",
     "pinyin": "Guān",
-    "meaning": "surname Guan",
+    "meaning": "official; government officer",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 1825,
@@ -8112,7 +8112,7 @@
     "pinyin": "zhì zuò",
     "meaning": "to make; to manufacture",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1835,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8123,7 +8123,7 @@
     "pinyin": "gōng kāi",
     "meaning": "open; overt; public",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adverb + adjective, adjective, verb + noun",
+    "partOfSpeech": "verb / adjective",
     "frequency": 1840,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8156,7 +8156,7 @@
     "pinyin": "jīng yíng",
     "meaning": "to engage in (business etc); to run; to operate",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1867,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8167,7 +8167,7 @@
     "pinyin": "fā huī",
     "meaning": "to display; to exhibit; to bring out implicit or innate qualities",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1869,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8200,7 +8200,7 @@
     "pinyin": "cǎi fǎng",
     "meaning": "to interview; to gather news; to hunt for and collect",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1893,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8211,7 +8211,7 @@
     "pinyin": "tōng cháng",
     "meaning": "regular; usual; normal",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, distinguishing word",
+    "partOfSpeech": "adverb / adjective",
     "frequency": 1897,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8222,7 +8222,7 @@
     "pinyin": "zhēn duì",
     "meaning": "to target; to focus on; to be aimed at or against",
     "hskLevel": 5,
-    "partOfSpeech": "preposition, verb",
+    "partOfSpeech": "preposition / verb",
     "frequency": 1899,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8255,7 +8255,7 @@
     "pinyin": "jiē chù",
     "meaning": "to touch; to contact; access",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1912,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8266,7 +8266,7 @@
     "pinyin": "guī zé",
     "meaning": "rule; regulation; rules and regulations",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 1924,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8277,7 +8277,7 @@
     "pinyin": "sǔn shī",
     "meaning": "loss; damage; to lose",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 1930,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8288,7 +8288,7 @@
     "pinyin": "yī rán",
     "meaning": "still; as before",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, z",
+    "partOfSpeech": "adverb / z",
     "frequency": 1943,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8310,7 +8310,7 @@
     "pinyin": "cì jī",
     "meaning": "to provoke; to irritate; to upset",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 1968,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8343,7 +8343,7 @@
     "pinyin": "yí dòng",
     "meaning": "to move; movement; migration",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 1997,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8354,7 +8354,7 @@
     "pinyin": "què rèn",
     "meaning": "to confirm; to verify; confirmation",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2006,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8365,7 +8365,7 @@
     "pinyin": "chū sè",
     "meaning": "remarkable; outstanding",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 2028,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8398,7 +8398,7 @@
     "pinyin": "tiáo zhěng",
     "meaning": "to adjust; adjustment; revision",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2032,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8409,7 +8409,7 @@
     "pinyin": "dī",
     "meaning": "a drop; to drip",
     "hskLevel": 5,
-    "partOfSpeech": "verb, measure word",
+    "partOfSpeech": "verb / measure word",
     "frequency": 2035,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8431,7 +8431,7 @@
     "pinyin": "táo",
     "meaning": "to escape; to run away; to flee",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2056,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8464,7 +8464,7 @@
     "pinyin": "jǐn jí",
     "meaning": "urgent; emergency",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 2072,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8486,7 +8486,7 @@
     "pinyin": "juǎn",
     "meaning": "to roll up; roll; classifier for small rolled things (wad of paper money, movie reel etc)",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, verb, morpheme",
+    "partOfSpeech": "measure word / verb",
     "frequency": 2089,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8519,7 +8519,7 @@
     "pinyin": "píng jià",
     "meaning": "to evaluate; to assess",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2119,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8530,7 +8530,7 @@
     "pinyin": "xíng xiàng",
     "meaning": "image; form; figure",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 2124,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8596,7 +8596,7 @@
     "pinyin": "shēng chǎn",
     "meaning": "to produce; to manufacture; to give birth to a child",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 2146,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8607,7 +8607,7 @@
     "pinyin": "zhǐ dǎo",
     "meaning": "to guide; to give directions; to direct",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2171,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8616,9 +8616,9 @@
     "id": "hsk5-784",
     "simplified": "盖",
     "pinyin": "Gě",
-    "meaning": "surname Ge",
+    "meaning": "lid; cover; to cover; to build",
     "hskLevel": 5,
-    "partOfSpeech": "verb, morpheme",
+    "partOfSpeech": "noun / verb",
     "frequency": 2188,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8640,7 +8640,7 @@
     "pinyin": "lián hé",
     "meaning": "to combine; to join; unite",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2190,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8662,7 +8662,7 @@
     "pinyin": "wēi xiào",
     "meaning": "smile; to smile",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2208,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8673,7 +8673,7 @@
     "pinyin": "zǔ hé",
     "meaning": "to assemble; to combine; to compose",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2208,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8695,7 +8695,7 @@
     "pinyin": "gōng píng",
     "meaning": "fair; impartial",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 2218,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8706,7 +8706,7 @@
     "pinyin": "dòng",
     "meaning": "cave; hole; zero (unambiguous spoken form when spelling out numbers)",
     "hskLevel": 5,
-    "partOfSpeech": "noun, morpheme",
+    "partOfSpeech": "noun",
     "frequency": 2225,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8737,9 +8737,9 @@
     "id": "hsk5-795",
     "simplified": "凭",
     "pinyin": "píng",
-    "meaning": "variant of 凭",
+    "meaning": "to rely on; based on; proof",
     "hskLevel": 5,
-    "partOfSpeech": "preposition, verb",
+    "partOfSpeech": "preposition / verb",
     "frequency": 2277,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8761,7 +8761,7 @@
     "pinyin": "yú lè",
     "meaning": "to entertain; to amuse; entertainment",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2283,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8772,7 +8772,7 @@
     "pinyin": "bù rán",
     "meaning": "not so; no; or else",
     "hskLevel": 5,
-    "partOfSpeech": "conjunction, verb, adjective",
+    "partOfSpeech": "conjunction / verb",
     "frequency": 2285,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8805,7 +8805,7 @@
     "pinyin": "mìng lìng",
     "meaning": "order; command",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 2305,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8814,7 +8814,7 @@
     "id": "hsk5-802",
     "simplified": "神经",
     "pinyin": "shén jīng",
-    "meaning": "nerve; mental state; (coll.) unhinged",
+    "meaning": "nerve; mental state; unhinged",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 2307,
@@ -8827,7 +8827,7 @@
     "pinyin": "fàng sōng",
     "meaning": "to relax; to slacken; to loosen",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun, adjective",
+    "partOfSpeech": "verb / noun",
     "frequency": 2311,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8836,9 +8836,9 @@
     "id": "hsk5-804",
     "simplified": "举",
     "pinyin": "jǔ",
-    "meaning": "variant of 举",
+    "meaning": "to lift; to raise; to hold up; to cite",
     "hskLevel": 5,
-    "partOfSpeech": "verb, morpheme",
+    "partOfSpeech": "verb",
     "frequency": 2311,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8849,7 +8849,7 @@
     "pinyin": "zǔ zhǐ",
     "meaning": "to prevent; to block",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2318,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8882,7 +8882,7 @@
     "pinyin": "xíng chéng",
     "meaning": "to form; to take shape",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2335,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8904,7 +8904,7 @@
     "pinyin": "pèi hé",
     "meaning": "matching; fitting in with; compatible with",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2349,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8970,7 +8970,7 @@
     "pinyin": "shén mì",
     "meaning": "mysterious; mystery",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun, adverb + adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 2364,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8981,7 +8981,7 @@
     "pinyin": "zì dòng",
     "meaning": "automatic; voluntarily",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, distinguishing word",
+    "partOfSpeech": "adverb / adjective",
     "frequency": 2365,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -8992,7 +8992,7 @@
     "pinyin": "jié hé",
     "meaning": "to combine; to link; to integrate",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2371,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9003,7 +9003,7 @@
     "pinyin": "dēng jì",
     "meaning": "to register (one's name)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2377,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9014,7 +9014,7 @@
     "pinyin": "chú",
     "meaning": "to get rid of; to remove; to exclude",
     "hskLevel": 5,
-    "partOfSpeech": "preposition, verb",
+    "partOfSpeech": "preposition / verb",
     "frequency": 2398,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9025,7 +9025,7 @@
     "pinyin": "pī",
     "meaning": "to ascertain; to act on; to criticize",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, verb",
+    "partOfSpeech": "measure word / verb",
     "frequency": 2398,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9058,7 +9058,7 @@
     "pinyin": "zuì",
     "meaning": "intoxicated",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2402,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9067,9 +9067,9 @@
     "id": "hsk5-825",
     "simplified": "念",
     "pinyin": "niàn",
-    "meaning": "variant of 念, to read aloud",
+    "meaning": "to read aloud; to study; to miss (someone)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, morpheme",
+    "partOfSpeech": "verb",
     "frequency": 2410,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9091,7 +9091,7 @@
     "pinyin": "jìn bù",
     "meaning": "progress; improvement; to improve",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb, adjective",
+    "partOfSpeech": "verb / noun",
     "frequency": 2425,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9100,9 +9100,9 @@
     "id": "hsk5-828",
     "simplified": "闻",
     "pinyin": "Wén",
-    "meaning": "surname Wen",
+    "meaning": "to smell; to hear; news",
     "hskLevel": 5,
-    "partOfSpeech": "verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 2427,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9113,7 +9113,7 @@
     "pinyin": "duì dài",
     "meaning": "to treat; treatment",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2429,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9135,7 +9135,7 @@
     "pinyin": "dào dé",
     "meaning": "virtue; morality; ethics",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 2445,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9168,7 +9168,7 @@
     "pinyin": "wàn yī",
     "meaning": "just in case; if by any chance; contingency",
     "hskLevel": 5,
-    "partOfSpeech": "conjunction, adverb, time word",
+    "partOfSpeech": "conjunction / adverb",
     "frequency": 2483,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9179,7 +9179,7 @@
     "pinyin": "rú jīn",
     "meaning": "nowadays; now",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 2487,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9190,7 +9190,7 @@
     "pinyin": "liàn ài",
     "meaning": "(romantic) love; in love; to have an affair",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2496,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9201,7 +9201,7 @@
     "pinyin": "chéng lì",
     "meaning": "to establish; to set up; to be tenable",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2498,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9234,7 +9234,7 @@
     "pinyin": "xùn sù",
     "meaning": "rapid; speedy; fast",
     "hskLevel": 5,
-    "partOfSpeech": "adverb + adjective, adjective",
+    "partOfSpeech": "adjective",
     "frequency": 2524,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9243,7 +9243,7 @@
     "id": "hsk5-841",
     "simplified": "似的",
     "pinyin": "shì de",
-    "meaning": "seems as if; rather like; Taiwan pr. [sì de]",
+    "meaning": "as if; like; seems",
     "hskLevel": 5,
     "partOfSpeech": "particle",
     "frequency": 2525,
@@ -9267,7 +9267,7 @@
     "pinyin": "qìng zhù",
     "meaning": "to celebrate",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2543,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9289,7 +9289,7 @@
     "pinyin": "tǐ yàn",
     "meaning": "to experience for oneself",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2553,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9309,7 +9309,7 @@
     "id": "hsk5-847",
     "simplified": "玻璃",
     "pinyin": "bō li",
-    "meaning": "glass; (slang) male homosexual",
+    "meaning": "glass",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 2557,
@@ -9322,7 +9322,7 @@
     "pinyin": "yín",
     "meaning": "silver; silver-colored; relating to money or currency",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word, morpheme, noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 2564,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9344,7 +9344,7 @@
     "pinyin": "quē fá",
     "meaning": "to lack; to be short of",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2593,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9353,7 +9353,7 @@
     "id": "hsk5-851",
     "simplified": "诗",
     "pinyin": "Shī",
-    "meaning": "abbr. for Shijing 诗经, the Book of Songs",
+    "meaning": "poem; poetry; verse",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 2594,
@@ -9366,7 +9366,7 @@
     "pinyin": "suǒ",
     "meaning": "to lock; to lock up; a lock",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2607,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9377,7 +9377,7 @@
     "pinyin": "chóng fù",
     "meaning": "to repeat; to duplicate",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun, adjective",
+    "partOfSpeech": "verb / noun",
     "frequency": 2608,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9388,7 +9388,7 @@
     "pinyin": "zì xìn",
     "meaning": "to have confidence in oneself; self-confidence",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adjective + noun, adjective, verb + noun",
+    "partOfSpeech": "verb / adjective",
     "frequency": 2610,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9410,7 +9410,7 @@
     "pinyin": "pī zhǔn",
     "meaning": "to approve; to ratify",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2614,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9432,7 +9432,7 @@
     "pinyin": "biāo zhì",
     "meaning": "sign; mark; symbol",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 2653,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9465,7 +9465,7 @@
     "pinyin": "bù rú",
     "meaning": "not equal to; not as good as; inferior to",
     "hskLevel": 5,
-    "partOfSpeech": "verb, conjunction",
+    "partOfSpeech": "verb / conjunction",
     "frequency": 2684,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9476,7 +9476,7 @@
     "pinyin": "zhǐ huī",
     "meaning": "to conduct; to command; to direct",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2687,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9485,9 +9485,9 @@
     "id": "hsk5-863",
     "simplified": "露",
     "pinyin": "Lù",
-    "meaning": "surname Lu",
+    "meaning": "dew; to reveal; to show",
     "hskLevel": 5,
-    "partOfSpeech": "verb, morpheme",
+    "partOfSpeech": "noun / verb",
     "frequency": 2700,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9520,7 +9520,7 @@
     "pinyin": "lí hūn",
     "meaning": "to divorce",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2723,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9553,7 +9553,7 @@
     "pinyin": "wēn nuǎn",
     "meaning": "warm",
     "hskLevel": 5,
-    "partOfSpeech": "adjective + noun, adjective, verb",
+    "partOfSpeech": "adjective / noun",
     "frequency": 2753,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9564,7 +9564,7 @@
     "pinyin": "zhù fú",
     "meaning": "blessings; to wish sb well",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2756,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9575,7 +9575,7 @@
     "pinyin": "chéng shòu",
     "meaning": "to bear; to support; to inherit",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2759,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9586,7 +9586,7 @@
     "pinyin": "zī xún",
     "meaning": "to consult; to seek advice; consultation",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 2768,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9617,9 +9617,9 @@
     "id": "hsk5-875",
     "simplified": "青",
     "pinyin": "Qīng",
-    "meaning": "abbr. for 海, Qinghai Province",
+    "meaning": "green; blue; young",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, distinguishing word",
+    "partOfSpeech": "adjective",
     "frequency": 2780,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9641,7 +9641,7 @@
     "pinyin": "máo dùn",
     "meaning": "contradiction; conflicting views; contradictory",
     "hskLevel": 5,
-    "partOfSpeech": "adjective + noun, adjective",
+    "partOfSpeech": "adjective / noun",
     "frequency": 2794,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9663,7 +9663,7 @@
     "pinyin": "tán pàn",
     "meaning": "to negotiate; negotiation; talks",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 2830,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9674,7 +9674,7 @@
     "pinyin": "qǐng qiú",
     "meaning": "to request; to ask; request",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2837,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9685,7 +9685,7 @@
     "pinyin": "fēn bié",
     "meaning": "to part; to leave each other; to distinguish",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, verb",
+    "partOfSpeech": "adverb / verb",
     "frequency": 2885,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9707,7 +9707,7 @@
     "pinyin": "huī",
     "meaning": "ash; dust; lime",
     "hskLevel": 5,
-    "partOfSpeech": "morpheme, noun, adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 2914,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9718,7 +9718,7 @@
     "pinyin": "duī",
     "meaning": "to pile up; to heap up; a mass",
     "hskLevel": 5,
-    "partOfSpeech": "measure word, verb, suffix, noun",
+    "partOfSpeech": "measure word / verb",
     "frequency": 2915,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9729,7 +9729,7 @@
     "pinyin": "bǎo liú",
     "meaning": "to keep; to retain; to have reservations (about sth)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2921,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9762,7 +9762,7 @@
     "pinyin": "bù zú",
     "meaning": "insufficient; lacking; deficiency",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adjective + noun, adjective",
+    "partOfSpeech": "verb / adjective",
     "frequency": 2971,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9784,7 +9784,7 @@
     "pinyin": "jì suàn",
     "meaning": "to count; to calculate; to compute",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2980,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9795,7 +9795,7 @@
     "pinyin": "kāi fā",
     "meaning": "to exploit (a resource); to open up (for development); to develop",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 2981,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9804,9 +9804,9 @@
     "id": "hsk5-892",
     "simplified": "乘",
     "pinyin": "Chéng",
-    "meaning": "surname Cheng",
+    "meaning": "to ride; to take (bus, train); to multiply",
     "hskLevel": 5,
-    "partOfSpeech": "verb, preposition",
+    "partOfSpeech": "verb",
     "frequency": 2982,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9828,7 +9828,7 @@
     "pinyin": "gòng xiàn",
     "meaning": "to contribute; to dedicate; to devote",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 2991,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9839,7 +9839,7 @@
     "pinyin": "dān dú",
     "meaning": "alone; by oneself; on one's own",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, distinguishing word",
+    "partOfSpeech": "adverb / adjective",
     "frequency": 3019,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9850,7 +9850,7 @@
     "pinyin": "kāi fàng",
     "meaning": "to bloom; to open; to be open (to the public)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun, adjective",
+    "partOfSpeech": "verb / noun",
     "frequency": 3036,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9872,7 +9872,7 @@
     "pinyin": "zhǎn kāi",
     "meaning": "to unfold; to spread out; to open up",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3065,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9883,7 +9883,7 @@
     "pinyin": "chéng jiù",
     "meaning": "accomplishment; success; achievement",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 3075,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9894,7 +9894,7 @@
     "pinyin": "jī liè",
     "meaning": "(of competition or fighting) intense; fierce; (of pain) acute",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 3088,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9905,7 +9905,7 @@
     "pinyin": "gù dìng",
     "meaning": "to fix; to fasten; to set rigidly in place",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb, verb + noun",
+    "partOfSpeech": "adjective / verb",
     "frequency": 3096,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9914,7 +9914,7 @@
     "id": "hsk5-902",
     "simplified": "摇",
     "pinyin": "Yáo",
-    "meaning": "surname Yao",
+    "meaning": "to shake; to wave; to rock; to sway",
     "hskLevel": 5,
     "partOfSpeech": "verb",
     "frequency": 3118,
@@ -9927,7 +9927,7 @@
     "pinyin": "péi yǎng",
     "meaning": "to cultivate; to breed; to foster",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3133,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9938,7 +9938,7 @@
     "pinyin": "zhuǎn biàn",
     "meaning": "to change; to transform; shift",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3151,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -9960,7 +9960,7 @@
     "pinyin": "wéi hù",
     "meaning": "to defend; to safeguard; to protect",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3156,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10015,7 +10015,7 @@
     "pinyin": "zhǔ chí",
     "meaning": "to take charge of; to manage or direct; to preside over",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3176,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10026,7 +10026,7 @@
     "pinyin": "guān bì",
     "meaning": "to close; to shut (a window etc); (of a shop, school etc) to shut down",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3178,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10037,7 +10037,7 @@
     "pinyin": "jù huì",
     "meaning": "party; gathering; to meet",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3191,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10048,7 +10048,7 @@
     "pinyin": "jiāo huàn",
     "meaning": "to exchange; to swap; to switch (telecom)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3196,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10059,7 +10059,7 @@
     "pinyin": "wén míng",
     "meaning": "civilized; civilization; culture",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adjective, adverb + adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 3200,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10068,9 +10068,9 @@
     "id": "hsk5-916",
     "simplified": "丁",
     "pinyin": "Dīng",
-    "meaning": "surname Ding",
+    "meaning": "a person; cube (of food); fourth (in a sequence)",
     "hskLevel": 5,
-    "partOfSpeech": "proper noun (person), o, morpheme, Mg",
+    "partOfSpeech": "noun",
     "frequency": 3211,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10114,7 +10114,7 @@
     "pinyin": "gōu tōng",
     "meaning": "to join; to connect; to link up",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3266,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10180,7 +10180,7 @@
     "pinyin": "yì wù",
     "meaning": "duty; obligation; volunteer (work etc)",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adverb",
+    "partOfSpeech": "noun / adverb",
     "frequency": 3344,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10202,7 +10202,7 @@
     "pinyin": "yùn yòng",
     "meaning": "to use; to put to use",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3345,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10213,7 +10213,7 @@
     "pinyin": "zhì dìng",
     "meaning": "to draw up; to formulate",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3364,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10345,7 +10345,7 @@
     "pinyin": "qù shì",
     "meaning": "to pass away; to die",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3502,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10367,7 +10367,7 @@
     "pinyin": "xún wèn",
     "meaning": "to inquire",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3515,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10389,7 +10389,7 @@
     "pinyin": "fǒu rèn",
     "meaning": "to declare to be untrue; to deny",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3559,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10400,7 +10400,7 @@
     "pinyin": "guò fèn",
     "meaning": "excessive; undue; overly",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, verb",
+    "partOfSpeech": "adjective / verb",
     "frequency": 3578,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10422,7 +10422,7 @@
     "pinyin": "tǐ huì",
     "meaning": "to know from experience; to learn through experience; to realize",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3605,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10466,7 +10466,7 @@
     "pinyin": "jiě fàng",
     "meaning": "to liberate; to emancipate; liberation",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun, proper noun (other)",
+    "partOfSpeech": "verb / noun",
     "frequency": 3669,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10477,7 +10477,7 @@
     "pinyin": "huàn xiǎng",
     "meaning": "delusion; fantasy",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 3672,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10488,7 +10488,7 @@
     "pinyin": "gǎi shàn",
     "meaning": "to make better; to improve",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3674,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10510,7 +10510,7 @@
     "pinyin": "yōng bào",
     "meaning": "to embrace; to hug",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3677,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10576,7 +10576,7 @@
     "pinyin": "yùn shū",
     "meaning": "to transport; to carry; transportation",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 3770,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10587,7 +10587,7 @@
     "pinyin": "zhēn xī",
     "meaning": "to treasure; to value; to cherish",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3787,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10607,9 +10607,9 @@
     "id": "hsk5-965",
     "simplified": "收获",
     "pinyin": "shōu huò",
-    "meaning": "variant of 收获",
+    "meaning": "harvest; gains; to gain; to reap",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb, verb + noun",
+    "partOfSpeech": "noun / verb",
     "frequency": 3809,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10620,7 +10620,7 @@
     "pinyin": "zhuāng shì",
     "meaning": "to decorate; decoration; decorative",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb, verb + noun",
+    "partOfSpeech": "noun / verb",
     "frequency": 3810,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10631,7 +10631,7 @@
     "pinyin": "luò hòu",
     "meaning": "to fall behind; to lag (in technology etc); backward",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 3824,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10653,7 +10653,7 @@
     "pinyin": "fēn pèi",
     "meaning": "to distribute; to assign; to allocate",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3851,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10675,7 +10675,7 @@
     "pinyin": "xiū gǎi",
     "meaning": "to amend; to alter; to modify",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3871,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10719,7 +10719,7 @@
     "pinyin": "xiāng chǔ",
     "meaning": "to be in contact (with sb); to associate; to interact",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3898,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10730,7 +10730,7 @@
     "pinyin": "bǎo cún",
     "meaning": "to conserve; to preserve; to keep",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3916,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10741,7 +10741,7 @@
     "pinyin": "zhèn",
     "meaning": "disposition of troops; wave; spate",
     "hskLevel": 5,
-    "partOfSpeech": "morpheme, time measure word",
+    "partOfSpeech": "measure word",
     "frequency": 3920,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10752,7 +10752,7 @@
     "pinyin": "xiā",
     "meaning": "blind; groundlessly; foolishly",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, verb, adjective",
+    "partOfSpeech": "adverb / verb",
     "frequency": 3932,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10774,7 +10774,7 @@
     "pinyin": "péi cháng",
     "meaning": "to compensate",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3939,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10785,7 +10785,7 @@
     "pinyin": "fā míng",
     "meaning": "to invent; an invention",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 3943,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10818,7 +10818,7 @@
     "pinyin": "rè liè",
     "meaning": "enthusiastic; ardent; warm",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 4022,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10829,7 +10829,7 @@
     "pinyin": "yí mín",
     "meaning": "to immigrate; to migrate; emigrant",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb + noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 4025,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10851,7 +10851,7 @@
     "pinyin": "chèn",
     "meaning": "to avail oneself of; to take advantage of",
     "hskLevel": 5,
-    "partOfSpeech": "preposition, verb",
+    "partOfSpeech": "preposition / verb",
     "frequency": 4043,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10884,7 +10884,7 @@
     "pinyin": "guī mó",
     "meaning": "scale; scope; extent",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adverb",
+    "partOfSpeech": "noun / adverb",
     "frequency": 4088,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10939,7 +10939,7 @@
     "pinyin": "bǔ chōng",
     "meaning": "to replenish; to supplement; to complement",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4107,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10950,7 +10950,7 @@
     "pinyin": "zuì chū",
     "meaning": "first; primary; initial",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word, adverb",
+    "partOfSpeech": "adjective / adverb",
     "frequency": 4118,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -10994,7 +10994,7 @@
     "pinyin": "jiè kǒu",
     "meaning": "to use as an excuse; excuse; pretext",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 4172,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11016,7 +11016,7 @@
     "pinyin": "rè ài",
     "meaning": "to love ardently; to adore",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4185,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11027,7 +11027,7 @@
     "pinyin": "tǐ xiàn",
     "meaning": "to embody; to reflect; to incarnate",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4185,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11038,7 +11038,7 @@
     "pinyin": "xié tiáo",
     "meaning": "to coordinate; to harmonize; to fit together",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun, adjective, adverb + adjective, adjective + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4200,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11071,7 +11071,7 @@
     "pinyin": "zōng hé",
     "meaning": "comprehensive; composite; synthesized",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb, adjective",
+    "partOfSpeech": "verb / noun",
     "frequency": 4226,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11082,7 +11082,7 @@
     "pinyin": "xíng róng",
     "meaning": "to describe; countenance; appearance",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4235,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11104,7 +11104,7 @@
     "pinyin": "xī shōu",
     "meaning": "to absorb; to assimilate; to ingest",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4256,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11126,7 +11126,7 @@
     "pinyin": "gǎi jìn",
     "meaning": "to improve; to make better; improvement",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4265,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11137,7 +11137,7 @@
     "pinyin": "jiàn shè",
     "meaning": "to build; to construct; to establish",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 4276,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11157,9 +11157,9 @@
     "id": "hsk5-1015",
     "simplified": "仿佛",
     "pinyin": "fǎng fú",
-    "meaning": "variant of 仿佛",
+    "meaning": "as if; seemingly",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, verb",
+    "partOfSpeech": "adverb",
     "frequency": 4286,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11170,7 +11170,7 @@
     "pinyin": "yìng fu",
     "meaning": "to deal with; to cope",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4308,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11203,7 +11203,7 @@
     "pinyin": "fèn dòu",
     "meaning": "to strive; to struggle",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4365,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11258,7 +11258,7 @@
     "pinyin": "gān cuì",
     "meaning": "candid; direct and to the point; simply",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, adjective",
+    "partOfSpeech": "adverb / adjective",
     "frequency": 4467,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11269,7 +11269,7 @@
     "pinyin": "jǐn shèn",
     "meaning": "cautious; prudent",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 4482,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11280,7 +11280,7 @@
     "pinyin": "jìn lì",
     "meaning": "to strive one's hardest; to spare no effort",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, verb",
+    "partOfSpeech": "adverb / verb",
     "frequency": 4488,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11291,7 +11291,7 @@
     "pinyin": "qǐ tú",
     "meaning": "to attempt; to try; attempt",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4499,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11313,7 +11313,7 @@
     "pinyin": "gòu chéng",
     "meaning": "to constitute; to form; to compose",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4510,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11324,7 +11324,7 @@
     "pinyin": "fā yán",
     "meaning": "to make a speech; statement; utterance",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4527,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11335,7 +11335,7 @@
     "pinyin": "gǎi gé",
     "meaning": "reform; to reform",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 4569,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11346,7 +11346,7 @@
     "pinyin": "rán shāo",
     "meaning": "to ignite; to combust; to burn",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4624,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11355,9 +11355,9 @@
     "id": "hsk5-1033",
     "simplified": "反复",
     "pinyin": "fǎn fù",
-    "meaning": "variant of 反复",
+    "meaning": "repeatedly; over and over; to relapse",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, verb, verb + noun",
+    "partOfSpeech": "adverb / verb",
     "frequency": 4626,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11368,7 +11368,7 @@
     "pinyin": "zūn jìng",
     "meaning": "to respect; to revere; to esteem",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4630,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11379,7 +11379,7 @@
     "pinyin": "mó fǎng",
     "meaning": "to imitate; to copy; to emulate",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4669,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11390,7 +11390,7 @@
     "pinyin": "zì háo",
     "meaning": "proud (of one's achievements etc)",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 4682,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11412,7 +11412,7 @@
     "pinyin": "táo bì",
     "meaning": "to escape; to evade; to avoid",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4735,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11423,7 +11423,7 @@
     "pinyin": "shī yè",
     "meaning": "unemployment; to lose one's job",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4758,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11445,7 +11445,7 @@
     "pinyin": "dàn",
     "meaning": "insipid; diluted; weak",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, morpheme",
+    "partOfSpeech": "adjective",
     "frequency": 4795,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11454,7 +11454,7 @@
     "id": "hsk5-1042",
     "simplified": "飘",
     "pinyin": "piāo",
-    "meaning": "variant of 飘",
+    "meaning": "to float; to flutter; to drift",
     "hskLevel": 5,
     "partOfSpeech": "verb",
     "frequency": 4833,
@@ -11478,7 +11478,7 @@
     "pinyin": "zì yuàn",
     "meaning": "voluntary",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4902,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11489,7 +11489,7 @@
     "pinyin": "kàng yì",
     "meaning": "to protest; protest",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 4910,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11522,7 +11522,7 @@
     "pinyin": "héng",
     "meaning": "horizontal; across; crosswise",
     "hskLevel": 5,
-    "partOfSpeech": "morpheme, verb, noun, adjective, adverb",
+    "partOfSpeech": "verb / noun",
     "frequency": 5014,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11533,7 +11533,7 @@
     "pinyin": "hū shì",
     "meaning": "to neglect; to overlook; to disregard",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5020,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11555,7 +11555,7 @@
     "pinyin": "xiàng zhēng",
     "meaning": "emblem; symbol; token",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb, verb + noun",
+    "partOfSpeech": "noun / verb",
     "frequency": 5049,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11566,7 +11566,7 @@
     "pinyin": "tí wèn",
     "meaning": "to question; to quiz; to grill",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 5085,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11577,7 +11577,7 @@
     "pinyin": "lù qǔ",
     "meaning": "to accept an applicant (prospective student, employee etc) who passes an entrance exam; to admit (a student); to hire (a job candidate)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5087,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11588,7 +11588,7 @@
     "pinyin": "jiān",
     "meaning": "sound of moving water",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 5099,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11599,7 +11599,7 @@
     "pinyin": "lǎo shi",
     "meaning": "honest; sincere; well-behaved",
     "hskLevel": 5,
-    "partOfSpeech": "adverb + adjective, adjective",
+    "partOfSpeech": "adjective",
     "frequency": 5167,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11610,7 +11610,7 @@
     "pinyin": "yù fáng",
     "meaning": "to prevent; to take precautions against; to protect",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5185,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11643,7 +11643,7 @@
     "pinyin": "yè yú",
     "meaning": "in one's spare time; outside working hours; amateur (historian etc)",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word",
+    "partOfSpeech": "adjective",
     "frequency": 5236,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11676,7 +11676,7 @@
     "pinyin": "duì bǐ",
     "meaning": "to contrast; contrast; ratio",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 5260,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11687,7 +11687,7 @@
     "pinyin": "wēi hài",
     "meaning": "to jeopardize; to harm; to endanger",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5260,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11709,7 +11709,7 @@
     "pinyin": "zhēng lùn",
     "meaning": "to argue; to debate; to contend",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5270,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11720,7 +11720,7 @@
     "pinyin": "xiū xián",
     "meaning": "leisure; relaxation; not working",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 5276,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11731,7 +11731,7 @@
     "pinyin": "qiān zì",
     "meaning": "to sign (one's name); signature",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5289,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11775,7 +11775,7 @@
     "pinyin": "suō xiǎo",
     "meaning": "to reduce; to decrease; to shrink",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5320,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11786,7 +11786,7 @@
     "pinyin": "ǒu rán",
     "meaning": "incidentally; occasional; occasionally",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 5343,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11797,7 +11797,7 @@
     "pinyin": "guī ju",
     "meaning": "lit. compass and set square; fig. established standard; rule",
     "hskLevel": 5,
-    "partOfSpeech": "noun, adjective",
+    "partOfSpeech": "noun / adjective",
     "frequency": 5345,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11830,7 +11830,7 @@
     "pinyin": "fù zhì",
     "meaning": "to duplicate; to make a copy of; to copy",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5395,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11841,7 +11841,7 @@
     "pinyin": "xiāo huà",
     "meaning": "to digest (food); (fig.) to absorb (information etc); to assimilate",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5399,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11852,7 +11852,7 @@
     "pinyin": "jiē dài",
     "meaning": "to receive (a visitor); to admit (allow sb to enter)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5407,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11874,7 +11874,7 @@
     "pinyin": "bāo guǒ",
     "meaning": "to wrap up; to bind up; bundle",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 5432,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11907,7 +11907,7 @@
     "pinyin": "sī háo",
     "meaning": "the slightest amount or degree; a bit",
     "hskLevel": 5,
-    "partOfSpeech": "numeral, adjective, noun",
+    "partOfSpeech": "numeral / adjective",
     "frequency": 5484,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11918,7 +11918,7 @@
     "pinyin": "yìng yòng",
     "meaning": "to put to use; to apply; practical",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 5484,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11940,7 +11940,7 @@
     "pinyin": "jìn kǒu",
     "meaning": "to import; imported; entrance",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5578,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11962,7 +11962,7 @@
     "pinyin": "zhǎn lǎn",
     "meaning": "to put on display; to exhibit; exhibition",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 5620,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11973,7 +11973,7 @@
     "pinyin": "cān kǎo",
     "meaning": "consultation; reference; to consult",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5682,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -11995,7 +11995,7 @@
     "pinyin": "huǎn jiě",
     "meaning": "to bring relief; to alleviate (a crisis); to dull (a pain)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5722,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12028,7 +12028,7 @@
     "pinyin": "zì sī",
     "meaning": "selfish; selfishness",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 5778,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12105,7 +12105,7 @@
     "pinyin": "Yán cháng",
     "meaning": "Yanchang county in Yan'an 安, Shaanxi",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 5928,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12116,7 +12116,7 @@
     "pinyin": "dì dào",
     "meaning": "tunnel; causeway",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 5958,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12160,7 +12160,7 @@
     "pinyin": "gǔ dài",
     "meaning": "ancient times",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 6123,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12169,9 +12169,9 @@
     "id": "hsk5-1107",
     "simplified": "问候",
     "pinyin": "wèn hòu",
-    "meaning": "to give one's respects; to send a greeting; (fig.) (coll.) to make offensive reference to (somebody dear to the person to whom one is speaking)",
+    "meaning": "to give one's respects; to send a greeting; (fig.) to make offensive reference to (somebody dear to the person to whom one is speaking)",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 6124,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12182,7 +12182,7 @@
     "pinyin": "líng",
     "meaning": "(small) bell",
     "hskLevel": 5,
-    "partOfSpeech": "o, morpheme",
+    "partOfSpeech": "o",
     "frequency": 6132,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12215,7 +12215,7 @@
     "pinyin": "děng hòu",
     "meaning": "to wait; to wait for",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6248,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12237,7 +12237,7 @@
     "pinyin": "guǎng fàn",
     "meaning": "extensive; wide range",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 6278,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12259,7 +12259,7 @@
     "pinyin": "fěng cì",
     "meaning": "to satirize; to mock; irony",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6348,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12292,7 +12292,7 @@
     "pinyin": "cù jìn",
     "meaning": "to promote (an idea or cause); to advance; boost",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6415,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12303,7 +12303,7 @@
     "pinyin": "hé bì",
     "meaning": "there is no need; why should",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, pronoun",
+    "partOfSpeech": "adverb / pronoun",
     "frequency": 6418,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12314,7 +12314,7 @@
     "pinyin": "yōu huì",
     "meaning": "privilege; favorable (terms); preferential (treatment)",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 6443,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12336,7 +12336,7 @@
     "pinyin": "gè bié",
     "meaning": "individually; one by one; just one or two",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 6477,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12347,7 +12347,7 @@
     "pinyin": "fǒu dìng",
     "meaning": "to negate; to deny; to reject",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6489,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12358,7 +12358,7 @@
     "pinyin": "zhǔ zhāng",
     "meaning": "to advocate; to stand for; view",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6498,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12369,7 +12369,7 @@
     "pinyin": "yù dìng",
     "meaning": "to place an order; to book ahead",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6551,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12402,7 +12402,7 @@
     "pinyin": "jiān kǔ",
     "meaning": "difficult; hard; arduous",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 6580,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12444,7 +12444,7 @@
     "id": "hsk5-1132",
     "simplified": "阳台",
     "pinyin": "yáng tái",
-    "meaning": "variant of 阳台",
+    "meaning": "balcony",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 6690,
@@ -12457,7 +12457,7 @@
     "pinyin": "gǔ wǔ",
     "meaning": "heartening (news); to boost (morale)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6725,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12468,7 +12468,7 @@
     "pinyin": "fáng ài",
     "meaning": "to hinder; to obstruct",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6742,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12490,7 +12490,7 @@
     "pinyin": "róng xìng",
     "meaning": "honored (to have the privilege of ...)",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 6767,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12512,7 +12512,7 @@
     "pinyin": "jiàng luò",
     "meaning": "to descend; to land",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6858,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12534,7 +12534,7 @@
     "pinyin": "fá kuǎn",
     "meaning": "to fine; penalty; fine (monetary)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 6918,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12578,7 +12578,7 @@
     "pinyin": "hé kuàng",
     "meaning": "let alone; to say nothing of; besides",
     "hskLevel": 5,
-    "partOfSpeech": "conjunction, adverb",
+    "partOfSpeech": "conjunction / adverb",
     "frequency": 7062,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12589,7 +12589,7 @@
     "pinyin": "fēn bù",
     "meaning": "to scatter; to distribute; to be distributed (over an area etc)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7247,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12622,7 +12622,7 @@
     "pinyin": "zàn měi",
     "meaning": "to admire; to praise; to eulogize",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7340,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12631,7 +12631,7 @@
     "id": "hsk5-1149",
     "simplified": "痒",
     "pinyin": "yǎng",
-    "meaning": "variant of 痒; to itch; to tickle",
+    "meaning": "itchy; to itch",
     "hskLevel": 5,
     "partOfSpeech": "adjective",
     "frequency": 7367,
@@ -12664,7 +12664,7 @@
     "id": "hsk5-1152",
     "simplified": "柜台",
     "pinyin": "guì tái",
-    "meaning": "variant of 柜台",
+    "meaning": "counter; service desk",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 7498,
@@ -12710,7 +12710,7 @@
     "pinyin": "gǔ diǎn",
     "meaning": "classical",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word",
+    "partOfSpeech": "adjective",
     "frequency": 7746,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12721,7 +12721,7 @@
     "pinyin": "xié",
     "meaning": "inclined; slanting; oblique",
     "hskLevel": 5,
-    "partOfSpeech": "adverb + adjective, verb, adjective",
+    "partOfSpeech": "adjective / verb",
     "frequency": 7766,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12732,7 +12732,7 @@
     "pinyin": "tǐ tiē",
     "meaning": "considerate (of other people's needs)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7789,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12743,7 +12743,7 @@
     "pinyin": "shēng dòng",
     "meaning": "vivid; lively",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 7805,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12765,7 +12765,7 @@
     "pinyin": "rè xīn",
     "meaning": "enthusiastic; ardent; zealous",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb, adverb + adjective, particle, adjective + noun",
+    "partOfSpeech": "adjective / verb",
     "frequency": 7849,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12776,7 +12776,7 @@
     "pinyin": "fēn fēn",
     "meaning": "one after another; in succession; one by one",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, z",
+    "partOfSpeech": "adverb / z",
     "frequency": 7895,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12809,7 +12809,7 @@
     "pinyin": "liú chuán",
     "meaning": "to spread; to circulate; to hand down",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 7952,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12831,7 +12831,7 @@
     "pinyin": "zì jué",
     "meaning": "conscious; aware; on one's own initiative",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, verb, adjective + noun",
+    "partOfSpeech": "adjective / verb",
     "frequency": 7977,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12840,7 +12840,7 @@
     "id": "hsk5-1168",
     "simplified": "夸",
     "pinyin": "kuā",
-    "meaning": "used in 克",
+    "meaning": "to praise; to boast; to exaggerate",
     "hskLevel": 5,
     "partOfSpeech": "verb",
     "frequency": 8011,
@@ -12853,7 +12853,7 @@
     "pinyin": "zhuān xīn",
     "meaning": "to focus one's attention; to concentrate on (doing sth)",
     "hskLevel": 5,
-    "partOfSpeech": "adverb + adjective, adjective",
+    "partOfSpeech": "adjective",
     "frequency": 8032,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12886,7 +12886,7 @@
     "pinyin": "fán róng",
     "meaning": "prosperous; booming (economy)",
     "hskLevel": 5,
-    "partOfSpeech": "adjective + noun, adjective, verb",
+    "partOfSpeech": "adjective / noun",
     "frequency": 8156,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12897,7 +12897,7 @@
     "pinyin": "nìng kě",
     "meaning": "preferably; one would prefer to...(or not to...); would rather",
     "hskLevel": 5,
-    "partOfSpeech": "adverb, conjunction",
+    "partOfSpeech": "adverb / conjunction",
     "frequency": 8234,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12930,7 +12930,7 @@
     "pinyin": "zhāo dài",
     "meaning": "to hold a reception; to offer hospitality; to entertain (guests)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 8447,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12941,7 +12941,7 @@
     "pinyin": "guān huái",
     "meaning": "care; solicitude; to show care for",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 8489,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12963,7 +12963,7 @@
     "pinyin": "yōng jǐ",
     "meaning": "crowded; to throng; congestion",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb",
+    "partOfSpeech": "adjective / verb",
     "frequency": 8579,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12974,7 +12974,7 @@
     "pinyin": "yù bào",
     "meaning": "forecast",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 8603,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -12996,7 +12996,7 @@
     "pinyin": "guāng lín",
     "meaning": "to honor with one's presence; to attend",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 8731,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13040,7 +13040,7 @@
     "pinyin": "kě jiàn",
     "meaning": "it can clearly be seen (that this is the case); it is (thus) clear; clear",
     "hskLevel": 5,
-    "partOfSpeech": "verb, conjunction",
+    "partOfSpeech": "verb / conjunction",
     "frequency": 8748,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13084,7 +13084,7 @@
     "pinyin": "mí lù",
     "meaning": "to lose the way; lost; labyrinth",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 8871,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13172,7 +13172,7 @@
     "pinyin": "zhǔ guān",
     "meaning": "subjective",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 9403,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13205,7 +13205,7 @@
     "pinyin": "cháng tú",
     "meaning": "long distance",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word, adverb",
+    "partOfSpeech": "adjective / adverb",
     "frequency": 9492,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13216,7 +13216,7 @@
     "pinyin": "guǎng dà",
     "meaning": "(of an area) vast or extensive; large-scale; widespread",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word",
+    "partOfSpeech": "adjective",
     "frequency": 9553,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13227,7 +13227,7 @@
     "pinyin": "hé yǐng",
     "meaning": "to take a joint photo; group photo",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb",
+    "partOfSpeech": "noun / verb",
     "frequency": 9596,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13238,7 +13238,7 @@
     "pinyin": "yì lùn",
     "meaning": "to comment; to talk about; to discuss",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 9604,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13260,7 +13260,7 @@
     "pinyin": "guò qī",
     "meaning": "to be overdue; to exceed the time limit; to expire (as in expiration date)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 9636,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13282,7 +13282,7 @@
     "pinyin": "qiān xū",
     "meaning": "modest; self-effacing; to make modest remarks",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 9707,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13304,7 +13304,7 @@
     "pinyin": "hú shuō",
     "meaning": "to talk nonsense; drivel",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 10010,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13315,7 +13315,7 @@
     "pinyin": "cōng máng",
     "meaning": "hasty; hurried",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 10025,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13392,7 +13392,7 @@
     "pinyin": "gǎi zhèng",
     "meaning": "to correct; to amend; to put right",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 10338,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13436,7 +13436,7 @@
     "pinyin": "qín fèn",
     "meaning": "hardworking; diligent",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 10815,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13491,7 +13491,7 @@
     "pinyin": "jiāo jì",
     "meaning": "communication; social intercourse",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 11527,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13513,7 +13513,7 @@
     "pinyin": "zhèn dòng",
     "meaning": "to vibrate; to shake; vibration",
     "hskLevel": 5,
-    "partOfSpeech": "verb + noun, verb",
+    "partOfSpeech": "verb / noun",
     "frequency": 11577,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13535,7 +13535,7 @@
     "pinyin": "tí chàng",
     "meaning": "to promote; to advocate",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 11719,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13546,7 +13546,7 @@
     "pinyin": "tǎn shuài",
     "meaning": "frank (discussion); blunt; open",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective",
+    "partOfSpeech": "adjective",
     "frequency": 11926,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13568,7 +13568,7 @@
     "pinyin": "chéng kěn",
     "meaning": "sincere; honest; cordial",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 12015,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13621,7 +13621,7 @@
     "id": "hsk5-1239",
     "simplified": "麦克风",
     "pinyin": "mài kè fēng",
-    "meaning": "microphone (loanword)",
+    "meaning": "microphone",
     "hskLevel": 5,
     "partOfSpeech": "noun",
     "frequency": 12308,
@@ -13645,7 +13645,7 @@
     "pinyin": "jiè yān",
     "meaning": "to give up smoking",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 12322,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13656,7 +13656,7 @@
     "pinyin": "yóu lǎn",
     "meaning": "to go sightseeing; to tour; to visit",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 12549,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13667,7 +13667,7 @@
     "pinyin": "chōu xiàng",
     "meaning": "abstract; abstraction",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 12568,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13689,7 +13689,7 @@
     "pinyin": "zé bèi",
     "meaning": "to blame; to criticize; condemnation",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 12948,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13700,7 +13700,7 @@
     "pinyin": "Chú xī",
     "meaning": "lunar New Year's Eve",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 13074,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13711,7 +13711,7 @@
     "pinyin": "Guǎn zǐ",
     "meaning": "Guanzi or Guan Zhong 管仲 (-645 BC), famous politician of Qi 齐国 of Spring and Autumn period; Guanzi, classical book containing writings of Guan Zhong and his school",
     "hskLevel": 5,
-    "partOfSpeech": "noun, proper noun (person)",
+    "partOfSpeech": "noun",
     "frequency": 13105,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13766,7 +13766,7 @@
     "pinyin": "wǎng fǎn",
     "meaning": "to go back and forth; to go to and fro; to do a round trip",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 13580,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13788,7 +13788,7 @@
     "pinyin": "qīng shì",
     "meaning": "contempt; contemptuous; to despise",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 13811,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13898,7 +13898,7 @@
     "pinyin": "kòng xián",
     "meaning": "idle; free time; leisure",
     "hskLevel": 5,
-    "partOfSpeech": "noun, verb, adjective",
+    "partOfSpeech": "noun / verb",
     "frequency": 15533,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13909,7 +13909,7 @@
     "pinyin": "néng gàn",
     "meaning": "capable; competent",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 15736,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13920,7 +13920,7 @@
     "pinyin": "qín láo",
     "meaning": "hardworking; industrious; diligent",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, adverb + adjective, adjective + noun",
+    "partOfSpeech": "adjective / noun",
     "frequency": 15777,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13931,7 +13931,7 @@
     "pinyin": "zhōng xún",
     "meaning": "middle third of a month",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 15789,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13964,7 +13964,7 @@
     "pinyin": "cì yào",
     "meaning": "secondary",
     "hskLevel": 5,
-    "partOfSpeech": "distinguishing word",
+    "partOfSpeech": "adjective",
     "frequency": 16951,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -13997,7 +13997,7 @@
     "pinyin": "xiào shùn",
     "meaning": "filial; dutiful; devoted to one's parents (and grandparents etc)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, adjective, adjective + noun",
+    "partOfSpeech": "verb / adjective",
     "frequency": 17571,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -14028,9 +14028,9 @@
     "id": "hsk5-1276",
     "simplified": "结账",
     "pinyin": "jié zhàng",
-    "meaning": "to pay the bill; to settle accounts; also written 结帐",
+    "meaning": "to pay the bill; to settle accounts",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb",
     "frequency": 18659,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -14052,7 +14052,7 @@
     "pinyin": "huī xīn",
     "meaning": "to lose heart; to be discouraged",
     "hskLevel": 5,
-    "partOfSpeech": "adjective, verb",
+    "partOfSpeech": "adjective / verb",
     "frequency": 20767,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -14063,7 +14063,7 @@
     "pinyin": "guǎi wān",
     "meaning": "to go round a curve; to turn a corner; fig. a new direction",
     "hskLevel": 5,
-    "partOfSpeech": "verb, noun, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 21000,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -14184,7 +14184,7 @@
     "pinyin": "Lǐ bài tiān",
     "meaning": "Sunday",
     "hskLevel": 5,
-    "partOfSpeech": "time word",
+    "partOfSpeech": "noun",
     "frequency": 31517,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -14228,7 +14228,7 @@
     "pinyin": "zhàn xiàn",
     "meaning": "busy (telephone line)",
     "hskLevel": 5,
-    "partOfSpeech": "verb, verb + noun",
+    "partOfSpeech": "verb / noun",
     "frequency": 38012,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"
@@ -14237,7 +14237,7 @@
     "id": "hsk5-1295",
     "simplified": "干活儿",
     "pinyin": "gàn huó r",
-    "meaning": "erhua variant of 干活; (coll.) to work; (coll.) to be employed",
+    "meaning": "to work; to do manual labor",
     "hskLevel": 5,
     "partOfSpeech": "verb",
     "frequency": 41800,
@@ -14259,9 +14259,9 @@
     "id": "hsk5-1297",
     "simplified": "使劲儿",
     "pinyin": "shǐ jìn r",
-    "meaning": "erhua variant of 使劲; to exert all one's strength",
+    "meaning": "to exert effort; to use all one's strength",
     "hskLevel": 5,
-    "partOfSpeech": "",
+    "partOfSpeech": "verb",
     "frequency": 1000000,
     "unitIndex": 19,
     "unitName": "Grammar & Function Words"

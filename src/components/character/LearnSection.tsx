@@ -21,15 +21,29 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
   const [selectedUnit, setSelectedUnit] = useState(0);
   const [revealedCard, setRevealedCard] = useState<string | null>(null);
   const [isSticky, setIsSticky] = useState(false);
+  const [isOpen, setIsOpen] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const sentinelRef = useRef<HTMLDivElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
+  const menuRef = useRef<HTMLDivElement>(null);
 
   // Reset selection when unit groups change
   useEffect(() => {
     setSelectedUnit(0);
     setRevealedCard(null);
   }, [unitGroups]);
+
+  // Close dropdown when clicking outside
+  useEffect(() => {
+    if (!isOpen) return;
+    const handleClick = (e: MouseEvent) => {
+      if (menuRef.current && !menuRef.current.contains(e.target as Node)) {
+        setIsOpen(false);
+      }
+    };
+    document.addEventListener("mousedown", handleClick);
+    return () => document.removeEventListener("mousedown", handleClick);
+  }, [isOpen]);
 
   const toggleReveal = useCallback((id: string) => {
     setRevealedCard((prev) => (prev === id ? null : id));
@@ -39,9 +53,11 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
   const currentNameZh = currentGroup
     ? (getUnitNameZh(level, currentGroup.unitIndex) ?? currentGroup.name)
     : "";
+  const currentPinyin = currentGroup
+    ? (getUnitNamePinyin(level, currentGroup.unitIndex) ?? "")
+    : "";
 
-  // IntersectionObserver: when the sentinel (original dropdown position) scrolls out of view,
-  // make the dropdown sticky. When it scrolls back into view, remove sticky.
+  // IntersectionObserver: when the sentinel scrolls out of view, make the dropdown sticky.
   useEffect(() => {
     if (!sentinelRef.current) return;
 
@@ -50,7 +66,6 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
         setIsSticky(!entry.isIntersecting);
       },
       {
-        // Observe relative to the scrollable main container
         threshold: 0,
         rootMargin: "0px",
       }
@@ -68,32 +83,68 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
     );
   }
 
+  const handleSelect = (i: number) => {
+    setSelectedUnit(i);
+    setRevealedCard(null);
+    setIsOpen(false);
+    sentinelRef.current?.scrollIntoView({ behavior: "smooth" });
+  };
+
   const dropdown = (
-    <select
-      value={selectedUnit}
-      onChange={(e) => {
-        setSelectedUnit(Number(e.target.value));
-        setRevealedCard(null);
-        // Scroll back to top of word list
-        sentinelRef.current?.scrollIntoView({ behavior: "smooth" });
-      }}
-      className="w-full bg-muted text-foreground border border-border rounded-lg px-4 font-medium appearance-none cursor-pointer text-left"
-      style={{
-        backgroundImage: "none",
-        height: "3.2rem",
-        fontSize: "0.95rem",
-      }}
-    >
-      {unitGroups.map((group, i) => {
-        const nameZh = getUnitNameZh(level, group.unitIndex) ?? group.name;
-        const pinyin = getUnitNamePinyin(level, group.unitIndex) ?? "";
-        return (
-          <option key={group.name} value={i} className="bg-card text-foreground">
-            {nameZh} {pinyin} — {group.name} ({group.words.length})
-          </option>
-        );
-      })}
-    </select>
+    <div ref={menuRef} className="relative">
+      {/* Trigger button */}
+      <button
+        onClick={() => setIsOpen((o) => !o)}
+        className="w-full bg-muted text-foreground border border-border rounded-lg px-4 font-medium cursor-pointer text-left flex items-center justify-between"
+        style={{ minHeight: "3.2rem", fontSize: "0.95rem" }}
+      >
+        <div className="flex-1 min-w-0 py-2">
+          <div className="truncate">
+            {currentNameZh} {currentPinyin} ({currentGroup?.words.length ?? 0})
+          </div>
+          <div className="text-xs text-muted-foreground truncate">
+            {currentGroup?.name ?? ""}
+          </div>
+        </div>
+        <span
+          className="text-muted-foreground text-lg shrink-0 ml-2 transition-transform duration-200"
+          style={{ transform: isOpen ? "rotate(180deg)" : "rotate(0deg)" }}
+        >
+          ▾
+        </span>
+      </button>
+
+      {/* Dropdown menu */}
+      {isOpen && (
+        <div
+          className="absolute left-0 right-0 z-50 mt-1 bg-card border border-border rounded-lg shadow-lg max-h-[60vh] overflow-y-auto"
+        >
+          {unitGroups.map((group, i) => {
+            const nameZh = getUnitNameZh(level, group.unitIndex) ?? group.name;
+            const pinyin = getUnitNamePinyin(level, group.unitIndex) ?? "";
+            const isSelected = i === selectedUnit;
+            return (
+              <button
+                key={group.name}
+                onClick={() => handleSelect(i)}
+                className={`w-full text-left px-4 py-2.5 transition-colors ${
+                  isSelected
+                    ? "bg-primary/20 text-foreground"
+                    : "text-foreground hover:bg-muted"
+                } ${i === 0 ? "rounded-t-lg" : ""} ${i === unitGroups.length - 1 ? "rounded-b-lg" : ""}`}
+              >
+                <div className="text-sm font-medium">
+                  {nameZh} {pinyin} ({group.words.length})
+                </div>
+                <div className="text-xs text-muted-foreground">
+                  {group.name}
+                </div>
+              </button>
+            );
+          })}
+        </div>
+      )}
+    </div>
   );
 
   return (

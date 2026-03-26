@@ -99,7 +99,7 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
   // So header pinyin needs: pl-[128px] to align with body right column
 
   return (
-    <div ref={cardRef} className={`bg-card rounded-lg select-none ${revealed ? "border border-white" : "border border-border"}`}>
+    <div ref={cardRef} className={`bg-card rounded-lg select-none scroll-mt-20 ${revealed ? "border border-white" : "border border-border"}`}>
       {/* Clickable header row */}
       <div
         className="flex items-center p-4 cursor-pointer"
