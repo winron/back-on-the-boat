@@ -80,26 +80,24 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
       return;
     }
 
-    // Open the card first, then scroll to it after the expand animation settles.
+    // Open the card, then scroll only if needed after the expand animation settles.
     const openThenScroll = (targetId: string) => {
       setRevealedCard(targetId);
       const t = setTimeout(() => requestAnimationFrame(() => {
         const cardEl = document.querySelector(`[data-card-id="${targetId}"]`);
-        const main = document.querySelector("main");
-        if (cardEl && main && dropdownRef.current) {
+        if (cardEl && dropdownRef.current) {
           const dropdownHeight = dropdownRef.current.getBoundingClientRect().height;
-          const delta = cardEl.getBoundingClientRect().top - dropdownHeight - 16;
-          main.scrollBy({ top: delta, behavior: "smooth" });
+          (cardEl as HTMLElement).style.scrollMarginTop = `${dropdownHeight + 16}px`;
+          cardEl.scrollIntoView({ behavior: "smooth", block: "nearest" });
         }
       }), 120);
       pendingTimers.current.push(t);
     };
 
     if (revealedCard !== null) {
-      // Close current card, wait for collapse, then open + scroll
+      // Collapse A and expand B simultaneously; scroll after B's animation settles
       setRevealedCard(null);
-      const t = setTimeout(() => requestAnimationFrame(() => openThenScroll(id)), 100);
-      pendingTimers.current.push(t);
+      openThenScroll(id);
     } else {
       openThenScroll(id);
     }
