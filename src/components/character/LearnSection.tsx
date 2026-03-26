@@ -80,27 +80,28 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
       return;
     }
 
-    // Always use the in-flow dropdown height as offset — it's always in the DOM
-    // (just invisible when sticky), so its height is correct in both states.
-    const scrollAndOpen = () => {
-      const cardEl = document.querySelector(`[data-card-id="${id}"]`);
-      const main = document.querySelector("main");
-      if (cardEl && main && dropdownRef.current) {
-        const dropdownHeight = dropdownRef.current.getBoundingClientRect().height;
-        const delta = cardEl.getBoundingClientRect().top - dropdownHeight - 8;
-        main.scrollBy({ top: delta, behavior: "smooth" });
-      }
-      const t = setTimeout(() => setRevealedCard(id), 350);
+    // Open the card first, then scroll to it after the expand animation settles.
+    const openThenScroll = (targetId: string) => {
+      setRevealedCard(targetId);
+      const t = setTimeout(() => requestAnimationFrame(() => {
+        const cardEl = document.querySelector(`[data-card-id="${targetId}"]`);
+        const main = document.querySelector("main");
+        if (cardEl && main && dropdownRef.current) {
+          const dropdownHeight = dropdownRef.current.getBoundingClientRect().height;
+          const delta = cardEl.getBoundingClientRect().top - dropdownHeight - 16;
+          main.scrollBy({ top: delta, behavior: "smooth" });
+        }
+      }), 120);
       pendingTimers.current.push(t);
     };
 
     if (revealedCard !== null) {
-      // Close current card, wait for its collapse animation, then scroll + open
+      // Close current card, wait for collapse, then open + scroll
       setRevealedCard(null);
-      const t = setTimeout(scrollAndOpen, 120);
+      const t = setTimeout(() => requestAnimationFrame(() => openThenScroll(id)), 100);
       pendingTimers.current.push(t);
     } else {
-      scrollAndOpen();
+      openThenScroll(id);
     }
   }, [revealedCard]);
 
