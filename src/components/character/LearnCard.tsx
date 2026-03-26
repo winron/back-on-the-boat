@@ -69,12 +69,14 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
   const currentChar = chars[charIndex] ?? chars[0];
   const isMultiChar = chars.length > 1;
 
-  // Scroll card into view when revealed
+  // Scroll card into view when revealed — use "start" so the full expanded card is visible
   useEffect(() => {
     if (revealed && cardRef.current) {
-      // Small delay to let the DOM expand first
+      // Double rAF to let the DOM fully expand before scrolling
       requestAnimationFrame(() => {
-        cardRef.current?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+        requestAnimationFrame(() => {
+          cardRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+        });
       });
     }
   }, [revealed]);
