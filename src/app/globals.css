@@ -63,6 +63,7 @@ body {
 }
 
 .flip-card-inner {
+  display: grid;
   transition: transform 0.5s;
   transform-style: preserve-3d;
 }
@@ -73,7 +74,9 @@ body {
 
 .flip-card-front,
 .flip-card-back {
+  grid-area: 1 / 1;
   backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
 }
 
 .flip-card-back {

@@ -95,7 +95,6 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
     setSelectedUnit(i);
     setRevealedCard(null);
     setIsOpen(false);
-    sentinelRef.current?.scrollIntoView({ behavior: "smooth" });
   };
 
   const dropdown = (
@@ -116,12 +115,6 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
             </div>
           )}
         </div>
-        <span
-          className="text-muted-foreground text-lg shrink-0 ml-2 transition-transform duration-200"
-          style={{ transform: isOpen ? "rotate(180deg)" : "rotate(0deg)" }}
-        >
-          ▾
-        </span>
       </button>
 
       {/* Dropdown menu */}
