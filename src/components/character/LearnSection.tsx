@@ -87,7 +87,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
       const main = document.querySelector("main");
       if (cardEl && main && dropdownRef.current) {
         const dropdownHeight = dropdownRef.current.getBoundingClientRect().height;
-        const delta = cardEl.getBoundingClientRect().top - dropdownHeight - 8;
+        const delta = cardEl.getBoundingClientRect().top - dropdownHeight - 16;
         main.scrollBy({ top: delta, behavior: "smooth" });
       }
       const t = setTimeout(() => setRevealedCard(id), 350);
@@ -95,9 +95,9 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
     };
 
     if (revealedCard !== null) {
-      // Close current card, wait for its collapse animation, then scroll + open
+      // Close current card, wait for collapse animation + one paint, then scroll + open
       setRevealedCard(null);
-      const t = setTimeout(scrollAndOpen, 120);
+      const t = setTimeout(() => requestAnimationFrame(scrollAndOpen), 100);
       pendingTimers.current.push(t);
     } else {
       scrollAndOpen();
