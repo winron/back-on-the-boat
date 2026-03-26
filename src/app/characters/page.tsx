@@ -1,15 +1,14 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { useReview, createNewSrsCard } from "@/hooks/useReview";
 import { loadVocabulary } from "@/lib/data-loader";
-import { getUnitNameZh } from "@/lib/unit-names";
 import { db } from "@/lib/db";
 import { useTTS } from "@/hooks/useTTS";
 import ReviewCard from "@/components/character/ReviewCard";
-import LearnCard from "@/components/character/LearnCard";
+import LearnSection from "@/components/character/LearnSection";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import type { HskWord } from "@/types";
@@ -62,8 +61,6 @@ export default function CharactersPage() {
   const { unlockedLevel } = useUnlockedLevel();
   const [mode, setMode] = useState<Mode>("review");
   const [words, setWords] = useState<HskWord[]>([]);
-  const [expandedUnits, setExpandedUnits] = useState<Set<string>>(new Set());
-  const [revealedCard, setRevealedCard] = useState<string | null>(null);
   const review = useReview("characters");
 
   useTTS();
@@ -75,11 +72,6 @@ export default function CharactersPage() {
     loadVocabulary(level)
       .then(async (vocab) => {
         setWords(vocab);
-
-        // Default: expand only the first unit
-        if (vocab.length > 0) {
-          setExpandedUnits(new Set([vocab[0].unitName]));
-        }
 
         // Seed SRS cards for words that don't exist yet
         const existingIds = new Set(
@@ -121,21 +113,6 @@ export default function CharactersPage() {
     return acc;
   }, []);
 
-  function toggleUnit(name: string) {
-    setExpandedUnits((prev) => {
-      const next = new Set(prev);
-      if (next.has(name)) {
-        next.delete(name);
-      } else {
-        next.add(name);
-      }
-      return next;
-    });
-  }
-
-  const toggleReveal = useCallback((id: string) => {
-    setRevealedCard((prev) => (prev === id ? null : id));
-  }, []);
 
   return (
     <div className="tab-color-2 space-y-6">
@@ -205,52 +182,7 @@ export default function CharactersPage() {
       )}
 
       {mode === "learn" && (
-        <div className="space-y-1">
-          {unitGroups.map((group) => {
-            const nameZh = getUnitNameZh(level, group.unitIndex) ?? group.name;
-            const isExpanded = expandedUnits.has(group.name);
-            return (
-              <div key={group.name}>
-                {/* Accordion header */}
-                <button
-                  onClick={() => toggleUnit(group.name)}
-                  className="w-full flex items-center justify-between px-3 py-2.5 mt-2 rounded-lg bg-muted hover:bg-muted/80 transition-colors"
-                >
-                  <span className="flex items-center gap-2">
-                    <span className="text-base font-semibold">{nameZh}</span>
-                    <span className="text-xs text-muted-foreground">{group.name}</span>
-                  </span>
-                  <span className="flex items-center gap-2 text-muted-foreground">
-                    <span className="text-xs">{group.words.length}</span>
-                    <span className="text-sm transition-transform duration-200" style={{ transform: isExpanded ? "rotate(180deg)" : "rotate(0deg)" }}>
-                      ▾
-                    </span>
-                  </span>
-                </button>
-
-                {/* Word list — shown when expanded */}
-                {isExpanded && (
-                  <div className="mt-1 space-y-1">
-                    {group.words.map((word) => (
-                      <LearnCard
-                        key={word.id}
-                        word={word}
-                        revealed={revealedCard === word.id}
-                        onToggle={() => toggleReveal(word.id)}
-                        expandPos={expandPos}
-                      />
-                    ))}
-                  </div>
-                )}
-              </div>
-            );
-          })}
-          {words.length === 0 && (
-            <p className="text-center text-muted-foreground py-8">
-              暂时没有词汇
-            </p>
-          )}
-        </div>
+        <LearnSection unitGroups={unitGroups} level={level} expandPos={expandPos} />
       )}
     </div>
   );

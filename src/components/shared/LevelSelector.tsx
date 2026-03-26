@@ -23,7 +23,7 @@ export default function LevelSelector({
         if (val <= unlockedLevel) onSelect(val);
       }}
       className="bg-muted text-foreground border border-border rounded-lg px-3 py-2 text-sm font-medium appearance-none cursor-pointer min-w-[5.5rem] text-center"
-      style={{ backgroundImage: "none" }}
+      style={{ backgroundImage: "none", textAlignLast: "center" }}
     >
       {levels.map((level) => (
         <option
