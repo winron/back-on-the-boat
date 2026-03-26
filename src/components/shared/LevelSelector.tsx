@@ -1,5 +1,6 @@
 "use client";
 
+import { useState, useEffect, useRef } from "react";
 import type { HskLevel } from "@/types";
 
 interface LevelSelectorProps {
@@ -15,26 +16,63 @@ export default function LevelSelector({
   onSelect,
   unlockedLevel = 6,
 }: LevelSelectorProps) {
+  const [isOpen, setIsOpen] = useState(false);
+  const menuRef = useRef<HTMLDivElement>(null);
+
+  // Close dropdown when clicking outside
+  useEffect(() => {
+    if (!isOpen) return;
+    const handleClick = (e: MouseEvent) => {
+      if (menuRef.current && !menuRef.current.contains(e.target as Node)) {
+        setIsOpen(false);
+      }
+    };
+    document.addEventListener("mousedown", handleClick);
+    return () => document.removeEventListener("mousedown", handleClick);
+  }, [isOpen]);
+
   return (
-    <select
-      value={currentLevel}
-      onChange={(e) => {
-        const val = Number(e.target.value) as HskLevel;
-        if (val <= unlockedLevel) onSelect(val);
-      }}
-      className="bg-muted text-foreground border border-border rounded-lg px-3 py-2 text-sm font-medium appearance-none cursor-pointer min-w-[5.5rem] text-center"
-      style={{ backgroundImage: "none", textAlignLast: "center" }}
-    >
-      {levels.map((level) => (
-        <option
-          key={level}
-          value={level}
-          disabled={level > unlockedLevel}
-          className="bg-card text-foreground"
+    <div ref={menuRef} className="relative">
+      <button
+        onClick={() => setIsOpen((o) => !o)}
+        className="bg-muted text-foreground border border-border rounded-lg px-3 py-2 text-sm font-medium cursor-pointer min-w-[5.5rem] text-center flex items-center justify-center gap-1"
+      >
+        HSK {currentLevel}
+        <span
+          className="text-muted-foreground text-xs transition-transform duration-200"
+          style={{ transform: isOpen ? "rotate(180deg)" : "rotate(0deg)" }}
         >
-          HSK {level}{level > unlockedLevel ? " --" : ""}
-        </option>
-      ))}
-    </select>
+          ▾
+        </span>
+      </button>
+
+      {isOpen && (
+        <div className="absolute right-0 z-50 mt-1 bg-card border border-border rounded-lg shadow-lg min-w-[5.5rem] overflow-hidden">
+          {levels.map((level) => {
+            const locked = level > unlockedLevel;
+            const isSelected = level === currentLevel;
+            return (
+              <button
+                key={level}
+                disabled={locked}
+                onClick={() => {
+                  onSelect(level);
+                  setIsOpen(false);
+                }}
+                className={`w-full text-center px-3 py-2 text-sm font-medium transition-colors ${
+                  locked
+                    ? "text-muted-foreground opacity-40 cursor-not-allowed"
+                    : isSelected
+                      ? "bg-primary/20 text-foreground"
+                      : "text-foreground hover:bg-muted"
+                } ${level === 1 ? "rounded-t-lg" : ""} ${level === 6 ? "rounded-b-lg" : ""}`}
+              >
+                HSK {level}{locked ? " --" : ""}
+              </button>
+            );
+          })}
+        </div>
+      )}
+    </div>
   );
 }

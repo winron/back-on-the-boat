@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef, useEffect } from "react";
 import { getUnitNameZh, getUnitNamePinyin } from "@/lib/unit-names";
+import { useDisplaySettings } from "@/hooks/useDisplaySettings";
 import LearnCard from "@/components/character/LearnCard";
 import type { HskWord, HskLevel } from "@/types";
 
@@ -18,6 +19,7 @@ interface LearnSectionProps {
 }
 
 export default function LearnSection({ unitGroups, level, expandPos }: LearnSectionProps) {
+  const { showPinyin, showEnglish } = useDisplaySettings();
   const [selectedUnit, setSelectedUnit] = useState(0);
   const [revealedCard, setRevealedCard] = useState<string | null>(null);
   const [isSticky, setIsSticky] = useState(false);
@@ -100,11 +102,13 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
       >
         <div className="flex-1 min-w-0 py-2">
           <div className="truncate">
-            {currentNameZh} {currentPinyin} ({currentGroup?.words.length ?? 0})
+            {currentNameZh}{showPinyin ? ` ${currentPinyin}` : ""} ({currentGroup?.words.length ?? 0})
           </div>
-          <div className="text-xs text-muted-foreground truncate">
-            {currentGroup?.name ?? ""}
-          </div>
+          {showEnglish && (
+            <div className="text-xs text-muted-foreground truncate">
+              {currentGroup?.name ?? ""}
+            </div>
+          )}
         </div>
         <span
           className="text-muted-foreground text-lg shrink-0 ml-2 transition-transform duration-200"
@@ -134,11 +138,13 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
                 } ${i === 0 ? "rounded-t-lg" : ""} ${i === unitGroups.length - 1 ? "rounded-b-lg" : ""}`}
               >
                 <div className="text-sm font-medium">
-                  {nameZh} {pinyin} ({group.words.length})
+                  {nameZh}{showPinyin ? ` ${pinyin}` : ""} ({group.words.length})
                 </div>
-                <div className="text-xs text-muted-foreground">
-                  {group.name}
-                </div>
+                {showEnglish && (
+                  <div className="text-xs text-muted-foreground">
+                    {group.name}
+                  </div>
+                )}
               </button>
             );
           })}
