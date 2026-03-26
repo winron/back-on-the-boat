@@ -222,7 +222,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
 
       {/* Word list for selected theme */}
       {currentGroup && (
-        <div className="mt-2 space-y-3">
+        <div className="mt-2 space-y-3 pb-48">
           {currentGroup.words.map((word) => (
             <div key={word.id} data-card-id={word.id}>
               <LearnCard
