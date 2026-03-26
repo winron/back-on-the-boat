@@ -1,0 +1,81 @@
+{
+  "appWide": [
+    { "chinese": "回到船上", "pinyin": "huí dào chuán shàng", "english": "Back on the Boat", "location": "page.tsx, layout.tsx, manifest.ts" },
+    { "chinese": "当前等级", "pinyin": "dāngqián děngjí", "english": "Current Level", "location": "page.tsx" },
+    { "chinese": "拼音", "pinyin": "pīnyīn", "english": "Pinyin", "location": "page.tsx (toggle)" },
+    { "chinese": "英文", "pinyin": "yīngwén", "english": "English", "location": "page.tsx (toggle)" }
+  ],
+  "bottomNav": [
+    { "chinese": "家", "english": "Home", "location": "BottomNav.tsx" },
+    { "chinese": "字", "english": "Characters", "location": "BottomNav.tsx" },
+    { "chinese": "文", "english": "Grammar", "location": "BottomNav.tsx" },
+    { "chinese": "句", "english": "Sentences", "location": "BottomNav.tsx" },
+    { "chinese": "读", "english": "Reading", "location": "BottomNav.tsx" }
+  ],
+  "charactersPage": [
+    { "chinese": "汉字", "pinyin": "hànzì", "english": "Characters", "location": "characters/page.tsx" },
+    { "chinese": "复习", "pinyin": "fùxí", "english": "Review", "location": "characters/page.tsx" },
+    { "chinese": "学习", "pinyin": "xuéxí", "english": "Learn", "location": "characters/page.tsx" },
+    { "chinese": "浏览", "pinyin": "liúlǎn", "english": "Browse", "location": "characters/page.tsx" },
+    { "chinese": "加载中…", "pinyin": "jiāzài zhōng", "english": "Loading…", "location": "characters/page.tsx" },
+    { "chinese": "全部完成！", "pinyin": "quánbù wánchéng！", "english": "All caught up!", "location": "characters/page.tsx" },
+    { "chinese": "暂无到期卡片，稍后再来。", "pinyin": null, "english": "No due cards, come back later", "location": "characters/page.tsx" },
+    { "chinese": "再次检查", "pinyin": "zàicì jiǎnchá", "english": "Check again", "location": "characters/page.tsx" },
+    { "chinese": "加载卡片…", "pinyin": "jiāzài kǎpiàn", "english": "Loading cards…", "location": "characters/page.tsx" },
+    { "chinese": "上一个", "pinyin": "shàng yī gè", "english": "Previous", "location": "characters/page.tsx" },
+    { "chinese": "下一个", "pinyin": "xià yī gè", "english": "Next", "location": "characters/page.tsx" },
+    { "chinese": "暂无词汇数据。", "pinyin": null, "english": "No vocabulary data", "location": "characters/page.tsx" },
+    { "chinese": "锁定", "pinyin": null, "english": "Locked", "location": "LevelSelector.tsx" }
+  ],
+  "reviewCard": [
+    { "chinese": "再来", "pinyin": "zàilái", "english": "Again", "location": "ReviewCard.tsx" },
+    { "chinese": "难", "pinyin": "nán", "english": "Hard", "location": "ReviewCard.tsx" },
+    { "chinese": "好", "pinyin": "hǎo", "english": "Good", "location": "ReviewCard.tsx" },
+    { "chinese": "容易", "pinyin": "róngyì", "english": "Easy", "location": "ReviewCard.tsx" },
+    { "chinese": "点击显示答案", "pinyin": "diǎnjī xiǎnshì dá'àn", "english": "Tap to show answer", "location": "ReviewCard.tsx" },
+    { "chinese": "点击显示", "pinyin": "diǎnjī xiǎnshì", "english": "Tap to reveal", "location": "CharacterCard.tsx" }
+  ],
+  "strokeOrder": [
+    { "chinese": "动画", "pinyin": "dònghuà", "english": "Animate", "location": "StrokeOrder.tsx" },
+    { "chinese": "练习", "pinyin": "liànxí", "english": "Practice", "location": "StrokeOrder.tsx" }
+  ],
+  "grammarPage": [
+    { "chinese": "语法", "pinyin": "yǔfǎ", "english": "Grammar", "location": "grammar/page.tsx" },
+    { "chinese": "返回列表", "pinyin": "fǎnhuí lièbiǎo", "english": "Back to list", "location": "grammar/page.tsx" },
+    { "chinese": "例句", "pinyin": "lìjù", "english": "Examples", "location": "grammar/page.tsx" },
+    { "chinese": "个语法点", "pinyin": "gè yǔfǎ diǎn", "english": "pattern(s)", "location": "grammar/page.tsx" },
+    { "chinese": "暂无语法数据", "pinyin": "zàn wú yǔfǎ shùjù", "english": "No grammar data yet", "location": "grammar/page.tsx" }
+  ],
+  "readingPage": [
+    { "chinese": "阅读", "pinyin": "yuèdú", "english": "Reading", "location": "reading/page.tsx" },
+    { "chinese": "返回列表", "pinyin": "fǎnhuí lièbiǎo", "english": "Back to list", "location": "reading/page.tsx" },
+    { "chinese": "短文", "pinyin": "duǎn wén", "english": "Short passage", "location": "reading/page.tsx" },
+    { "chinese": "故事", "pinyin": "gùshi", "english": "Mini story", "location": "reading/page.tsx" },
+    { "chinese": "段", "pinyin": "duàn", "english": "paragraph(s)", "location": "reading/page.tsx" },
+    { "chinese": "隐藏拼音", "pinyin": null, "english": "Hide pinyin", "location": "reading/page.tsx" },
+    { "chinese": "显示拼音", "pinyin": null, "english": "Show pinyin", "location": "reading/page.tsx" },
+    { "chinese": "隐藏翻译", "pinyin": null, "english": "Hide translation", "location": "reading/page.tsx" },
+    { "chinese": "显示翻译", "pinyin": null, "english": "Show translation", "location": "reading/page.tsx" },
+    { "chinese": "重点词汇", "pinyin": "zhòngdiǎn cíhuì", "english": "Key Vocabulary", "location": "reading/page.tsx" },
+    { "chinese": "暂无阅读材料", "pinyin": "zàn wú yuèdú cáiliào", "english": "No reading passages yet", "location": "reading/page.tsx" }
+  ],
+  "sentencesPage": [
+    { "chinese": "造句", "pinyin": "zàojù", "english": "Sentences", "location": "sentences/page.tsx" },
+    { "chinese": "翻译", "pinyin": "fānyì", "english": "Translate", "location": "sentences/page.tsx" },
+    { "chinese": "点击下方词语组句", "pinyin": "diǎnjī xiàfāng cíyǔ zǔjù", "english": "Tap words to build the sentence", "location": "sentences/page.tsx" },
+    { "chinese": "正确！", "pinyin": "zhèngquè！", "english": "Correct!", "location": "sentences/page.tsx" },
+    { "chinese": "差一点", "pinyin": "chà yīdiǎn", "english": "Not quite", "location": "sentences/page.tsx" },
+    { "chinese": "检查", "pinyin": "jiǎnchá", "english": "Check", "location": "sentences/page.tsx" },
+    { "chinese": "下一题", "pinyin": "xià yī tí", "english": "Next", "location": "sentences/page.tsx" },
+    { "chinese": "暂无练习题", "pinyin": "zàn wú liànxí tí", "english": "No exercises yet", "location": "sentences/page.tsx" }
+  ],
+  "dialoguePage": [
+    { "chinese": "对话", "pinyin": "duìhuà", "english": "Dialogue", "location": "dialogue/page.tsx" },
+    { "chinese": "返回列表", "pinyin": "fǎnhuí lièbiǎo", "english": "Back to list", "location": "dialogue/page.tsx" },
+    { "chinese": "下一句", "pinyin": "xià yī jù", "english": "Next line", "location": "dialogue/page.tsx" },
+    { "chinese": "隐藏翻译", "pinyin": null, "english": "Hide translations", "location": "dialogue/page.tsx" },
+    { "chinese": "显示翻译", "pinyin": null, "english": "Show translations", "location": "dialogue/page.tsx" },
+    { "chinese": "句", "pinyin": "jù", "english": "lines", "location": "dialogue/page.tsx" },
+    { "chinese": "暂无对话数据", "pinyin": "zàn wú duìhuà shùjù", "english": "No dialogue data yet", "location": "dialogue/page.tsx" }
+  ]
+}

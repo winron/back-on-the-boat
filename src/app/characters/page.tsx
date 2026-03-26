@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { useReview, createNewSrsCard } from "@/hooks/useReview";
@@ -30,6 +30,7 @@ export default function CharactersPage() {
   const [words, setWords] = useState<HskWord[]>([]);
   const [browseIndex, setBrowseIndex] = useState(0);
   const [expandedUnits, setExpandedUnits] = useState<Set<string>>(new Set());
+  const [revealedCards, setRevealedCards] = useState<Set<string>>(new Set());
   const review = useReview("characters");
 
   useTTS();
@@ -102,6 +103,18 @@ export default function CharactersPage() {
       return next;
     });
   }
+
+  const toggleReveal = useCallback((id: string) => {
+    setRevealedCards((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) {
+        next.delete(id);
+      } else {
+        next.add(id);
+      }
+      return next;
+    });
+  }, []);
 
   // Chinese name for the current learn-mode word's unit
   const learnUnitNameZh = browseWord
@@ -237,20 +250,33 @@ export default function CharactersPage() {
                 {/* Word list — shown when expanded */}
                 {isExpanded && (
                   <div className="mt-1 space-y-1">
-                    {group.words.map((word) => (
-                      <div
-                        key={word.id}
-                        className="bg-card rounded-lg p-4 border border-border flex items-center gap-4"
-                      >
-                        <span className="text-3xl w-12 text-center">
-                          {word.simplified}
-                        </span>
-                        <div className="flex-1 min-w-0">
-                          <p className="text-sm font-medium">{word.pinyin}</p>
-                          <p className="text-sm text-foreground">{word.meaning}</p>
+                    {group.words.map((word) => {
+                      const revealed = revealedCards.has(word.id);
+                      return (
+                        <div
+                          key={word.id}
+                          className="bg-card rounded-lg p-4 border border-border flex items-center gap-4 cursor-pointer select-none"
+                          onClick={() => toggleReveal(word.id)}
+                        >
+                          <span className="text-3xl w-12 text-center shrink-0">
+                            {word.simplified}
+                          </span>
+                          <div className="flex-1 min-w-0">
+                            {revealed ? (
+                              <>
+                                <p className="text-sm font-medium">{word.pinyin}</p>
+                                {word.partOfSpeech && (
+                                  <p className="text-xs text-muted-foreground">{word.partOfSpeech}</p>
+                                )}
+                                <p className="text-sm text-foreground">{word.meaning}</p>
+                              </>
+                            ) : (
+                              <p className="text-sm text-muted-foreground italic">Tap to reveal</p>
+                            )}
+                          </div>
                         </div>
-                      </div>
-                    ))}
+                      );
+                    })}
                   </div>
                 )}
               </div>
