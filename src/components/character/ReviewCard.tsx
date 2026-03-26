@@ -1,6 +1,5 @@
 "use client";
 
-import { useState, useEffect } from "react";
 import { Rating } from "ts-fsrs";
 import type { Grade } from "ts-fsrs";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
@@ -28,14 +27,6 @@ export default function ReviewCard({
   onFlip,
   onRate,
 }: ReviewCardProps) {
-  // Delay buttons until flip animation completes (500ms)
-  const [showButtons, setShowButtons] = useState(false);
-  useEffect(() => {
-    if (!isFlipped) { setShowButtons(false); return; }
-    const t = setTimeout(() => setShowButtons(true), 520);
-    return () => clearTimeout(t);
-  }, [isFlipped]);
-
   return (
     <div className="space-y-4">
       <div
@@ -86,7 +77,7 @@ export default function ReviewCard({
         </div>
       </div>
 
-      {showButtons && (
+      {isFlipped && (
         <div className="grid grid-cols-4 gap-2 mt-6">
           {ratingButtons.map((btn) => (
             <button

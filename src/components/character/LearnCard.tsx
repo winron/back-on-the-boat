@@ -76,7 +76,7 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
     if (revealed) {
       setIsCollapsing(false);
       // Scroll the collapsed card into view first, then expand
-      cardRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+      cardRef.current?.scrollIntoView({ behavior: "smooth", block: "nearest" });
       const t = setTimeout(() => setShowBody(true), 350);
       return () => clearTimeout(t);
     } else if (showBody) {
