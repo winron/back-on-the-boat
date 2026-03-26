@@ -51,7 +51,7 @@ const posMap: Record<string, string> = {
 
 function expandPos(pos: string): string {
   return pos
-    .split(/,\s*/)
+    .split(/[,/]\s*|\s+\/\s+/)
     .map((abbr) => posMap[abbr.trim()] || abbr.trim())
     .join(", ");
 }

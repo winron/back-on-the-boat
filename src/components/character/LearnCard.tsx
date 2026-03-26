@@ -48,6 +48,7 @@ const posColorMap: Record<string, string> = {
   "distinguishing word": "bg-zinc-500/20 text-zinc-400",
   morpheme: "bg-zinc-500/20 text-zinc-400",
   suffix: "bg-zinc-500/20 text-zinc-400",
+  phrase: "bg-indigo-500/20 text-indigo-400",
 };
 
 const defaultPosColor = "bg-zinc-500/20 text-zinc-400";
@@ -65,9 +66,24 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
   const [mode, setMode] = useState<"animate" | "quiz">("animate");
   const strokeRef = useRef<StrokeOrderHandle>(null);
   const cardRef = useRef<HTMLDivElement>(null);
+  const [showBody, setShowBody] = useState(revealed);
+  const [isCollapsing, setIsCollapsing] = useState(false);
 
   const currentChar = chars[charIndex] ?? chars[0];
   const isMultiChar = chars.length > 1;
+
+  useEffect(() => {
+    if (revealed) {
+      setShowBody(true);
+      setIsCollapsing(false);
+    } else if (showBody) {
+      setIsCollapsing(true);
+      setTimeout(() => {
+        setShowBody(false);
+        setIsCollapsing(false);
+      }, 100);
+    }
+  }, [revealed]);
 
   // Scroll card into view when revealed — use "start" so the full expanded card is visible
   useEffect(() => {
@@ -129,8 +145,8 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
       </div>
 
       {/* Expanded: split layout */}
-      {revealed && (
-        <div className="mx-4 mb-4 p-4">
+      {showBody && (
+        <div className={`mx-4 mb-4 p-4 ${isCollapsing ? "dropdown-close" : "dropdown-open"}`}>
           <div className="flex gap-4">
             {/* LEFT: audio, animate, practice */}
             <div className="flex flex-col items-center justify-evenly min-w-[80px] gap-3">

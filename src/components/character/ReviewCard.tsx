@@ -35,7 +35,7 @@ export default function ReviewCard({
       >
         <div className={`flip-card-inner${isFlipped ? " flipped" : ""}`}>
           {/* Front face */}
-          <div className="flip-card-front bg-card rounded-lg p-8 border border-border text-center min-h-[280px] flex flex-col items-center justify-center">
+          <div className="flip-card-front bg-card rounded-lg p-8 border border-white text-center min-h-[280px] flex flex-col items-center justify-center">
             <p className="text-7xl font-normal flex-1 flex items-center">{word.simplified}</p>
             <div className="mt-auto pt-4">
               <TrilingualLabel
@@ -48,7 +48,7 @@ export default function ReviewCard({
             </div>
           </div>
           {/* Back face */}
-          <div className="flip-card-back bg-card rounded-lg p-8 border border-border text-center min-h-[280px] flex flex-col items-center justify-center">
+          <div className="flip-card-back bg-card rounded-lg p-8 border border-white text-center min-h-[280px] flex flex-col items-center justify-center">
             <p className="text-7xl font-normal mb-4">{word.simplified}</p>
             <div className="space-y-3">
               <PinyinDisplay pinyin={word.pinyin} className="text-xl" />
@@ -78,7 +78,7 @@ export default function ReviewCard({
       </div>
 
       {isFlipped && (
-        <div className="grid grid-cols-4 gap-2">
+        <div className="grid grid-cols-4 gap-2 mt-4">
           {ratingButtons.map((btn) => (
             <button
               key={btn.english}
