@@ -81,9 +81,9 @@ export default function ReadingPage() {
             className="text-sm text-primary flex items-center gap-1"
           >
             <TrilingualLabel
-              chinese="返回列表"
-              pinyin="fǎnhuí lièbiǎo"
-              english="Back to list"
+              chinese="返回"
+              pinyin="fǎnhuí"
+              english="Back"
               size="xs"
             />
           </button>
@@ -226,7 +226,7 @@ export default function ReadingPage() {
             ))}
             {filtered.length === 0 && (
               <p className="text-center text-muted-foreground py-8">
-                <TrilingualLabel chinese="暂无阅读材料" pinyin="zàn wú yuèdú cáiliào" english="No reading passages yet" size="sm" />
+                <TrilingualLabel chinese="还没有阅读内容" pinyin="hái méiyǒu yuèdú nèiróng" english="No reading content yet" size="sm" />
               </p>
             )}
           </div>

@@ -76,7 +76,7 @@ export default function SentencesPage() {
           <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
         </div>
         <p className="text-center text-muted-foreground py-8">
-          <TrilingualLabel chinese="暂无练习题" pinyin="zàn wú liànxí tí" english="No exercises yet" size="sm" />
+          <TrilingualLabel chinese="还没有练习题" pinyin="hái méiyǒu liànxí tí" english="No exercises yet" size="sm" />
         </p>
       </div>
     );
@@ -105,7 +105,7 @@ export default function SentencesPage() {
       <div className="min-h-[60px] bg-muted rounded-lg p-3 flex flex-wrap gap-2">
         {selected.length === 0 && (
           <p className="text-sm text-muted-foreground">
-            <TrilingualLabel chinese="点击下方词语组句" pinyin="diǎnjī xiàfāng cíyǔ zǔjù" english="Tap words to build the sentence" size="xs" />
+            <TrilingualLabel chinese="点词造句" pinyin="diǎn cí zàojù" english="Tap words to build a sentence" size="xs" />
           </p>
         )}
         {selected.map((word, i) => (
@@ -145,7 +145,7 @@ export default function SentencesPage() {
             {result === "correct" ? (
               <TrilingualLabel chinese="正确！" pinyin="zhèngquè！" english="Correct!" size="sm" />
             ) : (
-              <TrilingualLabel chinese="差一点" pinyin="chà yīdiǎn" english="Not quite" size="sm" />
+              <TrilingualLabel chinese="再试试" pinyin="zài shìshi" english="Try again" size="sm" />
             )}
           </p>
           {result === "incorrect" && (
@@ -171,7 +171,7 @@ export default function SentencesPage() {
             disabled={selected.length === 0}
             className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium disabled:opacity-30"
           >
-            <TrilingualLabel chinese="检查" pinyin="jiǎnchá" english="Check" size="xs" />
+            <TrilingualLabel chinese="确认" pinyin="quèrèn" english="Confirm" size="xs" />
           </button>
         )}
         {result && currentIndex < exercises.length - 1 && (

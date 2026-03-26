@@ -61,9 +61,9 @@ export default function ReviewCard({
           </div>
         ) : (
           <TrilingualLabel
-            chinese="点击显示答案"
-            pinyin="diǎnjī xiǎnshì dá'àn"
-            english="Tap to reveal answer"
+            chinese="点一下看答案"
+            pinyin="diǎn yīxià kàn dá'àn"
+            english="Tap to see answer"
             size="sm"
           />
         )}

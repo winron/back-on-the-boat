@@ -40,9 +40,9 @@ export default function GrammarPage() {
             className="text-sm text-primary flex items-center gap-1"
           >
             <TrilingualLabel
-              chinese="返回列表"
-              pinyin="fǎnhuí lièbiǎo"
-              english="Back to list"
+              chinese="返回"
+              pinyin="fǎnhuí"
+              english="Back"
               size="xs"
             />
           </button>
@@ -77,7 +77,7 @@ export default function GrammarPage() {
       ) : (
         <div className="space-y-3">
           <p className="text-xs text-muted-foreground">
-            {toChineseNumber(patterns.length)}个语法点
+            {toChineseNumber(patterns.length)}种语法点
           </p>
           {patterns.map((pattern) => (
             <button
@@ -93,7 +93,7 @@ export default function GrammarPage() {
           ))}
           {patterns.length === 0 && (
             <p className="text-center text-muted-foreground py-8">
-              <TrilingualLabel chinese="暂无语法数据" pinyin="zàn wú yǔfǎ shùjù" english="No grammar data yet" size="sm" />
+              <TrilingualLabel chinese="还没有语法内容" pinyin="hái méiyǒu yǔfǎ nèiróng" english="No grammar content yet" size="sm" />
             </p>
           )}
         </div>

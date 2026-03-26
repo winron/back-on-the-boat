@@ -21,19 +21,11 @@ export default function HomePage() {
 			/>
 
 			{/* Current Level */}
-			<div className='text-center space-y-1'>
-				<TrilingualLabel
-					chinese='当前等级'
-					pinyin='dāngqián děngjí'
-					english='Current Level'
-					size='sm'
-				/>
-				<p
-					className='text-5xl font-bold'
-					style={{ color: 'var(--color-tab-1)' }}>
-					HSK {currentProgressLevel}
-				</p>
-			</div>
+			<p
+				className='text-5xl font-bold'
+				style={{ color: 'var(--color-tab-1)' }}>
+				HSK {currentProgressLevel}
+			</p>
 
 			{/* XP Progress Bar */}
 			<div className='w-full max-w-xs'>

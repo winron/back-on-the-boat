@@ -179,18 +179,18 @@ export default function CharactersPage() {
           ) : review.isComplete ? (
             <div className="text-center py-12">
               <p className="text-lg font-medium">
-                <TrilingualLabel chinese="全部完成！" pinyin="quánbù wánchéng！" english="All caught up!" size="sm" />
+                <TrilingualLabel chinese="都复习完了！" pinyin="dōu fùxí wán le！" english="All caught up!" size="sm" />
               </p>
               <p className="text-muted-foreground text-sm mt-1">
                 {review.totalReviewed > 0
                   ? `${review.totalReviewed} cards reviewed (${review.correctCount} correct)`
-                  : "暂无到期卡片，稍后再来。"}
+                  : "没有要复习的了，待会儿再来吧。"}
               </p>
               <button
                 onClick={() => review.loadCards(`hsk${level}-`)}
                 className="mt-4 px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm"
               >
-                <TrilingualLabel chinese="再次检查" pinyin="zàicì jiǎnchá" english="Check again" size="xs" />
+                <TrilingualLabel chinese="再看看" pinyin="zài kànkan" english="Check again" size="xs" />
               </button>
             </div>
           ) : currentWord ? (
@@ -207,7 +207,7 @@ export default function CharactersPage() {
             </div>
           ) : (
             <p className="text-center text-muted-foreground py-8">
-              <TrilingualLabel chinese="加载卡片…" pinyin="jiāzài kǎpiàn" english="Loading cards…" size="sm" />
+              <TrilingualLabel chinese="加载中…" pinyin="jiāzài zhōng" english="Loading…" size="sm" />
             </p>
           )}
         </>
@@ -291,7 +291,7 @@ export default function CharactersPage() {
           })}
           {words.length === 0 && (
             <p className="text-center text-muted-foreground py-8">
-              暂无词汇数据。
+              还没有词汇哦
             </p>
           )}
         </div>

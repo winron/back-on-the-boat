@@ -9,6 +9,7 @@ import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
 import AudioButton from "@/components/shared/AudioButton";
+import { toChineseNumber } from "@/lib/chinese-numbers";
 import type { Dialogue } from "@/types";
 
 export default function DialoguePage() {
@@ -56,9 +57,9 @@ export default function DialoguePage() {
             className="text-sm text-primary flex items-center gap-1"
           >
             <TrilingualLabel
-              chinese="返回列表"
-              pinyin="fǎnhuí lièbiǎo"
-              english="Back to list"
+              chinese="返回"
+              pinyin="fǎnhuí"
+              english="Back"
               size="xs"
             />
           </button>
@@ -134,14 +135,13 @@ export default function DialoguePage() {
                 <p className="text-sm text-muted-foreground">{d.context}</p>
               )}
               <p className="text-xs text-muted-foreground mt-1">
-                {d.lines.length}{" "}
-                <TrilingualLabel chinese="句" pinyin="jù" english="lines" size="xs" />
+                {toChineseNumber(d.lines.length)}句
               </p>
             </button>
           ))}
           {dialogues.length === 0 && (
             <p className="text-center text-muted-foreground py-8">
-              <TrilingualLabel chinese="暂无对话数据" pinyin="zàn wú duìhuà shùjù" english="No dialogue data yet" size="sm" />
+              <TrilingualLabel chinese="还没有对话内容" pinyin="hái méiyǒu duìhuà nèiróng" english="No dialogue content yet" size="sm" />
             </p>
           )}
         </div>
