@@ -239,6 +239,15 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
               />
             </div>
           ))}
+          <div className="py-10 text-center">
+            <TrilingualLabel
+              chinese="到底了"
+              pinyin="dào dǐ le"
+              english="You've reached the end"
+              size="xs"
+              className="opacity-40"
+            />
+          </div>
         </div>
       )}
     </div>
