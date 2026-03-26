@@ -83,6 +83,27 @@ body {
   transform: rotateY(180deg);
 }
 
+/* Dropdown slide animations */
+@keyframes dropdown-open {
+  from { opacity: 0; transform: scaleY(0.85) translateY(-6px); }
+  to   { opacity: 1; transform: scaleY(1)    translateY(0);    }
+}
+
+@keyframes dropdown-close {
+  from { opacity: 1; transform: scaleY(1)    translateY(0);    }
+  to   { opacity: 0; transform: scaleY(0.85) translateY(-6px); }
+}
+
+.dropdown-open {
+  transform-origin: top;
+  animation: dropdown-open 0.12s ease-out forwards;
+}
+
+.dropdown-close {
+  transform-origin: top;
+  animation: dropdown-close 0.1s ease-in forwards;
+}
+
 /* Block landscape orientation — show rotate prompt */
 @media screen and (orientation: landscape) {
   .landscape-block {

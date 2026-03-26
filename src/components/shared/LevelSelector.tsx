@@ -17,17 +17,25 @@ export default function LevelSelector({
   unlockedLevel = 6,
 }: LevelSelectorProps) {
   const [isOpen, setIsOpen] = useState(false);
+  const [isClosing, setIsClosing] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
+
+  const close = () => {
+    setIsClosing(true);
+    setTimeout(() => {
+      setIsOpen(false);
+      setIsClosing(false);
+    }, 100);
+  };
 
   // Close dropdown when clicking outside + lock background scroll
   useEffect(() => {
     if (!isOpen) return;
     const handleClick = (e: MouseEvent) => {
       if (menuRef.current && !menuRef.current.contains(e.target as Node)) {
-        setIsOpen(false);
+        close();
       }
     };
-    // Lock the scrollable main container
     const main = document.querySelector("main");
     if (main) main.style.overflow = "hidden";
     document.addEventListener("mousedown", handleClick);
@@ -40,20 +48,14 @@ export default function LevelSelector({
   return (
     <div ref={menuRef} className="relative">
       <button
-        onClick={() => setIsOpen((o) => !o)}
-        className="bg-muted text-foreground border border-border rounded-lg px-3 py-2 text-sm font-medium cursor-pointer min-w-[5.5rem] text-center flex items-center justify-center gap-1"
+        onClick={() => (isOpen ? close() : setIsOpen(true))}
+        className="bg-muted text-foreground border border-border rounded-lg px-3 py-2 text-sm font-medium cursor-pointer min-w-[5.5rem] text-center"
       >
         HSK {currentLevel}
-        <span
-          className="text-muted-foreground text-xs transition-transform duration-200"
-          style={{ transform: isOpen ? "rotate(180deg)" : "rotate(0deg)" }}
-        >
-          ▾
-        </span>
       </button>
 
       {isOpen && (
-        <div className="absolute right-0 z-50 mt-1 bg-card border border-border rounded-lg shadow-lg min-w-[5.5rem] overflow-hidden">
+        <div className={`absolute right-0 z-50 mt-1 bg-card border border-border rounded-lg shadow-lg min-w-[5.5rem] overflow-hidden ${isClosing ? "dropdown-close" : "dropdown-open"}`}>
           {levels.map((level) => {
             const locked = level > unlockedLevel;
             const isSelected = level === currentLevel;
@@ -63,7 +65,7 @@ export default function LevelSelector({
                 disabled={locked}
                 onClick={() => {
                   onSelect(level);
-                  setIsOpen(false);
+                  close();
                 }}
                 className={`w-full text-center px-3 py-2 text-sm font-medium transition-colors ${
                   locked

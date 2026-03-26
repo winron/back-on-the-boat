@@ -24,6 +24,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
   const [revealedCard, setRevealedCard] = useState<string | null>(null);
   const [isSticky, setIsSticky] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
+  const [isClosing, setIsClosing] = useState(false);
   const dropdownRef = useRef<HTMLDivElement>(null);
   const sentinelRef = useRef<HTMLDivElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
@@ -35,12 +36,20 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
     setRevealedCard(null);
   }, [unitGroups]);
 
+  const closeDropdown = () => {
+    setIsClosing(true);
+    setTimeout(() => {
+      setIsOpen(false);
+      setIsClosing(false);
+    }, 100);
+  };
+
   // Close dropdown when clicking outside + lock background scroll
   useEffect(() => {
     if (!isOpen) return;
     const handleClick = (e: MouseEvent) => {
       if (menuRef.current && !menuRef.current.contains(e.target as Node)) {
-        setIsOpen(false);
+        closeDropdown();
       }
     };
     // Lock the scrollable main container
@@ -94,14 +103,14 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
   const handleSelect = (i: number) => {
     setSelectedUnit(i);
     setRevealedCard(null);
-    setIsOpen(false);
+    closeDropdown();
   };
 
   const dropdown = (
     <div ref={menuRef} className="relative">
       {/* Trigger button */}
       <button
-        onClick={() => setIsOpen((o) => !o)}
+        onClick={() => (isOpen ? closeDropdown() : setIsOpen(true))}
         className="w-full bg-muted text-foreground border border-border rounded-lg px-4 font-medium cursor-pointer text-left flex items-center justify-between"
         style={{ minHeight: "3.2rem", fontSize: "0.95rem" }}
       >
@@ -120,7 +129,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
       {/* Dropdown menu */}
       {isOpen && (
         <div
-          className="absolute left-0 right-0 z-50 mt-1 bg-card border border-border rounded-lg shadow-lg max-h-[60vh] overflow-y-auto overscroll-contain"
+          className={`absolute left-0 right-0 z-50 mt-1 bg-card border border-border rounded-lg shadow-lg max-h-[60vh] overflow-y-auto overscroll-contain ${isClosing ? "dropdown-close" : "dropdown-open"}`}
         >
           {unitGroups.map((group, i) => {
             const nameZh = getUnitNameZh(level, group.unitIndex) ?? group.name;
