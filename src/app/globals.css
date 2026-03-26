@@ -63,6 +63,7 @@ body {
 }
 
 .flip-card-inner {
+  display: grid;
   transition: transform 0.5s;
   transform-style: preserve-3d;
 }
@@ -73,9 +74,32 @@ body {
 
 .flip-card-front,
 .flip-card-back {
+  grid-area: 1 / 1;
   backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
 }
 
 .flip-card-back {
   transform: rotateY(180deg);
+}
+
+/* Block landscape orientation — show rotate prompt */
+@media screen and (orientation: landscape) {
+  .landscape-block {
+    display: flex !important;
+  }
+}
+
+.landscape-block {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: var(--background);
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  text-align: center;
+  padding: 2rem;
 }

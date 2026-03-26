@@ -30,13 +30,27 @@ export default function ReviewCard({
   return (
     <div className="space-y-4">
       <div
-        className="bg-card rounded-lg p-8 border border-border text-center min-h-[280px] flex flex-col items-center justify-center cursor-pointer select-none"
+        className="flip-card cursor-pointer select-none"
         onClick={onFlip}
       >
-        {isFlipped ? (
-          <>
+        <div className={`flip-card-inner${isFlipped ? " flipped" : ""}`}>
+          {/* Front face */}
+          <div className="flip-card-front bg-card rounded-lg p-8 border border-border text-center min-h-[280px] flex flex-col items-center justify-center">
+            <p className="text-7xl font-normal flex-1 flex items-center">{word.simplified}</p>
+            <div className="mt-auto pt-4">
+              <TrilingualLabel
+                chinese="点一下看答案"
+                pinyin="diǎn yīxià kàn dá'àn"
+                english="Tap to see answer"
+                size="xs"
+                className="opacity-50"
+              />
+            </div>
+          </div>
+          {/* Back face */}
+          <div className="flip-card-back bg-card rounded-lg p-8 border border-border text-center min-h-[280px] flex flex-col items-center justify-center">
             <p className="text-7xl font-normal mb-4">{word.simplified}</p>
-            <div className="space-y-3 animate-in fade-in">
+            <div className="space-y-3">
               <PinyinDisplay pinyin={word.pinyin} className="text-xl" />
               <p className="text-lg text-muted-foreground">{word.meaning}</p>
               {word.exampleSentence && (
@@ -59,21 +73,8 @@ export default function ReviewCard({
                 <AudioButton text={word.simplified} />
               </div>
             </div>
-          </>
-        ) : (
-          <>
-            <p className="text-7xl font-normal flex-1 flex items-center">{word.simplified}</p>
-            <div className="mt-auto pt-4">
-              <TrilingualLabel
-                chinese="点一下看答案"
-                pinyin="diǎn yīxià kàn dá'àn"
-                english="Tap to see answer"
-                size="xs"
-                className="opacity-50"
-              />
-            </div>
-          </>
-        )}
+          </div>
+        </div>
       </div>
 
       {isFlipped && (

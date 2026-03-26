@@ -113,13 +113,19 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
             <p className="text-sm font-medium">{word.pinyin}</p>
           ) : null}
         </div>
-        {/* Up/down arrow flush right */}
-        <span
-          className="text-muted-foreground text-4xl shrink-0 transition-transform duration-200"
-          style={{ transform: revealed ? "rotate(180deg)" : "rotate(0deg)" }}
+        {/* Chevron flush right */}
+        <svg
+          className="text-muted-foreground shrink-0 transition-transform duration-200"
+          style={{ transform: revealed ? "rotate(180deg)" : "rotate(0deg)", width: "1.75rem", height: "1.75rem" }}
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2.5"
+          strokeLinecap="round"
+          strokeLinejoin="round"
         >
-          ▾
-        </span>
+          <polyline points="6 9 12 15 18 9" />
+        </svg>
       </div>
 
       {/* Expanded: split layout */}

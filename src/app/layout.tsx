@@ -54,6 +54,12 @@ export default function RootLayout({
           </main>
           <BottomNav />
         </DisplaySettingsProvider>
+        <div className="landscape-block" aria-hidden="true">
+          <span style={{ fontSize: "3rem" }}>↺</span>
+          <p style={{ fontSize: "1.1rem", color: "var(--muted-foreground)" }}>
+            Please rotate your device to portrait mode
+          </p>
+        </div>
       </body>
     </html>
   );
