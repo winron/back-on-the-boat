@@ -15,10 +15,21 @@ interface StrokeOrderProps {
 }
 
 const StrokeOrder = forwardRef<StrokeOrderHandle, StrokeOrderProps>(
-  function StrokeOrder({ character, size = 200, strokeColor = "var(--color-tab-2)" }, ref) {
+  function StrokeOrder({ character, size = 200, strokeColor = "#f15bb5" }, ref) {
     const containerRef = useRef<HTMLDivElement>(null);
     const writerRef = useRef<HanziWriter | null>(null);
     const [ready, setReady] = useState(false);
+
+    // Resolve CSS variable to actual color at runtime
+    const resolvedColor = (() => {
+      if (typeof window === "undefined") return strokeColor;
+      if (strokeColor.startsWith("var(")) {
+        const varName = strokeColor.replace(/^var\(/, "").replace(/\)$/, "");
+        const resolved = getComputedStyle(document.documentElement).getPropertyValue(varName).trim();
+        return resolved || "#f15bb5";
+      }
+      return strokeColor;
+    })();
 
     useEffect(() => {
       if (!containerRef.current) return;
@@ -43,7 +54,7 @@ const StrokeOrder = forwardRef<StrokeOrderHandle, StrokeOrderProps>(
           showOutline: true,
           strokeAnimationSpeed: 1,
           delayBetweenStrokes: 200,
-          strokeColor,
+          strokeColor: resolvedColor,
           outlineColor: "#e5e5e5",
           drawingColor: "#333",
           charDataLoader: (ch: string) => {
@@ -68,7 +79,7 @@ const StrokeOrder = forwardRef<StrokeOrderHandle, StrokeOrderProps>(
         }
         writerRef.current = null;
       };
-    }, [character, size, strokeColor]);
+    }, [character, size, resolvedColor]);
 
     useImperativeHandle(
       ref,

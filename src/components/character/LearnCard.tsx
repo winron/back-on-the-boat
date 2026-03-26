@@ -61,9 +61,8 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
       {revealed && (
         <div className="px-4 pb-4">
           <div className="flex gap-4">
-            {/* LEFT: word, audio, animate, practice */}
+            {/* LEFT: audio, animate, practice */}
             <div className="flex flex-col items-center justify-evenly min-w-[80px]">
-              <span className="text-4xl font-medium">{word.simplified}</span>
               <AudioButton text={word.simplified} />
               <button
                 onClick={handleAnimate}
@@ -87,10 +86,9 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
               </button>
             </div>
 
-            {/* RIGHT: pinyin, POS, meaning, stroke order, char nav */}
+            {/* RIGHT: POS, meaning, stroke order, char nav */}
             <div className="flex-1 flex flex-col gap-2">
               <div>
-                <p className="text-sm font-medium">{word.pinyin}</p>
                 {word.partOfSpeech && (
                   <p className="text-xs text-muted-foreground">{expandPos(word.partOfSpeech)}</p>
                 )}
@@ -103,7 +101,7 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
                   ref={strokeRef}
                   character={currentChar}
                   size={160}
-                  strokeColor="var(--color-tab-2)"
+                  strokeColor="#f15bb5"
                 />
               </div>
 
