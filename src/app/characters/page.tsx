@@ -63,7 +63,7 @@ export default function CharactersPage() {
   const [mode, setMode] = useState<Mode>("review");
   const [words, setWords] = useState<HskWord[]>([]);
   const [expandedUnits, setExpandedUnits] = useState<Set<string>>(new Set());
-  const [revealedCards, setRevealedCards] = useState<Set<string>>(new Set());
+  const [revealedCard, setRevealedCard] = useState<string | null>(null);
   const review = useReview("characters");
 
   useTTS();
@@ -134,15 +134,7 @@ export default function CharactersPage() {
   }
 
   const toggleReveal = useCallback((id: string) => {
-    setRevealedCards((prev) => {
-      const next = new Set(prev);
-      if (next.has(id)) {
-        next.delete(id);
-      } else {
-        next.add(id);
-      }
-      return next;
-    });
+    setRevealedCard((prev) => (prev === id ? null : id));
   }, []);
 
   return (
@@ -243,7 +235,7 @@ export default function CharactersPage() {
                       <LearnCard
                         key={word.id}
                         word={word}
-                        revealed={revealedCards.has(word.id)}
+                        revealed={revealedCard === word.id}
                         onToggle={() => toggleReveal(word.id)}
                         expandPos={expandPos}
                       />

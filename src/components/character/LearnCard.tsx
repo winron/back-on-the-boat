@@ -35,12 +35,12 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
 
   return (
     <div className="bg-card rounded-lg border border-border select-none">
-      {/* Clickable header row — collapsed state */}
+      {/* Clickable header row */}
       <div
         className="flex items-center gap-4 p-4 cursor-pointer"
         onClick={onToggle}
       >
-        <span className="text-3xl w-12 text-center shrink-0">
+        <span className="text-3xl w-[80px] text-center shrink-0">
           {word.simplified}
         </span>
         <div className="flex-1 min-w-0">
@@ -59,10 +59,10 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
 
       {/* Expanded: split layout */}
       {revealed && (
-        <div className="px-4 pb-4">
+        <div className="mx-4 mb-4 border border-white rounded-lg p-4">
           <div className="flex gap-4">
             {/* LEFT: audio, animate, practice */}
-            <div className="flex flex-col items-center justify-evenly min-w-[80px]">
+            <div className="flex flex-col items-center justify-evenly min-w-[80px] gap-3">
               <AudioButton text={word.simplified} />
               <button
                 onClick={handleAnimate}
@@ -87,27 +87,25 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
             </div>
 
             {/* RIGHT: POS, meaning, stroke order, char nav */}
-            <div className="flex-1 flex flex-col gap-2">
-              <div>
+            <div className="flex-1 flex flex-col gap-3 items-center">
+              <div className="w-full">
                 {word.partOfSpeech && (
                   <p className="text-xs text-muted-foreground">{expandPos(word.partOfSpeech)}</p>
                 )}
                 <p className="text-sm text-foreground mt-1">{word.meaning}</p>
               </div>
 
-              {/* Stroke order box */}
-              <div className="flex justify-end">
-                <StrokeOrder
-                  ref={strokeRef}
-                  character={currentChar}
-                  size={160}
-                  strokeColor="#f15bb5"
-                />
-              </div>
+              {/* Stroke order box — centered */}
+              <StrokeOrder
+                ref={strokeRef}
+                character={currentChar}
+                size={160}
+                strokeColor="#f15bb5"
+              />
 
               {/* Prev/next character arrows */}
               {isMultiChar && (
-                <div className="flex items-center justify-end gap-3">
+                <div className="flex items-center gap-3">
                   <button
                     onClick={() => setCharIndex((i) => Math.max(0, i - 1))}
                     disabled={charIndex === 0}

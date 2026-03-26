@@ -55,6 +55,8 @@ const StrokeOrder = forwardRef<StrokeOrderHandle, StrokeOrderProps>(
           strokeAnimationSpeed: 1,
           delayBetweenStrokes: 200,
           strokeColor: resolvedColor,
+          highlightColor: resolvedColor,
+          highlightOnComplete: false,
           outlineColor: "#e5e5e5",
           drawingColor: "#333",
           charDataLoader: (ch: string) => {
