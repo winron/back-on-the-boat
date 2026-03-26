@@ -62,7 +62,7 @@ export function useReview(module: SrsCardState["module"]) {
   );
 
   const flip = useCallback(() => {
-    setSession((s) => ({ ...s, isFlipped: true }));
+    setSession((s) => ({ ...s, isFlipped: !s.isFlipped }));
   }, []);
 
   const rate = useCallback(

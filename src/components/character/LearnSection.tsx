@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useCallback, useRef, useEffect } from "react";
-import { getUnitNameZh } from "@/lib/unit-names";
+import { getUnitNameZh, getUnitNamePinyin } from "@/lib/unit-names";
 import LearnCard from "@/components/character/LearnCard";
 import type { HskWord, HskLevel } from "@/types";
 
@@ -69,36 +69,31 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
   }
 
   const dropdown = (
-    <div className="relative">
-      <select
-        value={selectedUnit}
-        onChange={(e) => {
-          setSelectedUnit(Number(e.target.value));
-          setRevealedCard(null);
-          // Scroll back to top of word list
-          sentinelRef.current?.scrollIntoView({ behavior: "smooth" });
-        }}
-        className="w-full bg-muted text-foreground border border-border rounded-lg px-4 font-medium appearance-none cursor-pointer text-left"
-        style={{
-          backgroundImage: "none",
-          height: "3.2rem", // 1.6x of ~2rem default
-          fontSize: "0.95rem",
-        }}
-      >
-        {unitGroups.map((group, i) => {
-          const nameZh = getUnitNameZh(level, group.unitIndex) ?? group.name;
-          return (
-            <option key={group.name} value={i} className="bg-card text-foreground">
-              {nameZh} — {group.name} ({group.words.length})
-            </option>
-          );
-        })}
-      </select>
-      {/* Large dropdown arrow */}
-      <span className="absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none text-muted-foreground text-3xl">
-        ▾
-      </span>
-    </div>
+    <select
+      value={selectedUnit}
+      onChange={(e) => {
+        setSelectedUnit(Number(e.target.value));
+        setRevealedCard(null);
+        // Scroll back to top of word list
+        sentinelRef.current?.scrollIntoView({ behavior: "smooth" });
+      }}
+      className="w-full bg-muted text-foreground border border-border rounded-lg px-4 font-medium appearance-none cursor-pointer text-left"
+      style={{
+        backgroundImage: "none",
+        height: "3.2rem",
+        fontSize: "0.95rem",
+      }}
+    >
+      {unitGroups.map((group, i) => {
+        const nameZh = getUnitNameZh(level, group.unitIndex) ?? group.name;
+        const pinyin = getUnitNamePinyin(level, group.unitIndex) ?? "";
+        return (
+          <option key={group.name} value={i} className="bg-card text-foreground">
+            {nameZh} {pinyin} — {group.name} ({group.words.length})
+          </option>
+        );
+      })}
+    </select>
   );
 
   return (
@@ -125,7 +120,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
 
       {/* Word list for selected theme */}
       {currentGroup && (
-        <div className="mt-2 space-y-1">
+        <div className="mt-2 space-y-3">
           {currentGroup.words.map((word) => (
             <LearnCard
               key={word.id}

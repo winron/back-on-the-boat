@@ -31,7 +31,7 @@ export default function ReviewCard({
     <div className="space-y-4">
       <div
         className="bg-card rounded-lg p-8 border border-border text-center min-h-[280px] flex flex-col items-center justify-center cursor-pointer select-none"
-        onClick={() => !isFlipped && onFlip()}
+        onClick={onFlip}
       >
         {isFlipped ? (
           <>

@@ -7,6 +7,51 @@ import AudioButton from "@/components/shared/AudioButton";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import type { HskWord } from "@/types";
 
+/** Color for each POS category — grouped by word class */
+const posColorMap: Record<string, string> = {
+  // Verbs — red
+  verb: "bg-red-500/20 text-red-400",
+  "verb + noun": "bg-red-500/20 text-red-400",
+  // Nouns — blue
+  noun: "bg-blue-500/20 text-blue-400",
+  "proper noun (person)": "bg-blue-500/20 text-blue-400",
+  "proper noun (place)": "bg-blue-500/20 text-blue-400",
+  "proper noun (other)": "bg-blue-500/20 text-blue-400",
+  // Adjectives — green
+  adjective: "bg-green-500/20 text-green-400",
+  "adjective + noun": "bg-green-500/20 text-green-400",
+  "adverb + adjective": "bg-green-500/20 text-green-400",
+  // Adverbs — orange
+  adverb: "bg-orange-500/20 text-orange-400",
+  // Pronouns — purple
+  pronoun: "bg-purple-500/20 text-purple-400",
+  // Measure words — pink
+  "measure word": "bg-pink-500/20 text-pink-400",
+  "time measure word": "bg-pink-500/20 text-pink-400",
+  "verbal measure word": "bg-pink-500/20 text-pink-400",
+  // Prepositions — teal
+  preposition: "bg-teal-500/20 text-teal-400",
+  // Conjunctions — yellow
+  conjunction: "bg-yellow-500/20 text-yellow-400",
+  "coordinating conjunction": "bg-yellow-500/20 text-yellow-400",
+  // Particles — slate
+  particle: "bg-slate-500/20 text-slate-400",
+  "modal particle": "bg-slate-500/20 text-slate-400",
+  // Numerals — cyan
+  numeral: "bg-cyan-500/20 text-cyan-400",
+  // Time words — amber
+  "time word": "bg-amber-500/20 text-amber-400",
+  // Directional — sky
+  "directional word": "bg-sky-500/20 text-sky-400",
+  // Others — neutral
+  exclamation: "bg-rose-500/20 text-rose-400",
+  "distinguishing word": "bg-zinc-500/20 text-zinc-400",
+  morpheme: "bg-zinc-500/20 text-zinc-400",
+  suffix: "bg-zinc-500/20 text-zinc-400",
+};
+
+const defaultPosColor = "bg-zinc-500/20 text-zinc-400";
+
 interface LearnCardProps {
   word: HskWord;
   revealed: boolean;
@@ -52,7 +97,7 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
   // So header pinyin needs: pl-[128px] to align with body right column
 
   return (
-    <div ref={cardRef} className="bg-card rounded-lg border border-border select-none">
+    <div ref={cardRef} className={`bg-card rounded-lg select-none ${revealed ? "border border-white" : "border border-border"}`}>
       {/* Clickable header row */}
       <div
         className="flex items-center p-4 cursor-pointer"
@@ -61,7 +106,7 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
         <span className="text-3xl w-[80px] text-center shrink-0">
           {word.simplified}
         </span>
-        <div className="flex-1 min-w-0" style={{ paddingLeft: "48px" }}>
+        <div className="flex-1 min-w-0" style={{ paddingLeft: "32px" }}>
           {revealed ? (
             <p className="text-sm font-medium">{word.pinyin}</p>
           ) : null}
@@ -77,7 +122,7 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
 
       {/* Expanded: split layout */}
       {revealed && (
-        <div className="mx-4 mb-4 border border-white rounded-lg p-4">
+        <div className="mx-4 mb-4 p-4">
           <div className="flex gap-4">
             {/* LEFT: audio, animate, practice */}
             <div className="flex flex-col items-center justify-evenly min-w-[80px] gap-3">
@@ -108,9 +153,18 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
             <div className="flex-1 flex flex-col gap-3 items-center">
               <div className="w-full">
                 {word.partOfSpeech && (
-                  <p className="text-xs text-muted-foreground">{expandPos(word.partOfSpeech)}</p>
+                  <div className="flex flex-wrap gap-1.5 mb-1">
+                    {expandPos(word.partOfSpeech).split(", ").map((pos) => (
+                      <span
+                        key={pos}
+                        className={`inline-block text-[10px] font-medium px-2 py-0.5 rounded-full ${posColorMap[pos] ?? defaultPosColor}`}
+                      >
+                        {pos}
+                      </span>
+                    ))}
+                  </div>
                 )}
-                <p className="text-sm text-foreground mt-1">{word.meaning}</p>
+                <p className="text-sm text-foreground">{word.meaning}</p>
               </div>
 
               {/* Stroke order box — centered */}
