@@ -35,7 +35,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
     setRevealedCard(null);
   }, [unitGroups]);
 
-  // Close dropdown when clicking outside
+  // Close dropdown when clicking outside + lock background scroll
   useEffect(() => {
     if (!isOpen) return;
     const handleClick = (e: MouseEvent) => {
@@ -43,8 +43,14 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
         setIsOpen(false);
       }
     };
+    // Lock the scrollable main container
+    const main = document.querySelector("main");
+    if (main) main.style.overflow = "hidden";
     document.addEventListener("mousedown", handleClick);
-    return () => document.removeEventListener("mousedown", handleClick);
+    return () => {
+      if (main) main.style.overflow = "";
+      document.removeEventListener("mousedown", handleClick);
+    };
   }, [isOpen]);
 
   const toggleReveal = useCallback((id: string) => {
@@ -121,7 +127,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
       {/* Dropdown menu */}
       {isOpen && (
         <div
-          className="absolute left-0 right-0 z-50 mt-1 bg-card border border-border rounded-lg shadow-lg max-h-[60vh] overflow-y-auto"
+          className="absolute left-0 right-0 z-50 mt-1 bg-card border border-border rounded-lg shadow-lg max-h-[60vh] overflow-y-auto overscroll-contain"
         >
           {unitGroups.map((group, i) => {
             const nameZh = getUnitNameZh(level, group.unitIndex) ?? group.name;

@@ -19,7 +19,7 @@ export default function LevelSelector({
   const [isOpen, setIsOpen] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);
 
-  // Close dropdown when clicking outside
+  // Close dropdown when clicking outside + lock background scroll
   useEffect(() => {
     if (!isOpen) return;
     const handleClick = (e: MouseEvent) => {
@@ -27,8 +27,14 @@ export default function LevelSelector({
         setIsOpen(false);
       }
     };
+    // Lock the scrollable main container
+    const main = document.querySelector("main");
+    if (main) main.style.overflow = "hidden";
     document.addEventListener("mousedown", handleClick);
-    return () => document.removeEventListener("mousedown", handleClick);
+    return () => {
+      if (main) main.style.overflow = "";
+      document.removeEventListener("mousedown", handleClick);
+    };
   }, [isOpen]);
 
   return (
