@@ -75,8 +75,18 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
   useEffect(() => {
     if (revealed) {
       setIsCollapsing(false);
-      // Scroll the collapsed card into view first, then expand
-      cardRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+      // Scroll card into view, staying below any sticky dropdown
+      const card = cardRef.current;
+      const main = document.querySelector("main");
+      if (card && main) {
+        const stickyEl = document.querySelector("[data-sticky-dropdown]");
+        const stickyHeight = stickyEl ? stickyEl.getBoundingClientRect().height : 0;
+        const gap = 8;
+        const mainRect = main.getBoundingClientRect();
+        const cardRect = card.getBoundingClientRect();
+        const target = main.scrollTop + (cardRect.top - mainRect.top) - stickyHeight - gap;
+        main.scrollTo({ top: Math.max(0, target), behavior: "smooth" });
+      }
       const t = setTimeout(() => setShowBody(true), 350);
       return () => clearTimeout(t);
     } else if (showBody) {
