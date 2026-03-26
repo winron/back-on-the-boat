@@ -87,8 +87,14 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
         const cardEl = document.querySelector(`[data-card-id="${targetId}"]`);
         if (cardEl && dropdownRef.current) {
           const dropdownHeight = dropdownRef.current.getBoundingClientRect().height;
-          (cardEl as HTMLElement).style.scrollMarginTop = `${dropdownHeight + 16}px`;
-          cardEl.scrollIntoView({ behavior: "smooth", block: "nearest" });
+          const gap = 16;
+          const rect = cardEl.getBoundingClientRect();
+          const hiddenAbove = rect.top < dropdownHeight + gap;
+          const hiddenBelow = rect.bottom > window.innerHeight;
+          if (hiddenAbove || hiddenBelow) {
+            (cardEl as HTMLElement).style.scrollMarginTop = `${dropdownHeight + gap}px`;
+            cardEl.scrollIntoView({ behavior: "smooth", block: "start" });
+          }
         }
       }), 120);
       pendingTimers.current.push(t);
@@ -222,7 +228,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
 
       {/* Word list for selected theme */}
       {currentGroup && (
-        <div className="mt-2 space-y-3 pb-48">
+        <div className="mt-2 space-y-3">
           {currentGroup.words.map((word) => (
             <div key={word.id} data-card-id={word.id}>
               <LearnCard
@@ -233,6 +239,15 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
               />
             </div>
           ))}
+          <div className="py-10 text-center">
+            <TrilingualLabel
+              chinese="到底了"
+              pinyin="dào dǐ le"
+              english="You've reached the end"
+              size="xs"
+              className="opacity-40"
+            />
+          </div>
         </div>
       )}
     </div>
