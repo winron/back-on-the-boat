@@ -74,8 +74,11 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
 
   useEffect(() => {
     if (revealed) {
-      setShowBody(true);
       setIsCollapsing(false);
+      // Scroll the collapsed card into view first, then expand
+      cardRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+      const t = setTimeout(() => setShowBody(true), 350);
+      return () => clearTimeout(t);
     } else if (showBody) {
       setIsCollapsing(true);
       setTimeout(() => {
@@ -83,15 +86,6 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
         setIsCollapsing(false);
       }, 100);
     }
-  }, [revealed]);
-
-  // Scroll card into view after expand animation finishes (120ms)
-  useEffect(() => {
-    if (!revealed) return;
-    const t = setTimeout(() => {
-      cardRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
-    }, 140);
-    return () => clearTimeout(t);
   }, [revealed]);
 
   const handleAnimate = () => {
