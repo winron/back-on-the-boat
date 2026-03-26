@@ -3,6 +3,7 @@
 import { useState, useCallback, useRef, useEffect } from "react";
 import { getUnitNameZh, getUnitNamePinyin } from "@/lib/unit-names";
 import { useDisplaySettings } from "@/hooks/useDisplaySettings";
+import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import LearnCard from "@/components/character/LearnCard";
 import type { HskWord, HskLevel } from "@/types";
 
@@ -225,6 +226,8 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
       <div ref={dropdownRef} className={isSticky ? "invisible" : ""}>
         {dropdown}
       </div>
+
+      <hr className="border-border my-3" />
 
       {/* Word list for selected theme */}
       {currentGroup && (
