@@ -8,6 +8,7 @@ import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
 import AudioButton from "@/components/shared/AudioButton";
+import { toChineseNumber } from "@/lib/chinese-numbers";
 import type { GrammarPattern } from "@/types";
 
 export default function GrammarPage() {
@@ -76,7 +77,7 @@ export default function GrammarPage() {
       ) : (
         <div className="space-y-3">
           <p className="text-xs text-muted-foreground">
-            {patterns.length} <TrilingualLabel chinese="个语法点" pinyin="gè yǔfǎ diǎn" english="pattern(s)" size="xs" />
+            {toChineseNumber(patterns.length)}个语法点
           </p>
           {patterns.map((pattern) => (
             <button

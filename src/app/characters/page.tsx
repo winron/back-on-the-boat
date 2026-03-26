@@ -10,25 +10,59 @@ import { db } from "@/lib/db";
 import { useTTS } from "@/hooks/useTTS";
 import ReviewCard from "@/components/character/ReviewCard";
 import StrokeOrder from "@/components/character/StrokeOrder";
-import CharacterCard from "@/components/character/CharacterCard";
+import AudioButton from "@/components/shared/AudioButton";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import type { HskWord } from "@/types";
 
-type Mode = "review" | "learn" | "browse";
+type Mode = "review" | "learn";
 
 const modeLabels: Record<Mode, { chinese: string; pinyin: string; english: string }> = {
   review: { chinese: "复习", pinyin: "fùxí", english: "Review" },
   learn: { chinese: "学习", pinyin: "xuéxí", english: "Learn" },
-  browse: { chinese: "浏览", pinyin: "liúlǎn", english: "Browse" },
 };
+
+const posMap: Record<string, string> = {
+  a: "adjective",
+  ad: "adverb + adjective",
+  an: "adjective + noun",
+  b: "distinguishing word",
+  c: "conjunction",
+  cc: "coordinating conjunction",
+  d: "adverb",
+  e: "exclamation",
+  f: "directional word",
+  g: "morpheme",
+  k: "suffix",
+  m: "numeral",
+  n: "noun",
+  nr: "proper noun (person)",
+  ns: "proper noun (place)",
+  nz: "proper noun (other)",
+  p: "preposition",
+  q: "measure word",
+  qt: "time measure word",
+  qv: "verbal measure word",
+  r: "pronoun",
+  t: "time word",
+  u: "particle",
+  v: "verb",
+  vn: "verb + noun",
+  y: "modal particle",
+};
+
+function expandPos(pos: string): string {
+  return pos
+    .split(/,\s*/)
+    .map((abbr) => posMap[abbr.trim()] || abbr.trim())
+    .join(", ");
+}
 
 export default function CharactersPage() {
   const { level, setLevel } = useHskLevel("characters");
   const { unlockedLevel } = useUnlockedLevel();
   const [mode, setMode] = useState<Mode>("review");
   const [words, setWords] = useState<HskWord[]>([]);
-  const [browseIndex, setBrowseIndex] = useState(0);
   const [expandedUnits, setExpandedUnits] = useState<Set<string>>(new Set());
   const [revealedCards, setRevealedCards] = useState<Set<string>>(new Set());
   const review = useReview("characters");
@@ -37,8 +71,6 @@ export default function CharactersPage() {
 
   // Load vocab, seed SRS cards, then load review cards for current level
   useEffect(() => {
-    setBrowseIndex(0);
-
     const levelPrefix = `hsk${level}-`;
 
     loadVocabulary(level)
@@ -77,9 +109,7 @@ export default function CharactersPage() {
     ? words.find((w) => w.id === review.currentCard!.id)
     : null;
 
-  const browseWord = words[browseIndex] ?? null;
-
-  // Group words by unit for browse/learn mode, carrying unitIndex for Chinese name lookup
+  // Group words by unit for learn mode
   const unitGroups = words.reduce<
     { name: string; unitIndex: number; words: HskWord[] }[]
   >((acc, word) => {
@@ -116,11 +146,6 @@ export default function CharactersPage() {
     });
   }, []);
 
-  // Chinese name for the current learn-mode word's unit
-  const learnUnitNameZh = browseWord
-    ? (getUnitNameZh(level, browseWord.unitIndex) ?? browseWord.unitName)
-    : "";
-
   return (
     <div className="tab-color-2 space-y-6">
       <div className="flex items-center justify-between">
@@ -130,7 +155,7 @@ export default function CharactersPage() {
 
       {/* Mode tabs */}
       <div className="flex gap-2">
-        {(["review", "learn", "browse"] as Mode[]).map((m) => (
+        {(["review", "learn"] as Mode[]).map((m) => (
           <button
             key={m}
             onClick={() => setMode(m)}
@@ -188,42 +213,7 @@ export default function CharactersPage() {
         </>
       )}
 
-      {mode === "learn" && browseWord && (
-        <div className="space-y-6">
-          <p className="text-xs text-muted-foreground text-center">{learnUnitNameZh}</p>
-          <CharacterCard word={browseWord} showPinyin />
-          <StrokeOrder character={browseWord.simplified} />
-          <div className="flex justify-between">
-            <button
-              onClick={() => setBrowseIndex((i) => Math.max(0, i - 1))}
-              disabled={browseIndex === 0}
-              className="px-4 py-2 bg-muted rounded-lg text-sm disabled:opacity-30"
-            >
-              <TrilingualLabel chinese="上一个" pinyin="shàng yī gè" english="Previous" size="xs" />
-            </button>
-            <span className="text-sm text-muted-foreground self-center">
-              {browseIndex + 1} / {words.length}
-            </span>
-            <button
-              onClick={() =>
-                setBrowseIndex((i) => Math.min(words.length - 1, i + 1))
-              }
-              disabled={browseIndex === words.length - 1}
-              className="px-4 py-2 bg-muted rounded-lg text-sm disabled:opacity-30"
-            >
-              <TrilingualLabel chinese="下一个" pinyin="xià yī gè" english="Next" size="xs" />
-            </button>
-          </div>
-        </div>
-      )}
-
-      {mode === "learn" && !browseWord && words.length === 0 && (
-        <p className="text-center text-muted-foreground py-8">
-          暂无词汇数据。
-        </p>
-      )}
-
-      {mode === "browse" && (
+      {mode === "learn" && (
         <div className="space-y-1">
           {unitGroups.map((group) => {
             const nameZh = getUnitNameZh(level, group.unitIndex) ?? group.name;
@@ -255,25 +245,42 @@ export default function CharactersPage() {
                       return (
                         <div
                           key={word.id}
-                          className="bg-card rounded-lg p-4 border border-border flex items-center gap-4 cursor-pointer select-none"
-                          onClick={() => toggleReveal(word.id)}
+                          className="bg-card rounded-lg border border-border select-none"
                         >
-                          <span className="text-3xl w-12 text-center shrink-0">
-                            {word.simplified}
-                          </span>
-                          <div className="flex-1 min-w-0">
-                            {revealed ? (
-                              <>
-                                <p className="text-sm font-medium">{word.pinyin}</p>
-                                {word.partOfSpeech && (
-                                  <p className="text-xs text-muted-foreground">{word.partOfSpeech}</p>
-                                )}
-                                <p className="text-sm text-foreground">{word.meaning}</p>
-                              </>
-                            ) : (
-                              <p className="text-sm text-muted-foreground italic">Tap to reveal</p>
-                            )}
+                          {/* Clickable header row */}
+                          <div
+                            className="flex items-center gap-4 p-4 cursor-pointer"
+                            onClick={() => toggleReveal(word.id)}
+                          >
+                            <span className="text-3xl w-12 text-center shrink-0">
+                              {word.simplified}
+                            </span>
+                            <div className="flex-1 min-w-0">
+                              {revealed ? (
+                                <>
+                                  <p className="text-sm font-medium">{word.pinyin}</p>
+                                  {word.partOfSpeech && (
+                                    <p className="text-xs text-muted-foreground">{expandPos(word.partOfSpeech)}</p>
+                                  )}
+                                  <p className="text-sm text-foreground">{word.meaning}</p>
+                                </>
+                              ) : null}
+                            </div>
+                            {/* Up/down arrow flush right */}
+                            <span className="text-muted-foreground text-sm shrink-0 transition-transform duration-200" style={{ transform: revealed ? "rotate(180deg)" : "rotate(0deg)" }}>
+                              ▾
+                            </span>
                           </div>
+
+                          {/* Expanded content: audio + stroke order */}
+                          {revealed && (
+                            <div className="px-4 pb-4 space-y-3">
+                              <div className="flex items-center gap-2">
+                                <AudioButton text={word.simplified} />
+                              </div>
+                              <StrokeOrder character={word.simplified} size={120} />
+                            </div>
+                          )}
                         </div>
                       );
                     })}

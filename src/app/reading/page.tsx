@@ -7,6 +7,7 @@ import { loadReadings } from "@/lib/data-loader";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
+import { toChineseNumber } from "@/lib/chinese-numbers";
 import type { ReadingPassage } from "@/types";
 
 type TabMode = "short" | "story";
@@ -101,8 +102,7 @@ export default function ReadingPage() {
                 <TrilingualLabel chinese="故事" pinyin="gùshi" english="Mini story" size="xs" />
               )}
               {" · "}
-              {selected.paragraphs.length}{" "}
-              <TrilingualLabel chinese="段" pinyin="duàn" english="paragraph(s)" size="xs" />
+              {toChineseNumber(selected.paragraphs.length)}段
             </p>
           </div>
 
@@ -220,7 +220,7 @@ export default function ReadingPage() {
                 <p className="font-medium">{r.titleZh}</p>
                 <p className="text-sm text-muted-foreground">{r.title}</p>
                 <p className="text-xs text-muted-foreground mt-1">
-                  {r.paragraphs.length} <TrilingualLabel chinese="段" pinyin="duàn" english="paragraph(s)" size="xs" />
+                  {toChineseNumber(r.paragraphs.length)}段
                 </p>
               </button>
             ))}

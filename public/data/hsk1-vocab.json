@@ -5,7 +5,7 @@
     "pinyin": "de",
     "meaning": "of; ~'s (possessive particle)",
     "hskLevel": 1,
-    "partOfSpeech": "u, n",
+    "partOfSpeech": "particle, noun",
     "frequency": 1,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -16,7 +16,7 @@
     "pinyin": "wǒ",
     "meaning": "I; me; my",
     "hskLevel": 1,
-    "partOfSpeech": "r",
+    "partOfSpeech": "pronoun",
     "frequency": 3,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -27,7 +27,7 @@
     "pinyin": "shì",
     "meaning": "to be (followed by substantives only); correct; right",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 4,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -38,7 +38,7 @@
     "pinyin": "nǐ",
     "meaning": "you (informal, as opposed to courteous 您)",
     "hskLevel": 1,
-    "partOfSpeech": "r",
+    "partOfSpeech": "pronoun",
     "frequency": 5,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -49,7 +49,7 @@
     "pinyin": "bù",
     "meaning": "no; not so; not",
     "hskLevel": 1,
-    "partOfSpeech": "d",
+    "partOfSpeech": "adverb",
     "frequency": 9,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -60,7 +60,7 @@
     "pinyin": "tā",
     "meaning": "he; him",
     "hskLevel": 1,
-    "partOfSpeech": "r",
+    "partOfSpeech": "pronoun",
     "frequency": 10,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -71,7 +71,7 @@
     "pinyin": "zhè",
     "meaning": "(pronoun) this; these; this",
     "hskLevel": 1,
-    "partOfSpeech": "r",
+    "partOfSpeech": "pronoun",
     "frequency": 11,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -82,7 +82,7 @@
     "pinyin": "hé",
     "meaning": "old variant of 和",
     "hskLevel": 1,
-    "partOfSpeech": "cc, p, v, qv, g, n",
+    "partOfSpeech": "coordinating conjunction, preposition, verb, verbal measure word, morpheme, noun",
     "frequency": 19,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -93,7 +93,7 @@
     "pinyin": "wǒ men",
     "meaning": "we; us; ourselves",
     "hskLevel": 1,
-    "partOfSpeech": "r",
+    "partOfSpeech": "pronoun",
     "frequency": 19,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -104,7 +104,7 @@
     "pinyin": "hǎo",
     "meaning": "good; appropriate; proper",
     "hskLevel": 1,
-    "partOfSpeech": "a, d, v",
+    "partOfSpeech": "adjective, adverb, verb",
     "frequency": 20,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -115,7 +115,7 @@
     "pinyin": "tā",
     "meaning": "she",
     "hskLevel": 1,
-    "partOfSpeech": "r",
+    "partOfSpeech": "pronoun",
     "frequency": 38,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -126,7 +126,7 @@
     "pinyin": "Nā",
     "meaning": "surname Na",
     "hskLevel": 1,
-    "partOfSpeech": "r, c",
+    "partOfSpeech": "pronoun, conjunction",
     "frequency": 48,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -137,7 +137,7 @@
     "pinyin": "wéi",
     "meaning": "hello (when answering the phone)",
     "hskLevel": 1,
-    "partOfSpeech": "v, e",
+    "partOfSpeech": "verb, exclamation",
     "frequency": 1301,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -148,7 +148,7 @@
     "pinyin": "zài jiàn",
     "meaning": "goodbye; see you again later",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 2487,
     "unitIndex": 1,
     "unitName": "Greetings & Basics"
@@ -159,7 +159,7 @@
     "pinyin": "qǐng",
     "meaning": "to ask; to invite; please (do sth)",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 216,
     "unitIndex": 2,
     "unitName": "Polite Expressions"
@@ -170,7 +170,7 @@
     "pinyin": "xiè xie",
     "meaning": "to thank; thanks; thank you",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 520,
     "unitIndex": 2,
     "unitName": "Polite Expressions"
@@ -181,7 +181,7 @@
     "pinyin": "duì bu qǐ",
     "meaning": "I'm sorry; excuse me; I beg your pardon",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 1577,
     "unitIndex": 2,
     "unitName": "Polite Expressions"
@@ -192,7 +192,7 @@
     "pinyin": "méi guān xi",
     "meaning": "it doesn't matter",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 3541,
     "unitIndex": 2,
     "unitName": "Polite Expressions"
@@ -214,7 +214,7 @@
     "pinyin": "shén me",
     "meaning": "what?; something; anything",
     "hskLevel": 1,
-    "partOfSpeech": "r",
+    "partOfSpeech": "pronoun",
     "frequency": 55,
     "unitIndex": 3,
     "unitName": "Introductions & Names"
@@ -225,7 +225,7 @@
     "pinyin": "má",
     "meaning": "(coll.) what?",
     "hskLevel": 1,
-    "partOfSpeech": "y",
+    "partOfSpeech": "modal particle",
     "frequency": 83,
     "unitIndex": 3,
     "unitName": "Introductions & Names"
@@ -236,7 +236,7 @@
     "pinyin": "ne",
     "meaning": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\"); particle for inquiring about location (\"Where is ...?\"); particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\")",
     "hskLevel": 1,
-    "partOfSpeech": "y",
+    "partOfSpeech": "modal particle",
     "frequency": 96,
     "unitIndex": 3,
     "unitName": "Introductions & Names"
@@ -247,7 +247,7 @@
     "pinyin": "shéi",
     "meaning": "who; also pr. [shuí]",
     "hskLevel": 1,
-    "partOfSpeech": "r",
+    "partOfSpeech": "pronoun",
     "frequency": 142,
     "unitIndex": 3,
     "unitName": "Introductions & Names"
@@ -258,7 +258,7 @@
     "pinyin": "jiào",
     "meaning": "to shout; to call; to order",
     "hskLevel": 1,
-    "partOfSpeech": "v, p, n",
+    "partOfSpeech": "verb, preposition, noun",
     "frequency": 200,
     "unitIndex": 3,
     "unitName": "Introductions & Names"
@@ -269,7 +269,7 @@
     "pinyin": "rèn shi",
     "meaning": "to know; to recognize; to be familiar with",
     "hskLevel": 1,
-    "partOfSpeech": "v, n, vn",
+    "partOfSpeech": "verb, noun, verb + noun",
     "frequency": 463,
     "unitIndex": 3,
     "unitName": "Introductions & Names"
@@ -280,7 +280,7 @@
     "pinyin": "míng zi",
     "meaning": "name (of a person or thing)",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 829,
     "unitIndex": 3,
     "unitName": "Introductions & Names"
@@ -291,7 +291,7 @@
     "pinyin": "jiā",
     "meaning": "used in 家伙 and 家俱",
     "hskLevel": 1,
-    "partOfSpeech": "n, q",
+    "partOfSpeech": "noun, measure word",
     "frequency": 124,
     "unitIndex": 4,
     "unitName": "Family"
@@ -302,7 +302,7 @@
     "pinyin": "mā ma",
     "meaning": "mama; mommy; mother",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 527,
     "unitIndex": 4,
     "unitName": "Family"
@@ -313,7 +313,7 @@
     "pinyin": "ér zi",
     "meaning": "son",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 665,
     "unitIndex": 4,
     "unitName": "Family"
@@ -324,7 +324,7 @@
     "pinyin": "nǚ ér",
     "meaning": "daughter",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 879,
     "unitIndex": 4,
     "unitName": "Family"
@@ -335,7 +335,7 @@
     "pinyin": "bà ba",
     "meaning": "(coll.) father; dad",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 908,
     "unitIndex": 4,
     "unitName": "Family"
@@ -346,7 +346,7 @@
     "pinyin": "rén",
     "meaning": "person; people",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 19,
     "unitIndex": 5,
     "unitName": "People & Titles"
@@ -357,7 +357,7 @@
     "pinyin": "péng you",
     "meaning": "friend",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 280,
     "unitIndex": 5,
     "unitName": "People & Titles"
@@ -368,7 +368,7 @@
     "pinyin": "xiān sheng",
     "meaning": "teacher; gentleman; sir",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 586,
     "unitIndex": 5,
     "unitName": "People & Titles"
@@ -379,7 +379,7 @@
     "pinyin": "xué sheng",
     "meaning": "student; schoolchild",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 651,
     "unitIndex": 5,
     "unitName": "People & Titles"
@@ -390,7 +390,7 @@
     "pinyin": "lǎo shī",
     "meaning": "teacher",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 799,
     "unitIndex": 5,
     "unitName": "People & Titles"
@@ -401,7 +401,7 @@
     "pinyin": "yī shēng",
     "meaning": "doctor",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 827,
     "unitIndex": 5,
     "unitName": "People & Titles"
@@ -412,7 +412,7 @@
     "pinyin": "xiǎo jie",
     "meaning": "young lady; miss; (slang) prostitute",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 1575,
     "unitIndex": 5,
     "unitName": "People & Titles"
@@ -423,7 +423,7 @@
     "pinyin": "tóng xué",
     "meaning": "to study at the same school; fellow student; classmate",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 1828,
     "unitIndex": 5,
     "unitName": "People & Titles"
@@ -434,7 +434,7 @@
     "pinyin": "gě",
     "meaning": "used in 自个儿",
     "hskLevel": 1,
-    "partOfSpeech": "q, g",
+    "partOfSpeech": "measure word, morpheme",
     "frequency": 19,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -445,7 +445,7 @@
     "pinyin": "yī",
     "meaning": "one; single; a (article)",
     "hskLevel": 1,
-    "partOfSpeech": "m, d, t",
+    "partOfSpeech": "numeral, adverb, time word",
     "frequency": 21,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -456,7 +456,7 @@
     "pinyin": "jī",
     "meaning": "small table",
     "hskLevel": 1,
-    "partOfSpeech": "m, d",
+    "partOfSpeech": "numeral, adverb",
     "frequency": 178,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -467,7 +467,7 @@
     "pinyin": "Sān",
     "meaning": "surname San",
     "hskLevel": 1,
-    "partOfSpeech": "m, t",
+    "partOfSpeech": "numeral, time word",
     "frequency": 233,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -478,7 +478,7 @@
     "pinyin": "suì",
     "meaning": "variant of 岁, year; years old",
     "hskLevel": 1,
-    "partOfSpeech": "qt",
+    "partOfSpeech": "time measure word",
     "frequency": 266,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -489,7 +489,7 @@
     "pinyin": "sì",
     "meaning": "four; 4",
     "hskLevel": 1,
-    "partOfSpeech": "m, t",
+    "partOfSpeech": "numeral, time word",
     "frequency": 481,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -500,7 +500,7 @@
     "pinyin": "duō shǎo",
     "meaning": "number; amount; somewhat",
     "hskLevel": 1,
-    "partOfSpeech": "r",
+    "partOfSpeech": "pronoun",
     "frequency": 526,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -511,7 +511,7 @@
     "pinyin": "wǔ",
     "meaning": "five; 5",
     "hskLevel": 1,
-    "partOfSpeech": "m, t",
+    "partOfSpeech": "numeral, time word",
     "frequency": 563,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -522,7 +522,7 @@
     "pinyin": "xiē",
     "meaning": "classifier indicating a small amount or small number greater than 1: some, a few, several",
     "hskLevel": 1,
-    "partOfSpeech": "q",
+    "partOfSpeech": "measure word",
     "frequency": 611,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -533,7 +533,7 @@
     "pinyin": "èr",
     "meaning": "two; 2; (Beijing dialect) stupid",
     "hskLevel": 1,
-    "partOfSpeech": "m, t",
+    "partOfSpeech": "numeral, time word",
     "frequency": 664,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -544,7 +544,7 @@
     "pinyin": "liù",
     "meaning": "six; 6",
     "hskLevel": 1,
-    "partOfSpeech": "m, t",
+    "partOfSpeech": "numeral, time word",
     "frequency": 802,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -555,7 +555,7 @@
     "pinyin": "shí",
     "meaning": "ten; 10",
     "hskLevel": 1,
-    "partOfSpeech": "m, t",
+    "partOfSpeech": "numeral, time word",
     "frequency": 865,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -566,7 +566,7 @@
     "pinyin": "bā",
     "meaning": "eight; 8",
     "hskLevel": 1,
-    "partOfSpeech": "m, t",
+    "partOfSpeech": "numeral, time word",
     "frequency": 1362,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -577,7 +577,7 @@
     "pinyin": "qī",
     "meaning": "seven; 7",
     "hskLevel": 1,
-    "partOfSpeech": "m, t",
+    "partOfSpeech": "numeral, time word",
     "frequency": 1419,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -588,7 +588,7 @@
     "pinyin": "jiǔ",
     "meaning": "nine; 9",
     "hskLevel": 1,
-    "partOfSpeech": "m, t, b",
+    "partOfSpeech": "numeral, time word, distinguishing word",
     "frequency": 2040,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -599,7 +599,7 @@
     "pinyin": "líng",
     "meaning": "zero; nought; zero sign",
     "hskLevel": 1,
-    "partOfSpeech": "m, t, g",
+    "partOfSpeech": "numeral, time word, morpheme",
     "frequency": 3623,
     "unitIndex": 6,
     "unitName": "Numbers"
@@ -610,7 +610,7 @@
     "pinyin": "diǎn",
     "meaning": "point; dot; drop",
     "hskLevel": 1,
-    "partOfSpeech": "qt, n, t, v",
+    "partOfSpeech": "time measure word, noun, time word, verb",
     "frequency": 58,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -621,7 +621,7 @@
     "pinyin": "xiàn zài",
     "meaning": "now; at present; at the moment",
     "hskLevel": 1,
-    "partOfSpeech": "t",
+    "partOfSpeech": "time word",
     "frequency": 77,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -632,7 +632,7 @@
     "pinyin": "Nián",
     "meaning": "surname Nian",
     "hskLevel": 1,
-    "partOfSpeech": "qt, t, n",
+    "partOfSpeech": "time measure word, time word, noun",
     "frequency": 79,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -643,7 +643,7 @@
     "pinyin": "shí hou",
     "meaning": "time; length of time; moment",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 107,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -654,7 +654,7 @@
     "pinyin": "jīn tiān",
     "meaning": "today; at the present; now",
     "hskLevel": 1,
-    "partOfSpeech": "t",
+    "partOfSpeech": "time word",
     "frequency": 155,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -665,7 +665,7 @@
     "pinyin": "yuè",
     "meaning": "moon; month; monthly",
     "hskLevel": 1,
-    "partOfSpeech": "n, t",
+    "partOfSpeech": "noun, time word",
     "frequency": 161,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -676,7 +676,7 @@
     "pinyin": "Rì",
     "meaning": "abbr. for 本, Japan",
     "hskLevel": 1,
-    "partOfSpeech": "t, g, b, qt",
+    "partOfSpeech": "time word, morpheme, distinguishing word, time measure word",
     "frequency": 395,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -687,7 +687,7 @@
     "pinyin": "fēn zhōng",
     "meaning": "minute",
     "hskLevel": 1,
-    "partOfSpeech": "qt",
+    "partOfSpeech": "time measure word",
     "frequency": 465,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -698,7 +698,7 @@
     "pinyin": "míng tiān",
     "meaning": "tomorrow",
     "hskLevel": 1,
-    "partOfSpeech": "t",
+    "partOfSpeech": "time word",
     "frequency": 469,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -709,7 +709,7 @@
     "pinyin": "zuó tiān",
     "meaning": "yesterday",
     "hskLevel": 1,
-    "partOfSpeech": "t",
+    "partOfSpeech": "time word",
     "frequency": 557,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -720,7 +720,7 @@
     "pinyin": "xià wǔ",
     "meaning": "afternoon; p.m.",
     "hskLevel": 1,
-    "partOfSpeech": "t",
+    "partOfSpeech": "time word",
     "frequency": 782,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -731,7 +731,7 @@
     "pinyin": "xīng qī",
     "meaning": "week; day of the week; Sunday",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 1956,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -742,7 +742,7 @@
     "pinyin": "shàng wǔ",
     "meaning": "morning",
     "hskLevel": 1,
-    "partOfSpeech": "t",
+    "partOfSpeech": "time word",
     "frequency": 2188,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -753,7 +753,7 @@
     "pinyin": "zhōng wǔ",
     "meaning": "noon; midday",
     "hskLevel": 1,
-    "partOfSpeech": "t",
+    "partOfSpeech": "time word",
     "frequency": 2600,
     "unitIndex": 7,
     "unitName": "Time & Dates"
@@ -764,7 +764,7 @@
     "pinyin": "lái",
     "meaning": "to come; hither",
     "hskLevel": 1,
-    "partOfSpeech": "v, f, m, u, y",
+    "partOfSpeech": "verb, directional word, numeral, particle, modal particle",
     "frequency": 31,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -775,7 +775,7 @@
     "pinyin": "qù",
     "meaning": "to go; to go to (a place); (of a time etc) last",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 38,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -786,7 +786,7 @@
     "pinyin": "kān",
     "meaning": "to look after; to take care of; to watch",
     "hskLevel": 1,
-    "partOfSpeech": "v, u",
+    "partOfSpeech": "verb, particle",
     "frequency": 52,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -797,7 +797,7 @@
     "pinyin": "zuò",
     "meaning": "to make; to produce; to write",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 53,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -808,7 +808,7 @@
     "pinyin": "gōng zuò",
     "meaning": "to work; (of a machine) to operate; job",
     "hskLevel": 1,
-    "partOfSpeech": "vn, v, n",
+    "partOfSpeech": "verb + noun, verb, noun",
     "frequency": 111,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -819,7 +819,7 @@
     "pinyin": "chī",
     "meaning": "to eat; to consume; to eat at (a cafeteria etc)",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 142,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -830,7 +830,7 @@
     "pinyin": "yǐn",
     "meaning": "smile (archaic)",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 190,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -841,7 +841,7 @@
     "pinyin": "kāi",
     "meaning": "to open (transitive or intransitive); (of ships, vehicles, troops etc) to start; to turn on",
     "hskLevel": 1,
-    "partOfSpeech": "v, q",
+    "partOfSpeech": "verb, measure word",
     "frequency": 195,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -852,7 +852,7 @@
     "pinyin": "huí",
     "meaning": "to circle; to go back; to turn around",
     "hskLevel": 1,
-    "partOfSpeech": "v, qv",
+    "partOfSpeech": "verb, verbal measure word",
     "frequency": 225,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -863,7 +863,7 @@
     "pinyin": "mǎi",
     "meaning": "to buy; to purchase",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 240,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -874,7 +874,7 @@
     "pinyin": "zhù",
     "meaning": "to live; to dwell; to stay",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 280,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -885,7 +885,7 @@
     "pinyin": "xiě",
     "meaning": "to write",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 352,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -896,7 +896,7 @@
     "pinyin": "hē",
     "meaning": "to drink; variant of 嗬",
     "hskLevel": 1,
-    "partOfSpeech": "g, vn",
+    "partOfSpeech": "morpheme, verb + noun",
     "frequency": 428,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -907,7 +907,7 @@
     "pinyin": "Zuò",
     "meaning": "surname Zuo",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 435,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -918,7 +918,7 @@
     "pinyin": "xué xí",
     "meaning": "to learn; to study",
     "hskLevel": 1,
-    "partOfSpeech": "v, vn",
+    "partOfSpeech": "verb, verb + noun",
     "frequency": 789,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -929,7 +929,7 @@
     "pinyin": "kàn jiàn",
     "meaning": "to see; to catch sight of",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 870,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -940,7 +940,7 @@
     "pinyin": "shuō huà",
     "meaning": "to speak; to say; to talk",
     "hskLevel": 1,
-    "partOfSpeech": "v, vn",
+    "partOfSpeech": "verb, verb + noun",
     "frequency": 880,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -951,7 +951,7 @@
     "pinyin": "shuì jiào",
     "meaning": "to go to bed; to sleep",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 944,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -962,7 +962,7 @@
     "pinyin": "dòu",
     "meaning": "comma; phrase marked by pause",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 1013,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -973,7 +973,7 @@
     "pinyin": "dǎ diàn huà",
     "meaning": "to make a telephone call",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 1218,
     "unitIndex": 8,
     "unitName": "Actions"
@@ -984,7 +984,7 @@
     "pinyin": "le",
     "meaning": "(completed action marker); (modal particle indicating change of state, situation now); (modal particle intensifying preceding clause)",
     "hskLevel": 1,
-    "partOfSpeech": "y, u, v",
+    "partOfSpeech": "modal particle, particle, verb",
     "frequency": 3,
     "unitIndex": 9,
     "unitName": "Mental & Modal Verbs"
@@ -995,7 +995,7 @@
     "pinyin": "yǒu",
     "meaning": "to have; there is; having",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 9,
     "unitIndex": 9,
     "unitName": "Mental & Modal Verbs"
@@ -1006,7 +1006,7 @@
     "pinyin": "huì",
     "meaning": "can; to have the skill; to know how to",
     "hskLevel": 1,
-    "partOfSpeech": "v, n",
+    "partOfSpeech": "verb, noun",
     "frequency": 23,
     "unitIndex": 9,
     "unitName": "Mental & Modal Verbs"
@@ -1017,7 +1017,7 @@
     "pinyin": "xiǎng",
     "meaning": "to think (about); to think of; to devise",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 44,
     "unitIndex": 9,
     "unitName": "Mental & Modal Verbs"
@@ -1028,7 +1028,7 @@
     "pinyin": "Néng",
     "meaning": "surname Neng",
     "hskLevel": 1,
-    "partOfSpeech": "v, g",
+    "partOfSpeech": "verb, morpheme",
     "frequency": 46,
     "unitIndex": 9,
     "unitName": "Mental & Modal Verbs"
@@ -1039,7 +1039,7 @@
     "pinyin": "méi",
     "meaning": "(negative prefix for verbs) have not; not",
     "hskLevel": 1,
-    "partOfSpeech": "d, v",
+    "partOfSpeech": "adverb, verb",
     "frequency": 63,
     "unitIndex": 9,
     "unitName": "Mental & Modal Verbs"
@@ -1050,7 +1050,7 @@
     "pinyin": "ài",
     "meaning": "to love; to be fond of; to like",
     "hskLevel": 1,
-    "partOfSpeech": "v, vn, b",
+    "partOfSpeech": "verb, verb + noun, distinguishing word",
     "frequency": 130,
     "unitIndex": 9,
     "unitName": "Mental & Modal Verbs"
@@ -1061,7 +1061,7 @@
     "pinyin": "xǐ huan",
     "meaning": "to like; to be fond of",
     "hskLevel": 1,
-    "partOfSpeech": "v, vn",
+    "partOfSpeech": "verb, verb + noun",
     "frequency": 139,
     "unitIndex": 9,
     "unitName": "Mental & Modal Verbs"
@@ -1072,7 +1072,7 @@
     "pinyin": "dōng xī",
     "meaning": "east and west",
     "hskLevel": 1,
-    "partOfSpeech": "n, f, nr",
+    "partOfSpeech": "noun, directional word, proper noun (person)",
     "frequency": 226,
     "unitIndex": 10,
     "unitName": "Food & Drink"
@@ -1083,7 +1083,7 @@
     "pinyin": "Shuǐ",
     "meaning": "surname Shui",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 335,
     "unitIndex": 10,
     "unitName": "Food & Drink"
@@ -1094,7 +1094,7 @@
     "pinyin": "cài",
     "meaning": "dish (type of food); vegetable; cuisine",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 1448,
     "unitIndex": 10,
     "unitName": "Food & Drink"
@@ -1105,7 +1105,7 @@
     "pinyin": "chá",
     "meaning": "tea; tea plant",
     "hskLevel": 1,
-    "partOfSpeech": "n, g",
+    "partOfSpeech": "noun, morpheme",
     "frequency": 1910,
     "unitIndex": 10,
     "unitName": "Food & Drink"
@@ -1116,7 +1116,7 @@
     "pinyin": "píng guǒ",
     "meaning": "apple",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 2562,
     "unitIndex": 10,
     "unitName": "Food & Drink"
@@ -1127,7 +1127,7 @@
     "pinyin": "shuǐ guǒ",
     "meaning": "fruit",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 3271,
     "unitIndex": 10,
     "unitName": "Food & Drink"
@@ -1138,7 +1138,7 @@
     "pinyin": "bēi zi",
     "meaning": "cup; glass",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 6162,
     "unitIndex": 10,
     "unitName": "Food & Drink"
@@ -1149,7 +1149,7 @@
     "pinyin": "mǐ fàn",
     "meaning": "(cooked) rice",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 10194,
     "unitIndex": 10,
     "unitName": "Food & Drink"
@@ -1160,7 +1160,7 @@
     "pinyin": "fàn guǎn",
     "meaning": "restaurant",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 16449,
     "unitIndex": 10,
     "unitName": "Food & Drink"
@@ -1171,7 +1171,7 @@
     "pinyin": "Dū",
     "meaning": "surname Du",
     "hskLevel": 1,
-    "partOfSpeech": "d, g",
+    "partOfSpeech": "adverb, morpheme",
     "frequency": 25,
     "unitIndex": 11,
     "unitName": "Descriptions"
@@ -1182,7 +1182,7 @@
     "pinyin": "hěn",
     "meaning": "(adverb of degree); quite; very",
     "hskLevel": 1,
-    "partOfSpeech": "d",
+    "partOfSpeech": "adverb",
     "frequency": 35,
     "unitIndex": 11,
     "unitName": "Descriptions"
@@ -1193,7 +1193,7 @@
     "pinyin": "dà",
     "meaning": "big; large; great",
     "hskLevel": 1,
-    "partOfSpeech": "a, d, n, g",
+    "partOfSpeech": "adjective, adverb, noun, morpheme",
     "frequency": 66,
     "unitIndex": 11,
     "unitName": "Descriptions"
@@ -1204,7 +1204,7 @@
     "pinyin": "duō",
     "meaning": "many; much; too many",
     "hskLevel": 1,
-    "partOfSpeech": "a, m, ad, d, v, g",
+    "partOfSpeech": "adjective, numeral, adverb + adjective, adverb, verb, morpheme",
     "frequency": 80,
     "unitIndex": 11,
     "unitName": "Descriptions"
@@ -1215,7 +1215,7 @@
     "pinyin": "tài",
     "meaning": "highest; greatest; too (much)",
     "hskLevel": 1,
-    "partOfSpeech": "d, b",
+    "partOfSpeech": "adverb, distinguishing word",
     "frequency": 87,
     "unitIndex": 11,
     "unitName": "Descriptions"
@@ -1226,7 +1226,7 @@
     "pinyin": "xiǎo",
     "meaning": "small; tiny; few",
     "hskLevel": 1,
-    "partOfSpeech": "a, ad",
+    "partOfSpeech": "adjective, adverb + adjective",
     "frequency": 100,
     "unitIndex": 11,
     "unitName": "Descriptions"
@@ -1237,7 +1237,7 @@
     "pinyin": "shǎo",
     "meaning": "few; less; to lack",
     "hskLevel": 1,
-    "partOfSpeech": "a, ad, v, d, g",
+    "partOfSpeech": "adjective, adverb + adjective, verb, adverb, morpheme",
     "frequency": 538,
     "unitIndex": 11,
     "unitName": "Descriptions"
@@ -1248,7 +1248,7 @@
     "pinyin": "piào liang",
     "meaning": "pretty; beautiful",
     "hskLevel": 1,
-    "partOfSpeech": "a",
+    "partOfSpeech": "adjective",
     "frequency": 915,
     "unitIndex": 11,
     "unitName": "Descriptions"
@@ -1259,7 +1259,7 @@
     "pinyin": "gāo xìng",
     "meaning": "happy; glad; willing (to do sth)",
     "hskLevel": 1,
-    "partOfSpeech": "a, an",
+    "partOfSpeech": "adjective, adjective + noun",
     "frequency": 920,
     "unitIndex": 11,
     "unitName": "Descriptions"
@@ -1270,7 +1270,7 @@
     "pinyin": "rè",
     "meaning": "to warm up; to heat up; hot (of weather)",
     "hskLevel": 1,
-    "partOfSpeech": "a, n, k, v, ad, an",
+    "partOfSpeech": "adjective, noun, suffix, verb, adverb + adjective, adjective + noun",
     "frequency": 938,
     "unitIndex": 11,
     "unitName": "Descriptions"
@@ -1281,7 +1281,7 @@
     "pinyin": "Lěng",
     "meaning": "surname Leng",
     "hskLevel": 1,
-    "partOfSpeech": "a, ad, g",
+    "partOfSpeech": "adjective, adverb + adjective, morpheme",
     "frequency": 1027,
     "unitIndex": 11,
     "unitName": "Descriptions"
@@ -1292,7 +1292,7 @@
     "pinyin": "xué xiào",
     "meaning": "school",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 430,
     "unitIndex": 12,
     "unitName": "Places"
@@ -1303,7 +1303,7 @@
     "pinyin": "yī yuàn",
     "meaning": "hospital",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 608,
     "unitIndex": 12,
     "unitName": "Places"
@@ -1314,7 +1314,7 @@
     "pinyin": "Zhōng guó",
     "meaning": "China",
     "hskLevel": 1,
-    "partOfSpeech": "ns",
+    "partOfSpeech": "proper noun (place)",
     "frequency": 729,
     "unitIndex": 12,
     "unitName": "Places"
@@ -1325,7 +1325,7 @@
     "pinyin": "shāng diàn",
     "meaning": "store; shop",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 3479,
     "unitIndex": 12,
     "unitName": "Places"
@@ -1336,7 +1336,7 @@
     "pinyin": "Běi jīng",
     "meaning": "Beijing, capital of the People's Republic of China",
     "hskLevel": 1,
-    "partOfSpeech": "ns",
+    "partOfSpeech": "proper noun (place)",
     "frequency": 4799,
     "unitIndex": 12,
     "unitName": "Places"
@@ -1347,7 +1347,7 @@
     "pinyin": "huǒ chē zhàn",
     "meaning": "train station",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 7270,
     "unitIndex": 12,
     "unitName": "Places"
@@ -1358,7 +1358,7 @@
     "pinyin": "Qián",
     "meaning": "surname Qian",
     "hskLevel": 1,
-    "partOfSpeech": "n, nr",
+    "partOfSpeech": "noun, proper noun (person)",
     "frequency": 218,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1369,7 +1369,7 @@
     "pinyin": "běn",
     "meaning": "root; stem; origin",
     "hskLevel": 1,
-    "partOfSpeech": "r, q, d, n",
+    "partOfSpeech": "pronoun, measure word, adverb, noun",
     "frequency": 222,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1380,7 +1380,7 @@
     "pinyin": "kuài",
     "meaning": "lump; chunk; piece",
     "hskLevel": 1,
-    "partOfSpeech": "q, g",
+    "partOfSpeech": "measure word, morpheme",
     "frequency": 483,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1391,7 +1391,7 @@
     "pinyin": "diàn yǐng",
     "meaning": "movie; film",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 546,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1402,7 +1402,7 @@
     "pinyin": "Shū",
     "meaning": "abbr. for 书经",
     "hskLevel": 1,
-    "partOfSpeech": "n, g",
+    "partOfSpeech": "noun, morpheme",
     "frequency": 560,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1413,7 +1413,7 @@
     "pinyin": "diàn shì",
     "meaning": "television; TV",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 779,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1424,7 +1424,7 @@
     "pinyin": "zì",
     "meaning": "letter; symbol; character",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 913,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1435,7 +1435,7 @@
     "pinyin": "diàn nǎo",
     "meaning": "computer",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 946,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1446,7 +1446,7 @@
     "pinyin": "yī fu",
     "meaning": "clothes",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 1472,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1457,7 +1457,7 @@
     "pinyin": "zhuō zi",
     "meaning": "table; desk",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 3639,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1468,7 +1468,7 @@
     "pinyin": "yǐ zi",
     "meaning": "chair",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 4472,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1479,7 +1479,7 @@
     "pinyin": "Hàn yǔ",
     "meaning": "Chinese language",
     "hskLevel": 1,
-    "partOfSpeech": "nz",
+    "partOfSpeech": "proper noun (other)",
     "frequency": 13422,
     "unitIndex": 13,
     "unitName": "Things & Objects"
@@ -1490,7 +1490,7 @@
     "pinyin": "zài",
     "meaning": "to exist; to be alive; (of sb or sth) to be (located) at",
     "hskLevel": 1,
-    "partOfSpeech": "p, v, d",
+    "partOfSpeech": "preposition, verb, adverb",
     "frequency": 5,
     "unitIndex": 14,
     "unitName": "Position & Location"
@@ -1501,7 +1501,7 @@
     "pinyin": "shǎng",
     "meaning": "used in 上声",
     "hskLevel": 1,
-    "partOfSpeech": "f, v, g",
+    "partOfSpeech": "directional word, verb, morpheme",
     "frequency": 29,
     "unitIndex": 14,
     "unitName": "Position & Location"
@@ -1512,7 +1512,7 @@
     "pinyin": "xià",
     "meaning": "down; downwards; below",
     "hskLevel": 1,
-    "partOfSpeech": "v, f, qt, g",
+    "partOfSpeech": "verb, directional word, time measure word, morpheme",
     "frequency": 70,
     "unitIndex": 14,
     "unitName": "Position & Location"
@@ -1523,7 +1523,7 @@
     "pinyin": "lǐ",
     "meaning": "variant of 里",
     "hskLevel": 1,
-    "partOfSpeech": "f, q",
+    "partOfSpeech": "directional word, measure word",
     "frequency": 75,
     "unitIndex": 14,
     "unitName": "Position & Location"
@@ -1534,7 +1534,7 @@
     "pinyin": "zěn me",
     "meaning": "how?; what?; why?",
     "hskLevel": 1,
-    "partOfSpeech": "r",
+    "partOfSpeech": "pronoun",
     "frequency": 128,
     "unitIndex": 14,
     "unitName": "Position & Location"
@@ -1545,7 +1545,7 @@
     "pinyin": "nǎ",
     "meaning": "how; which",
     "hskLevel": 1,
-    "partOfSpeech": "r, y",
+    "partOfSpeech": "pronoun, modal particle",
     "frequency": 547,
     "unitIndex": 14,
     "unitName": "Position & Location"
@@ -1556,7 +1556,7 @@
     "pinyin": "hòu mian",
     "meaning": "the back; the rear; the last bit",
     "hskLevel": 1,
-    "partOfSpeech": "f",
+    "partOfSpeech": "directional word",
     "frequency": 1300,
     "unitIndex": 14,
     "unitName": "Position & Location"
@@ -1567,7 +1567,7 @@
     "pinyin": "zěn me yàng",
     "meaning": "how?; how about?; how was it?",
     "hskLevel": 1,
-    "partOfSpeech": "r",
+    "partOfSpeech": "pronoun",
     "frequency": 1367,
     "unitIndex": 14,
     "unitName": "Position & Location"
@@ -1578,7 +1578,7 @@
     "pinyin": "qián miàn",
     "meaning": "ahead; in front; preceding",
     "hskLevel": 1,
-    "partOfSpeech": "f",
+    "partOfSpeech": "directional word",
     "frequency": 1789,
     "unitIndex": 14,
     "unitName": "Position & Location"
@@ -1589,7 +1589,7 @@
     "pinyin": "gǒu",
     "meaning": "dog",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 620,
     "unitIndex": 15,
     "unitName": "Weather & Transport"
@@ -1600,7 +1600,7 @@
     "pinyin": "fēi jī",
     "meaning": "airplane",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 1067,
     "unitIndex": 15,
     "unitName": "Weather & Transport"
@@ -1611,7 +1611,7 @@
     "pinyin": "māo",
     "meaning": "cat; (dialect) to hide oneself; (coll.) modem",
     "hskLevel": 1,
-    "partOfSpeech": "n, v",
+    "partOfSpeech": "noun, verb",
     "frequency": 1150,
     "unitIndex": 15,
     "unitName": "Weather & Transport"
@@ -1622,7 +1622,7 @@
     "pinyin": "tiān qì",
     "meaning": "weather",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 1675,
     "unitIndex": 15,
     "unitName": "Weather & Transport"
@@ -1633,7 +1633,7 @@
     "pinyin": "chū zū chē",
     "meaning": "taxi; (Tw) rental car",
     "hskLevel": 1,
-    "partOfSpeech": "n",
+    "partOfSpeech": "noun",
     "frequency": 2677,
     "unitIndex": 15,
     "unitName": "Weather & Transport"
@@ -1644,7 +1644,7 @@
     "pinyin": "xià yǔ",
     "meaning": "to rain",
     "hskLevel": 1,
-    "partOfSpeech": "v",
+    "partOfSpeech": "verb",
     "frequency": 5648,
     "unitIndex": 15,
     "unitName": "Weather & Transport"
