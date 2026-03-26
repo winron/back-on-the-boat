@@ -3,6 +3,7 @@
 /* Disable swipe-back/forward navigation gestures */
 html, body {
   overscroll-behavior-x: none;
+  touch-action: pan-y;
   -webkit-overflow-scrolling: touch;
 }
 

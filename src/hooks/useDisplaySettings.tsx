@@ -9,6 +9,7 @@ import {
   type ReactNode,
 } from "react";
 import { db } from "@/lib/db";
+import { usePreventSwipeBack } from "@/hooks/usePreventSwipeBack";
 
 interface DisplaySettingsValue {
   showPinyin: boolean;
@@ -29,6 +30,7 @@ export function useDisplaySettings() {
 }
 
 export function DisplaySettingsProvider({ children }: { children: ReactNode }) {
+  usePreventSwipeBack();
   const [showPinyin, setShowPinyin] = useState(true);
   const [showEnglish, setShowEnglish] = useState(true);
 

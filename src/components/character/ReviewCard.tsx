@@ -68,7 +68,8 @@ export default function ReviewCard({
                 chinese="点一下看答案"
                 pinyin="diǎn yīxià kàn dá'àn"
                 english="Tap to see answer"
-                size="sm"
+                size="xs"
+                className="opacity-50"
               />
             </div>
           </>

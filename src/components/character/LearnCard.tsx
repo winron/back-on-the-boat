@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 import StrokeOrder from "@/components/character/StrokeOrder";
 import type { StrokeOrderHandle } from "@/components/character/StrokeOrder";
 import AudioButton from "@/components/shared/AudioButton";
@@ -19,9 +19,20 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
   const [charIndex, setCharIndex] = useState(0);
   const [mode, setMode] = useState<"animate" | "quiz">("animate");
   const strokeRef = useRef<StrokeOrderHandle>(null);
+  const cardRef = useRef<HTMLDivElement>(null);
 
   const currentChar = chars[charIndex] ?? chars[0];
   const isMultiChar = chars.length > 1;
+
+  // Scroll card into view when revealed
+  useEffect(() => {
+    if (revealed && cardRef.current) {
+      // Small delay to let the DOM expand first
+      requestAnimationFrame(() => {
+        cardRef.current?.scrollIntoView({ behavior: "smooth", block: "nearest" });
+      });
+    }
+  }, [revealed]);
 
   const handleAnimate = () => {
     setMode("animate");
@@ -33,17 +44,24 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
     strokeRef.current?.quiz();
   };
 
+  // Left column width: 80px for audio/buttons
+  // Gap between left and right: 16px (gap-4)
+  // Body has mx-4 (16px) + p-4 (16px) = 32px extra indent on each side
+  // Header pinyin offset = character w-[80px] + gap-4 = starts at 96px from left edge
+  // Body right column starts at mx-4(16) + p-4(16) + left-col(80) + gap-4(16) = 128px from card edge
+  // So header pinyin needs: pl-[128px] to align with body right column
+
   return (
-    <div className="bg-card rounded-lg border border-border select-none">
+    <div ref={cardRef} className="bg-card rounded-lg border border-border select-none">
       {/* Clickable header row */}
       <div
-        className="flex items-center gap-4 p-4 cursor-pointer"
+        className="flex items-center p-4 cursor-pointer"
         onClick={onToggle}
       >
         <span className="text-3xl w-[80px] text-center shrink-0">
           {word.simplified}
         </span>
-        <div className="flex-1 min-w-0">
+        <div className="flex-1 min-w-0" style={{ paddingLeft: "48px" }}>
           {revealed ? (
             <p className="text-sm font-medium">{word.pinyin}</p>
           ) : null}
