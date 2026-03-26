@@ -74,26 +74,17 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
 
   useEffect(() => {
     if (revealed) {
-      setShowBody(true);
       setIsCollapsing(false);
+      // Scroll the collapsed card into view first, then expand
+      cardRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+      const t = setTimeout(() => setShowBody(true), 350);
+      return () => clearTimeout(t);
     } else if (showBody) {
       setIsCollapsing(true);
       setTimeout(() => {
         setShowBody(false);
         setIsCollapsing(false);
       }, 100);
-    }
-  }, [revealed]);
-
-  // Scroll card into view when revealed — use "start" so the full expanded card is visible
-  useEffect(() => {
-    if (revealed && cardRef.current) {
-      // Double rAF to let the DOM fully expand before scrolling
-      requestAnimationFrame(() => {
-        requestAnimationFrame(() => {
-          cardRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
-        });
-      });
     }
   }, [revealed]);
 
