@@ -65,7 +65,6 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
   const [charIndex, setCharIndex] = useState(0);
   const [mode, setMode] = useState<"animate" | "quiz">("animate");
   const strokeRef = useRef<StrokeOrderHandle>(null);
-  const cardRef = useRef<HTMLDivElement>(null);
   const [showBody, setShowBody] = useState(revealed);
   const [isCollapsing, setIsCollapsing] = useState(false);
 
@@ -75,24 +74,14 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
   useEffect(() => {
     if (revealed) {
       setIsCollapsing(false);
-      // Scroll card into view, staying just below any sticky dropdown
-      const card = cardRef.current;
-      const main = document.querySelector("main");
-      if (card && main) {
-        const stickyEl = document.querySelector("[data-sticky-dropdown]");
-        const stickyHeight = stickyEl ? stickyEl.getBoundingClientRect().height : 0;
-        const gap = 8;
-        const delta = card.getBoundingClientRect().top - stickyHeight - gap;
-        main.scrollBy({ top: delta, behavior: "smooth" });
-      }
-      const t = setTimeout(() => setShowBody(true), 350);
-      return () => clearTimeout(t);
+      setShowBody(true);
     } else if (showBody) {
       setIsCollapsing(true);
-      setTimeout(() => {
+      const t = setTimeout(() => {
         setShowBody(false);
         setIsCollapsing(false);
       }, 100);
+      return () => clearTimeout(t);
     }
   }, [revealed]);
 
@@ -114,7 +103,7 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
   // So header pinyin needs: pl-[128px] to align with body right column
 
   return (
-    <div ref={cardRef} className={`bg-card rounded-lg select-none scroll-mt-20 ${revealed ? "border border-white" : "border border-border"}`}>
+    <div className={`bg-card rounded-lg select-none ${revealed ? "border border-white" : "border border-border"}`}>
       {/* Clickable header row */}
       <div
         className="flex items-center p-4 cursor-pointer"

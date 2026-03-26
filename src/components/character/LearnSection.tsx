@@ -29,12 +29,22 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
   const sentinelRef = useRef<HTMLDivElement>(null);
   const containerRef = useRef<HTMLDivElement>(null);
   const menuRef = useRef<HTMLDivElement>(null);
+  const pendingTimers = useRef<ReturnType<typeof setTimeout>[]>([]);
+
+  const clearPendingTimers = () => {
+    pendingTimers.current.forEach(clearTimeout);
+    pendingTimers.current = [];
+  };
 
   // Reset selection when unit groups change
   useEffect(() => {
+    clearPendingTimers();
     setSelectedUnit(0);
     setRevealedCard(null);
   }, [unitGroups]);
+
+  // Cleanup on unmount
+  useEffect(() => () => clearPendingTimers(), []);
 
   const closeDropdown = () => {
     setIsClosing(true);
@@ -63,8 +73,36 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
   }, [isOpen]);
 
   const toggleReveal = useCallback((id: string) => {
-    setRevealedCard((prev) => (prev === id ? null : id));
-  }, []);
+    clearPendingTimers();
+
+    if (revealedCard === id) {
+      setRevealedCard(null);
+      return;
+    }
+
+    // Always use the in-flow dropdown height as offset — it's always in the DOM
+    // (just invisible when sticky), so its height is correct in both states.
+    const scrollAndOpen = () => {
+      const cardEl = document.querySelector(`[data-card-id="${id}"]`);
+      const main = document.querySelector("main");
+      if (cardEl && main && dropdownRef.current) {
+        const dropdownHeight = dropdownRef.current.getBoundingClientRect().height;
+        const delta = cardEl.getBoundingClientRect().top - dropdownHeight - 8;
+        main.scrollBy({ top: delta, behavior: "smooth" });
+      }
+      const t = setTimeout(() => setRevealedCard(id), 350);
+      pendingTimers.current.push(t);
+    };
+
+    if (revealedCard !== null) {
+      // Close current card, wait for its collapse animation, then scroll + open
+      setRevealedCard(null);
+      const t = setTimeout(scrollAndOpen, 120);
+      pendingTimers.current.push(t);
+    } else {
+      scrollAndOpen();
+    }
+  }, [revealedCard]);
 
   const currentGroup = unitGroups[selectedUnit];
   const currentNameZh = currentGroup
@@ -169,7 +207,6 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
       {/* Sticky dropdown that fades in when scrolled past */}
       {isSticky && (
         <div
-          data-sticky-dropdown
           className="fixed top-0 left-0 right-0 z-50 px-4 pt-2 pb-2 animate-in fade-in duration-200"
           style={{ background: "var(--background)" }}
         >
@@ -188,13 +225,14 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
       {currentGroup && (
         <div className="mt-2 space-y-3">
           {currentGroup.words.map((word) => (
-            <LearnCard
-              key={word.id}
-              word={word}
-              revealed={revealedCard === word.id}
-              onToggle={() => toggleReveal(word.id)}
-              expandPos={expandPos}
-            />
+            <div key={word.id} data-card-id={word.id}>
+              <LearnCard
+                word={word}
+                revealed={revealedCard === word.id}
+                onToggle={() => toggleReveal(word.id)}
+                expandPos={expandPos}
+              />
+            </div>
           ))}
         </div>
       )}
