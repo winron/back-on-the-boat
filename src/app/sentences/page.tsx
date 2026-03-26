@@ -145,7 +145,7 @@ export default function SentencesPage() {
             {result === "correct" ? (
               <TrilingualLabel chinese="正确！" pinyin="zhèngquè！" english="Correct!" size="sm" />
             ) : (
-              <TrilingualLabel chinese="再试试" pinyin="zài shìshi" english="Try again" size="sm" />
+              <TrilingualLabel chinese="不太对，再试一下" pinyin="bú tài duì, zài shì yīxià" english="Not quite, try again" size="sm" />
             )}
           </p>
           {result === "incorrect" && (

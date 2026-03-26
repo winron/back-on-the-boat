@@ -33,39 +33,45 @@ export default function ReviewCard({
         className="bg-card rounded-lg p-8 border border-border text-center min-h-[280px] flex flex-col items-center justify-center cursor-pointer select-none"
         onClick={() => !isFlipped && onFlip()}
       >
-        <p className="text-7xl font-normal mb-4">{word.simplified}</p>
-
         {isFlipped ? (
-          <div className="space-y-3 animate-in fade-in">
-            <PinyinDisplay pinyin={word.pinyin} className="text-xl" />
-            <p className="text-lg text-muted-foreground">{word.meaning}</p>
-            {word.exampleSentence && (
-              <div className="mt-4 pt-4 border-t border-border text-left">
-                <p className="text-base">{word.exampleSentence}</p>
-                {word.examplePinyin && (
-                  <PinyinDisplay
-                    pinyin={word.examplePinyin}
-                    className="text-sm"
-                  />
-                )}
-                {word.exampleMeaning && (
-                  <p className="text-sm text-muted-foreground">
-                    {word.exampleMeaning}
-                  </p>
-                )}
+          <>
+            <p className="text-7xl font-normal mb-4">{word.simplified}</p>
+            <div className="space-y-3 animate-in fade-in">
+              <PinyinDisplay pinyin={word.pinyin} className="text-xl" />
+              <p className="text-lg text-muted-foreground">{word.meaning}</p>
+              {word.exampleSentence && (
+                <div className="mt-4 pt-4 border-t border-border text-left">
+                  <p className="text-base">{word.exampleSentence}</p>
+                  {word.examplePinyin && (
+                    <PinyinDisplay
+                      pinyin={word.examplePinyin}
+                      className="text-sm"
+                    />
+                  )}
+                  {word.exampleMeaning && (
+                    <p className="text-sm text-muted-foreground">
+                      {word.exampleMeaning}
+                    </p>
+                  )}
+                </div>
+              )}
+              <div className="flex justify-center mt-2">
+                <AudioButton text={word.simplified} />
               </div>
-            )}
-            <div className="flex justify-center mt-2">
-              <AudioButton text={word.simplified} />
             </div>
-          </div>
+          </>
         ) : (
-          <TrilingualLabel
-            chinese="点一下看答案"
-            pinyin="diǎn yīxià kàn dá'àn"
-            english="Tap to see answer"
-            size="sm"
-          />
+          <>
+            <p className="text-7xl font-normal flex-1 flex items-center">{word.simplified}</p>
+            <div className="mt-auto pt-4">
+              <TrilingualLabel
+                chinese="点一下看答案"
+                pinyin="diǎn yīxià kàn dá'àn"
+                english="Tap to see answer"
+                size="sm"
+              />
+            </div>
+          </>
         )}
       </div>
 

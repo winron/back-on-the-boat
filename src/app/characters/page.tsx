@@ -9,8 +9,7 @@ import { getUnitNameZh } from "@/lib/unit-names";
 import { db } from "@/lib/db";
 import { useTTS } from "@/hooks/useTTS";
 import ReviewCard from "@/components/character/ReviewCard";
-import StrokeOrder from "@/components/character/StrokeOrder";
-import AudioButton from "@/components/shared/AudioButton";
+import LearnCard from "@/components/character/LearnCard";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import type { HskWord } from "@/types";
@@ -179,18 +178,18 @@ export default function CharactersPage() {
           ) : review.isComplete ? (
             <div className="text-center py-12">
               <p className="text-lg font-medium">
-                <TrilingualLabel chinese="都复习完了！" pinyin="dōu fùxí wán le！" english="All caught up!" size="sm" />
+                <TrilingualLabel chinese="复习完了" pinyin="fùxí wán le" english="All caught up!" size="sm" />
               </p>
               <p className="text-muted-foreground text-sm mt-1">
                 {review.totalReviewed > 0
                   ? `${review.totalReviewed} cards reviewed (${review.correctCount} correct)`
-                  : "没有要复习的了，待会儿再来吧。"}
+                  : "暂时没有要复习的，晚点再来。"}
               </p>
               <button
                 onClick={() => review.loadCards(`hsk${level}-`)}
                 className="mt-4 px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm"
               >
-                <TrilingualLabel chinese="再看看" pinyin="zài kànkan" english="Check again" size="xs" />
+                <TrilingualLabel chinese="再查一下" pinyin="zài chá yīxià" english="Check again" size="xs" />
               </button>
             </div>
           ) : currentWord ? (
@@ -240,50 +239,15 @@ export default function CharactersPage() {
                 {/* Word list — shown when expanded */}
                 {isExpanded && (
                   <div className="mt-1 space-y-1">
-                    {group.words.map((word) => {
-                      const revealed = revealedCards.has(word.id);
-                      return (
-                        <div
-                          key={word.id}
-                          className="bg-card rounded-lg border border-border select-none"
-                        >
-                          {/* Clickable header row */}
-                          <div
-                            className="flex items-center gap-4 p-4 cursor-pointer"
-                            onClick={() => toggleReveal(word.id)}
-                          >
-                            <span className="text-3xl w-12 text-center shrink-0">
-                              {word.simplified}
-                            </span>
-                            <div className="flex-1 min-w-0">
-                              {revealed ? (
-                                <>
-                                  <p className="text-sm font-medium">{word.pinyin}</p>
-                                  {word.partOfSpeech && (
-                                    <p className="text-xs text-muted-foreground">{expandPos(word.partOfSpeech)}</p>
-                                  )}
-                                  <p className="text-sm text-foreground">{word.meaning}</p>
-                                </>
-                              ) : null}
-                            </div>
-                            {/* Up/down arrow flush right */}
-                            <span className="text-muted-foreground text-sm shrink-0 transition-transform duration-200" style={{ transform: revealed ? "rotate(180deg)" : "rotate(0deg)" }}>
-                              ▾
-                            </span>
-                          </div>
-
-                          {/* Expanded content: audio + stroke order */}
-                          {revealed && (
-                            <div className="px-4 pb-4 space-y-3">
-                              <div className="flex items-center gap-2">
-                                <AudioButton text={word.simplified} />
-                              </div>
-                              <StrokeOrder character={word.simplified} size={120} />
-                            </div>
-                          )}
-                        </div>
-                      );
-                    })}
+                    {group.words.map((word) => (
+                      <LearnCard
+                        key={word.id}
+                        word={word}
+                        revealed={revealedCards.has(word.id)}
+                        onToggle={() => toggleReveal(word.id)}
+                        expandPos={expandPos}
+                      />
+                    ))}
                   </div>
                 )}
               </div>
@@ -291,7 +255,7 @@ export default function CharactersPage() {
           })}
           {words.length === 0 && (
             <p className="text-center text-muted-foreground py-8">
-              还没有词汇哦
+              暂时没有词汇
             </p>
           )}
         </div>
