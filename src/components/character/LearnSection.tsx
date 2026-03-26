@@ -169,6 +169,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
       {/* Sticky dropdown that fades in when scrolled past */}
       {isSticky && (
         <div
+          data-sticky-dropdown
           className="fixed top-0 left-0 right-0 z-50 px-4 pt-2 pb-2 animate-in fade-in duration-200"
           style={{ background: "var(--background)" }}
         >
