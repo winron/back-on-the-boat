@@ -85,12 +85,15 @@ export default function GrammarPage() {
             size="xs"
             className="opacity-60"
           />
-          {patterns.map((pattern) => (
+          {patterns.map((pattern, index) => (
             <button
               key={pattern.id}
               onClick={() => setSelectedId(pattern.id)}
-              className="w-full text-left bg-card rounded-lg p-4 border border-border hover:border-primary transition-colors"
+              className="relative w-full text-left bg-card rounded-lg p-4 pl-10 border border-border hover:border-primary transition-colors"
             >
+              <span className="absolute top-3 left-3 text-xs text-muted-foreground/60 font-mono leading-none">
+                {index + 1}
+              </span>
               <p className="font-medium">{pattern.title}</p>
               <p className="text-sm text-primary font-mono">
                 {pattern.structure}

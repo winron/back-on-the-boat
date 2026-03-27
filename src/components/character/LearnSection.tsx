@@ -196,7 +196,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
                 {showPinyin && pinyin && (
                   <div className="text-[13.5px] leading-tight text-muted-foreground">{pinyin}</div>
                 )}
-                <div className="text-[24px] font-medium">
+                <div className="text-[21px] font-medium">
                   {nameZh} ({group.words.length})
                 </div>
                 {showEnglish && (

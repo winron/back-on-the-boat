@@ -8,9 +8,8 @@ import { loadReadings } from "@/lib/data-loader";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
+import { toChineseNumber } from "@/lib/chinese-numbers";
 import type { ReadingPassage } from "@/types";
-
-type TabMode = "short" | "story";
 
 export default function ReadingPage() {
   const { level, setLevel } = useHskLevel("reading");
@@ -18,7 +17,6 @@ export default function ReadingPage() {
   const { showPinyin, showEnglish } = useDisplaySettings();
   const [readings, setReadings] = useState<ReadingPassage[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
-  const [tab, setTab] = useState<TabMode>("short");
 
   useEffect(() => {
     loadReadings(level)
@@ -32,7 +30,6 @@ export default function ReadingPage() {
     document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
   }, [selectedId]);
 
-  const filtered = readings.filter((r) => r.type === tab);
   const selected = readings.find((r) => r.id === selectedId);
 
   return (
@@ -96,52 +93,37 @@ export default function ReadingPage() {
           )}
         </div>
       ) : (
-        <div className="space-y-4">
-          <div className="flex gap-2">
+        <div className="space-y-3">
+          <TrilingualLabel
+            chinese={`${toChineseNumber(readings.length)}篇阅读`}
+            pinyin={`${readings.length} piān yuèdú`}
+            english={`${readings.length} reading passage${readings.length !== 1 ? "s" : ""}`}
+            size="xs"
+            className="opacity-60"
+          />
+          {readings.map((r, index) => (
             <button
-              onClick={() => setTab("short")}
-              className={`flex-1 py-2.5 rounded-lg font-medium text-sm transition-colors ${
-                tab === "short"
-                  ? "bg-primary text-primary-foreground"
-                  : "bg-muted text-muted-foreground"
-              }`}
+              key={r.id}
+              onClick={() => setSelectedId(r.id)}
+              className="relative w-full text-left bg-card rounded-lg p-4 pl-10 border border-border hover:border-primary transition-colors"
             >
-              <TrilingualLabel chinese="短文" pinyin="duǎn wén" english="Short" size="xs" />
+              <span className="absolute top-3 left-3 text-xs text-muted-foreground/60 font-mono leading-none">
+                {index + 1}
+              </span>
+              {r.titlePinyin && showPinyin && (
+                <p className="text-sm text-muted-foreground">{r.titlePinyin}</p>
+              )}
+              <p className="font-medium">{r.titleZh}</p>
+              {showEnglish && (
+                <p className="text-sm text-muted-foreground">{r.title}</p>
+              )}
             </button>
-            <button
-              onClick={() => setTab("story")}
-              className={`flex-1 py-2.5 rounded-lg font-medium text-sm transition-colors ${
-                tab === "story"
-                  ? "bg-primary text-primary-foreground"
-                  : "bg-muted text-muted-foreground"
-              }`}
-            >
-              <TrilingualLabel chinese="故事" pinyin="gùshi" english="Stories" size="xs" />
-            </button>
-          </div>
-
-          <div className="space-y-3">
-            {filtered.map((r) => (
-              <button
-                key={r.id}
-                onClick={() => setSelectedId(r.id)}
-                className="w-full text-left bg-card rounded-lg p-4 border border-border hover:border-primary transition-colors"
-              >
-                <p className="font-medium">{r.titleZh}</p>
-                {r.titlePinyin && showPinyin && (
-                  <p className="text-sm text-muted-foreground">{r.titlePinyin}</p>
-                )}
-                {showEnglish && (
-                  <p className="text-sm text-muted-foreground">{r.title}</p>
-                )}
-              </button>
-            ))}
-            {filtered.length === 0 && (
-              <p className="text-center text-muted-foreground py-8">
-                <TrilingualLabel chinese="还没有阅读内容" pinyin="hái méiyǒu yuèdú nèiróng" english="No reading content yet" size="sm" />
-              </p>
-            )}
-          </div>
+          ))}
+          {readings.length === 0 && (
+            <p className="text-center text-muted-foreground py-8">
+              <TrilingualLabel chinese="还没有阅读内容" pinyin="hái méiyǒu yuèdú nèiróng" english="No reading content yet" size="sm" />
+            </p>
+          )}
         </div>
       )}
     </div>
