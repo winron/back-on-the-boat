@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect, Suspense } from "react";
-import { useSearchParams } from "next/navigation";
+import { useSearchParams, useRouter } from "next/navigation";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { loadGrammar } from "@/lib/data-loader";
@@ -15,22 +15,26 @@ import type { GrammarPattern, HskLevel } from "@/types";
 
 function GrammarPageInner() {
   const searchParams = useSearchParams();
+  const router = useRouter();
   const { level, setLevel } = useHskLevel("grammar");
   const { unlockedLevel } = useUnlockedLevel();
   const { showPinyin, showEnglish } = useDisplaySettings();
   const [patterns, setPatterns] = useState<GrammarPattern[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [pendingId, setPendingId] = useState<string | null>(null);
+  const [fromPage, setFromPage] = useState<string | null>(null);
 
-  // Handle deep-link: /grammar?id=g2-005
+  // Handle deep-link: /grammar?id=g2-005&from=sentences
   useEffect(() => {
     const id = searchParams.get("id");
+    const from = searchParams.get("from");
     if (!id) return;
     const m = id.match(/^g(\d+)-/);
     if (m) {
       const targetLevel = parseInt(m[1]) as HskLevel;
       setPendingId(id);
       setLevel(targetLevel);
+      if (from) setFromPage(from);
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
@@ -68,7 +72,7 @@ function GrammarPageInner() {
       {selected ? (
         <div className="space-y-4">
           <button
-            onClick={() => setSelectedId(null)}
+            onClick={() => fromPage ? router.push(`/${fromPage}`) : setSelectedId(null)}
             className="bg-card border border-border rounded-lg px-5 py-2.5 text-white flex items-center"
           >
             <svg viewBox="0 0 36 12" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-9 h-3">

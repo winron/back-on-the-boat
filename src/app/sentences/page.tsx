@@ -345,7 +345,7 @@ export default function SentencesPage() {
             </span>
             {exercise.grammarId && (
               <Link
-                href={`/grammar?id=${exercise.grammarId}`}
+                href={`/grammar?id=${exercise.grammarId}&from=sentences`}
                 className="text-xs text-primary/70 hover:text-primary font-mono border border-primary/30 hover:border-primary/60 rounded px-1.5 py-0.5 transition-colors"
               >
                 语法
