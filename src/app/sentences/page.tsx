@@ -1,6 +1,25 @@
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
+import {
+  DndContext,
+  DragEndEvent,
+  DragOverlay,
+  DragStartEvent,
+  PointerSensor,
+  TouchSensor,
+  useSensor,
+  useSensors,
+  useDroppable,
+  useDraggable,
+} from "@dnd-kit/core";
+import {
+  SortableContext,
+  useSortable,
+  arrayMove,
+  rectSortingStrategy,
+} from "@dnd-kit/sortable";
+import { CSS } from "@dnd-kit/utilities";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { loadSentences } from "@/lib/data-loader";
@@ -22,6 +41,62 @@ function shuffleArray<T>(arr: T[]): T[] {
   return copy;
 }
 
+// ── Drag-and-drop word chips ──────────────────────────────────────────────────
+
+function SortableWord({ id, word, onTap }: { id: string; word: string; onTap: () => void }) {
+  const { attributes, listeners, setNodeRef, transform, transition, isDragging } =
+    useSortable({ id });
+  return (
+    <button
+      ref={setNodeRef}
+      style={{
+        transform: CSS.Transform.toString(transform),
+        transition,
+        opacity: isDragging ? 0.35 : 1,
+        touchAction: "none",
+      }}
+      {...attributes}
+      {...listeners}
+      onClick={onTap}
+      className="px-3 py-2 bg-primary text-primary-foreground rounded-lg text-lg font-medium"
+    >
+      {word}
+    </button>
+  );
+}
+
+function DraggableWord({ id, word, onTap }: { id: string; word: string; onTap: () => void }) {
+  const { attributes, listeners, setNodeRef, isDragging } = useDraggable({ id });
+  return (
+    <button
+      ref={setNodeRef}
+      style={{ opacity: isDragging ? 0.35 : 1, touchAction: "none" }}
+      {...attributes}
+      {...listeners}
+      onClick={onTap}
+      className="px-3 py-2 bg-card border border-border rounded-lg text-lg font-medium hover:border-primary transition-colors"
+    >
+      {word}
+    </button>
+  );
+}
+
+function WordChip({ word, variant }: { word: string; variant: "selected" | "bank" }) {
+  return (
+    <div
+      className={`px-3 py-2 rounded-lg text-lg font-medium pointer-events-none ${
+        variant === "selected"
+          ? "bg-primary text-primary-foreground"
+          : "bg-card border border-border"
+      }`}
+    >
+      {word}
+    </div>
+  );
+}
+
+// ── Main page ─────────────────────────────────────────────────────────────────
+
 export default function SentencesPage() {
   const { level, setLevel } = useHskLevel("sentences");
   const { unlockedLevel } = useUnlockedLevel();
@@ -36,11 +111,16 @@ export default function SentencesPage() {
   const [loaded, setLoaded] = useState(false);
   const [masteredCount, setMasteredCount] = useState(0);
   const [totalCount, setTotalCount] = useState(0);
+  const [activeDrag, setActiveDrag] = useState<{ id: string; word: string; variant: "selected" | "bank" } | null>(null);
+
+  const sensors = useSensors(
+    useSensor(PointerSensor, { activationConstraint: { distance: 6 } }),
+    useSensor(TouchSensor, { activationConstraint: { delay: 120, tolerance: 6 } }),
+  );
 
   const loadSession = useCallback(async (exercises: SentenceExercise[], lv: HskLevel) => {
     const prefix = `s${lv}-`;
 
-    // Seed any cards that don't exist yet
     const existing = await db.srsCards
       .where("module").equals("sentences")
       .filter((c) => c.id.startsWith(prefix))
@@ -51,7 +131,6 @@ export default function SentencesPage() {
       .map((e) => createNewSrsCard(e.id, "sentences"));
     if (toSeed.length > 0) await db.srsCards.bulkAdd(toSeed);
 
-    // Build session queue: due first, then new
     const due = await getDueCards("sentences", 20, prefix);
     const newCards =
       due.length < 5
@@ -59,7 +138,6 @@ export default function SentencesPage() {
         : [];
     const session = [...due, ...newCards];
 
-    // Mastery stats
     const allCards = await db.srsCards
       .where("module").equals("sentences")
       .filter((c) => c.id.startsWith(prefix))
@@ -92,7 +170,6 @@ export default function SentencesPage() {
   const exercise = currentCard ? (exerciseMap.get(currentCard.id) ?? null) : null;
   const isComplete = loaded && currentIndex >= sessionCards.length;
 
-  // Reset word bank when exercise changes
   useEffect(() => {
     if (exercise) {
       setShuffledBank(shuffleArray(exercise.wordBank));
@@ -101,6 +178,8 @@ export default function SentencesPage() {
       setHasRated(false);
     }
   }, [exercise]);
+
+  // ── Tap handlers (keep existing tap-to-move behaviour) ────────────────────
 
   const handleWordTap = (word: string, index: number) => {
     setSelected((s) => [...s, word]);
@@ -111,6 +190,63 @@ export default function SentencesPage() {
     setShuffledBank((b) => [...b, word]);
     setSelected((s) => s.filter((_, i) => i !== index));
   };
+
+  // ── Drag handlers ─────────────────────────────────────────────────────────
+
+  const handleDragStart = ({ active }: DragStartEvent) => {
+    const id = String(active.id);
+    if (id.startsWith("bank-")) {
+      const idx = parseInt(id.slice(5));
+      setActiveDrag({ id, word: shuffledBank[idx], variant: "bank" });
+    } else if (id.startsWith("sel-")) {
+      const idx = parseInt(id.slice(4));
+      setActiveDrag({ id, word: selected[idx], variant: "selected" });
+    }
+  };
+
+  const handleDragEnd = ({ active, over }: DragEndEvent) => {
+    setActiveDrag(null);
+    if (!over) return;
+
+    const activeId = String(active.id);
+    const overId = String(over.id);
+
+    // Bank word → answer area (drop on answer zone or on an existing sel chip)
+    if (activeId.startsWith("bank-") && (overId === "answer-area" || overId.startsWith("sel-"))) {
+      const bankIdx = parseInt(activeId.slice(5));
+      const word = shuffledBank[bankIdx];
+      if (overId.startsWith("sel-")) {
+        const targetIdx = parseInt(overId.slice(4));
+        setSelected((s) => {
+          const next = [...s];
+          next.splice(targetIdx, 0, word);
+          return next;
+        });
+      } else {
+        setSelected((s) => [...s, word]);
+      }
+      setShuffledBank((b) => b.filter((_, i) => i !== bankIdx));
+      return;
+    }
+
+    // Selected word → bank area (drag back)
+    if (activeId.startsWith("sel-") && (overId === "bank-area" || overId.startsWith("bank-"))) {
+      const selIdx = parseInt(activeId.slice(4));
+      const word = selected[selIdx];
+      setShuffledBank((b) => [...b, word]);
+      setSelected((s) => s.filter((_, i) => i !== selIdx));
+      return;
+    }
+
+    // Reorder within answer area
+    if (activeId.startsWith("sel-") && overId.startsWith("sel-")) {
+      const from = parseInt(activeId.slice(4));
+      const to = parseInt(overId.slice(4));
+      if (from !== to) setSelected((s) => arrayMove(s, from, to));
+    }
+  };
+
+  // ── SRS check ─────────────────────────────────────────────────────────────
 
   const handleCheck = useCallback(async () => {
     if (!exercise || !currentCard) return;
@@ -131,7 +267,6 @@ export default function SentencesPage() {
     }
 
     setResult(isCorrect ? "correct" : "incorrect");
-    // Scroll to bottom so the action button is fully visible
     setTimeout(() => {
       document.querySelector("main")?.scrollTo({ top: 99999, behavior: "smooth" });
     }, 50);
@@ -141,6 +276,8 @@ export default function SentencesPage() {
     document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
     setCurrentIndex((i) => i + 1);
   };
+
+  // ── Shared header ─────────────────────────────────────────────────────────
 
   const header = (
     <div className="flex items-center justify-between">
@@ -188,6 +325,9 @@ export default function SentencesPage() {
     );
   }
 
+  const selIds = selected.map((_, i) => `sel-${i}`);
+  const bankIds = shuffledBank.map((_, i) => `bank-${i}`);
+
   return (
     <div className="tab-color-4 space-y-6 pb-8">
       {header}
@@ -202,38 +342,38 @@ export default function SentencesPage() {
             {currentIndex + 1} / {sessionCards.length}
           </span>
         </div>
-
-        {/* Target meaning */}
         <div className="bg-card rounded-lg p-4 border border-border">
           <p className="text-base font-medium">{exercise.targetMeaning}</p>
         </div>
       </div>
 
-      {/* Selected words (answer area) */}
-      <div className="min-h-[60px] bg-muted rounded-lg p-3 flex flex-wrap gap-2">
-        {selected.map((word, i) => (
-          <button
-            key={`${word}-${i}`}
-            onClick={() => handleSelectedTap(word, i)}
-            className="px-3 py-2 bg-primary text-primary-foreground rounded-lg text-lg font-medium"
-          >
-            {word}
-          </button>
-        ))}
-      </div>
+      {/* Drag-and-drop context wraps both answer area and word bank */}
+      <DndContext
+        sensors={sensors}
+        onDragStart={handleDragStart}
+        onDragEnd={handleDragEnd}
+      >
+        {/* Answer area */}
+        <AnswerDropZone
+          selIds={selIds}
+          selected={selected}
+          onTap={handleSelectedTap}
+        />
 
-      {/* Word bank */}
-      <div className="flex flex-wrap gap-2">
-        {shuffledBank.map((word, i) => (
-          <button
-            key={`${word}-${i}`}
-            onClick={() => handleWordTap(word, i)}
-            className="px-3 py-2 bg-card border border-border rounded-lg text-lg font-medium hover:border-primary transition-colors"
-          >
-            {word}
-          </button>
-        ))}
-      </div>
+        {/* Word bank */}
+        <BankDropZone
+          bankIds={bankIds}
+          shuffledBank={shuffledBank}
+          onTap={handleWordTap}
+        />
+
+        {/* Floating preview while dragging */}
+        <DragOverlay dropAnimation={null}>
+          {activeDrag ? (
+            <WordChip word={activeDrag.word} variant={activeDrag.variant} />
+          ) : null}
+        </DragOverlay>
+      </DndContext>
 
       {/* Result */}
       {result && (
@@ -292,6 +432,68 @@ export default function SentencesPage() {
           </button>
         )}
       </div>
+    </div>
+  );
+}
+
+// ── Drop zones (defined after main to keep hook rules happy) ──────────────────
+
+function AnswerDropZone({
+  selIds,
+  selected,
+  onTap,
+}: {
+  selIds: string[];
+  selected: string[];
+  onTap: (word: string, i: number) => void;
+}) {
+  const { setNodeRef, isOver } = useDroppable({ id: "answer-area" });
+  return (
+    <div
+      ref={setNodeRef}
+      className={`min-h-[60px] bg-muted rounded-lg p-3 flex flex-wrap gap-2 transition-colors ${
+        isOver ? "ring-2 ring-primary/60" : ""
+      }`}
+    >
+      <SortableContext items={selIds} strategy={rectSortingStrategy}>
+        {selected.map((word, i) => (
+          <SortableWord
+            key={selIds[i]}
+            id={selIds[i]}
+            word={word}
+            onTap={() => onTap(word, i)}
+          />
+        ))}
+      </SortableContext>
+    </div>
+  );
+}
+
+function BankDropZone({
+  bankIds,
+  shuffledBank,
+  onTap,
+}: {
+  bankIds: string[];
+  shuffledBank: string[];
+  onTap: (word: string, i: number) => void;
+}) {
+  const { setNodeRef, isOver } = useDroppable({ id: "bank-area" });
+  return (
+    <div
+      ref={setNodeRef}
+      className={`flex flex-wrap gap-2 min-h-[44px] rounded-lg transition-colors ${
+        isOver ? "ring-2 ring-muted-foreground/30" : ""
+      }`}
+    >
+      {shuffledBank.map((word, i) => (
+        <DraggableWord
+          key={bankIds[i]}
+          id={bankIds[i]}
+          word={word}
+          onTap={() => onTap(word, i)}
+        />
+      ))}
     </div>
   );
 }

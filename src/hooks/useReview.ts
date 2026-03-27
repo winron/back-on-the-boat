@@ -70,9 +70,6 @@ export function useReview(module: SrsCardState["module"]) {
       const card = session.cards[session.currentIndex];
       if (!card) return;
 
-      // Flip back immediately so animation plays over the old card
-      setSession((s) => ({ ...s, isFlipped: false }));
-
       const updated = reviewSrsCard(card, grade);
       // Track highest grade ever achieved (for progression/mastery)
       if (grade >= Rating.Easy) {
@@ -82,9 +79,6 @@ export function useReview(module: SrsCardState["module"]) {
 
       const correct = grade >= Rating.Good;
       await recordReview(correct);
-
-      // Wait for flip animation (500ms) before swapping to next card
-      await new Promise((resolve) => setTimeout(resolve, 500));
 
       setSession((s) => {
         const nextIndex = s.currentIndex + 1;
