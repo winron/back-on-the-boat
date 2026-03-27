@@ -4,11 +4,14 @@ import { useState, useEffect, useCallback } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { loadSentences } from "@/lib/data-loader";
+import { db } from "@/lib/db";
+import { getDueCards, getNewCards, createNewSrsCard, reviewCard, Rating } from "@/lib/srs";
+import { recordReview } from "@/hooks/useStats";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
 import AudioButton from "@/components/shared/AudioButton";
-import type { SentenceExercise } from "@/types";
+import type { SentenceExercise, SrsCardState, HskLevel } from "@/types";
 
 function shuffleArray<T>(arr: T[]): T[] {
   const copy = [...arr];
@@ -22,28 +25,80 @@ function shuffleArray<T>(arr: T[]): T[] {
 export default function SentencesPage() {
   const { level, setLevel } = useHskLevel("sentences");
   const { unlockedLevel } = useUnlockedLevel();
-  const [exercises, setExercises] = useState<SentenceExercise[]>([]);
+
+  const [exerciseMap, setExerciseMap] = useState<Map<string, SentenceExercise>>(new Map());
+  const [sessionCards, setSessionCards] = useState<SrsCardState[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selected, setSelected] = useState<string[]>([]);
   const [shuffledBank, setShuffledBank] = useState<string[]>([]);
   const [result, setResult] = useState<"correct" | "incorrect" | null>(null);
+  const [hasRated, setHasRated] = useState(false);
+  const [loaded, setLoaded] = useState(false);
+  const [masteredCount, setMasteredCount] = useState(0);
+  const [totalCount, setTotalCount] = useState(0);
+
+  const loadSession = useCallback(async (exercises: SentenceExercise[], lv: HskLevel) => {
+    const prefix = `s${lv}-`;
+
+    // Seed any cards that don't exist yet
+    const existing = await db.srsCards
+      .where("module").equals("sentences")
+      .filter((c) => c.id.startsWith(prefix))
+      .toArray();
+    const existingIds = new Set(existing.map((c) => c.id));
+    const toSeed = exercises
+      .filter((e) => !existingIds.has(e.id))
+      .map((e) => createNewSrsCard(e.id, "sentences"));
+    if (toSeed.length > 0) await db.srsCards.bulkAdd(toSeed);
+
+    // Build session queue: due first, then new
+    const due = await getDueCards("sentences", 20, prefix);
+    const newCards =
+      due.length < 5
+        ? await getNewCards("sentences", 10 - Math.min(due.length, 5), prefix)
+        : [];
+    const session = [...due, ...newCards];
+
+    // Mastery stats
+    const allCards = await db.srsCards
+      .where("module").equals("sentences")
+      .filter((c) => c.id.startsWith(prefix))
+      .toArray();
+    const mastered = allCards.filter((c) => (c.bestGrade ?? 0) >= 3).length;
+
+    setSessionCards(session);
+    setCurrentIndex(0);
+    setMasteredCount(mastered);
+    setTotalCount(exercises.length);
+    setResult(null);
+    setHasRated(false);
+    setLoaded(true);
+  }, []);
 
   useEffect(() => {
+    setLoaded(false);
     loadSentences(level)
       .then((data) => {
-        setExercises(shuffleArray(data));
-        setCurrentIndex(0);
+        setExerciseMap(new Map(data.map((e) => [e.id, e])));
+        loadSession(data, level);
       })
-      .catch(() => setExercises([]));
-  }, [level]);
+      .catch(() => {
+        setExerciseMap(new Map());
+        setLoaded(true);
+      });
+  }, [level, loadSession]);
 
-  const exercise = exercises[currentIndex] ?? null;
+  const currentCard = sessionCards[currentIndex] ?? null;
+  const exercise = currentCard ? (exerciseMap.get(currentCard.id) ?? null) : null;
+  const isComplete = loaded && currentIndex >= sessionCards.length;
 
+  // Reset word bank when exercise changes
   useEffect(() => {
     if (exercise) {
       setShuffledBank(shuffleArray(exercise.wordBank));
       setSelected([]);
       setResult(null);
+      setHasRated(false);
     }
   }, [exercise]);
 
@@ -57,24 +112,68 @@ export default function SentencesPage() {
     setSelected((s) => s.filter((_, i) => i !== index));
   };
 
-  const handleCheck = () => {
-    if (!exercise) return;
-    const userSentence = selected.join("");
-    const isCorrect = userSentence === exercise.targetSentence;
-    setResult(isCorrect ? "correct" : "incorrect");
-  };
+  const handleCheck = useCallback(async () => {
+    if (!exercise || !currentCard) return;
+    const isCorrect = selected.join("") === exercise.targetSentence;
 
-  const handleNext = () => {
-    setCurrentIndex((i) => Math.min(exercises.length - 1, i + 1));
-  };
+    if (!hasRated) {
+      const grade = isCorrect ? Rating.Good : Rating.Again;
+      const updated = reviewCard(currentCard, grade);
+      if (isCorrect) {
+        const prevBest = currentCard.bestGrade ?? 0;
+        updated.bestGrade = Math.max(prevBest, Rating.Good);
+        if (prevBest < 3) setMasteredCount((n) => n + 1);
+      }
+      await db.srsCards.put(updated);
+      await recordReview(isCorrect);
+      setHasRated(true);
+      setSessionCards((cards) => cards.map((c) => (c.id === updated.id ? updated : c)));
+    }
+
+    setResult(isCorrect ? "correct" : "incorrect");
+  }, [exercise, currentCard, selected, hasRated]);
+
+  const handleNext = () => setCurrentIndex((i) => i + 1);
+
+  const header = (
+    <div className="flex items-center justify-between">
+      <TrilingualLabel chinese="造句" pinyin="zàojù" english="Sentences" size="lg" />
+      <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+    </div>
+  );
+
+  if (!loaded) {
+    return (
+      <div className="tab-color-4 space-y-6">
+        {header}
+        <p className="text-center text-muted-foreground py-8">
+          <TrilingualLabel chinese="加载中…" pinyin="jiāzài zhōng" english="Loading…" size="sm" />
+        </p>
+      </div>
+    );
+  }
+
+  if (isComplete) {
+    const pct = totalCount > 0 ? Math.round((masteredCount / totalCount) * 100) : 0;
+    return (
+      <div className="tab-color-4 space-y-6">
+        {header}
+        <div className="text-center py-12 space-y-2">
+          <p className="text-lg font-medium">
+            <TrilingualLabel chinese="做完了！" pinyin="zuò wán le!" english="Session complete!" size="sm" />
+          </p>
+          <p className="text-sm text-muted-foreground">
+            {masteredCount} / {totalCount} mastered ({pct}%)
+          </p>
+        </div>
+      </div>
+    );
+  }
 
   if (!exercise) {
     return (
       <div className="tab-color-4 space-y-6">
-        <div className="flex items-center justify-between">
-          <TrilingualLabel chinese="造句" pinyin="zàojù" english="Sentences" size="lg" />
-          <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
-        </div>
+        {header}
         <p className="text-center text-muted-foreground py-8">
           <TrilingualLabel chinese="还没有练习题" pinyin="hái méiyǒu liànxí tí" english="No exercises yet" size="sm" />
         </p>
@@ -84,19 +183,21 @@ export default function SentencesPage() {
 
   return (
     <div className="tab-color-4 space-y-6">
+      {header}
+
+      {/* 翻译 label left, counter right */}
       <div className="flex items-center justify-between">
-        <TrilingualLabel chinese="造句" pinyin="zàojù" english="Sentences" size="lg" />
-        <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+        <p className="opacity-50">
+          <TrilingualLabel chinese="翻译" pinyin="fānyì" english="Translate" size="xs" />
+        </p>
+        <span className="text-sm text-muted-foreground">
+          {currentIndex + 1} / {sessionCards.length}
+        </span>
       </div>
 
       {/* Target meaning */}
-      <div>
-        <p className="opacity-50 mb-2">
-          <TrilingualLabel chinese="翻译" pinyin="fānyì" english="Translate" size="xs" />
-        </p>
-        <div className="bg-card rounded-lg p-4 border border-border">
-          <p className="text-base font-medium">{exercise.targetMeaning}</p>
-        </div>
+      <div className="bg-card rounded-lg p-4 border border-border">
+        <p className="text-base font-medium">{exercise.targetMeaning}</p>
       </div>
 
       {/* Selected words (answer area) */}
@@ -144,10 +245,7 @@ export default function SentencesPage() {
           {result === "incorrect" && (
             <div className="mt-2 space-y-1">
               <p className="text-sm">{exercise.targetSentence}</p>
-              <PinyinDisplay
-                pinyin={exercise.targetPinyin}
-                className="text-sm"
-              />
+              <PinyinDisplay pinyin={exercise.targetPinyin} className="text-sm" />
             </div>
           )}
           <div className="flex items-center gap-2 mt-2">
@@ -175,7 +273,7 @@ export default function SentencesPage() {
             <TrilingualLabel chinese="再试" pinyin="zài shì" english="Try Again" size="xs" />
           </button>
         )}
-        {result === "correct" && currentIndex < exercises.length - 1 && (
+        {result === "correct" && (
           <button
             onClick={handleNext}
             className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium"
