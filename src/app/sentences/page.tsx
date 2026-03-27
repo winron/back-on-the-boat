@@ -103,11 +103,6 @@ export default function SentencesPage() {
 
       {/* Selected words (answer area) */}
       <div className="min-h-[60px] bg-muted rounded-lg p-3 flex flex-wrap gap-2">
-        {selected.length === 0 && (
-          <p className="text-sm text-muted-foreground">
-            <TrilingualLabel chinese="点词造句" pinyin="diǎn cí zàojù" english="Tap words to build a sentence" size="xs" />
-          </p>
-        )}
         {selected.map((word, i) => (
           <button
             key={`${word}-${i}`}
@@ -174,7 +169,15 @@ export default function SentencesPage() {
             <TrilingualLabel chinese="确认" pinyin="quèrèn" english="Confirm" size="xs" />
           </button>
         )}
-        {result && currentIndex < exercises.length - 1 && (
+        {result === "incorrect" && (
+          <button
+            onClick={() => setResult(null)}
+            className="flex-1 py-3 bg-muted text-foreground rounded-lg font-medium"
+          >
+            <TrilingualLabel chinese="再试" pinyin="zài shì" english="Try Again" size="xs" />
+          </button>
+        )}
+        {result === "correct" && currentIndex < exercises.length - 1 && (
           <button
             onClick={handleNext}
             className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium"
