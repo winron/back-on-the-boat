@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect, useCallback } from "react";
+import Link from "next/link";
 import {
   DndContext,
   DragEndEvent,
@@ -338,9 +339,19 @@ export default function SentencesPage() {
           <p className="opacity-50">
             <TrilingualLabel chinese="翻译" pinyin="fānyì" english="Translate" size="xs" />
           </p>
-          <span className="text-sm text-muted-foreground">
-            {currentIndex + 1} / {sessionCards.length}
-          </span>
+          <div className="flex items-center gap-3">
+            <span className="text-sm text-muted-foreground">
+              {currentIndex + 1} / {sessionCards.length}
+            </span>
+            {exercise.grammarId && (
+              <Link
+                href={`/grammar?id=${exercise.grammarId}`}
+                className="text-xs text-primary/70 hover:text-primary font-mono border border-primary/30 hover:border-primary/60 rounded px-1.5 py-0.5 transition-colors"
+              >
+                语法
+              </Link>
+            )}
+          </div>
         </div>
         <div className="bg-card rounded-lg p-4 border border-border">
           <p className="text-base font-medium">{exercise.targetMeaning}</p>

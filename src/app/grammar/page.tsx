@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense } from "react";
+import { useSearchParams } from "next/navigation";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { loadGrammar } from "@/lib/data-loader";
@@ -10,23 +11,47 @@ import PinyinDisplay from "@/components/shared/PinyinDisplay";
 import AudioButton from "@/components/shared/AudioButton";
 import { useDisplaySettings } from "@/hooks/useDisplaySettings";
 import { toChineseNumber } from "@/lib/chinese-numbers";
-import type { GrammarPattern } from "@/types";
+import type { GrammarPattern, HskLevel } from "@/types";
 
-export default function GrammarPage() {
+function GrammarPageInner() {
+  const searchParams = useSearchParams();
   const { level, setLevel } = useHskLevel("grammar");
   const { unlockedLevel } = useUnlockedLevel();
   const { showPinyin, showEnglish } = useDisplaySettings();
   const [patterns, setPatterns] = useState<GrammarPattern[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [pendingId, setPendingId] = useState<string | null>(null);
+
+  // Handle deep-link: /grammar?id=g2-005
+  useEffect(() => {
+    const id = searchParams.get("id");
+    if (!id) return;
+    const m = id.match(/^g(\d+)-/);
+    if (m) {
+      const targetLevel = parseInt(m[1]) as HskLevel;
+      setPendingId(id);
+      setLevel(targetLevel);
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   useEffect(() => {
     loadGrammar(level)
       .then(setPatterns)
       .catch(() => setPatterns([]));
-    setSelectedId(null);
+    if (!pendingId) setSelectedId(null);
   }, [level]);
 
-  // Scroll to top whenever the view switches (browse ↔ detail)
+  // Open the pending pattern once its level's patterns have loaded
+  useEffect(() => {
+    if (pendingId && patterns.length > 0) {
+      if (patterns.some((p) => p.id === pendingId)) {
+        setSelectedId(pendingId);
+        setPendingId(null);
+      }
+    }
+  }, [patterns, pendingId]);
+
   useEffect(() => {
     document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
   }, [selectedId]);
@@ -61,10 +86,7 @@ export default function GrammarPage() {
             </p>
             <div className="space-y-3">
               {selected.examples.map((ex, i) => (
-                <div
-                  key={i}
-                  className="bg-muted rounded-lg p-3 space-y-1"
-                >
+                <div key={i} className="bg-muted rounded-lg p-3 space-y-1">
                   <div className="flex items-center gap-2">
                     <p className="text-base">{ex.chinese}</p>
                     <AudioButton text={ex.chinese} className="w-8 h-8" />
@@ -108,5 +130,13 @@ export default function GrammarPage() {
         </div>
       )}
     </div>
+  );
+}
+
+export default function GrammarPage() {
+  return (
+    <Suspense>
+      <GrammarPageInner />
+    </Suspense>
   );
 }
