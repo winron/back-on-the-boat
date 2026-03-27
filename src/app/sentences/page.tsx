@@ -189,22 +189,24 @@ export default function SentencesPage() {
   }
 
   return (
-    <div className="tab-color-4 space-y-6">
+    <div className="tab-color-4 space-y-6 pb-8">
       {header}
 
-      {/* 翻译 label left, counter right */}
-      <div className="flex items-center justify-between">
-        <p className="opacity-50">
-          <TrilingualLabel chinese="翻译" pinyin="fānyì" english="Translate" size="xs" />
-        </p>
-        <span className="text-sm text-muted-foreground">
-          {currentIndex + 1} / {sessionCards.length}
-        </span>
-      </div>
+      {/* 翻译 label left, counter right + target meaning */}
+      <div>
+        <div className="flex items-center justify-between mb-2">
+          <p className="opacity-50">
+            <TrilingualLabel chinese="翻译" pinyin="fānyì" english="Translate" size="xs" />
+          </p>
+          <span className="text-sm text-muted-foreground">
+            {currentIndex + 1} / {sessionCards.length}
+          </span>
+        </div>
 
-      {/* Target meaning */}
-      <div className="bg-card rounded-lg p-4 border border-border">
-        <p className="text-base font-medium">{exercise.targetMeaning}</p>
+        {/* Target meaning */}
+        <div className="bg-card rounded-lg p-4 border border-border">
+          <p className="text-base font-medium">{exercise.targetMeaning}</p>
+        </div>
       </div>
 
       {/* Selected words (answer area) */}
@@ -236,26 +238,24 @@ export default function SentencesPage() {
       {/* Result */}
       {result && (
         <div
-          className={`rounded-lg p-4 ${
+          className={`rounded-lg p-5 space-y-4 ${
             result === "correct"
               ? "bg-green-950 border border-green-800"
               : "bg-red-950 border border-red-800"
           }`}
         >
-          <p className="font-medium">
-            {result === "correct" ? (
-              <TrilingualLabel chinese="答对了！" pinyin="dá duì le!" english="Got it right!" size="sm" />
-            ) : (
-              <TrilingualLabel chinese="不太对，再试一下" pinyin="bú tài duì, zài shì yí xià" english="Not quite, try again" size="sm" />
-            )}
-          </p>
+          {result === "correct" ? (
+            <TrilingualLabel chinese="答对了！" pinyin="dá duì le!" english="Got it right!" size="sm" />
+          ) : (
+            <TrilingualLabel chinese="不太对，再试一下" pinyin="bú tài duì, zài shì yí xià" english="Not quite, try again" size="sm" />
+          )}
           {result === "incorrect" && (
-            <div className="mt-4 space-y-1">
+            <div className="space-y-1">
               <p className="text-sm">{exercise.targetSentence}</p>
               <PinyinDisplay pinyin={exercise.targetPinyin} className="text-sm" />
             </div>
           )}
-          <div className="flex items-center gap-2 mt-2">
+          <div className="flex items-center gap-2">
             <AudioButton text={exercise.targetSentence} />
           </div>
         </div>
