@@ -28,6 +28,7 @@ import { loadSentences } from "@/lib/data-loader";
 import { db } from "@/lib/db";
 import { getDueCards, getNewCards, createNewSrsCard, reviewCard, Rating } from "@/lib/srs";
 import { recordReview } from "@/hooks/useStats";
+import { getRecallCards } from "@/hooks/useReview";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
@@ -139,7 +140,23 @@ function SentencesPageInner() {
       due.length < 5
         ? await getNewCards("sentences", 10 - Math.min(due.length, 5), prefix)
         : [];
-    const session = [...due, ...newCards];
+    let session: SrsCardState[] = [...due, ...newCards];
+
+    // Sprinkle in recall sentences from previous levels (1 per 4 main cards)
+    if (lv > 1) {
+      const recallPrefixes = Array.from({ length: lv - 1 }, (_, i) => `s${i + 1}-`);
+      const recall = await getRecallCards("sentences", recallPrefixes, 2);
+      if (recall.length > 0) {
+        const mixed: SrsCardState[] = [];
+        let ri = 0;
+        for (let i = 0; i < session.length; i++) {
+          if (i > 0 && i % 4 === 0 && ri < recall.length) mixed.push(recall[ri++]);
+          mixed.push(session[i]);
+        }
+        while (ri < recall.length) mixed.push(recall[ri++]);
+        session = mixed;
+      }
+    }
 
     const allCards = await db.srsCards
       .where("module").equals("sentences")
@@ -161,8 +178,14 @@ function SentencesPageInner() {
     const resumeId = searchParams.get("resume") ?? undefined;
     setLoaded(false);
     loadSentences(level)
-      .then((data) => {
-        setExerciseMap(new Map(data.map((e) => [e.id, e])));
+      .then(async (data) => {
+        const map = new Map(data.map((e) => [e.id, e]));
+        // Pre-load previous levels' exercises so recall cards resolve correctly (cached)
+        for (let i = 1; i < level; i++) {
+          const prev = await loadSentences(i as HskLevel);
+          for (const e of prev) map.set(e.id, e);
+        }
+        setExerciseMap(map);
         loadSession(data, level, resumeId);
       })
       .catch(() => {
@@ -260,10 +283,14 @@ function SentencesPageInner() {
     if (!hasRated) {
       const grade = isCorrect ? Rating.Good : Rating.Again;
       const updated = reviewCard(currentCard, grade);
-      if (isCorrect) {
-        const prevBest = currentCard.bestGrade ?? 0;
-        updated.bestGrade = Math.max(prevBest, Rating.Good);
-        if (prevBest < 3) setMasteredCount((n) => n + 1);
+      const prevBest = currentCard.bestGrade ?? 0;
+      if (prevBest >= 3) {
+        // Mastered: allow drop to 3 but never below
+        updated.bestGrade = Math.max(3, grade as number);
+      } else {
+        // Not yet mastered: ratchet upward only
+        updated.bestGrade = Math.max(prevBest, grade as number);
+        if (updated.bestGrade >= 3 && prevBest < 3) setMasteredCount((n) => n + 1);
       }
       await db.srsCards.put(updated);
       await recordReview(isCorrect);
@@ -281,6 +308,20 @@ function SentencesPageInner() {
     document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
     setCurrentIndex((i) => i + 1);
   };
+
+  const startPractice = useCallback(async () => {
+    const prefix = `s${level}-`;
+    const all = await db.srsCards
+      .where("module").equals("sentences")
+      .filter((c) => c.id.startsWith(prefix))
+      .toArray();
+    const shuffled = shuffleArray(all);
+    setSessionCards(shuffled);
+    setCurrentIndex(0);
+    setResult(null);
+    setHasRated(false);
+    document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
+  }, [level]);
 
   // ── Shared header ─────────────────────────────────────────────────────────
 
@@ -307,13 +348,21 @@ function SentencesPageInner() {
     return (
       <div className="tab-color-4 space-y-6">
         {header}
-        <div className="text-center py-12 space-y-2">
-          <p className="text-lg font-medium">
-            <TrilingualLabel chinese="做完了！" pinyin="zuò wán le!" english="Session complete!" size="sm" />
-          </p>
-          <p className="text-sm text-muted-foreground">
-            {masteredCount} / {totalCount} mastered ({pct}%)
-          </p>
+        <div className="text-center py-12 space-y-4">
+          <div className="space-y-2">
+            <p className="text-lg font-medium">
+              <TrilingualLabel chinese="做完了！" pinyin="zuò wán le!" english="Session complete!" size="sm" />
+            </p>
+            <p className="text-sm text-muted-foreground">
+              {masteredCount} / {totalCount} mastered ({pct}%)
+            </p>
+          </div>
+          <button
+            onClick={startPractice}
+            className="px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm"
+          >
+            <TrilingualLabel chinese="练习" pinyin="liànxí" english="Practice all" size="xs" />
+          </button>
         </div>
       </div>
     );

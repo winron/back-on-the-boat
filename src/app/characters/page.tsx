@@ -11,7 +11,7 @@ import ReviewCard from "@/components/character/ReviewCard";
 import LearnSection from "@/components/character/LearnSection";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
-import type { HskWord } from "@/types";
+import type { HskWord, HskLevel } from "@/types";
 
 type Mode = "review" | "learn";
 
@@ -71,9 +71,15 @@ export default function CharactersPage() {
 
     loadVocabulary(level)
       .then(async (vocab) => {
-        setWords(vocab);
+        // Pre-load previous levels' vocab so recall cards resolve to a word
+        let allWords: HskWord[] = [...vocab];
+        for (let i = 1; i < level; i++) {
+          const prev = await loadVocabulary(i as HskLevel);
+          allWords = [...allWords, ...prev];
+        }
+        setWords(allWords);
 
-        // Seed SRS cards for words that don't exist yet
+        // Seed SRS cards for current-level words that don't exist yet
         const existingIds = new Set(
           (
             await db.srsCards.where("module").equals("characters").toArray()
@@ -88,8 +94,12 @@ export default function CharactersPage() {
           await db.srsCards.bulkPut(newCards);
         }
 
-        // Load review cards filtered to this level
-        await review.loadCards(levelPrefix);
+        // Load review cards with recall mixing from previous levels
+        const recallPrefixes = Array.from(
+          { length: level - 1 },
+          (_, i) => `hsk${i + 1}-`,
+        );
+        await review.loadCards(levelPrefix, recallPrefixes.length ? recallPrefixes : undefined);
       })
       .catch(() => {
         setWords([]);
@@ -154,12 +164,23 @@ export default function CharactersPage() {
                   ? `${review.totalReviewed} cards reviewed (${review.correctCount} correct)`
                   : "暂时没有要复习的，晚点再来。"}
               </p>
-              <button
-                onClick={() => review.loadCards(`hsk${level}-`)}
-                className="mt-4 px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm"
-              >
-                <TrilingualLabel chinese="再查一下" pinyin="zài chá yīxià" english="Check again" size="xs" />
-              </button>
+              <div className="flex gap-2 justify-center mt-4">
+                <button
+                  onClick={() => {
+                    const recallPrefixes = Array.from({ length: level - 1 }, (_, i) => `hsk${i + 1}-`);
+                    review.loadCards(`hsk${level}-`, recallPrefixes.length ? recallPrefixes : undefined);
+                  }}
+                  className="px-4 py-2 bg-muted text-foreground rounded-lg text-sm"
+                >
+                  <TrilingualLabel chinese="再查一下" pinyin="zài chá yīxià" english="Check again" size="xs" />
+                </button>
+                <button
+                  onClick={() => review.loadAllForPractice(`hsk${level}-`)}
+                  className="px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm"
+                >
+                  <TrilingualLabel chinese="练习" pinyin="liànxí" english="Practice all" size="xs" />
+                </button>
+              </div>
             </div>
           ) : currentWord ? (
             <div>

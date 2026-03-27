@@ -22,6 +22,41 @@ interface ReviewSession {
   correctCount: number;
 }
 
+// Fetch due Review/Relearning cards from previous levels, prioritising
+// struggling cards (bestGrade === 3) then most overdue.
+export async function getRecallCards(
+  module: SrsCardState["module"],
+  prefixes: string[],
+  limit: number,
+): Promise<SrsCardState[]> {
+  const now = new Date();
+  const candidates: SrsCardState[] = [];
+
+  for (const prefix of prefixes) {
+    const cards = await db.srsCards
+      .where("module")
+      .equals(module)
+      .filter(
+        (c) =>
+          c.id.startsWith(prefix) &&
+          c.state >= 2 && // Review or Relearning only
+          new Date(c.due) <= now,
+      )
+      .toArray();
+    candidates.push(...cards);
+  }
+
+  // Struggling (bestGrade = 3) first, then most overdue
+  candidates.sort((a, b) => {
+    const ag = a.bestGrade ?? 0;
+    const bg = b.bestGrade ?? 0;
+    if (ag !== bg) return ag - bg;
+    return new Date(a.due).getTime() - new Date(b.due).getTime();
+  });
+
+  return candidates.slice(0, limit);
+}
+
 export function useReview(module: SrsCardState["module"]) {
   const [session, setSession] = useState<ReviewSession>({
     cards: [],
@@ -33,11 +68,10 @@ export function useReview(module: SrsCardState["module"]) {
   });
   const [loaded, setLoaded] = useState(false);
 
-  // Store the latest idPrefix so reload() can reuse it
   const prefixRef = useRef<string | undefined>(undefined);
 
   const loadCards = useCallback(
-    async (idPrefix?: string) => {
+    async (idPrefix?: string, recallPrefixes?: string[]) => {
       const prefix = idPrefix ?? prefixRef.current;
       prefixRef.current = prefix;
 
@@ -46,13 +80,57 @@ export function useReview(module: SrsCardState["module"]) {
         due.length < 5
           ? await getNewCards(module, 10 - Math.min(due.length, 5), prefix)
           : [];
-      const allCards = [...due, ...newCards];
+      let cards: SrsCardState[] = [...due, ...newCards];
+
+      // Sprinkle in recall cards from previous levels (1 per 4 main cards)
+      if (recallPrefixes?.length) {
+        const recall = await getRecallCards(module, recallPrefixes, 3);
+        if (recall.length > 0) {
+          const mixed: SrsCardState[] = [];
+          let ri = 0;
+          for (let i = 0; i < cards.length; i++) {
+            if (i > 0 && i % 4 === 0 && ri < recall.length) mixed.push(recall[ri++]);
+            mixed.push(cards[i]);
+          }
+          while (ri < recall.length) mixed.push(recall[ri++]);
+          cards = mixed;
+        }
+      }
 
       setSession({
-        cards: allCards,
+        cards,
         currentIndex: 0,
         isFlipped: false,
-        isComplete: allCards.length === 0,
+        isComplete: cards.length === 0,
+        totalReviewed: 0,
+        correctCount: 0,
+      });
+      setLoaded(true);
+    },
+    [module]
+  );
+
+  const loadAllForPractice = useCallback(
+    async (idPrefix?: string) => {
+      const prefix = idPrefix ?? prefixRef.current;
+      prefixRef.current = prefix;
+
+      const all = await db.srsCards
+        .where("module")
+        .equals(module)
+        .filter((c) => !prefix || c.id.startsWith(prefix))
+        .toArray();
+
+      for (let i = all.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [all[i], all[j]] = [all[j], all[i]];
+      }
+
+      setSession({
+        cards: all,
+        currentIndex: 0,
+        isFlipped: false,
+        isComplete: all.length === 0,
         totalReviewed: 0,
         correctCount: 0,
       });
@@ -71,10 +149,15 @@ export function useReview(module: SrsCardState["module"]) {
       if (!card) return;
 
       const updated = reviewSrsCard(card, grade);
-      // Track highest grade ever achieved (for progression/mastery)
-      if (grade >= Rating.Easy) {
-        updated.bestGrade = Math.max(updated.bestGrade ?? 0, grade as number);
+
+      // bestGrade: ratchet upward until mastered; once mastered (≥3), floor at 3
+      const currentBest = card.bestGrade ?? 0;
+      if (currentBest >= 3) {
+        updated.bestGrade = Math.max(3, grade as number);
+      } else {
+        updated.bestGrade = Math.max(currentBest, grade as number);
       }
+
       await db.srsCards.put(updated);
 
       const correct = grade >= Rating.Good;
@@ -108,6 +191,7 @@ export function useReview(module: SrsCardState["module"]) {
     flip,
     rate,
     loadCards,
+    loadAllForPractice,
   };
 }
 
