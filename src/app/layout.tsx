@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { DisplaySettingsProvider } from "@/hooks/useDisplaySettings";
 import BottomNav from "@/components/ui/BottomNav";
+import SwipeGuard from "@/components/ui/SwipeGuard";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -54,6 +55,7 @@ export default function RootLayout({
           </main>
           <BottomNav />
         </DisplaySettingsProvider>
+        <SwipeGuard />
         <div className="landscape-block" aria-hidden="true">
           <span style={{ fontSize: "3rem" }}>↺</span>
           <p style={{ fontSize: "1.1rem", color: "var(--muted-foreground)" }}>
