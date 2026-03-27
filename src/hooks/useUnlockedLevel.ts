@@ -5,42 +5,49 @@ import { db } from "@/lib/db";
 import type { HskLevel } from "@/types";
 
 interface UnlockedLevelResult {
-  /** The level the user is currently progressing through */
   currentProgressLevel: HskLevel;
-  /** Highest level the user can access (currentProgressLevel) */
   unlockedLevel: HskLevel;
-  /** Number of mastered (Easy-rated) cards at the current progress level */
+  /** Mastered character cards at current progress level */
   masteredCount: number;
-  /** Total seeded cards at the current progress level */
   totalCount: number;
-  /** Whether data is still loading */
+  /** Mastered sentence cards at current progress level */
+  sentMasteredCount: number;
+  sentTotalCount: number;
   loading: boolean;
 }
 
 export function useUnlockedLevel(): UnlockedLevelResult {
   const result = useLiveQuery(async () => {
-    // For each level, check if all characters are mastered (bestGrade >= 3)
-    let currentProgressLevel: HskLevel = 1;
-
     for (let level = 1; level <= 6; level++) {
-      const prefix = `hsk${level}-`;
-      const cards = await db.srsCards
+      // Characters
+      const charCards = await db.srsCards
         .where("module")
         .equals("characters")
-        .filter((c) => c.id.startsWith(prefix))
+        .filter((c) => c.id.startsWith(`hsk${level}-`))
         .toArray();
+      const charTotal = charCards.length;
+      const charMastered = charCards.filter((c) => (c.bestGrade ?? 0) >= 3).length;
 
-      const total = cards.length;
-      const mastered = cards.filter((c) => (c.bestGrade ?? 0) >= 3).length;
+      // Sentences
+      const sentCards = await db.srsCards
+        .where("module")
+        .equals("sentences")
+        .filter((c) => c.id.startsWith(`s${level}-`))
+        .toArray();
+      const sentTotal = sentCards.length;
+      const sentMastered = sentCards.filter((c) => (c.bestGrade ?? 0) >= 3).length;
 
-      if (total === 0 || mastered < total) {
-        // This level is not yet complete
-        currentProgressLevel = level as HskLevel;
+      const charComplete = charTotal > 0 && charMastered >= charTotal;
+      const sentComplete = sentTotal > 0 && sentMastered >= sentTotal;
+
+      if (!charComplete || !sentComplete) {
         return {
-          currentProgressLevel,
+          currentProgressLevel: level as HskLevel,
           unlockedLevel: level as HskLevel,
-          masteredCount: mastered,
-          totalCount: total,
+          masteredCount: charMastered,
+          totalCount: charTotal,
+          sentMasteredCount: sentMastered,
+          sentTotalCount: sentTotal,
         };
       }
     }
@@ -51,6 +58,8 @@ export function useUnlockedLevel(): UnlockedLevelResult {
       unlockedLevel: 6 as HskLevel,
       masteredCount: 0,
       totalCount: 0,
+      sentMasteredCount: 0,
+      sentTotalCount: 0,
     };
   }, []);
 
@@ -60,6 +69,8 @@ export function useUnlockedLevel(): UnlockedLevelResult {
       unlockedLevel: 1,
       masteredCount: 0,
       totalCount: 0,
+      sentMasteredCount: 0,
+      sentTotalCount: 0,
       loading: true,
     };
   }

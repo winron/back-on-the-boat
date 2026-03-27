@@ -6,9 +6,15 @@ import TrilingualLabel from '@/components/shared/TrilingualLabel';
 
 export default function HomePage() {
 	const { showPinyin, showEnglish, togglePinyin, toggleEnglish } = useDisplaySettings();
-	const { currentProgressLevel, masteredCount, totalCount, loading } = useUnlockedLevel();
+	const {
+		currentProgressLevel,
+		masteredCount, totalCount,
+		sentMasteredCount, sentTotalCount,
+		loading,
+	} = useUnlockedLevel();
 
-	const percent = totalCount > 0 ? Math.round((masteredCount / totalCount) * 100) : 0;
+	const charPercent = totalCount > 0 ? Math.round((masteredCount / totalCount) * 100) : 0;
+	const sentPercent = sentTotalCount > 0 ? Math.round((sentMasteredCount / sentTotalCount) * 100) : 0;
 
 	return (
 		<div className='tab-color-1 flex flex-col items-center justify-center h-[calc(100vh-8rem)] overflow-hidden space-y-8'>
@@ -21,26 +27,44 @@ export default function HomePage() {
 			/>
 
 			{/* Current Level */}
-			<p
-				className='text-5xl font-bold'
-				style={{ color: 'var(--color-tab-1)' }}>
+			<p className='text-5xl font-bold' style={{ color: 'var(--color-tab-1)' }}>
 				HSK {currentProgressLevel}
 			</p>
 
-			{/* XP Progress Bar */}
-			<div className='w-full max-w-xs'>
-				<div className='flex justify-between text-xs font-medium text-foreground mb-1'>
-					<span>{loading ? '...' : `${masteredCount} / ${totalCount}`}</span>
-					<span>{loading ? '...' : `${percent}%`}</span>
+			{/* Progress Bars */}
+			<div className='w-full max-w-xs space-y-3'>
+				{/* Characters */}
+				<div>
+					<div className='flex justify-between text-xs font-medium text-foreground mb-1'>
+						<span>{loading ? '...' : `${masteredCount} / ${totalCount}`}</span>
+						<span>{loading ? '...' : `${charPercent}%`}</span>
+					</div>
+					<div className='relative h-[2.8rem] bg-muted rounded-lg overflow-hidden border border-white'>
+						<div
+							className='absolute inset-y-0 left-0 rounded-lg transition-all duration-500'
+							style={{
+								width: `${charPercent}%`,
+								background: 'linear-gradient(90deg, var(--color-tab-1), var(--color-tab-2))',
+							}}
+						/>
+					</div>
 				</div>
-				<div className='relative h-[2.8rem] bg-muted rounded-lg overflow-hidden border border-white'>
-					<div
-						className='absolute inset-y-0 left-0 rounded-lg transition-all duration-500'
-						style={{
-							width: `${percent}%`,
-							background: `linear-gradient(90deg, var(--color-tab-1), var(--color-tab-2))`,
-						}}
-					/>
+
+				{/* Sentences */}
+				<div>
+					<div className='flex justify-between text-xs font-medium text-foreground mb-1'>
+						<span>{loading ? '...' : `${sentMasteredCount} / ${sentTotalCount}`}</span>
+						<span>{loading ? '...' : `${sentPercent}%`}</span>
+					</div>
+					<div className='relative h-[2.8rem] bg-muted rounded-lg overflow-hidden border border-white'>
+						<div
+							className='absolute inset-y-0 left-0 rounded-lg transition-all duration-500'
+							style={{
+								width: `${sentPercent}%`,
+								background: 'linear-gradient(90deg, var(--color-tab-1), var(--color-tab-4))',
+							}}
+						/>
+					</div>
 				</div>
 			</div>
 
