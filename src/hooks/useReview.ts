@@ -61,6 +61,36 @@ export function useReview(module: SrsCardState["module"]) {
     [module]
   );
 
+  const loadAllForPractice = useCallback(
+    async (idPrefix?: string) => {
+      const prefix = idPrefix ?? prefixRef.current;
+      prefixRef.current = prefix;
+
+      const all = await db.srsCards
+        .where("module")
+        .equals(module)
+        .filter((c) => !prefix || c.id.startsWith(prefix))
+        .toArray();
+
+      // Shuffle
+      for (let i = all.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [all[i], all[j]] = [all[j], all[i]];
+      }
+
+      setSession({
+        cards: all,
+        currentIndex: 0,
+        isFlipped: false,
+        isComplete: all.length === 0,
+        totalReviewed: 0,
+        correctCount: 0,
+      });
+      setLoaded(true);
+    },
+    [module]
+  );
+
   const flip = useCallback(() => {
     setSession((s) => ({ ...s, isFlipped: !s.isFlipped }));
   }, []);
@@ -108,6 +138,7 @@ export function useReview(module: SrsCardState["module"]) {
     flip,
     rate,
     loadCards,
+    loadAllForPractice,
   };
 }
 

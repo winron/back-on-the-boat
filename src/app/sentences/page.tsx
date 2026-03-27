@@ -282,6 +282,20 @@ function SentencesPageInner() {
     setCurrentIndex((i) => i + 1);
   };
 
+  const startPractice = useCallback(async () => {
+    const prefix = `s${level}-`;
+    const all = await db.srsCards
+      .where("module").equals("sentences")
+      .filter((c) => c.id.startsWith(prefix))
+      .toArray();
+    const shuffled = shuffleArray(all);
+    setSessionCards(shuffled);
+    setCurrentIndex(0);
+    setResult(null);
+    setHasRated(false);
+    document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
+  }, [level]);
+
   // ── Shared header ─────────────────────────────────────────────────────────
 
   const header = (
@@ -307,13 +321,21 @@ function SentencesPageInner() {
     return (
       <div className="tab-color-4 space-y-6">
         {header}
-        <div className="text-center py-12 space-y-2">
-          <p className="text-lg font-medium">
-            <TrilingualLabel chinese="做完了！" pinyin="zuò wán le!" english="Session complete!" size="sm" />
-          </p>
-          <p className="text-sm text-muted-foreground">
-            {masteredCount} / {totalCount} mastered ({pct}%)
-          </p>
+        <div className="text-center py-12 space-y-4">
+          <div className="space-y-2">
+            <p className="text-lg font-medium">
+              <TrilingualLabel chinese="做完了！" pinyin="zuò wán le!" english="Session complete!" size="sm" />
+            </p>
+            <p className="text-sm text-muted-foreground">
+              {masteredCount} / {totalCount} mastered ({pct}%)
+            </p>
+          </div>
+          <button
+            onClick={startPractice}
+            className="px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm"
+          >
+            <TrilingualLabel chinese="练习" pinyin="liànxí" english="Practice all" size="xs" />
+          </button>
         </div>
       </div>
     );

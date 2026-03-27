@@ -154,12 +154,20 @@ export default function CharactersPage() {
                   ? `${review.totalReviewed} cards reviewed (${review.correctCount} correct)`
                   : "暂时没有要复习的，晚点再来。"}
               </p>
-              <button
-                onClick={() => review.loadCards(`hsk${level}-`)}
-                className="mt-4 px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm"
-              >
-                <TrilingualLabel chinese="再查一下" pinyin="zài chá yīxià" english="Check again" size="xs" />
-              </button>
+              <div className="flex gap-2 justify-center mt-4">
+                <button
+                  onClick={() => review.loadCards(`hsk${level}-`)}
+                  className="px-4 py-2 bg-muted text-foreground rounded-lg text-sm"
+                >
+                  <TrilingualLabel chinese="再查一下" pinyin="zài chá yīxià" english="Check again" size="xs" />
+                </button>
+                <button
+                  onClick={() => review.loadAllForPractice(`hsk${level}-`)}
+                  className="px-4 py-2 bg-primary text-primary-foreground rounded-lg text-sm"
+                >
+                  <TrilingualLabel chinese="练习" pinyin="liànxí" english="Practice all" size="xs" />
+                </button>
+              </div>
             </div>
           ) : currentWord ? (
             <div>
