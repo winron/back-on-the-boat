@@ -148,6 +148,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
     setSelectedUnit(i);
     setRevealedCard(null);
     closeDropdown();
+    document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   const dropdown = (
@@ -227,11 +228,9 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
         {dropdown}
       </div>
 
-      <hr className="border-border my-3" />
-
       {/* Word list for selected theme */}
       {currentGroup && (
-        <div className="mt-2 space-y-3">
+        <div className="mt-6 space-y-3">
           {currentGroup.words.map((word) => (
             <div key={word.id} data-card-id={word.id}>
               <LearnCard

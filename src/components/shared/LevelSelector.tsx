@@ -66,6 +66,7 @@ export default function LevelSelector({
                 onClick={() => {
                   onSelect(level);
                   close();
+                  document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
                 }}
                 className={`w-full text-center px-3 py-2 text-sm font-medium transition-colors ${
                   locked

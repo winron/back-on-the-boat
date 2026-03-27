@@ -23,9 +23,9 @@ export default function TrilingualLabel({ chinese, pinyin, english, size = 'md',
 
 	return (
 		<span className={`inline-flex flex-col items-center ${className}`}>
-			{showPinyin && <span className={`${s.pinyin} text-foreground`}>{pinyin}</span>}
+			{showPinyin && <span className={s.pinyin}>{pinyin}</span>}
 			<span className={s.chinese}>{chinese}</span>
-			{showEnglish && <span className={`${s.english} text-foreground`}>{english}</span>}
+			{showEnglish && <span className={s.english}>{english}</span>}
 		</span>
 	);
 }
