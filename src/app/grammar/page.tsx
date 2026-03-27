@@ -27,7 +27,7 @@ export default function GrammarPage() {
 
   // Scroll to top whenever the view switches (browse ↔ detail)
   useEffect(() => {
-    document.querySelector("main")?.scrollTo({ top: 0, behavior: "instant" });
+    document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
   }, [selectedId]);
 
   const selected = patterns.find((p) => p.id === selectedId);
@@ -48,7 +48,7 @@ export default function GrammarPage() {
             <TrilingualLabel
               chinese="返回"
               pinyin="fǎnhuí"
-              english="Return"
+              english="Back"
               size="xs"
             />
           </button>

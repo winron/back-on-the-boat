@@ -12,7 +12,7 @@ const toneColors: Record<string, string> = {
 
 function getTone(syllable: string): string {
   const toneMarks: Record<string, string> = {
-    "\u0101": "1", "\u00e1": "1", "\u01ce": "1", "\u00e0": "1",
+    "\u0101": "1", "\u00e1": "2", "\u01ce": "3", "\u00e0": "4",
     "\u014d": "1", "\u00f3": "2", "\u01d2": "3", "\u00f2": "4",
     "\u0113": "1", "\u00e9": "2", "\u011b": "3", "\u00e8": "4",
     "\u012b": "1", "\u00ed": "2", "\u01d0": "3", "\u00ec": "4",
