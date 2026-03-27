@@ -157,14 +157,17 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
       <button
         onClick={() => (isOpen ? closeDropdown() : setIsOpen(true))}
         className="w-full bg-muted text-foreground border border-border rounded-lg px-4 font-medium cursor-pointer text-left flex items-center justify-between"
-        style={{ minHeight: "3.2rem", fontSize: "0.95rem" }}
+        style={{ minHeight: "3.2rem" }}
       >
         <div className="flex-1 min-w-0 py-2">
-          <div className="truncate">
-            {currentNameZh}{showPinyin ? ` ${currentPinyin}` : ""} ({currentGroup?.words.length ?? 0})
+          {showPinyin && currentPinyin && (
+            <div className="text-[13.5px] leading-tight text-muted-foreground truncate">{currentPinyin}</div>
+          )}
+          <div className="text-[24px] truncate">
+            {currentNameZh} ({currentGroup?.words.length ?? 0})
           </div>
           {showEnglish && (
-            <div className="text-xs text-muted-foreground truncate">
+            <div className="text-[10.8px] leading-tight text-muted-foreground truncate">
               {currentGroup?.name ?? ""}
             </div>
           )}
@@ -190,11 +193,14 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
                     : "text-foreground hover:bg-muted"
                 } ${i === 0 ? "rounded-t-lg" : ""} ${i === unitGroups.length - 1 ? "rounded-b-lg" : ""}`}
               >
-                <div className="text-sm font-medium">
-                  {nameZh}{showPinyin ? ` ${pinyin}` : ""} ({group.words.length})
+                {showPinyin && pinyin && (
+                  <div className="text-[13.5px] leading-tight text-muted-foreground">{pinyin}</div>
+                )}
+                <div className="text-[24px] font-medium">
+                  {nameZh} ({group.words.length})
                 </div>
                 {showEnglish && (
-                  <div className="text-xs text-muted-foreground">
+                  <div className="text-[10.8px] leading-tight text-muted-foreground">
                     {group.name}
                   </div>
                 )}

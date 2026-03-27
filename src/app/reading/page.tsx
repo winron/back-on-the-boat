@@ -54,14 +54,14 @@ export default function ReadingPage() {
             </svg>
           </button>
 
-          {/* Title card — no type badge, just title + pinyin */}
+          {/* Title card — pinyin / chinese / english stacked */}
           <div className="bg-card rounded-lg p-4 border border-border">
-            <h2 className="font-semibold text-lg">{selected.titleZh}</h2>
             {selected.titlePinyin && showPinyin && (
-              <p className="text-sm text-muted-foreground mt-0.5">{selected.titlePinyin}</p>
+              <p className="text-sm text-muted-foreground">{selected.titlePinyin}</p>
             )}
+            <h2 className="font-semibold text-lg">{selected.titleZh}</h2>
             {showEnglish && (
-              <p className="text-sm text-muted-foreground mt-0.5">{selected.title}</p>
+              <p className="text-sm text-muted-foreground">{selected.title}</p>
             )}
           </div>
 
