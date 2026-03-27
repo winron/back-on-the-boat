@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { loadGrammar } from "@/lib/data-loader";
@@ -8,15 +8,16 @@ import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
 import AudioButton from "@/components/shared/AudioButton";
+import { useDisplaySettings } from "@/hooks/useDisplaySettings";
 import { toChineseNumber } from "@/lib/chinese-numbers";
 import type { GrammarPattern } from "@/types";
 
 export default function GrammarPage() {
   const { level, setLevel } = useHskLevel("grammar");
   const { unlockedLevel } = useUnlockedLevel();
+  const { showPinyin, showEnglish } = useDisplaySettings();
   const [patterns, setPatterns] = useState<GrammarPattern[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
-  const topRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     loadGrammar(level)
@@ -43,14 +44,12 @@ export default function GrammarPage() {
         <div className="space-y-4">
           <button
             onClick={() => setSelectedId(null)}
-            className="text-sm text-primary flex items-center gap-1"
+            className="bg-card border border-border rounded-lg px-5 py-2.5 text-white flex items-center"
           >
-            <TrilingualLabel
-              chinese="返回"
-              pinyin="fǎnhuí"
-              english="Back"
-              size="xs"
-            />
+            <svg viewBox="0 0 36 12" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="w-9 h-3">
+              <line x1="36" y1="6" x2="0" y2="6" />
+              <polyline points="8 0 0 6 8 12" />
+            </svg>
           </button>
           <div className="bg-card rounded-lg p-6 border border-border">
             <h2 className="text-lg font-semibold mb-2">{selected.title}</h2>
@@ -61,9 +60,6 @@ export default function GrammarPage() {
               {selected.explanation}
             </p>
             <div className="space-y-3">
-              <h3 className="text-sm font-semibold">
-                <TrilingualLabel chinese="例句" pinyin="lìjù" english="Examples" size="xs" />
-              </h3>
               {selected.examples.map((ex, i) => (
                 <div
                   key={i}
@@ -73,8 +69,8 @@ export default function GrammarPage() {
                     <p className="text-base">{ex.chinese}</p>
                     <AudioButton text={ex.chinese} className="w-8 h-8" />
                   </div>
-                  <PinyinDisplay pinyin={ex.pinyin} className="text-sm" />
-                  <p className="text-sm text-muted-foreground">{ex.english}</p>
+                  {showPinyin && <PinyinDisplay pinyin={ex.pinyin} className="text-sm" />}
+                  {showEnglish && <p className="text-sm text-muted-foreground">{ex.english}</p>}
                 </div>
               ))}
             </div>
