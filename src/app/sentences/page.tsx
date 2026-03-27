@@ -91,7 +91,7 @@ export default function SentencesPage() {
 
       {/* Target meaning */}
       <div>
-        <p className="text-center opacity-50 mb-2">
+        <p className="opacity-50 mb-2">
           <TrilingualLabel chinese="翻译" pinyin="fānyì" english="Translate" size="xs" />
         </p>
         <div className="bg-card rounded-lg p-4 border border-border">
@@ -136,9 +136,9 @@ export default function SentencesPage() {
         >
           <p className="font-medium">
             {result === "correct" ? (
-              <TrilingualLabel chinese="正确！" pinyin="zhèngquè！" english="Correct!" size="sm" />
+              <TrilingualLabel chinese="答对了！" pinyin="dá duì le!" english="Got it right!" size="sm" />
             ) : (
-              <TrilingualLabel chinese="不太对，再试一下" pinyin="bú tài duì, zài shì yīxià" english="Not quite, try again" size="sm" />
+              <TrilingualLabel chinese="不太对，再试一下" pinyin="bú tài duì, zài shì yí xià" english="Not quite, try again" size="sm" />
             )}
           </p>
           {result === "incorrect" && (
@@ -180,7 +180,7 @@ export default function SentencesPage() {
             onClick={handleNext}
             className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium"
           >
-            <TrilingualLabel chinese="下一题" pinyin="xià yī tí" english="Next" size="xs" />
+            <TrilingualLabel chinese="下一题" pinyin="xià yì tí" english="Next" size="xs" />
           </button>
         )}
       </div>
