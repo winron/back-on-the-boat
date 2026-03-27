@@ -16,7 +16,7 @@
     "id": "s1-002",
     "hskLevel": 1,
     "targetSentence": "谁在里面洗澡？",
-    "targetPinyin": "shúi zài lǐmiàn xǐzǎo？",
+    "targetPinyin": "shuí zài lǐmiàn xǐzǎo？",
     "targetMeaning": "Who is taking a bath inside?",
     "wordBank": [
       "里",
@@ -177,7 +177,7 @@
     "id": "s1-012",
     "hskLevel": 1,
     "targetSentence": "我们不喝酒。",
-    "targetPinyin": "wǒmen bù hē jǐu。",
+    "targetPinyin": "wǒmen bù hē jiǔ。",
     "targetMeaning": "We don't drink.",
     "wordBank": [
       "喝",
@@ -221,7 +221,7 @@
     "id": "s1-015",
     "hskLevel": 1,
     "targetSentence": "为什么你不喜欢喝咖啡？",
-    "targetPinyin": "wèishíyāo nǐ bù xǐhuān hē kāfēi？",
+    "targetPinyin": "wèishénme nǐ bù xǐhuān hē kāfēi？",
     "targetMeaning": "Why don't you like coffee?",
     "wordBank": [
       "喝",
@@ -237,7 +237,7 @@
     "id": "s1-016",
     "hskLevel": 1,
     "targetSentence": "你们都认识John吗？",
-    "targetPinyin": "nǐmen dū rènshì John ma？",
+    "targetPinyin": "nǐmen dōu rènshì John ma？",
     "targetMeaning": "Do you all know John?",
     "wordBank": [
       "你",
@@ -256,7 +256,7 @@
     "id": "s1-017",
     "hskLevel": 1,
     "targetSentence": "他们都在上海。",
-    "targetPinyin": "tāmen dū zài shànghǎi。",
+    "targetPinyin": "tāmen dōu zài shànghǎi。",
     "targetMeaning": "They are all in Shanghai.",
     "wordBank": [
       "都",
@@ -272,7 +272,7 @@
     "id": "s1-018",
     "hskLevel": 1,
     "targetSentence": "明天我们都可以去。",
-    "targetPinyin": "míngtiān wǒmen dū kěyǐ qù。",
+    "targetPinyin": "míngtiān wǒmen dōu kěyǐ qù。",
     "targetMeaning": "We can all go tomorrow.",
     "wordBank": [
       "可以",
@@ -287,7 +287,7 @@
     "id": "s1-019",
     "hskLevel": 1,
     "targetSentence": "你们都用wiki吗？",
-    "targetPinyin": "nǐmen dū yòng wiki ma？",
+    "targetPinyin": "nǐmen dōu yòng wiki ma？",
     "targetMeaning": "Do you all use wiki?",
     "wordBank": [
       "i",
@@ -306,8 +306,8 @@
     "id": "s1-020",
     "hskLevel": 1,
     "targetSentence": "我们都要冰水。",
-    "targetPinyin": "wǒmen dū yào bīngshǔi。",
-    "targetMeaning": "We all have ice water.",
+    "targetPinyin": "wǒmen dōu yào bīngshuǐ。",
+    "targetMeaning": "We all want ice water.",
     "wordBank": [
       "都",
       "我们",
@@ -516,7 +516,7 @@
     "id": "s1-034",
     "hskLevel": 1,
     "targetSentence": "这个店的衣服不太贵。",
-    "targetPinyin": "zhè gè diàn de yīfú bù tài gùi。",
+    "targetPinyin": "zhè gè diàn de yīfú bù tài guì。",
     "targetMeaning": "The clothes in this shop are not too expensive.",
     "wordBank": [
       "太",
@@ -577,7 +577,7 @@
     "id": "s1-038",
     "hskLevel": 1,
     "targetSentence": "我的爷爷和奶奶都70岁。",
-    "targetPinyin": "wǒ de yéyé hé nǎinǎi dū 70 sùi。",
+    "targetPinyin": "wǒ de yéyé hé nǎinǎi dōu 70 suì。",
     "targetMeaning": "My grandpa and grandma are both 70 years old.",
     "wordBank": [
       "我",
@@ -596,7 +596,7 @@
     "id": "s1-039",
     "hskLevel": 1,
     "targetSentence": "他和他女朋友都喜欢中国菜。",
-    "targetPinyin": "tā hé tā nv̌péngyǒu dū xǐhuān zhōngguó cài。",
+    "targetPinyin": "tā hé tā nǚpéngyǒu dōu xǐhuān zhōngguó cài。",
     "targetMeaning": "He and his girlfriend love Chinese food.",
     "wordBank": [
       "女",
@@ -615,7 +615,7 @@
     "id": "s1-040",
     "hskLevel": 1,
     "targetSentence": "你爸爸和你妈妈都是美国人吗？",
-    "targetPinyin": "nǐ bàbà hé nǐ māmā dū shì měiguó rén ma？",
+    "targetPinyin": "nǐ bàbà hé nǐ māmā dōu shì měiguó rén ma？",
     "targetMeaning": "Are your father and mother both American?",
     "wordBank": [
       "都",
@@ -693,7 +693,7 @@
     "id": "s1-044",
     "hskLevel": 1,
     "targetSentence": "吃完午饭以后，我们要开会。",
-    "targetPinyin": "chī wán wǔfàn yǐhòu， wǒmen yào kāihùi。",
+    "targetPinyin": "chī wán wǔfàn yǐhòu， wǒmen yào kāihuì。",
     "targetMeaning": "After lunch, we have a meeting.",
     "wordBank": [
       "我们",
@@ -713,7 +713,7 @@
     "id": "s1-045",
     "hskLevel": 1,
     "targetSentence": "几年以后，我们公司会更大。",
-    "targetPinyin": "jīnián yǐhòu，wǒmen gōngsī hùi gèng dà。",
+    "targetPinyin": "jīnián yǐhòu，wǒmen gōngsī huì gèng dà。",
     "targetMeaning": "In a few years, our company will be bigger.",
     "wordBank": [
       "我们",
@@ -751,7 +751,7 @@
     "id": "s1-047",
     "hskLevel": 1,
     "targetSentence": "睡觉以前，不要吃东西。",
-    "targetPinyin": "shùijué yǐqián，bùyào chī dōngxī。",
+    "targetPinyin": "shuìjué yǐqián，bùyào chī dōngxī。",
     "targetMeaning": "Don't eat anything before going to bed.",
     "wordBank": [
       "吃",
@@ -828,7 +828,7 @@
     "id": "s1-051",
     "hskLevel": 1,
     "targetSentence": "昨天我去了酒吧。",
-    "targetPinyin": "zuótiān wǒ qù le jǐuba。",
+    "targetPinyin": "zuótiān wǒ qù le jiǔba。",
     "targetMeaning": "I went to the bar yesterday.",
     "wordBank": [
       "。",
@@ -843,7 +843,7 @@
     "id": "s1-052",
     "hskLevel": 1,
     "targetSentence": "我昨天去了酒吧。",
-    "targetPinyin": "wǒ zuótiān qù le jǐuba。",
+    "targetPinyin": "wǒ zuótiān qù le jiǔba。",
     "targetMeaning": "I went to the bar yesterday.",
     "wordBank": [
       "昨天",
@@ -858,7 +858,7 @@
     "id": "s1-053",
     "hskLevel": 1,
     "targetSentence": "下个星期他要回国。",
-    "targetPinyin": "xià gè xīngqī tā yào húi guó。",
+    "targetPinyin": "xià gè xīngqī tā yào huí guó。",
     "targetMeaning": "He will return to China next week.",
     "wordBank": [
       "国",
@@ -875,7 +875,7 @@
     "id": "s1-054",
     "hskLevel": 1,
     "targetSentence": "他下个星期要回国。",
-    "targetPinyin": "tā xià gè xīngqī yào húi guó。",
+    "targetPinyin": "tā xià gè xīngqī yào huí guó。",
     "targetMeaning": "He will return home next week.",
     "wordBank": [
       "要",
@@ -910,7 +910,7 @@
     "id": "s1-056",
     "hskLevel": 1,
     "targetSentence": "我20岁。",
-    "targetPinyin": "wǒ 20 sùi。",
+    "targetPinyin": "wǒ 20 suì。",
     "targetMeaning": "I am 20 years old.",
     "wordBank": [
       "。",
@@ -924,7 +924,7 @@
     "id": "s1-057",
     "hskLevel": 1,
     "targetSentence": "我儿子一岁。",
-    "targetPinyin": "wǒ érzǐ yī sùi。",
+    "targetPinyin": "wǒ érzǐ yī suì。",
     "targetMeaning": "My son is one year old.",
     "wordBank": [
       "我",
@@ -938,7 +938,7 @@
     "id": "s1-058",
     "hskLevel": 1,
     "targetSentence": "我妈妈今年45岁。",
-    "targetPinyin": "wǒ māmā jīnnián 45 sùi。",
+    "targetPinyin": "wǒ māmā jīnnián 45 suì。",
     "targetMeaning": "My mother is 45 years old this year.",
     "wordBank": [
       "今",
@@ -955,7 +955,7 @@
     "id": "s1-059",
     "hskLevel": 1,
     "targetSentence": "你爷爷今年80岁吗？",
-    "targetPinyin": "nǐ yéyé jīnnián 80 sùi ma？",
+    "targetPinyin": "nǐ yéyé jīnnián 80 suì ma？",
     "targetMeaning": "Is your grandpa 80 years old this year?",
     "wordBank": [
       "你",
@@ -973,7 +973,7 @@
     "id": "s1-060",
     "hskLevel": 1,
     "targetSentence": "他女朋友也20岁吗？",
-    "targetPinyin": "tā nv̌péngyǒu yě 20 sùi ma？",
+    "targetPinyin": "tā nǚpéngyǒu yě 20 suì ma？",
     "targetMeaning": "Is his girlfriend 20 years old?",
     "wordBank": [
       "？",
@@ -1166,7 +1166,7 @@
     "id": "s1-071",
     "hskLevel": 1,
     "targetSentence": "两点零九分",
-    "targetPinyin": "liǎng diǎn líng jǐufēn",
+    "targetPinyin": "liǎng diǎn líng jiǔfēn",
     "targetMeaning": "2:09",
     "wordBank": [
       "九",
@@ -1358,7 +1358,7 @@
     "id": "s1-085",
     "hskLevel": 1,
     "targetSentence": "这是我女朋友。",
-    "targetPinyin": "zhè shì wǒ nv̌péngyǒu。",
+    "targetPinyin": "zhè shì wǒ nǚpéngyǒu。",
     "targetMeaning": "This is my girlfriend.",
     "wordBank": [
       "。",
@@ -1373,7 +1373,7 @@
     "id": "s1-086",
     "hskLevel": 1,
     "targetSentence": "我女儿会说英语。",
-    "targetPinyin": "wǒ nv̌ér hùi shuō yīngyǔ。",
+    "targetPinyin": "wǒ nǚér huì shuō yīngyǔ。",
     "targetMeaning": "My daughter speaks English.",
     "wordBank": [
       "。",
@@ -1433,7 +1433,7 @@
     "id": "s1-090",
     "hskLevel": 1,
     "targetSentence": "我们都去了。",
-    "targetPinyin": "wǒmen dū qù le。",
+    "targetPinyin": "wǒmen dōu qù le。",
     "targetMeaning": "We have all gone.",
     "wordBank": [
       "了",
@@ -1567,7 +1567,7 @@
     "id": "s1-099",
     "hskLevel": 1,
     "targetSentence": "我20岁了！",
-    "targetPinyin": "wǒ 20 sùi le！",
+    "targetPinyin": "wǒ 20 suì le！",
     "targetMeaning": "I am 20 years old!",
     "wordBank": [
       "我",
@@ -1582,7 +1582,7 @@
     "id": "s1-100",
     "hskLevel": 1,
     "targetSentence": "我去睡觉了。",
-    "targetPinyin": "wǒ qù shùijué le。",
+    "targetPinyin": "wǒ qù shuìjué le。",
     "targetMeaning": "I'm going to bed.",
     "wordBank": [
       "睡觉",
@@ -1596,7 +1596,7 @@
     "id": "s1-101",
     "hskLevel": 1,
     "targetSentence": "快点儿，开会了！",
-    "targetPinyin": "kuài diǎnér，kāihùi le！",
+    "targetPinyin": "kuài diǎnér，kāihuì le！",
     "targetMeaning": "Hurry up, it's time for a meeting!",
     "wordBank": [
       "会",
@@ -1675,7 +1675,7 @@
     "id": "s1-107",
     "hskLevel": 1,
     "targetSentence": "这个很好，那个呢？",
-    "targetPinyin": "zhè gè hěn hǎo， nà gè ní？",
+    "targetPinyin": "zhè gè hěn hǎo， nà gè ne？",
     "targetMeaning": "This is good, what about that?",
     "wordBank": [
       "很",
@@ -1693,7 +1693,7 @@
     "id": "s1-108",
     "hskLevel": 1,
     "targetSentence": "这个用中文怎么说？",
-    "targetPinyin": "zhè gè yòng zhōngwén zěnyāo shuō？",
+    "targetPinyin": "zhè gè yòng zhōngwén zěnme shuō？",
     "targetMeaning": "How do you say this in Chinese?",
     "wordBank": [
       "中文",
@@ -1709,7 +1709,7 @@
     "id": "s1-109",
     "hskLevel": 1,
     "targetSentence": "你妈妈呢？",
-    "targetPinyin": "nǐ māmā ní？",
+    "targetPinyin": "nǐ māmā ne？",
     "targetMeaning": "where is your mom?",
     "wordBank": [
       "呢",
@@ -1722,7 +1722,7 @@
     "id": "s1-110",
     "hskLevel": 1,
     "targetSentence": "我的手机呢？",
-    "targetPinyin": "wǒ de shǒujī ní？",
+    "targetPinyin": "wǒ de shǒujī ne？",
     "targetMeaning": "What about my cell phone?",
     "wordBank": [
       "呢",
@@ -1776,7 +1776,7 @@
     "id": "s1-114",
     "hskLevel": 1,
     "targetSentence": "太贵了吧，我不买了。",
-    "targetPinyin": "tài gùi le ba， wǒ bù mǎi le。",
+    "targetPinyin": "tài guì le ba， wǒ bù mǎi le。",
     "targetMeaning": "It's too expensive, I won't buy it.",
     "wordBank": [
       "。",
@@ -2013,7 +2013,7 @@
     "id": "s1-129",
     "hskLevel": 1,
     "targetSentence": "我和朋友在酒吧。",
-    "targetPinyin": "wǒ hé péngyǒu zài jǐuba。",
+    "targetPinyin": "wǒ hé péngyǒu zài jiǔba。",
     "targetMeaning": "My friend and I are at the bar.",
     "wordBank": [
       "和",
@@ -2327,7 +2327,7 @@
     "id": "s1-150",
     "hskLevel": 1,
     "targetSentence": "你叫什么名字？",
-    "targetPinyin": "nǐ jiào shíyāo míngzì？",
+    "targetPinyin": "nǐ jiào shénme míngzì？",
     "targetMeaning": "What's your name?",
     "wordBank": [
       "你",
@@ -2368,7 +2368,7 @@
     "id": "s1-153",
     "hskLevel": 1,
     "targetSentence": "下午我会去超市。",
-    "targetPinyin": "xiàwǔ wǒ hùi qù chāoshì。",
+    "targetPinyin": "xiàwǔ wǒ huì qù chāoshì。",
     "targetMeaning": "In the afternoon I will go to the supermarket.",
     "wordBank": [
       "下午",
@@ -2398,7 +2398,7 @@
     "id": "s1-155",
     "hskLevel": 1,
     "targetSentence": "九点我们去买。",
-    "targetPinyin": "jǐu diǎn wǒmen qù mǎi。",
+    "targetPinyin": "jiǔ diǎn wǒmen qù mǎi。",
     "targetMeaning": "We will buy it at nine.",
     "wordBank": [
       "。",
@@ -2502,7 +2502,7 @@
     "id": "s1-161",
     "hskLevel": 1,
     "targetSentence": "他会说中文。",
-    "targetPinyin": "tā hùi shuō zhōngwén。",
+    "targetPinyin": "tā huì shuō zhōngwén。",
     "targetMeaning": "He can speak Chinese.",
     "wordBank": [
       "中文",
@@ -2516,7 +2516,7 @@
     "id": "s1-162",
     "hskLevel": 1,
     "targetSentence": "我会写汉字。",
-    "targetPinyin": "wǒ hùi xiě hànzì。",
+    "targetPinyin": "wǒ huì xiě hànzì。",
     "targetMeaning": "I can write Chinese characters.",
     "wordBank": [
       "汉",
@@ -2531,7 +2531,7 @@
     "id": "s1-163",
     "hskLevel": 1,
     "targetSentence": "你会做饭吗？",
-    "targetPinyin": "nǐ hùi zuòfàn ma？",
+    "targetPinyin": "nǐ huì zuòfàn ma？",
     "targetMeaning": "Can you cook?",
     "wordBank": [
       "做",
@@ -2546,7 +2546,7 @@
     "id": "s1-164",
     "hskLevel": 1,
     "targetSentence": "我奶奶不会用电脑。",
-    "targetPinyin": "wǒ nǎinǎi bùhùi yòng diànnǎo。",
+    "targetPinyin": "wǒ nǎinǎi bùhuì yòng diànnǎo。",
     "targetMeaning": "My grandma can't use a computer.",
     "wordBank": [
       "我",
@@ -2562,7 +2562,7 @@
     "id": "s1-165",
     "hskLevel": 1,
     "targetSentence": "你不会开车吗？",
-    "targetPinyin": "nǐ bùhùi kāichē ma？",
+    "targetPinyin": "nǐ bùhuì kāichē ma？",
     "targetMeaning": "Won't you drive",
     "wordBank": [
       "吗",
@@ -2578,7 +2578,7 @@
     "id": "s1-166",
     "hskLevel": 1,
     "targetSentence": "明天你会来吗？",
-    "targetPinyin": "míngtiān nǐ hùi lái ma？",
+    "targetPinyin": "míngtiān nǐ huì lái ma？",
     "targetMeaning": "Will you come tomorrow?",
     "wordBank": [
       "你",
@@ -2593,7 +2593,7 @@
     "id": "s1-167",
     "hskLevel": 1,
     "targetSentence": "他会来看你吗？",
-    "targetPinyin": "tā hùi lái kàn nǐ ma？",
+    "targetPinyin": "tā huì lái kàn nǐ ma？",
     "targetMeaning": "Will he come to see you?",
     "wordBank": [
       "？",
@@ -2609,7 +2609,7 @@
     "id": "s1-168",
     "hskLevel": 1,
     "targetSentence": "明天会下雨吗？",
-    "targetPinyin": "míngtiān hùi xiàyǔ ma？",
+    "targetPinyin": "míngtiān huì xiàyǔ ma？",
     "targetMeaning": "is it going to rain tomorrow?",
     "wordBank": [
       "吗",
@@ -2623,7 +2623,7 @@
     "id": "s1-169",
     "hskLevel": 1,
     "targetSentence": "他不会跟你结婚。",
-    "targetPinyin": "tā bù hùi gēn nǐ jiéhūn。",
+    "targetPinyin": "tā bù huì gēn nǐ jiéhūn。",
     "targetMeaning": "He will not marry you.",
     "wordBank": [
       "会",
@@ -2639,7 +2639,7 @@
     "id": "s1-170",
     "hskLevel": 1,
     "targetSentence": "今晚我不会在外面吃饭。",
-    "targetPinyin": "jīnwǎn wǒ bù hùi zài wàimiàn chīfàn。",
+    "targetPinyin": "jīnwǎn wǒ bù huì zài wàimiàn chīfàn。",
     "targetMeaning": "I will not eat out tonight.",
     "wordBank": [
       "今",
@@ -2687,7 +2687,7 @@
     "id": "s1-173",
     "hskLevel": 1,
     "targetSentence": "你想喝水吗？",
-    "targetPinyin": "nǐ xiǎng hē shǔi ma？",
+    "targetPinyin": "nǐ xiǎng hē shuǐ ma？",
     "targetMeaning": "Do you want to drink water?",
     "wordBank": [
       "喝",
@@ -2741,7 +2741,7 @@
     "id": "s1-176",
     "hskLevel": 1,
     "targetSentence": "你们怎么学中文？",
-    "targetPinyin": "nǐmen zěnyāo xué zhōngwén？",
+    "targetPinyin": "nǐmen zěnme xué zhōngwén？",
     "targetMeaning": "How do you learn Chinese?",
     "wordBank": [
       "你",
@@ -2756,7 +2756,7 @@
     "id": "s1-177",
     "hskLevel": 1,
     "targetSentence": "你怎么上班？",
-    "targetPinyin": "nǐ zěnyāo shàngbān？",
+    "targetPinyin": "nǐ zěnme shàngbān？",
     "targetMeaning": "How do you go to work?",
     "wordBank": [
       "上班",
@@ -2769,7 +2769,7 @@
     "id": "s1-178",
     "hskLevel": 1,
     "targetSentence": "你知道怎么去外滩吗？",
-    "targetPinyin": "nǐ zhīdào zěnyāo qù wàitān ma？",
+    "targetPinyin": "nǐ zhīdào zěnme qù wàitān ma？",
     "targetMeaning": "Do you know how to get to the Bund?",
     "wordBank": [
       "知道",
@@ -2786,7 +2786,7 @@
     "id": "s1-179",
     "hskLevel": 1,
     "targetSentence": "中国菜怎么做？",
-    "targetPinyin": "zhōngguó cài zěnyāo zuò？",
+    "targetPinyin": "zhōngguó cài zěnme zuò？",
     "targetMeaning": "How to make Chinese food?",
     "wordBank": [
       "菜",
@@ -2800,7 +2800,7 @@
     "id": "s1-180",
     "hskLevel": 1,
     "targetSentence": "Apple怎么说？",
-    "targetPinyin": "Apple zěnyāo shuō？",
+    "targetPinyin": "Apple zěnme shuō？",
     "targetMeaning": "What does Apple say?",
     "wordBank": [
       "e",
@@ -2852,7 +2852,7 @@
     "id": "s1-183",
     "hskLevel": 1,
     "targetSentence": "我周末想在家睡觉。",
-    "targetPinyin": "wǒ zhōumò xiǎng zài jiā shùijué。",
+    "targetPinyin": "wǒ zhōumò xiǎng zài jiā shuìjué。",
     "targetMeaning": "I want to sleep at home on the weekend.",
     "wordBank": [
       "。",
@@ -2868,7 +2868,7 @@
     "id": "s1-184",
     "hskLevel": 1,
     "targetSentence": "老板在会议室见客户。",
-    "targetPinyin": "lǎobǎn zài hùiyìshì jiàn kèhù。",
+    "targetPinyin": "lǎobǎn zài huìyìshì jiàn kèhù。",
     "targetMeaning": "The boss meets the customer in the meeting room.",
     "wordBank": [
       "。",
@@ -2934,7 +2934,7 @@
     "id": "s1-188",
     "hskLevel": 1,
     "targetSentence": "我没有喝你的啤酒。",
-    "targetPinyin": "wǒ méiyǒu hē nǐ de píjǐu。",
+    "targetPinyin": "wǒ méiyǒu hē nǐ de píjiǔ。",
     "targetMeaning": "I didn't drink your beer.",
     "wordBank": [
       "没",
@@ -3198,7 +3198,7 @@
     "id": "s1-206",
     "hskLevel": 1,
     "targetSentence": "妈妈去超市买了一些水果。",
-    "targetPinyin": "māmā qù chāoshì mǎi le yīxiē shǔiguǒ。",
+    "targetPinyin": "māmā qù chāoshì mǎi le yīxiē shuǐguǒ。",
     "targetMeaning": "Mother went to the supermarket and bought some fruits.",
     "wordBank": [
       "妈妈",
@@ -3235,7 +3235,7 @@
     "id": "s1-208",
     "hskLevel": 1,
     "targetSentence": "我们很快会见到一些新同事。",
-    "targetPinyin": "wǒmen hěn kuài hùi jiàndào yīxiē xīn tóngshì。",
+    "targetPinyin": "wǒmen hěn kuài huì jiàndào yīxiē xīn tóngshì。",
     "targetMeaning": "We will soon meet some new colleagues.",
     "wordBank": [
       "很",
@@ -3457,7 +3457,7 @@
     "id": "s1-221",
     "hskLevel": 1,
     "targetSentence": "你最近怎么样？",
-    "targetPinyin": "nǐ zùijìn zěnyāoyáng？",
+    "targetPinyin": "nǐ zuìjìn zěnmeyàng？",
     "targetMeaning": "how have you been?",
     "wordBank": [
       "怎么样",
@@ -3470,7 +3470,7 @@
     "id": "s1-222",
     "hskLevel": 1,
     "targetSentence": "中国怎么样？",
-    "targetPinyin": "zhōngguó zěnyāoyáng？",
+    "targetPinyin": "zhōngguó zěnmeyàng？",
     "targetMeaning": "How is china?",
     "wordBank": [
       "？",
@@ -3482,7 +3482,7 @@
     "id": "s1-223",
     "hskLevel": 1,
     "targetSentence": "北京冬天怎么样？",
-    "targetPinyin": "běijīng dōngtiān zěnyāoyáng？",
+    "targetPinyin": "běijīng dōngtiān zěnmeyàng？",
     "targetMeaning": "How is Beijing winter?",
     "wordBank": [
       "天",
@@ -3496,7 +3496,7 @@
     "id": "s1-224",
     "hskLevel": 1,
     "targetSentence": "你觉得我怎么样？",
-    "targetPinyin": "nǐ juédé wǒ zěnyāoyáng？",
+    "targetPinyin": "nǐ juédé wǒ zěnmeyàng？",
     "targetMeaning": "What do you think about me?",
     "wordBank": [
       "怎么样",
@@ -3510,7 +3510,7 @@
     "id": "s1-225",
     "hskLevel": 1,
     "targetSentence": "你觉得中文怎么样？",
-    "targetPinyin": "nǐ juédé zhōngwén zěnyāoyáng？",
+    "targetPinyin": "nǐ juédé zhōngwén zěnmeyàng？",
     "targetMeaning": "What do you think of Chinese?",
     "wordBank": [
       "怎么样",
@@ -3524,7 +3524,7 @@
     "id": "s1-226",
     "hskLevel": 1,
     "targetSentence": "这是什么？",
-    "targetPinyin": "zhè shì shíyāo？",
+    "targetPinyin": "zhè shì shénme？",
     "targetMeaning": "what is this?",
     "wordBank": [
       "？",
@@ -3537,7 +3537,7 @@
     "id": "s1-227",
     "hskLevel": 1,
     "targetSentence": "你喜欢吃什么菜？",
-    "targetPinyin": "nǐ xǐhuān chī shíyāo cài？",
+    "targetPinyin": "nǐ xǐhuān chī shénme cài？",
     "targetMeaning": "what dishes do you like to eat?",
     "wordBank": [
       "吃",
@@ -3552,7 +3552,7 @@
     "id": "s1-228",
     "hskLevel": 1,
     "targetSentence": "你在看什么书？",
-    "targetPinyin": "nǐ zài kàn shíyāo shū？",
+    "targetPinyin": "nǐ zài kàn shénme shū？",
     "targetMeaning": "What book are you reading?",
     "wordBank": [
       "书",
@@ -3567,7 +3567,7 @@
     "id": "s1-229",
     "hskLevel": 1,
     "targetSentence": "你们怎么回家？",
-    "targetPinyin": "nǐmen zěnyāo húijiā？",
+    "targetPinyin": "nǐmen zěnme huíjiā？",
     "targetMeaning": "How do you go home?",
     "wordBank": [
       "你",
@@ -3582,7 +3582,7 @@
     "id": "s1-230",
     "hskLevel": 1,
     "targetSentence": "你怎么买票？",
-    "targetPinyin": "nǐ zěnyāo mǎi piào？",
+    "targetPinyin": "nǐ zěnme mǎi piào？",
     "targetMeaning": "How do you buy tickets?",
     "wordBank": [
       "票",
@@ -3770,7 +3770,7 @@
     "id": "s1-242",
     "hskLevel": 1,
     "targetSentence": "你是怎么去的？",
-    "targetPinyin": "nǐ shì zěnyāo qù de？",
+    "targetPinyin": "nǐ shì zěnme qù de？",
     "targetMeaning": "How did you get there",
     "wordBank": [
       "去",
@@ -3802,7 +3802,7 @@
     "id": "s1-244",
     "hskLevel": 1,
     "targetSentence": "那次我们是用Skype开会的。",
-    "targetPinyin": "nàcì wǒmen shì yòng Skype kāi hùi de。",
+    "targetPinyin": "nàcì wǒmen shì yòng Skype kāi huì de。",
     "targetMeaning": "We used Skype for the meeting.",
     "wordBank": [
       "那",
@@ -3825,7 +3825,7 @@
     "id": "s1-245",
     "hskLevel": 1,
     "targetSentence": "我们平时是用Skype开会的。",
-    "targetPinyin": "wǒmen píngshí shì yòng Skype kāi hùi de。",
+    "targetPinyin": "wǒmen píngshí shì yòng Skype kāi huì de。",
     "targetMeaning": "We usually use Skype for meetings.",
     "wordBank": [
       "会",
@@ -3847,7 +3847,7 @@
     "id": "s1-246",
     "hskLevel": 1,
     "targetSentence": "我今天晚上不喝酒。",
-    "targetPinyin": "wǒ jīntiān wǎnshàng bù hējǐu。",
+    "targetPinyin": "wǒ jīntiān wǎnshàng bù hējiǔ。",
     "targetMeaning": "I don't drink alcohol tonight.",
     "wordBank": [
       "晚上",
@@ -3863,7 +3863,7 @@
     "id": "s1-247",
     "hskLevel": 1,
     "targetSentence": "爸爸不回来吃晚饭。",
-    "targetPinyin": "bàbà bù húilái chī wǎnfàn。",
+    "targetPinyin": "bàbà bù huílái chī wǎnfàn。",
     "targetMeaning": "Dad doesn't come back for dinner.",
     "wordBank": [
       "爸爸",

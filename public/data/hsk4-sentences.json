@@ -3,7 +3,7 @@
     "id": "s4-001",
     "hskLevel": 4,
     "targetSentence": "全公司的人都不喜欢新老板。",
-    "targetPinyin": "quán gōngsī de rén dū bù xǐhuān xīn lǎobǎn。",
+    "targetPinyin": "quán gōngsī de rén dōu bù xǐhuān xīn lǎobǎn。",
     "targetMeaning": "People across the company do not like the new boss.",
     "wordBank": [
       "的",
@@ -22,7 +22,7 @@
     "id": "s4-002",
     "hskLevel": 4,
     "targetSentence": "运动完以后我全身都是汗。",
-    "targetPinyin": "yùndòng wán yǐhòu wǒ quán shēn dū shì hàn。",
+    "targetPinyin": "yùndòng wán yǐhòu wǒ quán shēn dōu shì hàn。",
     "targetMeaning": "After the exercise, I was sweating all over.",
     "wordBank": [
       "以后",
@@ -41,7 +41,7 @@
     "id": "s4-003",
     "hskLevel": 4,
     "targetSentence": "全校都放假了。",
-    "targetPinyin": "quán xiào dū fàngjiǎ le。",
+    "targetPinyin": "quán xiào dōu fàngjiǎ le。",
     "targetMeaning": "The whole school is on holiday.",
     "wordBank": [
       "全",
@@ -57,7 +57,7 @@
     "id": "s4-004",
     "hskLevel": 4,
     "targetSentence": "这个地方全年都很热。",
-    "targetPinyin": "zhègè dìfāng quán nián dū hěn rè。",
+    "targetPinyin": "zhègè dìfāng quán nián dōu hěn rè。",
     "targetMeaning": "This place is hot all year round.",
     "wordBank": [
       "地方",
@@ -75,7 +75,7 @@
     "id": "s4-005",
     "hskLevel": 4,
     "targetSentence": "大家全都到了。",
-    "targetPinyin": "dàjiā quán dū dào le。",
+    "targetPinyin": "dàjiā quán dōu dào le。",
     "targetMeaning": "Everyone is here.",
     "wordBank": [
       "到",
@@ -163,7 +163,7 @@
     "id": "s4-011",
     "hskLevel": 4,
     "targetSentence": "这几个地方都差不多。",
-    "targetPinyin": "zhè jī gè dìfāng dū chàbùduō。",
+    "targetPinyin": "zhè jī gè dìfāng dōu chàbùduō。",
     "targetMeaning": "These places are similar.",
     "wordBank": [
       "差不多",
@@ -228,7 +228,7 @@
     "id": "s4-015",
     "hskLevel": 4,
     "targetSentence": "你们的中文水平差不多。",
-    "targetPinyin": "nǐmen de zhōngwén shǔipíng chàbùduō。",
+    "targetPinyin": "nǐmen de zhōngwén shuǐpíng chàbùduō。",
     "targetMeaning": "Your Chinese level is similar.",
     "wordBank": [
       "水平",
@@ -244,7 +244,7 @@
     "id": "s4-016",
     "hskLevel": 4,
     "targetSentence": "看来他不来了，都这么晚了。",
-    "targetPinyin": "kànláitābùláile，dūzhèyāowǎnle。",
+    "targetPinyin": "kànláitābùláile，dūzhèmewǎnle。",
     "targetMeaning": "It seems that he is not coming, so late.",
     "wordBank": [
       "都",
@@ -265,7 +265,7 @@
     "id": "s4-017",
     "hskLevel": 4,
     "targetSentence": "看来你玩得不高兴，怎么这么早就回来了？",
-    "targetPinyin": "kànláinǐwándébùgāoxīng，zěnyāozhèyāozǎojìuhúiláile？",
+    "targetPinyin": "kànláinǐwándébùgāoxīng，zěnmezhèmezǎojiùhuíláile？",
     "targetMeaning": "It seems that you are not happy, how come back so early?",
     "wordBank": [
       "不",
@@ -290,7 +290,7 @@
     "id": "s4-018",
     "hskLevel": 4,
     "targetSentence": "现在看来，事情没那么糟。",
-    "targetPinyin": "xiànzàikànlái，shìqíngméinàyāozāo。",
+    "targetPinyin": "xiànzàikànlái，shìqíngméinàmezāo。",
     "targetMeaning": "Now it seems that things are not so bad.",
     "wordBank": [
       "么",
@@ -308,7 +308,7 @@
     "id": "s4-019",
     "hskLevel": 4,
     "targetSentence": "在我看来，不会花钱的人就不会享受生活。",
-    "targetPinyin": "zàiwǒkànlái，bù hùi huā qián de rén jìu bù hùi xiǎngshòu shēnghuó。",
+    "targetPinyin": "zàiwǒkànlái，bù huì huā qián de rén jiù bù huì xiǎngshòu shēnghuó。",
     "targetMeaning": "In my opinion, people who do not spend money will not enjoy life.",
     "wordBank": [
       "花",
@@ -437,7 +437,7 @@
     "id": "s4-025",
     "hskLevel": 4,
     "targetSentence": "正好你们都是单身。",
-    "targetPinyin": "zhènghǎo nǐmen dū shì dānshēn。",
+    "targetPinyin": "zhènghǎo nǐmen dōu shì dānshēn。",
     "targetMeaning": "It happens that you are all single.",
     "wordBank": [
       "你",
@@ -468,7 +468,7 @@
     "id": "s4-027",
     "hskLevel": 4,
     "targetSentence": "这些菜又没坏，为什么要扔？",
-    "targetPinyin": "zhèxiē cài yòu méi huài，wèishíyāo yào rēng？",
+    "targetPinyin": "zhèxiē cài yòu méi huài，wèishénme yào rēng？",
     "targetMeaning": "These dishes are not bad, why throw them?",
     "wordBank": [
       "些",
@@ -527,7 +527,7 @@
     "id": "s4-030",
     "hskLevel": 4,
     "targetSentence": "明天又不上班，那么早起床干吗？",
-    "targetPinyin": "míngtiān yòu bù shàngbān，nàyāo zǎo qǐchuáng gānma？",
+    "targetPinyin": "míngtiān yòu bù shàngbān，nàme zǎo qǐchuáng gānma？",
     "targetMeaning": "Don't go to work tomorrow, so why get up early?",
     "wordBank": [
       "那",
@@ -600,7 +600,7 @@
     "id": "s4-034",
     "hskLevel": 4,
     "targetSentence": "你可别喝太多酒。",
-    "targetPinyin": "nǐ kě bié hē tài duō jǐu。",
+    "targetPinyin": "nǐ kě bié hē tài duō jiǔ。",
     "targetMeaning": "Don't drink too much alcohol.",
     "wordBank": [
       "多",
@@ -820,7 +820,7 @@
     "id": "s4-046",
     "hskLevel": 4,
     "targetSentence": "他从来都这样。",
-    "targetPinyin": "tā cónglái dū zhèyáng。",
+    "targetPinyin": "tā cónglái dōu zhèyáng。",
     "targetMeaning": "He has always been like this.",
     "wordBank": [
       "样",
@@ -835,7 +835,7 @@
     "id": "s4-047",
     "hskLevel": 4,
     "targetSentence": "她从来都这么晚睡。",
-    "targetPinyin": "tā cónglái dū zhèyāo wǎn shùi。",
+    "targetPinyin": "tā cónglái dōu zhème wǎn shuì。",
     "targetMeaning": "She has never slept so late.",
     "wordBank": [
       "。",
@@ -852,7 +852,7 @@
     "id": "s4-048",
     "hskLevel": 4,
     "targetSentence": "他说话从来都很大声。",
-    "targetPinyin": "tā shuōhuà cónglái dū hěn dàshēng。",
+    "targetPinyin": "tā shuōhuà cónglái dōu hěn dàshēng。",
     "targetMeaning": "He always speaks very loudly.",
     "wordBank": [
       "都",
@@ -869,7 +869,7 @@
     "id": "s4-049",
     "hskLevel": 4,
     "targetSentence": "我们学校的学生从来都只能穿校服。",
-    "targetPinyin": "wǒmen xuéxiào de xuéshēng cónglái dū zhǐ néng chuān xiàofú。",
+    "targetPinyin": "wǒmen xuéxiào de xuéshēng cónglái dōu zhǐ néng chuān xiàofú。",
     "targetMeaning": "Students in our school can only wear school uniforms.",
     "wordBank": [
       "学校",
@@ -890,7 +890,7 @@
     "id": "s4-050",
     "hskLevel": 4,
     "targetSentence": "成功从来都要靠自己努力。",
-    "targetPinyin": "chénggōng cónglái dū yào kào zìjǐ nǔlì。",
+    "targetPinyin": "chénggōng cónglái dōu yào kào zìjǐ nǔlì。",
     "targetMeaning": "Success always depends on yourself.",
     "wordBank": [
       "努力",
@@ -1027,7 +1027,7 @@
     "id": "s4-057",
     "hskLevel": 4,
     "targetSentence": "这是很重要的决定，你恐怕不能这么着急。",
-    "targetPinyin": "zhè shì hěnzhòngyào de juédìng，nǐ kǒngpà bù néng zhèyāo zháojí。",
+    "targetPinyin": "zhè shì hěnzhòngyào de juédìng，nǐ kǒngpà bù néng zhème zháojí。",
     "targetMeaning": "This is a very important decision, I am afraid you should not be so anxious.",
     "wordBank": [
       "是",
@@ -1051,7 +1051,7 @@
     "id": "s4-058",
     "hskLevel": 4,
     "targetSentence": "老婆，我晚上要加班，恐怕不能回家吃晚饭了。",
-    "targetPinyin": "lǎopó，wǒ wǎnshàng yào jiābān，kǒngpà bù néng húijiā chī wǎnfàn le。",
+    "targetPinyin": "lǎopó，wǒ wǎnshàng yào jiābān，kǒngpà bù néng huíjiā chī wǎnfàn le。",
     "targetMeaning": "Wife, I have to work overtime at night. I'm afraid I can't go home for dinner.",
     "wordBank": [
       "。",
@@ -1078,7 +1078,7 @@
     "id": "s4-059",
     "hskLevel": 4,
     "targetSentence": "这个颜色太粉了，恐怕我女儿不喜欢。",
-    "targetPinyin": "zhègè yánsè tài fěn le，kǒngpà wǒnv̌ér bù xǐhuān。",
+    "targetPinyin": "zhègè yánsè tài fěn le，kǒngpà wǒnǚér bù xǐhuān。",
     "targetMeaning": "This color is too pink, I am afraid my daughter does not like it.",
     "wordBank": [
       "儿",
@@ -1174,7 +1174,7 @@
     "id": "s4-064",
     "hskLevel": 4,
     "targetSentence": "我对你够好了。",
-    "targetPinyin": "wǒ dùi nǐ gòu hǎo le。",
+    "targetPinyin": "wǒ duì nǐ gòu hǎo le。",
     "targetMeaning": "I'm good enough for you.",
     "wordBank": [
       "了",
@@ -1208,7 +1208,7 @@
     "id": "s4-066",
     "hskLevel": 4,
     "targetSentence": "每个观众甚至裁判都站起来给他鼓掌。",
-    "targetPinyin": "měi gè guānzhòng shénzhì cáipàn dū zhàn qǐlái gěi tā gǔzhǎng。",
+    "targetPinyin": "měi gè guānzhòng shénzhì cáipàn dōu zhàn qǐlái gěi tā gǔzhǎng。",
     "targetMeaning": "Every audience and even the referee stood up and applauded him.",
     "wordBank": [
       "裁判",
@@ -1229,7 +1229,7 @@
     "id": "s4-067",
     "hskLevel": 4,
     "targetSentence": "我去过很多中国的城市，北京、上海、杭州、昆明、桂林，甚至拉萨我也去过。",
-    "targetPinyin": "wǒ qù guò hěn duō zhōngguó de chéngshì，běijīng、shànghǎi、hángzhōu、kūnmíng、gùilín，shénzhì lāsà wǒ yě qù guò。",
+    "targetPinyin": "wǒ qù guò hěn duō zhōngguó de chéngshì，běijīng、shànghǎi、hángzhōu、kūnmíng、guìlín，shénzhì lāsà wǒ yě qù guò。",
     "targetMeaning": "I have been to many cities in China, including Beijing, Shanghai, Hangzhou, Kunming, Guilin, and even Lhasa.",
     "wordBank": [
       "桂",
@@ -1303,7 +1303,7 @@
     "id": "s4-069",
     "hskLevel": 4,
     "targetSentence": "他太忙了，甚至连吃中饭的时间都没有。",
-    "targetPinyin": "tā tài máng le，shénzhì lián chī zhōngfàn de shíjiān dū méiyǒu。",
+    "targetPinyin": "tā tài máng le，shénzhì lián chī zhōngfàn de shíjiān dōu méiyǒu。",
     "targetMeaning": "He was too busy to even have time for lunch.",
     "wordBank": [
       "，",
@@ -1416,7 +1416,7 @@
     "id": "s4-075",
     "hskLevel": 4,
     "targetSentence": "太晚了，还是先回家吧。",
-    "targetPinyin": "tài wǎn le，huánshì xiān húijiā ba。",
+    "targetPinyin": "tài wǎn le，huánshì xiān huíjiā ba。",
     "targetMeaning": "It's too late, let's go home first.",
     "wordBank": [
       "，",
@@ -1435,7 +1435,7 @@
     "id": "s4-076",
     "hskLevel": 4,
     "targetSentence": "你最好先休息一下。",
-    "targetPinyin": "nǐ zùihǎo xiān xīuxī yīxià。",
+    "targetPinyin": "nǐ zuìhǎo xiān xiūxī yīxià。",
     "targetMeaning": "You'd better take a break first.",
     "wordBank": [
       "先",
@@ -1451,7 +1451,7 @@
     "id": "s4-077",
     "hskLevel": 4,
     "targetSentence": "你们最好给他打个电话问一下。",
-    "targetPinyin": "nǐmen zùihǎo gěi tā dǎ gè diànhuà wèn yīxià。",
+    "targetPinyin": "nǐmen zuìhǎo gěi tā dǎ gè diànhuà wèn yīxià。",
     "targetMeaning": "You better call him and ask.",
     "wordBank": [
       "给",
@@ -1473,7 +1473,7 @@
     "id": "s4-078",
     "hskLevel": 4,
     "targetSentence": "那个地方不好找，我们最好查一下百度地图。",
-    "targetPinyin": "nàgè dìfāng bù hǎo zhǎo，wǒmen zùihǎo chá yīxià bǎidù dìtú。",
+    "targetPinyin": "nàgè dìfāng bù hǎo zhǎo，wǒmen zuìhǎo chá yīxià bǎidù dìtú。",
     "targetMeaning": "That place is not easy to find, we better check Baidu map.",
     "wordBank": [
       "度",
@@ -1498,7 +1498,7 @@
     "id": "s4-079",
     "hskLevel": 4,
     "targetSentence": "外面挺冷的，最好多穿点。",
-    "targetPinyin": "wàimiàn tǐng lěng de，zùihǎo duō chuān diǎn。",
+    "targetPinyin": "wàimiàn tǐng lěng de，zuìhǎo duō chuān diǎn。",
     "targetMeaning": "It's cold outside, it's best to wear more.",
     "wordBank": [
       "面",
@@ -1518,7 +1518,7 @@
     "id": "s4-080",
     "hskLevel": 4,
     "targetSentence": "这个活动很重要，我们最好穿得正式一点。",
-    "targetPinyin": "zhègè huódòng hěn zhòngyào，wǒmen zùihǎo chuān dé zhèngshì yīdiǎn。",
+    "targetPinyin": "zhègè huódòng hěn zhòngyào，wǒmen zuìhǎo chuān dé zhèngshì yīdiǎn。",
     "targetMeaning": "This event is very important, we better dress more formally.",
     "wordBank": [
       "得",
@@ -1541,7 +1541,7 @@
     "id": "s4-081",
     "hskLevel": 4,
     "targetSentence": "到底是个大老板，出手就是大方。",
-    "targetPinyin": "dàodǐ shì gè dà lǎobǎn，chūshǒu jìushì dàfāng。",
+    "targetPinyin": "dàodǐ shì gè dà lǎobǎn，chūshǒu jiùshì dàfāng。",
     "targetMeaning": "In the end is a big boss, the shot is generous.",
     "wordBank": [
       "，",
@@ -1562,7 +1562,7 @@
     "id": "s4-082",
     "hskLevel": 4,
     "targetSentence": "到底是个高手，这么快就把问题解决了！\"Heisamaster,afterall...\")",
-    "targetPinyin": "dàodǐ shì gè gāoshǒu，zhèyāo kuài jìu bǎ wèntí jiějué le！\"He is a master, after all...\")",
+    "targetPinyin": "dàodǐ shì gè gāoshǒu，zhème kuài jiù bǎ wèntí jiějué le！\"He is a master, after all...\")",
     "targetMeaning": "In the end is a master, so quickly solved the problem! \"Heisamaster, afterall ...\")",
     "wordBank": [
       "是",
@@ -1612,7 +1612,7 @@
     "id": "s4-083",
     "hskLevel": 4,
     "targetSentence": "到底还是孩子，有些事情他不懂是很正常的。",
-    "targetPinyin": "dàodǐ huán shì háizǐ，yǒuxiē shìqíng tā bù dǒng shì hěn zhèngcháng de。",
+    "targetPinyin": "dàodǐ hái shì háizǐ，yǒuxiē shìqíng tā bù dǒng shì hěn zhèngcháng de。",
     "targetMeaning": "In the end, it is still a child, and it is normal for him not to understand some things.",
     "wordBank": [
       "不",
@@ -1636,7 +1636,7 @@
     "id": "s4-084",
     "hskLevel": 4,
     "targetSentence": "你到底怎么了？",
-    "targetPinyin": "nǐ dàodǐ zěnyāo le？",
+    "targetPinyin": "nǐ dàodǐ zěnme le？",
     "targetMeaning": "What happened to you?",
     "wordBank": [
       "了",
@@ -1650,7 +1650,7 @@
     "id": "s4-085",
     "hskLevel": 4,
     "targetSentence": "到底怎么走？",
-    "targetPinyin": "dàodǐ zěnyāo zǒu？",
+    "targetPinyin": "dàodǐ zěnme zǒu？",
     "targetMeaning": "What the hell is going on?",
     "wordBank": [
       "到底",
@@ -1663,7 +1663,7 @@
     "id": "s4-086",
     "hskLevel": 4,
     "targetSentence": "这个人究竟是谁？",
-    "targetPinyin": "zhè gè rén jīujìng shì shúi？",
+    "targetPinyin": "zhè gè rén jiūjìng shì shuí？",
     "targetMeaning": "Who is this person?",
     "wordBank": [
       "谁",
@@ -1678,7 +1678,7 @@
     "id": "s4-087",
     "hskLevel": 4,
     "targetSentence": "你究竟是做什么的？",
-    "targetPinyin": "nǐ jīujìng shì zuò shíyāo de？",
+    "targetPinyin": "nǐ jiūjìng shì zuò shénme de？",
     "targetMeaning": "What are you doing?",
     "wordBank": [
       "？",
@@ -1694,7 +1694,7 @@
     "id": "s4-088",
     "hskLevel": 4,
     "targetSentence": "他们究竟什么时候到？",
-    "targetPinyin": "tāmen jīujìng shíyāo shíhòu dào？",
+    "targetPinyin": "tāmen jiūjìng shénme shíhòu dào？",
     "targetMeaning": "When will they arrive?",
     "wordBank": [
       "到",
@@ -1710,7 +1710,7 @@
     "id": "s4-089",
     "hskLevel": 4,
     "targetSentence": "我们究竟还要等多久？",
-    "targetPinyin": "wǒmen jīujìng huán yào děng duōjǐu？",
+    "targetPinyin": "wǒmen jiūjìng hái yào děng duōjiǔ？",
     "targetMeaning": "How long do we have to wait?",
     "wordBank": [
       "要",
@@ -1727,7 +1727,7 @@
     "id": "s4-090",
     "hskLevel": 4,
     "targetSentence": "你们究竟想让我怎么做？",
-    "targetPinyin": "nǐmen jīujìng xiǎng ràng wǒ zěnyāo zuò？",
+    "targetPinyin": "nǐmen jiūjìng xiǎng ràng wǒ zěnme zuò？",
     "targetMeaning": "What exactly do you want me to do?",
     "wordBank": [
       "我",
@@ -1872,7 +1872,7 @@
     "id": "s4-099",
     "hskLevel": 4,
     "targetSentence": "别拿那么多，一个一个拿。",
-    "targetPinyin": "bié ná nàyāo duō，yī gè yī gè ná。",
+    "targetPinyin": "bié ná nàme duō，yī gè yī gè ná。",
     "targetMeaning": "Don't take so many, take one by one.",
     "wordBank": [
       "拿",
@@ -1912,7 +1912,7 @@
     "id": "s4-101",
     "hskLevel": 4,
     "targetSentence": "我本来是要去的，不过后来不太舒服，就没去。",
-    "targetPinyin": "wǒ běnlái shì yào qù de，bùguò hòulái bù tài shūfú，jìu méi qù。",
+    "targetPinyin": "wǒ běnlái shì yào qù de，bùguò hòulái bù tài shūfú，jiù méi qù。",
     "targetMeaning": "I was going to go, but later I was not very comfortable, so I didn't go.",
     "wordBank": [
       "我",
@@ -1964,7 +1964,7 @@
     "id": "s4-103",
     "hskLevel": 4,
     "targetSentence": "我们本来想去找他帮忙的，可是他那么忙，就没去。",
-    "targetPinyin": "wǒmen běnlái xiǎng qù zhǎo tā bāngmáng de，kěshì tā nàyāo máng，jìu méi qù。",
+    "targetPinyin": "wǒmen běnlái xiǎng qù zhǎo tā bāngmáng de，kěshì tā nàme máng，jiù méi qù。",
     "targetMeaning": "We wanted to go to him for help, but he was so busy that he didn't go.",
     "wordBank": [
       "，",
@@ -2045,7 +2045,7 @@
     "id": "s4-106",
     "hskLevel": 4,
     "targetSentence": "这件事就我知道。",
-    "targetPinyin": "zhè jiàn shì jìu wǒ zhīdào。",
+    "targetPinyin": "zhè jiàn shì jiù wǒ zhīdào。",
     "targetMeaning": "I know this.",
     "wordBank": [
       "。",
@@ -2061,7 +2061,7 @@
     "id": "s4-107",
     "hskLevel": 4,
     "targetSentence": "我们都忘了，就他还记得。",
-    "targetPinyin": "wǒmen dū wàng le，jìu tā huán jìdé。",
+    "targetPinyin": "wǒmen dōu wàng le，jiù tā hái jìdé。",
     "targetMeaning": "We all forgot, even he remembered.",
     "wordBank": [
       "都",
@@ -2080,7 +2080,7 @@
     "id": "s4-108",
     "hskLevel": 4,
     "targetSentence": "大家都下班了，就老板还没走。",
-    "targetPinyin": "dàjiā dū xiàbān le，jìu lǎobǎn huán méi zǒu。",
+    "targetPinyin": "dàjiā dōu xiàbān le，jiù lǎobǎn hái méi zǒu。",
     "targetMeaning": "Everyone is off work, but the boss hasn't left yet.",
     "wordBank": [
       "，",
@@ -2101,7 +2101,7 @@
     "id": "s4-109",
     "hskLevel": 4,
     "targetSentence": "其他的菜都很好吃，就这两个菜有点咸。",
-    "targetPinyin": "qítā de cài dū hěn hǎochī，jìu zhè liǎng gè cài yǒudiǎn xián。",
+    "targetPinyin": "qítā de cài dōu hěn hǎochī，jiù zhè liǎng gè cài yǒudiǎn xián。",
     "targetMeaning": "The other dishes are delicious, but these two dishes are a bit salty.",
     "wordBank": [
       "咸",
@@ -2126,7 +2126,7 @@
     "id": "s4-110",
     "hskLevel": 4,
     "targetSentence": "你觉得别人都是傻子吗？",
-    "targetPinyin": "nǐ juédé biérén dū shì shǎzǐ ma？",
+    "targetPinyin": "nǐ juédé biérén dōu shì shǎzǐ ma？",
     "targetMeaning": "Do you think everyone is a fool?",
     "wordBank": [
       "你",
@@ -2165,7 +2165,7 @@
     "id": "s4-112",
     "hskLevel": 4,
     "targetSentence": "这是一件让人难过的事情，你竟然还笑？",
-    "targetPinyin": "zhè shì yī jiàn ràng rén nánguò de shìqíng，nǐ jìngrán huán xiào？",
+    "targetPinyin": "zhè shì yī jiàn ràng rén nánguò de shìqíng，nǐ jìngrán hái xiào？",
     "targetMeaning": "This is a sad thing, you still laugh?",
     "wordBank": [
       "？",
@@ -2189,7 +2189,7 @@
     "id": "s4-113",
     "hskLevel": 4,
     "targetSentence": "他那么努力，竟然没考及格！",
-    "targetPinyin": "tā nàyāo nǔlì，jìngrán méi kǎo jígé！",
+    "targetPinyin": "tā nàme nǔlì，jìngrán méi kǎo jígé！",
     "targetMeaning": "He tried so hard that he failed the exam!",
     "wordBank": [
       "努力",
@@ -2233,7 +2233,7 @@
     "id": "s4-115",
     "hskLevel": 4,
     "targetSentence": "大家都以为他不会答应，可是他竟然答应了。",
-    "targetPinyin": "dàjiā dū yǐwèi tā bù hùi dáyìng，kěshì tā jìngrán dáyìng le。",
+    "targetPinyin": "dàjiā dōu yǐwèi tā bù huì dáyìng，kěshì tā jìngrán dáyìng le。",
     "targetMeaning": "Everyone thought he would not agree, but he did.",
     "wordBank": [
       "，",
@@ -2320,7 +2320,7 @@
     "id": "s4-119",
     "hskLevel": 4,
     "targetSentence": "他不是什么好人，千万不要相信他！",
-    "targetPinyin": "tā bù shì shíyāo hǎorén，qiānwàn bùyào xiāngxìn tā！",
+    "targetPinyin": "tā bù shì shénme hǎorén，qiānwàn bùyào xiāngxìn tā！",
     "targetMeaning": "He is not a good person, don't believe him!",
     "wordBank": [
       "不",
@@ -2422,7 +2422,7 @@
     "id": "s4-124",
     "hskLevel": 4,
     "targetSentence": "你父母这么关心你，难道你一点都感觉不到吗？",
-    "targetPinyin": "nǐ fùmǔ zhèyāo guānxīn nǐ， nándào nǐ yīdiǎn dū gǎnjué bùdào ma？",
+    "targetPinyin": "nǐ fùmǔ zhème guānxīn nǐ， nándào nǐ yīdiǎn dōu gǎnjué bùdào ma？",
     "targetMeaning": "Your parents care so much about you, don't you feel it at all?",
     "wordBank": [
       "吗",
@@ -2449,7 +2449,7 @@
     "id": "s4-125",
     "hskLevel": 4,
     "targetSentence": "他这么帅，又这么有钱，难道你不想嫁给他吗？",
-    "targetPinyin": "tā zhèyāo shuài，yòu zhèyāo yǒuqián，nándào nǐ bù xiǎng jià gěi tā ma？",
+    "targetPinyin": "tā zhème shuài，yòu zhème yǒuqián，nándào nǐ bù xiǎng jià gěi tā ma？",
     "targetMeaning": "He is so handsome and so rich, don't you want to marry him?",
     "wordBank": [
       "难道",
@@ -2493,7 +2493,7 @@
     "id": "s4-127",
     "hskLevel": 4,
     "targetSentence": "我喜欢先洗澡，再睡觉。",
-    "targetPinyin": "wǒ xǐhuān xiān xǐzǎo，zài shùijué。",
+    "targetPinyin": "wǒ xǐhuān xiān xǐzǎo，zài shuìjué。",
     "targetMeaning": "I like to take a bath before sleeping.",
     "wordBank": [
       "洗澡",
@@ -2566,7 +2566,7 @@
     "id": "s4-131",
     "hskLevel": 4,
     "targetSentence": "我很好，我的家人也都很好。",
-    "targetPinyin": "wǒ hěn hǎo，wǒ de jiārén yě dū hěn hǎo。",
+    "targetPinyin": "wǒ hěn hǎo，wǒ de jiārén yě dōu hěn hǎo。",
     "targetMeaning": "I am fine, and my family are fine.",
     "wordBank": [
       "。",
@@ -2588,7 +2588,7 @@
     "id": "s4-132",
     "hskLevel": 4,
     "targetSentence": "大人很喜欢这个餐厅，孩子们也都很喜欢。",
-    "targetPinyin": "dàrén hěn xǐhuān zhègè cāntīng，háizǐ men yě dū hěn xǐhuān。",
+    "targetPinyin": "dàrén hěn xǐhuān zhègè cāntīng，háizǐ men yě dōu hěn xǐhuān。",
     "targetMeaning": "Adults like this restaurant very much, and children like it too.",
     "wordBank": [
       "喜欢",
@@ -2612,7 +2612,7 @@
     "id": "s4-133",
     "hskLevel": 4,
     "targetSentence": "我老板是美国人，很多客户也都是美国人。",
-    "targetPinyin": "wǒ lǎobǎn shì měiguó rén，hěn duō kèhù yě dū shì měiguó rén。",
+    "targetPinyin": "wǒ lǎobǎn shì měiguó rén，hěn duō kèhù yě dōu shì měiguó rén。",
     "targetMeaning": "My boss is American and many customers are also American.",
     "wordBank": [
       "也",
@@ -2638,7 +2638,7 @@
     "id": "s4-134",
     "hskLevel": 4,
     "targetSentence": "他很高，他的两个弟弟也都比较高。",
-    "targetPinyin": "tā hěn gāo，tā de liǎng gè dìdì yě dū bǐjiào gāo。",
+    "targetPinyin": "tā hěn gāo，tā de liǎng gè dìdì yě dōu bǐjiào gāo。",
     "targetMeaning": "He is tall, and his two younger brothers are taller.",
     "wordBank": [
       "很",
@@ -2661,7 +2661,7 @@
     "id": "s4-135",
     "hskLevel": 4,
     "targetSentence": "老板加班，你们也都要加班吗？",
-    "targetPinyin": "lǎobǎn jiābān，nǐmen yě dū yào jiābān ma？",
+    "targetPinyin": "lǎobǎn jiābān，nǐmen yě dōu yào jiābān ma？",
     "targetMeaning": "The boss works overtime, do you have to work overtime too?",
     "wordBank": [
       "你",
@@ -2713,7 +2713,7 @@
     "id": "s4-138",
     "hskLevel": 4,
     "targetSentence": "最近大家都挺忙的。",
-    "targetPinyin": "zùijìn dàjiā dū tǐng máng de。",
+    "targetPinyin": "zuìjìn dàjiā dōu tǐng máng de。",
     "targetMeaning": "Everyone has been busy recently.",
     "wordBank": [
       "最近",
@@ -2766,7 +2766,7 @@
     "id": "s4-141",
     "hskLevel": 4,
     "targetSentence": "我奶奶不吃肉，只吃蔬菜、豆腐什么的。",
-    "targetPinyin": "wǒ nǎinǎi bù chī ròu，zhǐ chī shūcài、dòufǔ shíyāode。",
+    "targetPinyin": "wǒ nǎinǎi bù chī ròu，zhǐ chī shūcài、dòufǔ shénmede。",
     "targetMeaning": "My grandma doesn't eat meat, only vegetables, tofu or something.",
     "wordBank": [
       "肉",
@@ -2789,7 +2789,7 @@
     "id": "s4-142",
     "hskLevel": 4,
     "targetSentence": "养狗很麻烦，你要喂它，给它洗澡，跟它玩什么的。",
-    "targetPinyin": "yǎnggǒu hěn máfán，nǐ yào wèi tā，gěi tā xǐzǎo，gēn tā wán shíyāode。",
+    "targetPinyin": "yǎnggǒu hěn máfán，nǐ yào wèi tā，gěi tā xǐzǎo，gēn tā wán shénmede。",
     "targetMeaning": "Keeping a dog is troublesome, you have to feed it, bathe it, play with it.",
     "wordBank": [
       "麻烦",
@@ -2818,7 +2818,7 @@
     "id": "s4-143",
     "hskLevel": 4,
     "targetSentence": "数学、物理、化学什么的，我都不感兴趣。",
-    "targetPinyin": "shùxué、wùlǐ、huàxué shíyāode，wǒ dū bù gǎnxīngqù。",
+    "targetPinyin": "shùxué、wùlǐ、huàxué shénmede，wǒ dōu bù gǎnxīngqù。",
     "targetMeaning": "I'm not interested in mathematics, physics, chemistry or anything.",
     "wordBank": [
       "兴趣",
@@ -2841,7 +2841,7 @@
     "id": "s4-144",
     "hskLevel": 4,
     "targetSentence": "我喜欢实用的礼物，手表、衣服、书什么的。",
-    "targetPinyin": "wǒ xǐhuān shíyòng de lǐwù，shǒubiǎo、yīfú、shū shíyāode。",
+    "targetPinyin": "wǒ xǐhuān shíyòng de lǐwù，shǒubiǎo、yīfú、shū shénmede。",
     "targetMeaning": "I like practical gifts, watches, clothes and books.",
     "wordBank": [
       "喜欢",
@@ -2864,7 +2864,7 @@
     "id": "s4-145",
     "hskLevel": 4,
     "targetSentence": "我们见面一般就是吃饭、聊天什么的。",
-    "targetPinyin": "wǒmen jiànmiàn yībān jìushì chīfàn、liáotiān shíyāode。",
+    "targetPinyin": "wǒmen jiànmiàn yībān jiùshì chīfàn、liáotiān shénmede。",
     "targetMeaning": "When we meet, we usually eat or chat.",
     "wordBank": [
       "我们",
@@ -2885,7 +2885,7 @@
     "id": "s4-146",
     "hskLevel": 4,
     "targetSentence": "西瓜、菠萝、葡萄等等，我都喜欢吃。",
-    "targetPinyin": "xīguā、bōluó、pútáo děngděng，wǒ dū xǐhuān chī。",
+    "targetPinyin": "xīguā、bōluó、pútáo děngděng，wǒ dōu xǐhuān chī。",
     "targetMeaning": "I like watermelons, pineapples, grapes, etc.",
     "wordBank": [
       "、",
@@ -2908,7 +2908,7 @@
     "id": "s4-147",
     "hskLevel": 4,
     "targetSentence": "我爸爸很喜欢运动，比如跑步、游泳、打羽毛球等等。",
-    "targetPinyin": "wǒ bàbà hěn xǐhuān yùndòng，bǐrú pǎobù、yóuyǒng、dǎyǔmáoqíu děngděng。",
+    "targetPinyin": "wǒ bàbà hěn xǐhuān yùndòng，bǐrú pǎobù、yóuyǒng、dǎyǔmáoqiú děngděng。",
     "targetMeaning": "My dad likes sports, such as running, swimming, playing badminton, etc.",
     "wordBank": [
       "跑步",
@@ -2933,7 +2933,7 @@
     "id": "s4-148",
     "hskLevel": 4,
     "targetSentence": "BruceLi、JackieChan、JetLi等都是功夫明星。",
-    "targetPinyin": "Bruce Li、Jackie Chan、Jet Li děng dū shì gōngfū míngxīng。",
+    "targetPinyin": "Bruce Li、Jackie Chan、Jet Li děng dōu shì gōngfū míngxīng。",
     "targetMeaning": "BruceLi, JackieChan, JetLi, etc. are all kung fu stars.",
     "wordBank": [
       "J",
@@ -3021,7 +3021,7 @@
     "id": "s4-151",
     "hskLevel": 4,
     "targetSentence": "这件衣服我很喜欢，不过有点贵。",
-    "targetPinyin": "zhè jiàn yīfú wǒ hěn xǐhuān，bùguò yǒudiǎn gùi。",
+    "targetPinyin": "zhè jiàn yīfú wǒ hěn xǐhuān，bùguò yǒudiǎn guì。",
     "targetMeaning": "I like this dress, but it's a bit expensive.",
     "wordBank": [
       "贵",
@@ -3042,7 +3042,7 @@
     "id": "s4-152",
     "hskLevel": 4,
     "targetSentence": "这家餐厅我没去过，不过我听说还不错。",
-    "targetPinyin": "zhè jiā cāntīng wǒ méi qù guò，bùguò wǒ tīngshuō huán bùcuò。",
+    "targetPinyin": "zhè jiā cāntīng wǒ méi qù guò，bùguò wǒ tīngshuō hái bùcuò。",
     "targetMeaning": "I haven't been to this restaurant, but I heard it's not bad.",
     "wordBank": [
       "餐厅",
@@ -3136,7 +3136,7 @@
     "id": "s4-156",
     "hskLevel": 4,
     "targetSentence": "我看大家都买了，于是我也买了。",
-    "targetPinyin": "wǒ kàn dàjiā dū mǎi le，yúshì wǒ yě mǎi le。",
+    "targetPinyin": "wǒ kàn dàjiā dōu mǎi le，yúshì wǒ yě mǎi le。",
     "targetMeaning": "I think everyone bought it, so I bought it.",
     "wordBank": [
       "买",
@@ -3181,7 +3181,7 @@
     "id": "s4-158",
     "hskLevel": 4,
     "targetSentence": "网站上的票已经卖光了，于是我们买了黄牛票。",
-    "targetPinyin": "wǎngzhànshàng de piào yǐjīng mài guāng le，yúshì wǒmen mǎi le huángníupiào。",
+    "targetPinyin": "wǎngzhànshàng de piào yǐjīng mài guāng le，yúshì wǒmen mǎi le huángniúpiào。",
     "targetMeaning": "The tickets on the website have been sold out, so we bought the ox tickets.",
     "wordBank": [
       "的",
@@ -3433,7 +3433,7 @@
     "id": "s4-171",
     "hskLevel": 4,
     "targetSentence": "这么晚，别走了。",
-    "targetPinyin": "zhèyāo wǎn，bié zǒu le。",
+    "targetPinyin": "zhème wǎn，bié zǒu le。",
     "targetMeaning": "So late, don't leave.",
     "wordBank": [
       "晚",
@@ -3450,7 +3450,7 @@
     "id": "s4-172",
     "hskLevel": 4,
     "targetSentence": "他喜欢，就让他去吧。",
-    "targetPinyin": "tā xǐhuān，jìu ràng tā qù ba。",
+    "targetPinyin": "tā xǐhuān，jiù ràng tā qù ba。",
     "targetMeaning": "If he likes it, let him go.",
     "wordBank": [
       "。",
@@ -3468,7 +3468,7 @@
     "id": "s4-173",
     "hskLevel": 4,
     "targetSentence": "那件衣服太贵了，我没买。",
-    "targetPinyin": "nà jiàn yīfú tài gùi le，wǒ méi mǎi。",
+    "targetPinyin": "nà jiàn yīfú tài guì le，wǒ méi mǎi。",
     "targetMeaning": "That dress is too expensive, I didn't buy it.",
     "wordBank": [
       "我",
@@ -3488,7 +3488,7 @@
     "id": "s4-174",
     "hskLevel": 4,
     "targetSentence": "对不起，我没时间。",
-    "targetPinyin": "dùibùqǐ，wǒ méi shíjiān。",
+    "targetPinyin": "duìbùqǐ，wǒ méi shíjiān。",
     "targetMeaning": "I'm sorry, I don't have time.",
     "wordBank": [
       "对不起",
@@ -3582,7 +3582,7 @@
     "id": "s4-179",
     "hskLevel": 4,
     "targetSentence": "我喜欢这件衬衫，可是太贵了。",
-    "targetPinyin": "wǒ xǐhuān zhè jiàn chènshān，kěshì tài gùi le。",
+    "targetPinyin": "wǒ xǐhuān zhè jiàn chènshān，kěshì tài guì le。",
     "targetMeaning": "I like this shirt, but it is too expensive.",
     "wordBank": [
       "我",
@@ -3624,7 +3624,7 @@
     "id": "s4-181",
     "hskLevel": 4,
     "targetSentence": "以后后悔的人不是我，而是你自己。",
-    "targetPinyin": "yǐhòu hòuhǔi de rén bù shì wǒ，ér shì nǐ zìjǐ。",
+    "targetPinyin": "yǐhòu hòuhuǐ de rén bù shì wǒ，ér shì nǐ zìjǐ。",
     "targetMeaning": "The person who regrets later is not me, but yourself.",
     "wordBank": [
       "。",
@@ -3646,7 +3646,7 @@
     "id": "s4-182",
     "hskLevel": 4,
     "targetSentence": "现在要做的不是责怪谁错了，而是怎么解决。",
-    "targetPinyin": "xiànzài yào zuò de bù shì zéguài shúi cuò le，ér shì zěnyāo jiějué。",
+    "targetPinyin": "xiànzài yào zuò de bù shì zéguài shuí cuò le，ér shì zěnme jiějué。",
     "targetMeaning": "What is to be done now is not to blame who is wrong, but how to solve it.",
     "wordBank": [
       "错",
@@ -3745,7 +3745,7 @@
     "id": "s4-186",
     "hskLevel": 4,
     "targetSentence": "用这种方法来赚钱，真丢人。",
-    "targetPinyin": "yòng zhè zhǒng fāngfǎ lái zhuànqián，zhēn dīurén。",
+    "targetPinyin": "yòng zhè zhǒng fāngfǎ lái zhuànqián，zhēn diūrén。",
     "targetMeaning": "Using this method to make money is really shameful.",
     "wordBank": [
       "用",
@@ -3849,7 +3849,7 @@
     "id": "s4-191",
     "hskLevel": 4,
     "targetSentence": "我有四辆汽车，其中三辆都是宝马。",
-    "targetPinyin": "wǒ yǒu sìliàng qìchē，qízhōng sān liàng dū shì bǎomǎ。",
+    "targetPinyin": "wǒ yǒu sìliàng qìchē，qízhōng sān liàng dōu shì bǎomǎ。",
     "targetMeaning": "I have four cars, three of which are BMW.",
     "wordBank": [
       "其中",
@@ -3873,7 +3873,7 @@
     "id": "s4-192",
     "hskLevel": 4,
     "targetSentence": "到处都有孤独的人，我只是其中一个。",
-    "targetPinyin": "dàochù dū yǒu gūdú de rén，wǒ zhǐ shì qízhōng yī gè。",
+    "targetPinyin": "dàochù dōu yǒu gūdú de rén，wǒ zhǐ shì qízhōng yī gè。",
     "targetMeaning": "There are lonely people everywhere, and I am just one of them.",
     "wordBank": [
       "一",
@@ -3896,7 +3896,7 @@
     "id": "s4-193",
     "hskLevel": 4,
     "targetSentence": "人类21世纪面临许多问题，其中最严重的是环境问题。",
-    "targetPinyin": "rénlèi 21 shìjì miànlín xǔduō wèntí，qízhōng zùi yánzhòng de shì huánjìng wèntí。",
+    "targetPinyin": "rénlèi 21 shìjì miànlín xǔduō wèntí，qízhōng zuì yánzhòng de shì huánjìng wèntí。",
     "targetMeaning": "Human beings are facing many problems in the 21st century, the most serious of which are environmental problems.",
     "wordBank": [
       "严",
@@ -3928,7 +3928,7 @@
     "id": "s4-194",
     "hskLevel": 4,
     "targetSentence": "工作虽然有时枯燥，但是我乐在其中。",
-    "targetPinyin": "gōngzuò sūirán yǒushí kūzào，dànshì wǒ lèzài qízhōng。",
+    "targetPinyin": "gōngzuò suīrán yǒushí kūzào，dànshì wǒ lèzài qízhōng。",
     "targetMeaning": "Although the work is sometimes boring, I enjoy it.",
     "wordBank": [
       "乐",
@@ -4030,7 +4030,7 @@
     "id": "s4-199",
     "hskLevel": 4,
     "targetSentence": "我们学校四分之三的老师都是男老师。",
-    "targetPinyin": "wǒmen xuéxiào sì fēn zhī sān de lǎoshī dū shì nán lǎoshī。",
+    "targetPinyin": "wǒmen xuéxiào sì fēn zhī sān de lǎoshī dōu shì nán lǎoshī。",
     "targetMeaning": "Three quarters of the teachers in our school are male teachers.",
     "wordBank": [
       "是",
@@ -4051,7 +4051,7 @@
     "id": "s4-200",
     "hskLevel": 4,
     "targetSentence": "这是什么？",
-    "targetPinyin": "zhè shì shíyāo？",
+    "targetPinyin": "zhè shì shénme？",
     "targetMeaning": "what is this?",
     "wordBank": [
       "是",
@@ -4064,7 +4064,7 @@
     "id": "s4-201",
     "hskLevel": 4,
     "targetSentence": "你知道这是什么吗？",
-    "targetPinyin": "nǐ zhīdào zhè shì shíyāo ma？",
+    "targetPinyin": "nǐ zhīdào zhè shì shénme ma？",
     "targetMeaning": "Do you know what this is?",
     "wordBank": [
       "你",
@@ -4080,7 +4080,7 @@
     "id": "s4-202",
     "hskLevel": 4,
     "targetSentence": "他是谁？",
-    "targetPinyin": "tā shì shúi？",
+    "targetPinyin": "tā shì shuí？",
     "targetMeaning": "Who is he?",
     "wordBank": [
       "是",
@@ -4093,7 +4093,7 @@
     "id": "s4-203",
     "hskLevel": 4,
     "targetSentence": "你知道他是谁吗？",
-    "targetPinyin": "nǐ zhīdào tā shì shúi ma？",
+    "targetPinyin": "nǐ zhīdào tā shì shuí ma？",
     "targetMeaning": "do you know who he is?",
     "wordBank": [
       "是",
@@ -4109,7 +4109,7 @@
     "id": "s4-204",
     "hskLevel": 4,
     "targetSentence": "他叫什么名字？",
-    "targetPinyin": "tā jiào shíyāo míngzì？",
+    "targetPinyin": "tā jiào shénme míngzì？",
     "targetMeaning": "What is his name?",
     "wordBank": [
       "名字",
@@ -4148,7 +4148,7 @@
     "id": "s4-206",
     "hskLevel": 4,
     "targetSentence": "早点去吧，要等；晚点去吧，会堵车。",
-    "targetPinyin": "zǎo diǎn qù ba，yào děng；wǎn diǎn qù ba，hùi dǔchē。",
+    "targetPinyin": "zǎo diǎn qù ba，yào děng；wǎn diǎn qù ba，huì dǔchē。",
     "targetMeaning": "Go early, wait; if you go later, traffic jams will occur.",
     "wordBank": [
       "等",
@@ -4173,7 +4173,7 @@
     "id": "s4-207",
     "hskLevel": 4,
     "targetSentence": "穿得多一点吧，会热；穿得少一点吧，会冷。",
-    "targetPinyin": "chuān dé duō yīdiǎn ba，hùi rè；chuān dé shǎo yīdiǎn ba，hùi lěng。",
+    "targetPinyin": "chuān dé duō yīdiǎn ba，huì rè；chuān dé shǎo yīdiǎn ba，huì lěng。",
     "targetMeaning": "Wear a little more, it will be hot; wear a little less, it will be cold.",
     "wordBank": [
       "点",
@@ -4226,7 +4226,7 @@
     "id": "s4-209",
     "hskLevel": 4,
     "targetSentence": "不说吧，他还会做错；说吧，他肯定不高兴。",
-    "targetPinyin": "bù shuō ba，tā huán hùi zuò cuò；shuō ba，tā kěndìng bù gāoxīng。",
+    "targetPinyin": "bù shuō ba，tā hái huì zuò cuò；shuō ba，tā kěndìng bù gāoxīng。",
     "targetMeaning": "Don't say it, he will still make mistakes; say it, he must be unhappy.",
     "wordBank": [
       "他",
@@ -4253,7 +4253,7 @@
     "id": "s4-210",
     "hskLevel": 4,
     "targetSentence": "他会好的。",
-    "targetPinyin": "tā hùi hǎo de。",
+    "targetPinyin": "tā huì hǎo de。",
     "targetMeaning": "He will be fine.",
     "wordBank": [
       "的",
@@ -4280,7 +4280,7 @@
     "id": "s4-212",
     "hskLevel": 4,
     "targetSentence": "她一定会来的。",
-    "targetPinyin": "tā yīdìng hùi lái de。",
+    "targetPinyin": "tā yīdìng huì lái de。",
     "targetMeaning": "She will definitely come.",
     "wordBank": [
       "她",
@@ -4310,7 +4310,7 @@
     "id": "s4-214",
     "hskLevel": 4,
     "targetSentence": "他不会道歉的。",
-    "targetPinyin": "tā bù hùi dàoqiàn de。",
+    "targetPinyin": "tā bù huì dàoqiàn de。",
     "targetMeaning": "He will not apologize.",
     "wordBank": [
       "会",
@@ -4325,7 +4325,7 @@
     "id": "s4-215",
     "hskLevel": 4,
     "targetSentence": "树枝随着风不停地摇动。",
-    "targetPinyin": "shùzhī súizháo fēng bù tíng dì yáodòng。",
+    "targetPinyin": "shùzhī suízháo fēng bù tíng dì yáodòng。",
     "targetMeaning": "The branches kept shaking with the wind.",
     "wordBank": [
       "树",
@@ -4344,7 +4344,7 @@
     "id": "s4-216",
     "hskLevel": 4,
     "targetSentence": "孩子们随着音乐跳起了舞。",
-    "targetPinyin": "háizǐmensúizháo yīnlè tiào qǐ le wǔ。",
+    "targetPinyin": "háizǐmensuízháo yīnlè tiào qǐ le wǔ。",
     "targetMeaning": "The children danced to the music.",
     "wordBank": [
       "起",
@@ -4362,7 +4362,7 @@
     "id": "s4-217",
     "hskLevel": 4,
     "targetSentence": "污染物随着人的呼吸进入了人体内部。",
-    "targetPinyin": "wūrǎn wù súizháo rén de hūxī jìnrùle réntǐ nèibù。",
+    "targetPinyin": "wūrǎn wù suízháo rén de hūxī jìnrùle réntǐ nèibù。",
     "targetMeaning": "Contaminants enter the body with human breathing.",
     "wordBank": [
       "入",
@@ -4385,7 +4385,7 @@
     "id": "s4-218",
     "hskLevel": 4,
     "targetSentence": "这些垃圾随着河水流到了大海。",
-    "targetPinyin": "zhèxiē lājí súizháo héshǔi líu dào le dàhǎi。",
+    "targetPinyin": "zhèxiē lājí suízháo héshuǐ liú dào le dàhǎi。",
     "targetMeaning": "These rubbish flowed into the sea with the river.",
     "wordBank": [
       "圾",
@@ -4407,7 +4407,7 @@
     "id": "s4-219",
     "hskLevel": 4,
     "targetSentence": "我们随着他的琴声唱起了歌。",
-    "targetPinyin": "wǒmen súizháo tā de qínshēng chàng qǐ le gē。",
+    "targetPinyin": "wǒmen suízháo tā de qínshēng chàng qǐ le gē。",
     "targetMeaning": "We sang along with his piano voice.",
     "wordBank": [
       "起",
@@ -4449,7 +4449,7 @@
     "id": "s4-221",
     "hskLevel": 4,
     "targetSentence": "在美国历史上，谁是最重要的总统？",
-    "targetPinyin": "zài měiguó lìshǐ shàng，shúi shì zùi zhòngyào de zǒngtǒng？",
+    "targetPinyin": "zài měiguó lìshǐ shàng，shuí shì zuì zhòngyào de zǒngtǒng？",
     "targetMeaning": "Who is the most important president in American history?",
     "wordBank": [
       "上",
@@ -4471,7 +4471,7 @@
     "id": "s4-222",
     "hskLevel": 4,
     "targetSentence": "这个句子在语法上没什么问题，但是不太自然。",
-    "targetPinyin": "zhègè jùzǐ zài yǔfǎ shàng méi shíyāo wèntí，dànshì bù tài zìrán。",
+    "targetPinyin": "zhègè jùzǐ zài yǔfǎ shàng méi shénme wèntí，dànshì bù tài zìrán。",
     "targetMeaning": "This sentence has no problem in grammar, but it is not natural.",
     "wordBank": [
       "没",
@@ -4520,7 +4520,7 @@
     "id": "s4-224",
     "hskLevel": 4,
     "targetSentence": "在这样的环境下长大，孩子会快乐吗？",
-    "targetPinyin": "zài zhèyáng de huánjìng xià chángdà，háizǐ hùi kuàilè ma？",
+    "targetPinyin": "zài zhèyáng de huánjìng xià chángdà，háizǐ huì kuàilè ma？",
     "targetMeaning": "Will children be happy when they grow up in such an environment?",
     "wordBank": [
       "，",
@@ -4661,7 +4661,7 @@
     "id": "s4-230",
     "hskLevel": 4,
     "targetSentence": "你为什么不让我去？",
-    "targetPinyin": "nǐ wèishíyāo bù ràng wǒ qù？",
+    "targetPinyin": "nǐ wèishénme bù ràng wǒ qù？",
     "targetMeaning": "Why don't you let me go?",
     "wordBank": [
       "让",
@@ -4715,7 +4715,7 @@
     "id": "s4-233",
     "hskLevel": 4,
     "targetSentence": "他不听话，你叫我怎么办？",
-    "targetPinyin": "tā bù tīnghuà，nǐ jiào wǒ zěnyāobàn？",
+    "targetPinyin": "tā bù tīnghuà，nǐ jiào wǒ zěnmebàn？",
     "targetMeaning": "He is disobedient, what should you do if you tell me?",
     "wordBank": [
       "听",
@@ -4735,7 +4735,7 @@
     "id": "s4-234",
     "hskLevel": 4,
     "targetSentence": "他偷偷约别的女孩，你叫我怎么想？",
-    "targetPinyin": "tā tōutōu yuē biéde nv̌hái，nǐ jiào wǒ zěnyāo xiǎng？",
+    "targetPinyin": "tā tōutōu yuē biéde nǚhái，nǐ jiào wǒ zěnme xiǎng？",
     "targetMeaning": "He secretly asked other girls, what do you think of me?",
     "wordBank": [
       "的",
@@ -4792,7 +4792,7 @@
     "id": "s4-237",
     "hskLevel": 4,
     "targetSentence": "这得看天气怎么样。",
-    "targetPinyin": "zhè dé kàn tiānqì zěnyāoyáng。",
+    "targetPinyin": "zhè dé kàn tiānqì zěnmeyàng。",
     "targetMeaning": "It depends on the weather.",
     "wordBank": [
       "看",
@@ -4807,7 +4807,7 @@
     "id": "s4-238",
     "hskLevel": 4,
     "targetSentence": "那要看老板怎么想。",
-    "targetPinyin": "nà yào kàn lǎobǎn zěnyāo xiǎng。",
+    "targetPinyin": "nà yào kàn lǎobǎn zěnme xiǎng。",
     "targetMeaning": "It depends on what the boss thinks.",
     "wordBank": [
       "老板",
@@ -4970,7 +4970,7 @@
     "id": "s4-248",
     "hskLevel": 4,
     "targetSentence": "这个电影的意义在于揭露奴隶制度的罪恶。",
-    "targetPinyin": "zhègè diànyǐng de yìyì zàiyú jiēlù núlìzhìdù de zùiè。",
+    "targetPinyin": "zhègè diànyǐng de yìyì zàiyú jiēlù núlìzhìdù de zuìè。",
     "targetMeaning": "The significance of this movie is to expose the evil of slavery.",
     "wordBank": [
       "罪",
@@ -4993,7 +4993,7 @@
     "id": "s4-249",
     "hskLevel": 4,
     "targetSentence": "礼物在于心意，不在于有多贵重。",
-    "targetPinyin": "lǐwù zàiyú xīnyì，bù zàiyú yǒu duō gùizhòng。",
+    "targetPinyin": "lǐwù zàiyú xīnyì，bù zàiyú yǒu duō guìzhòng。",
     "targetMeaning": "The gift is in the heart, not how precious it is.",
     "wordBank": [
       "有",
@@ -5049,7 +5049,7 @@
     "id": "s4-252",
     "hskLevel": 4,
     "targetSentence": "你以为你是谁？",
-    "targetPinyin": "nǐ yǐwèi nǐ shì shúi？",
+    "targetPinyin": "nǐ yǐwèi nǐ shì shuí？",
     "targetMeaning": "who do you think You Are?",
     "wordBank": [
       "谁",
@@ -5064,7 +5064,7 @@
     "id": "s4-253",
     "hskLevel": 4,
     "targetSentence": "同事们都以为我二十岁。",
-    "targetPinyin": "tóngshì men dū yǐwèi wǒ èrshí sùi。",
+    "targetPinyin": "tóngshì men dōu yǐwèi wǒ èrshí suì。",
     "targetMeaning": "Colleagues thought I was 20 years old.",
     "wordBank": [
       "二",
@@ -5082,7 +5082,7 @@
     "id": "s4-254",
     "hskLevel": 4,
     "targetSentence": "我们都以为你生气了。",
-    "targetPinyin": "wǒmen dū yǐwèi nǐ shēngqì le。",
+    "targetPinyin": "wǒmen dōu yǐwèi nǐ shēngqì le。",
     "targetMeaning": "We all thought you were angry.",
     "wordBank": [
       "生气",
@@ -5120,7 +5120,7 @@
     "id": "s4-256",
     "hskLevel": 4,
     "targetSentence": "通过那个红色的大门，左拐就到了。",
-    "targetPinyin": "tōngguò nàgè hóngsè de dàmén，zuǒguǎi jìu dào le。",
+    "targetPinyin": "tōngguò nàgè hóngsè de dàmén，zuǒguǎi jiù dào le。",
     "targetMeaning": "Go through that red gate and turn left.",
     "wordBank": [
       "个",
@@ -5213,7 +5213,7 @@
     "id": "s4-261",
     "hskLevel": 4,
     "targetSentence": "这些书都来自日本。",
-    "targetPinyin": "zhèxiē shū dū láizì rìběn。",
+    "targetPinyin": "zhèxiē shū dōu láizì rìběn。",
     "targetMeaning": "These books are from Japan.",
     "wordBank": [
       "些",
@@ -5343,7 +5343,7 @@
     "id": "s4-269",
     "hskLevel": 4,
     "targetSentence": "谁能读一下这段话？",
-    "targetPinyin": "shúi néng dú yī xià zhè duàn huà？",
+    "targetPinyin": "shuí néng dú yī xià zhè duàn huà？",
     "targetMeaning": "Who can read this passage?",
     "wordBank": [
       "一",
@@ -5402,7 +5402,7 @@
     "id": "s4-273",
     "hskLevel": 4,
     "targetSentence": "你不用过去，她会过来的。",
-    "targetPinyin": "nǐ bùyòng guòqù，tā hùi guòlái de。",
+    "targetPinyin": "nǐ bùyòng guòqù，tā huì guòlái de。",
     "targetMeaning": "You do n’t have to go, she will come.",
     "wordBank": [
       "的",
@@ -5450,7 +5450,7 @@
     "id": "s4-276",
     "hskLevel": 4,
     "targetSentence": "时间不早了，我得回家了。",
-    "targetPinyin": "shíjiān bù zǎo le，wǒ dé húijiā le。",
+    "targetPinyin": "shíjiān bù zǎo le，wǒ dé huíjiā le。",
     "targetMeaning": "It's getting late, I have to go home.",
     "wordBank": [
       "，",
@@ -5505,7 +5505,7 @@
     "id": "s4-279",
     "hskLevel": 4,
     "targetSentence": "在学校就得听老师的话。",
-    "targetPinyin": "zài xuéxiào jìu dé tīng lǎoshī de huà。",
+    "targetPinyin": "zài xuéxiào jiù dé tīng lǎoshī de huà。",
     "targetMeaning": "You have to listen to the teacher at school.",
     "wordBank": [
       "就",
@@ -5545,7 +5545,7 @@
     "id": "s4-281",
     "hskLevel": 4,
     "targetSentence": "我们需要的是有丰富的工作经验并且懂得团队合作的员工。",
-    "targetPinyin": "wǒmen xūyào de shì yǒu fēngfù de gōngzuò jīngyàn bìngqiě dǒng dé tuándùi hézuò de yuángōng。",
+    "targetPinyin": "wǒmen xūyào de shì yǒu fēngfù de gōngzuò jīngyàn bìngqiě dǒng dé tuánduì hézuò de yuángōng。",
     "targetMeaning": "What we need is employees who have rich work experience and understand teamwork.",
     "wordBank": [
       "工作",
@@ -5617,7 +5617,7 @@
     "id": "s4-284",
     "hskLevel": 4,
     "targetSentence": "这种现象很常见并且会持续很长时间。",
-    "targetPinyin": "zhèzhǒng xiànxiàng hěn chángjiàn bìngqiě hùi chíxù hěn cháng shíjiān。",
+    "targetPinyin": "zhèzhǒng xiànxiàng hěn chángjiàn bìngqiě huì chíxù hěn cháng shíjiān。",
     "targetMeaning": "This phenomenon is very common and will last a long time.",
     "wordBank": [
       "很",
@@ -5669,7 +5669,7 @@
     "id": "s4-287",
     "hskLevel": 4,
     "targetSentence": "少买点，吃不完会坏的。",
-    "targetPinyin": "shǎo mǎi diǎn，chī bù wán hùi huài de。",
+    "targetPinyin": "shǎo mǎi diǎn，chī bù wán huì huài de。",
     "targetMeaning": "Buy less and it will be bad if you do n’t finish it.",
     "wordBank": [
       "不",
@@ -5820,7 +5820,7 @@
     "id": "s4-296",
     "hskLevel": 4,
     "targetSentence": "这是由他决定的，你就别干涉了。",
-    "targetPinyin": "zhè shì yóu tā juédìng de，nǐ jìubié gānshè le。",
+    "targetPinyin": "zhè shì yóu tā juédìng de，nǐ jiùbié gānshè le。",
     "targetMeaning": "This is up to him, so do n’t interfere.",
     "wordBank": [
       "由",
@@ -5842,7 +5842,7 @@
     "id": "s4-297",
     "hskLevel": 4,
     "targetSentence": "太悲剧了，会议由王总主持，肯定会很无聊！",
-    "targetPinyin": "tài bēijù le，hùiyì yóu wángzǒng zhǔchí，kěndìng hùi hěn wúliáo！",
+    "targetPinyin": "tài bēijù le，huìyì yóu wángzǒng zhǔchí，kěndìng huì hěn wúliáo！",
     "targetMeaning": "It's too tragic, the meeting was chaired by President Wang, and it will definitely be boring!",
     "wordBank": [
       "主持",
@@ -5867,7 +5867,7 @@
     "id": "s4-298",
     "hskLevel": 4,
     "targetSentence": "她从来不喝酒。",
-    "targetPinyin": "tā cónglái bù hējǐu。",
+    "targetPinyin": "tā cónglái bù hējiǔ。",
     "targetMeaning": "She never drinks alcohol.",
     "wordBank": [
       "喝",
@@ -5882,7 +5882,7 @@
     "id": "s4-299",
     "hskLevel": 4,
     "targetSentence": "我女朋友从不给我打电话。",
-    "targetPinyin": "wǒ nv̌péngyǒu cóng bù gěi wǒ dǎ diànhuà。",
+    "targetPinyin": "wǒ nǚpéngyǒu cóng bù gěi wǒ dǎ diànhuà。",
     "targetMeaning": "My girlfriend never calls me.",
     "wordBank": [
       "打电话",
@@ -6054,7 +6054,7 @@
     "id": "s4-309",
     "hskLevel": 4,
     "targetSentence": "我们在酒吧一直聊到半夜。",
-    "targetPinyin": "wǒmen zài jǐuba yīzhí liáo dào bànyè。",
+    "targetPinyin": "wǒmen zài jiǔba yīzhí liáo dào bànyè。",
     "targetMeaning": "We chatted in the bar until midnight.",
     "wordBank": [
       "在",
@@ -6072,7 +6072,7 @@
     "id": "s4-310",
     "hskLevel": 4,
     "targetSentence": "你弟弟要在我们家住到什么时候？",
-    "targetPinyin": "nǐ dìdì yào zài wǒmen jiā zhù dào shíyāo shíhòu？",
+    "targetPinyin": "nǐ dìdì yào zài wǒmen jiā zhù dào shénme shíhòu？",
     "targetMeaning": "When will your brother live in our house?",
     "wordBank": [
       "我们",
@@ -6092,7 +6092,7 @@
     "id": "s4-311",
     "hskLevel": 4,
     "targetSentence": "昨天的会一直开到晚上九点。",
-    "targetPinyin": "zuótiān de hùi yīzhí kāi dào wǎnshàng jǐudiǎn。",
+    "targetPinyin": "zuótiān de huì yīzhí kāi dào wǎnshàng jiǔdiǎn。",
     "targetMeaning": "Yesterday's meeting was held until nine o'clock in the evening.",
     "wordBank": [
       "。",
@@ -6133,7 +6133,7 @@
     "id": "s4-313",
     "hskLevel": 4,
     "targetSentence": "下午喝了两杯咖啡，害得我晚上睡不着。",
-    "targetPinyin": "xiàwǔ hē le liǎng bēi kāfēi，hàidé wǒ wǎnshàng shùi bù zháo。",
+    "targetPinyin": "xiàwǔ hē le liǎng bēi kāfēi，hàidé wǒ wǎnshàng shuì bù zháo。",
     "targetMeaning": "I drank two cups of coffee in the afternoon, which prevented me from sleeping at night.",
     "wordBank": [
       "我",
@@ -6180,7 +6180,7 @@
     "id": "s4-315",
     "hskLevel": 4,
     "targetSentence": "你昨晚没回来，电话也打不通，害得我担心了一个晚上。",
-    "targetPinyin": "nǐ zuówǎn méi húilái，diànhuà yě dǎ bùtōng，hàidé wǒ dànxīn le yī gè wǎnshàng。",
+    "targetPinyin": "nǐ zuówǎn méi huílái，diànhuà yě dǎ bùtōng，hàidé wǒ dànxīn le yī gè wǎnshàng。",
     "targetMeaning": "You did n’t come back last night, and the phone could n’t get through, which made me worry all night.",
     "wordBank": [
       "话",
@@ -6246,7 +6246,7 @@
     "id": "s4-317",
     "hskLevel": 4,
     "targetSentence": "我的护照丢了，害得我现在哪里也去不了。",
-    "targetPinyin": "wǒ de hùzhào dīu le，hàidé wǒ xiànzài nǎlǐ yě qù bùle。",
+    "targetPinyin": "wǒ de hùzhào diū le，hàidé wǒ xiànzài nǎlǐ yě qù bùle。",
     "targetMeaning": "I lost my passport, so I can't go anywhere now.",
     "wordBank": [
       "。",
@@ -6334,7 +6334,7 @@
     "id": "s4-322",
     "hskLevel": 4,
     "targetSentence": "你还没有跟我道歉。",
-    "targetPinyin": "nǐ huán méiyǒu gēn wǒ dàoqiàn。",
+    "targetPinyin": "nǐ hái méiyǒu gēn wǒ dàoqiàn。",
     "targetMeaning": "You have not apologized to me.",
     "wordBank": [
       "我",
@@ -6351,7 +6351,7 @@
     "id": "s4-323",
     "hskLevel": 4,
     "targetSentence": "说着说着我就发现自己也糊涂了。",
-    "targetPinyin": "shuōzháo shuōzháo wǒ jìu fāxiàn zìjǐ yě hútú le。",
+    "targetPinyin": "shuōzháo shuōzháo wǒ jiù fāxiàn zìjǐ yě hútú le。",
     "targetMeaning": "Talking about it, I found myself confused.",
     "wordBank": [
       "就",
@@ -6372,7 +6372,7 @@
     "id": "s4-324",
     "hskLevel": 4,
     "targetSentence": "我今天一直都在看语法的书，看着看着，就睡着了。",
-    "targetPinyin": "wǒ jīntiān yīzhí dū zài kàn yǔfǎ de shū， kànzháo kànzháo，jìu shùizháo le。",
+    "targetPinyin": "wǒ jīntiān yīzhí dōu zài kàn yǔfǎ de shū， kànzháo kànzháo，jiù shuìzháo le。",
     "targetMeaning": "I've been reading grammar books all the time today, looked at it and fell asleep",
     "wordBank": [
       "着",
@@ -6401,7 +6401,7 @@
     "id": "s4-325",
     "hskLevel": 4,
     "targetSentence": "我在北京的胡同里走着走着就走丢了。",
-    "targetPinyin": "wǒ zài běijīng de hútóng lǐ zǒu zháo zǒu zháo jìu zǒudīu le。",
+    "targetPinyin": "wǒ zài běijīng de hútóng lǐ zǒu zháo zǒu zháo jiù zǒudiū le。",
     "targetMeaning": "I walked and lost in the alleys of Beijing.",
     "wordBank": [
       "着",
@@ -6425,7 +6425,7 @@
     "id": "s4-326",
     "hskLevel": 4,
     "targetSentence": "尽管老板最近不在，我们还是不能偷懒。",
-    "targetPinyin": "jǐnguǎn lǎobǎn zùijìn bùzài，wǒmen huánshì bù néng tōulǎn。",
+    "targetPinyin": "jǐnguǎn lǎobǎn zuìjìn bùzài，wǒmen huánshì bù néng tōulǎn。",
     "targetMeaning": "Despite the absence of the boss recently, we can't be lazy.",
     "wordBank": [
       "。",
@@ -6628,7 +6628,7 @@
     "id": "s4-335",
     "hskLevel": 4,
     "targetSentence": "这篇文章的内容倒不错，就是太长了。",
-    "targetPinyin": "zhè piān wénzhāng de nèiróng dǎo bùcuò，jìushì tài cháng le。",
+    "targetPinyin": "zhè piān wénzhāng de nèiróng dǎo bùcuò，jiùshì tài cháng le。",
     "targetMeaning": "The content of this article is pretty good, it is too long.",
     "wordBank": [
       "文章",
@@ -6652,7 +6652,7 @@
     "id": "s4-336",
     "hskLevel": 4,
     "targetSentence": "我是你最好的朋友，你却没邀请我。",
-    "targetPinyin": "wǒ shì nǐ zùihǎo de péngyǒu，nǐ què méi yāoqǐng wǒ。",
+    "targetPinyin": "wǒ shì nǐ zuìhǎo de péngyǒu，nǐ què méi yāoqǐng wǒ。",
     "targetMeaning": "I am your best friend, but you did not invite me.",
     "wordBank": [
       "邀请",
@@ -6674,7 +6674,7 @@
     "id": "s4-337",
     "hskLevel": 4,
     "targetSentence": "我是你最好的朋友，但是你却没邀请我。",
-    "targetPinyin": "wǒ shì nǐ zùihǎo de péngyǒu，dànshì nǐ què méi yāoqǐng wǒ。",
+    "targetPinyin": "wǒ shì nǐ zuìhǎo de péngyǒu，dànshì nǐ què méi yāoqǐng wǒ。",
     "targetMeaning": "I am your best friend, but you did not invite me.",
     "wordBank": [
       "却",
@@ -6763,7 +6763,7 @@
     "id": "s4-341",
     "hskLevel": 4,
     "targetSentence": "由于温室效应的影响，全球的气候变得越来越反常了。",
-    "targetPinyin": "yóuyú wēnshìxiàoyìng de yǐngxiǎng，quánqíu de qìhòu biàndé yuè lái yuè fǎncháng le。",
+    "targetPinyin": "yóuyú wēnshìxiàoyìng de yǐngxiǎng，quánqiú de qìhòu biàndé yuè lái yuè fǎncháng le。",
     "targetMeaning": "Due to the influence of the greenhouse effect, the global climate has become more and more abnormal.",
     "wordBank": [
       "全",
@@ -6838,7 +6838,7 @@
     "id": "s4-344",
     "hskLevel": 4,
     "targetSentence": "由于目标客户的变化，企业的营销策略需要做出一些调整。",
-    "targetPinyin": "yóuyú mùbiāokèhù de biànhuà，qǐyè de yíngxiāo cèlvè xūyào zuòchū yīxiē diàozhěng。",
+    "targetPinyin": "yóuyú mùbiāokèhù de biànhuà，qǐyè de yíngxiāo cèlüè xūyào zuòchū yīxiē diàozhěng。",
     "targetMeaning": "Due to changes in target customers, the company's marketing strategy needs to be adjusted.",
     "wordBank": [
       "些",
@@ -6865,7 +6865,7 @@
     "id": "s4-345",
     "hskLevel": 4,
     "targetSentence": "由于人口的快速增加，大城市的社会问题越来越严重。",
-    "targetPinyin": "yóuyúrénkǒu de kuàisù zēngjiā，dàchéngshì de shèhùiwèntí yuèláiyuè yánzhòng。",
+    "targetPinyin": "yóuyúrénkǒu de kuàisù zēngjiā，dàchéngshì de shèhuìwèntí yuèláiyuè yánzhòng。",
     "targetMeaning": "Due to the rapid increase in population, the social problems in large cities are becoming more and more serious.",
     "wordBank": [
       "来",
@@ -6891,7 +6891,7 @@
     "id": "s4-346",
     "hskLevel": 4,
     "targetSentence": "你既然不想说，那就别说了。",
-    "targetPinyin": "nǐ jìrán bù xiǎng shuō，nàjìu bié shuō le。",
+    "targetPinyin": "nǐ jìrán bù xiǎng shuō，nàjiù bié shuō le。",
     "targetMeaning": "Since you don't want to say it, don't say it.",
     "wordBank": [
       "了",
@@ -6912,7 +6912,7 @@
     "id": "s4-347",
     "hskLevel": 4,
     "targetSentence": "既然你那么喜欢，那就买吧。",
-    "targetPinyin": "jìrán nǐ nàyāo xǐhuān，nàjìu mǎi ba。",
+    "targetPinyin": "jìrán nǐ nàme xǐhuān，nàjiù mǎi ba。",
     "targetMeaning": "Since you like it so much, buy it.",
     "wordBank": [
       "。",
@@ -6954,7 +6954,7 @@
     "id": "s4-349",
     "hskLevel": 4,
     "targetSentence": "既然你们是好朋友，那他肯定会帮你吧。",
-    "targetPinyin": "jìrán nǐmen shì hǎo péngyǒu，nà tā kěndìng hùi bāng nǐ ba。",
+    "targetPinyin": "jìrán nǐmen shì hǎo péngyǒu，nà tā kěndìng huì bāng nǐ ba。",
     "targetMeaning": "Since you are good friends, he will definitely help you.",
     "wordBank": [
       "是",
@@ -6978,7 +6978,7 @@
     "id": "s4-350",
     "hskLevel": 4,
     "targetSentence": "既然大家都不感兴趣，就换个话题吧。",
-    "targetPinyin": "jìrán dàjiā dū bù gǎn xīngqù，jìu huàn gè huàtí ba。",
+    "targetPinyin": "jìrán dàjiā dōu bù gǎn xīngqù，jiù huàn gè huàtí ba。",
     "targetMeaning": "Since everyone is not interested, just change the subject.",
     "wordBank": [
       "兴趣",
@@ -7022,7 +7022,7 @@
     "id": "s4-352",
     "hskLevel": 4,
     "targetSentence": "工厂已经停产很久了，因此无法给工人发工资。",
-    "targetPinyin": "gōngchǎng yǐjīng tíngchǎn hěn jǐu le， yīncǐ wúfǎ gěi gōngrén fā gōngzī。",
+    "targetPinyin": "gōngchǎng yǐjīng tíngchǎn hěn jiǔ le， yīncǐ wúfǎ gěi gōngrén fā gōngzī。",
     "targetMeaning": "The factory has been shut down for a long time, so it is impossible to pay workers.",
     "wordBank": [
       "已经",
@@ -7092,7 +7092,7 @@
     "id": "s4-355",
     "hskLevel": 4,
     "targetSentence": "他把衣服都收起来了。",
-    "targetPinyin": "tā bǎ yīfú dū shōu qǐlái le。",
+    "targetPinyin": "tā bǎ yīfú dōu shōu qǐlái le。",
     "targetMeaning": "He put away his clothes.",
     "wordBank": [
       "衣服",
@@ -7109,7 +7109,7 @@
     "id": "s4-356",
     "hskLevel": 4,
     "targetSentence": "我老婆把钱都存起来了。",
-    "targetPinyin": "wǒ lǎopó bǎ qián dū cún qǐlái le。",
+    "targetPinyin": "wǒ lǎopó bǎ qián dōu cún qǐlái le。",
     "targetMeaning": "My wife saved all the money.",
     "wordBank": [
       "。",
@@ -7128,7 +7128,7 @@
     "id": "s4-357",
     "hskLevel": 4,
     "targetSentence": "把你的玩具都收起来。",
-    "targetPinyin": "bǎ nǐ de wánjù dū shōu qǐlái。",
+    "targetPinyin": "bǎ nǐ de wánjù dōu shōu qǐlái。",
     "targetMeaning": "Put away all your toys.",
     "wordBank": [
       "的",
@@ -7145,7 +7145,7 @@
     "id": "s4-358",
     "hskLevel": 4,
     "targetSentence": "你为什么要把我的手机藏起来？",
-    "targetPinyin": "nǐ wèishíyāo yào bǎ wǒ de shǒujī cáng qǐlái？",
+    "targetPinyin": "nǐ wèishénme yào bǎ wǒ de shǒujī cáng qǐlái？",
     "targetMeaning": "Why are you hiding my phone?",
     "wordBank": [
       "我",
@@ -7200,7 +7200,7 @@
     "id": "s4-361",
     "hskLevel": 4,
     "targetSentence": "出来玩吧，我们在酒吧等你。",
-    "targetPinyin": "chūlái wán ba，wǒmen zài jǐuba děng nǐ。",
+    "targetPinyin": "chūlái wán ba，wǒmen zài jiǔba děng nǐ。",
     "targetMeaning": "Come out to play, we are waiting for you at the bar.",
     "wordBank": [
       "酒吧",
@@ -7237,7 +7237,7 @@
     "id": "s4-363",
     "hskLevel": 4,
     "targetSentence": "这是我家，进来吧，随便坐。",
-    "targetPinyin": "zhè shì wǒjiā，jìnlái ba，súibiàn zuò。",
+    "targetPinyin": "zhè shì wǒjiā，jìnlái ba，suíbiàn zuò。",
     "targetMeaning": "This is my home. Come in and sit casually.",
     "wordBank": [
       "，",
@@ -7347,7 +7347,7 @@
     "id": "s4-370",
     "hskLevel": 4,
     "targetSentence": "他这么粗心，做得好吗？",
-    "targetPinyin": "tā zhèyāo cūxīn，zuò dé hǎo ma？",
+    "targetPinyin": "tā zhème cūxīn，zuò dé hǎo ma？",
     "targetMeaning": "He is so careless, is he doing well?",
     "wordBank": [
       "好",
@@ -7366,7 +7366,7 @@
     "id": "s4-371",
     "hskLevel": 4,
     "targetSentence": "你这么聪明，肯定学得会。",
-    "targetPinyin": "nǐ zhèyāo cōngmíng，kěndìng xué dé hùi。",
+    "targetPinyin": "nǐ zhème cōngmíng，kěndìng xué dé huì。",
     "targetMeaning": "If you are so smart, you will definitely learn it.",
     "wordBank": [
       "聪明",
@@ -7406,7 +7406,7 @@
     "id": "s4-373",
     "hskLevel": 4,
     "targetSentence": "这么高的山，你爬得上去吗？",
-    "targetPinyin": "zhèyāo gāo de shān，nǐ pá dé shàngqù ma？",
+    "targetPinyin": "zhème gāo de shān，nǐ pá dé shàngqù ma？",
     "targetMeaning": "Can you climb such a high mountain?",
     "wordBank": [
       "上",
@@ -7428,7 +7428,7 @@
     "id": "s4-374",
     "hskLevel": 4,
     "targetSentence": "只要你真的喜欢，我就给你买。",
-    "targetPinyin": "zhǐyào nǐ zhēnde xǐhuān， wǒ jìu gěi nǐ mǎi。",
+    "targetPinyin": "zhǐyào nǐ zhēnde xǐhuān， wǒ jiù gěi nǐ mǎi。",
     "targetMeaning": "As long as you really like it, I will buy it for you.",
     "wordBank": [
       "我",
@@ -7449,7 +7449,7 @@
     "id": "s4-375",
     "hskLevel": 4,
     "targetSentence": "只要你努力学习，就会有进步。",
-    "targetPinyin": "zhǐyào nǐ nǔlì xuéxí， jìu hùi yǒu jìnbù。",
+    "targetPinyin": "zhǐyào nǐ nǔlì xuéxí， jiù huì yǒu jìnbù。",
     "targetMeaning": "As long as you study hard, there will be progress.",
     "wordBank": [
       "努力",
@@ -7468,7 +7468,7 @@
     "id": "s4-376",
     "hskLevel": 4,
     "targetSentence": "只要有你在，我就放心了。",
-    "targetPinyin": "zhǐyào yǒu nǐ zài， wǒ jìu fàngxīn le。",
+    "targetPinyin": "zhǐyào yǒu nǐ zài， wǒ jiù fàngxīn le。",
     "targetMeaning": "As long as you are there, I can rest assured.",
     "wordBank": [
       "了",
@@ -7487,7 +7487,7 @@
     "id": "s4-377",
     "hskLevel": 4,
     "targetSentence": "只要下雨，她就会心情不好。",
-    "targetPinyin": "zhǐyào xiàyǔ， tā jìu hùi xīnqíng bù hǎo。",
+    "targetPinyin": "zhǐyào xiàyǔ， tā jiù huì xīnqíng bù hǎo。",
     "targetMeaning": "As long as it rains, she will be in a bad mood.",
     "wordBank": [
       "她",
@@ -7506,7 +7506,7 @@
     "id": "s4-378",
     "hskLevel": 4,
     "targetSentence": "只要看到妈妈，宝宝就不哭了。",
-    "targetPinyin": "zhǐyào kàndào māmā， bǎobǎo jìu bù kū le。",
+    "targetPinyin": "zhǐyào kàndào māmā， bǎobǎo jiù bù kū le。",
     "targetMeaning": "As long as you see your mother, your baby will not cry.",
     "wordBank": [
       "了",
@@ -7565,7 +7565,7 @@
     "id": "s4-381",
     "hskLevel": 4,
     "targetSentence": "我不说，除非你答应我你不会生气。",
-    "targetPinyin": "wǒ bù shuō，chúfēi nǐ dáyìng wǒ nǐ bùhùi shēngqì。",
+    "targetPinyin": "wǒ bù shuō，chúfēi nǐ dáyìng wǒ nǐ bùhuì shēngqì。",
     "targetMeaning": "I will not say that unless you promise me you will not be angry.",
     "wordBank": [
       "。",
@@ -7587,7 +7587,7 @@
     "id": "s4-382",
     "hskLevel": 4,
     "targetSentence": "你不会这么快升职，除非你表现很好。",
-    "targetPinyin": "nǐ bù hùi zhèyāo kuài shēngzhí，chúfēi nǐ biǎoxiàn hěn hǎo。",
+    "targetPinyin": "nǐ bù huì zhème kuài shēngzhí，chúfēi nǐ biǎoxiàn hěn hǎo。",
     "targetMeaning": "You won't get promoted so quickly unless you perform well.",
     "wordBank": [
       "不",
@@ -7696,7 +7696,7 @@
     "id": "s4-387",
     "hskLevel": 4,
     "targetSentence": "即使你对这门课不太感兴趣，也要学。",
-    "targetPinyin": "jíshǐ nǐ dùi zhè mén kè bùtài gǎnxīngqù，yě yào xué。",
+    "targetPinyin": "jíshǐ nǐ duì zhè mén kè bùtài gǎnxīngqù，yě yào xué。",
     "targetMeaning": "Even if you are not very interested in this course, you still have to learn it.",
     "wordBank": [
       "要",
@@ -7741,7 +7741,7 @@
     "id": "s4-389",
     "hskLevel": 4,
     "targetSentence": "你要是真想我，就给我打电话。",
-    "targetPinyin": "nǐ yàoshì zhēn xiǎng wǒ，jìu gěi wǒ dǎ diànhuà。",
+    "targetPinyin": "nǐ yàoshì zhēn xiǎng wǒ，jiù gěi wǒ dǎ diànhuà。",
     "targetMeaning": "If you really miss me, call me.",
     "wordBank": [
       "真",
@@ -7761,7 +7761,7 @@
     "id": "s4-390",
     "hskLevel": 4,
     "targetSentence": "要是我妈知道这件事，我就死定了!",
-    "targetPinyin": "yàoshì wǒmā zhīdào zhè jiàn shì，wǒ jìu sǐ dìngle !",
+    "targetPinyin": "yàoshì wǒmā zhīdào zhè jiàn shì，wǒ jiù sǐ dìngle !",
     "targetMeaning": "If my mother knew about it, I would be dead!",
     "wordBank": [
       "知道",
@@ -7784,7 +7784,7 @@
     "id": "s4-391",
     "hskLevel": 4,
     "targetSentence": "要是老板不同意，我们就不能跟客户签合同。",
-    "targetPinyin": "yàoshì lǎobǎn bù tóngyì，wǒmen jìu bù néng gēn kèhù qiān hétóng。",
+    "targetPinyin": "yàoshì lǎobǎn bù tóngyì，wǒmen jiù bù néng gēn kèhù qiān hétóng。",
     "targetMeaning": "If the boss doesn't agree, we can't sign a contract with the customer.",
     "wordBank": [
       "要是",
@@ -7844,7 +7844,7 @@
     "id": "s4-394",
     "hskLevel": 4,
     "targetSentence": "不管你穿什么都好看。",
-    "targetPinyin": "bùguǎn nǐ chuān shíyāo dū hǎokàn。",
+    "targetPinyin": "bùguǎn nǐ chuān shénme dōu hǎokàn。",
     "targetMeaning": "It looks good no matter what you wear.",
     "wordBank": [
       "。",
@@ -7861,7 +7861,7 @@
     "id": "s4-395",
     "hskLevel": 4,
     "targetSentence": "不管怎么样，我们都要好好准备。",
-    "targetPinyin": "bùguǎn zěnyāoyáng，wǒmen dū yào hǎohǎo zhǔnbèi。",
+    "targetPinyin": "bùguǎn zěnmeyàng，wǒmen dōu yào hǎohǎo zhǔnbèi。",
     "targetMeaning": "Either way, we must be well prepared.",
     "wordBank": [
       "准备",
@@ -7880,7 +7880,7 @@
     "id": "s4-396",
     "hskLevel": 4,
     "targetSentence": "不管你在哪儿工作，都要交税。",
-    "targetPinyin": "bùguǎn nǐ zài nǎér gōngzuò，dū yào jiāoshùi。",
+    "targetPinyin": "bùguǎn nǐ zài nǎér gōngzuò，dōu yào jiāoshuì。",
     "targetMeaning": "No matter where you work, you have to pay taxes.",
     "wordBank": [
       "哪",
@@ -7902,7 +7902,7 @@
     "id": "s4-397",
     "hskLevel": 4,
     "targetSentence": "不管别人怎么想，你都要坚持。",
-    "targetPinyin": "bùguǎn biérén zěnyāo xiǎng，nǐ dū yào jiānchí。",
+    "targetPinyin": "bùguǎn biérén zěnme xiǎng，nǐ dōu yào jiānchí。",
     "targetMeaning": "No matter what other people think, you must insist.",
     "wordBank": [
       "，",
@@ -7921,7 +7921,7 @@
     "id": "s4-398",
     "hskLevel": 4,
     "targetSentence": "不管你是什么时候买的，我们都可以免费修。",
-    "targetPinyin": "bùguǎn nǐ shì shíyāo shíhòu mǎi de，wǒmen dū kěyǐ miǎnfèi xīu。",
+    "targetPinyin": "bùguǎn nǐ shì shénme shíhòu mǎi de，wǒmen dōu kěyǐ miǎnfèi xiū。",
     "targetMeaning": "No matter when you bought it, we can repair it for free.",
     "wordBank": [
       "不管",
@@ -7944,7 +7944,7 @@
     "id": "s4-399",
     "hskLevel": 4,
     "targetSentence": "无论怎么样，他都会放弃，别高估他。",
-    "targetPinyin": "wúlùn zěnyāoyáng，tā dū hùi fàngqì，bié gāogū tā。",
+    "targetPinyin": "wúlùn zěnmeyàng，tā dōu huì fàngqì，bié gāogū tā。",
     "targetMeaning": "No matter what, he will give up, don't overestimate him.",
     "wordBank": [
       "他",
@@ -7966,7 +7966,7 @@
     "id": "s4-400",
     "hskLevel": 4,
     "targetSentence": "无论多么成功，他总觉得自己不够好。",
-    "targetPinyin": "wúlùn duōyāo chénggōng，tā zǒng juédé zìjǐ bùgòu hǎo。",
+    "targetPinyin": "wúlùn duōme chénggōng，tā zǒng juédé zìjǐ bùgòu hǎo。",
     "targetMeaning": "No matter how successful, he always feels that he is not good enough.",
     "wordBank": [
       "他",
@@ -7987,7 +7987,7 @@
     "id": "s4-401",
     "hskLevel": 4,
     "targetSentence": "无论你到哪儿我都会跟着你。",
-    "targetPinyin": "wúlùn nǐ dào nǎér wǒ dū hùi gēnzháo nǐ。",
+    "targetPinyin": "wúlùn nǐ dào nǎér wǒ dōu huì gēnzháo nǐ。",
     "targetMeaning": "I will follow you wherever you go.",
     "wordBank": [
       "儿",
@@ -8008,7 +8008,7 @@
     "id": "s4-402",
     "hskLevel": 4,
     "targetSentence": "无论你说还是不说，结果都一样。",
-    "targetPinyin": "wúlùn nǐ shuō huánshì bù shuō，jiéguǒ dū yīyáng。",
+    "targetPinyin": "wúlùn nǐ shuō huánshì bù shuō，jiéguǒ dōu yīyáng。",
     "targetMeaning": "Whether you say it or not, the result is the same.",
     "wordBank": [
       "你",
@@ -8100,7 +8100,7 @@
     "id": "s4-407",
     "hskLevel": 4,
     "targetSentence": "所有人都走了吗？",
-    "targetPinyin": "suǒyǒu rén dū zǒu le ma？",
+    "targetPinyin": "suǒyǒu rén dōu zǒu le ma？",
     "targetMeaning": "Has everyone gone?",
     "wordBank": [
       "人",
@@ -8116,7 +8116,7 @@
     "id": "s4-408",
     "hskLevel": 4,
     "targetSentence": "她是我最好的朋友之一。",
-    "targetPinyin": "tā shì wǒ zùi hǎo de péngyǒu zhī yī。",
+    "targetPinyin": "tā shì wǒ zuì hǎo de péngyǒu zhī yī。",
     "targetMeaning": "She is one of my best friends.",
     "wordBank": [
       "我",
@@ -8134,7 +8134,7 @@
     "id": "s4-409",
     "hskLevel": 4,
     "targetSentence": "Frozen是我最喜欢的迪斯尼电影之一。",
-    "targetPinyin": "Frozen shì wǒ zùi xǐhuān de dísīní diànyǐng zhī yī。",
+    "targetPinyin": "Frozen shì wǒ zuì xǐhuān de dísīní diànyǐng zhī yī。",
     "targetMeaning": "Frozen is one of my favorite Disney movies.",
     "wordBank": [
       "e",
@@ -8161,7 +8161,7 @@
     "id": "s4-410",
     "hskLevel": 4,
     "targetSentence": "纽约是世界上最国际化的城市之一。",
-    "targetPinyin": "nǐuyuē shì shìjiè shàng zùi guójìhuà de chéngshì zhī yī。",
+    "targetPinyin": "niǔyuē shì shìjiè shàng zuì guójìhuà de chéngshì zhī yī。",
     "targetMeaning": "New York is one of the most international cities in the world.",
     "wordBank": [
       "约",
@@ -8204,7 +8204,7 @@
     "id": "s4-412",
     "hskLevel": 4,
     "targetSentence": "成龙是最有名的中国明星之一。",
-    "targetPinyin": "chénglóng shì zùi yǒumíng de zhōngguó míngxīng zhī yī。",
+    "targetPinyin": "chénglóng shì zuì yǒumíng de zhōngguó míngxīng zhī yī。",
     "targetMeaning": "Jackie Chan is one of the most famous Chinese stars.",
     "wordBank": [
       "中国",
@@ -8366,7 +8366,7 @@
     "id": "s4-418",
     "hskLevel": 4,
     "targetSentence": "朋友？这个人我连见都没见过。",
-    "targetPinyin": "péngyǒu？zhègè rén wǒ lián jiàn dū méi jiàn guò。",
+    "targetPinyin": "péngyǒu？zhègè rén wǒ lián jiàn dōu méi jiàn guò。",
     "targetMeaning": "friend? I have never seen this person before.",
     "wordBank": [
       "朋友",
@@ -8388,7 +8388,7 @@
     "id": "s4-419",
     "hskLevel": 4,
     "targetSentence": "你怎么连问都不问就拿别人的东西？",
-    "targetPinyin": "nǐ zěnyāo lián wèn dū bù wèn jìu ná biérén de dōngxī？",
+    "targetPinyin": "nǐ zěnme lián wèn dōu bù wèn jiù ná biérén de dōngxī？",
     "targetMeaning": "Why don't you take someone else's things without asking?",
     "wordBank": [
       "都",
@@ -8410,7 +8410,7 @@
     "id": "s4-420",
     "hskLevel": 4,
     "targetSentence": "他连说都不说就走了。",
-    "targetPinyin": "tā lián shuō dū bù shuō jìu zǒu le。",
+    "targetPinyin": "tā lián shuō dōu bù shuō jiù zǒu le。",
     "targetMeaning": "He left without even talking.",
     "wordBank": [
       "走",
@@ -8429,7 +8429,7 @@
     "id": "s4-421",
     "hskLevel": 4,
     "targetSentence": "你们连尝都没尝就说不好吃？",
-    "targetPinyin": "nǐmen lián cháng dū méi cháng jìu shuō bù hǎochī？",
+    "targetPinyin": "nǐmen lián cháng dōu méi cháng jiù shuō bù hǎochī？",
     "targetMeaning": "You said it was not delicious even if you did n’t taste it?",
     "wordBank": [
       "尝",
@@ -8450,7 +8450,7 @@
     "id": "s4-422",
     "hskLevel": 4,
     "targetSentence": "两年前，他连一句中文都不会说。",
-    "targetPinyin": "liǎng nián qián，tā lián yī jù zhōngwén dū bù hùi shuō。",
+    "targetPinyin": "liǎng nián qián，tā lián yī jù zhōngwén dōu bù huì shuō。",
     "targetMeaning": "Two years ago, he couldn't even speak a sentence of Chinese.",
     "wordBank": [
       "连",
@@ -8640,7 +8640,7 @@
     "id": "s4-432",
     "hskLevel": 4,
     "targetSentence": "要求是你既要会说流利的中文，也要会说流利的英文。",
-    "targetPinyin": "yàoqíu shì nǐ jì yào hùi shuō líulì de zhōngwén，yě yào hùi shuō líulì de yīngwén。",
+    "targetPinyin": "yàoqiú shì nǐ jì yào huì shuō liúlì de zhōngwén，yě yào huì shuō liúlì de yīngwén。",
     "targetMeaning": "The requirement is that you must be able to speak fluent Chinese as well as English.",
     "wordBank": [
       "会",
@@ -8704,7 +8704,7 @@
     "id": "s4-436",
     "hskLevel": 4,
     "targetSentence": "在纽约",
-    "targetPinyin": "zài nǐuyuē",
+    "targetPinyin": "zài niǔyuē",
     "targetMeaning": "in New York",
     "wordBank": [
       "纽",
@@ -8729,7 +8729,7 @@
     "id": "s4-438",
     "hskLevel": 4,
     "targetSentence": "这个问题太简单了，连三岁小孩都知道。",
-    "targetPinyin": "zhègè wèntí tài jiǎndān le，lián sānsùi xiǎohái dū zhīdào。",
+    "targetPinyin": "zhègè wèntí tài jiǎndān le，lián sānsuì xiǎohái dōu zhīdào。",
     "targetMeaning": "This question is too simple, even three-year-old children know.",
     "wordBank": [
       "三",
@@ -8753,7 +8753,7 @@
     "id": "s4-439",
     "hskLevel": 4,
     "targetSentence": "这个汉字太难了，连我的中文老师都不认识。",
-    "targetPinyin": "zhègè hànzì tài nán le，lián wǒ de zhōngwén lǎoshī dū bù rènshì。",
+    "targetPinyin": "zhègè hànzì tài nán le，lián wǒ de zhōngwén lǎoshī dōu bù rènshì。",
     "targetMeaning": "This Chinese character is too difficult to understand even my Chinese teacher.",
     "wordBank": [
       "这",
@@ -8779,7 +8779,7 @@
     "id": "s4-440",
     "hskLevel": 4,
     "targetSentence": "他很可怜，连他妈妈都不管他。",
-    "targetPinyin": "tā hěnkělián，lián tā māmā dū bù guǎn tā。",
+    "targetPinyin": "tā hěnkělián，lián tā māmā dōu bù guǎn tā。",
     "targetMeaning": "He was pitiful, even his mother ignored him.",
     "wordBank": [
       "很",
@@ -8799,7 +8799,7 @@
     "id": "s4-441",
     "hskLevel": 4,
     "targetSentence": "她什么都放辣，连汤都是辣的。",
-    "targetPinyin": "tā shíyāo dū fàng là，lián tāng dū shì làde。",
+    "targetPinyin": "tā shénme dōu fàng là，lián tāng dōu shì làde。",
     "targetMeaning": "She spicy everything, even the soup is spicy.",
     "wordBank": [
       "什么",
@@ -8821,7 +8821,7 @@
     "id": "s4-442",
     "hskLevel": 4,
     "targetSentence": "你们算什么好朋友？",
-    "targetPinyin": "nǐmen suàn shíyāo hǎopéngyǒu？",
+    "targetPinyin": "nǐmen suàn shénme hǎopéngyǒu？",
     "targetMeaning": "What kind of friends are you?",
     "wordBank": [
       "好",
@@ -8837,7 +8837,7 @@
     "id": "s4-443",
     "hskLevel": 4,
     "targetSentence": "谁都喜欢美食。",
-    "targetPinyin": "shúi dū xǐhuān měishí。",
+    "targetPinyin": "shuí dōu xǐhuān měishí。",
     "targetMeaning": "Everyone likes food.",
     "wordBank": [
       "美",
@@ -8852,7 +8852,7 @@
     "id": "s4-444",
     "hskLevel": 4,
     "targetSentence": "谁都可以进。",
-    "targetPinyin": "shúi dū kěyǐ jìn。",
+    "targetPinyin": "shuí dōu kěyǐ jìn。",
     "targetMeaning": "Anyone can enter.",
     "wordBank": [
       "都",
@@ -8866,7 +8866,7 @@
     "id": "s4-445",
     "hskLevel": 4,
     "targetSentence": "谁都不相信他说的话。",
-    "targetPinyin": "shúi dū bù xiāngxìn tā shuō de huà。",
+    "targetPinyin": "shuí dōu bù xiāngxìn tā shuō de huà。",
     "targetMeaning": "No one believed what he said.",
     "wordBank": [
       "都",
@@ -8884,7 +8884,7 @@
     "id": "s4-446",
     "hskLevel": 4,
     "targetSentence": "他的房间里哪儿都是脏衣服。",
-    "targetPinyin": "tā de fángjiān lǐ nǎér dū shì zāng yīfú。",
+    "targetPinyin": "tā de fángjiān lǐ nǎér dōu shì zāng yīfú。",
     "targetMeaning": "Dirty clothes are everywhere in his room.",
     "wordBank": [
       "房间",
@@ -8905,7 +8905,7 @@
     "id": "s4-447",
     "hskLevel": 4,
     "targetSentence": "我太累了，哪儿都不想去。",
-    "targetPinyin": "wǒ tài lèi le，nǎér dū bù xiǎng qù。",
+    "targetPinyin": "wǒ tài lèi le，nǎér dōu bù xiǎng qù。",
     "targetMeaning": "I'm too tired to go anywhere.",
     "wordBank": [
       "太",
@@ -8947,7 +8947,7 @@
     "id": "s4-449",
     "hskLevel": 4,
     "targetSentence": "公司现在的规模是十年前的五倍。",
-    "targetPinyin": "gōngsī xiànzài de gūimó shì shí nián qián de wǔ bèi。",
+    "targetPinyin": "gōngsī xiànzài de guīmó shì shí nián qián de wǔ bèi。",
     "targetMeaning": "The company is now five times larger than it was ten years ago.",
     "wordBank": [
       "前",
@@ -9008,7 +9008,7 @@
     "id": "s4-452",
     "hskLevel": 4,
     "targetSentence": "这个15岁的男孩比一般的孩子重一倍。",
-    "targetPinyin": "zhègè 15 sùi de nánhái bǐ yībān de háizǐ zhòng yī bèi。",
+    "targetPinyin": "zhègè 15 suì de nánhái bǐ yībān de háizǐ zhòng yī bèi。",
     "targetMeaning": "The 15-year-old boy is twice as heavy as the average child.",
     "wordBank": [
       "般",
@@ -9054,7 +9054,7 @@
     "id": "s4-454",
     "hskLevel": 4,
     "targetSentence": "这个菜一点都不好吃。",
-    "targetPinyin": "zhègè cài yīdiǎn dū bù hǎochī。",
+    "targetPinyin": "zhègè cài yīdiǎn dōu bù hǎochī。",
     "targetMeaning": "This dish is not tasty at all.",
     "wordBank": [
       "这",
@@ -9072,7 +9072,7 @@
     "id": "s4-455",
     "hskLevel": 4,
     "targetSentence": "我同事一点都不幽默。",
-    "targetPinyin": "wǒ tóngshì yīdiǎn dū bù yōumò。",
+    "targetPinyin": "wǒ tóngshì yīdiǎn dōu bù yōumò。",
     "targetMeaning": "My colleague is not humorous at all.",
     "wordBank": [
       "我",
@@ -9126,7 +9126,7 @@
     "id": "s4-458",
     "hskLevel": 4,
     "targetSentence": "我真的不知道怎么办才好。",
-    "targetPinyin": "wǒ zhēnde bù zhīdào zěnyāo bàn cái hǎo。",
+    "targetPinyin": "wǒ zhēnde bù zhīdào zěnme bàn cái hǎo。",
     "targetMeaning": "I really don't know what to do.",
     "wordBank": [
       "办",
@@ -9145,7 +9145,7 @@
     "id": "s4-459",
     "hskLevel": 4,
     "targetSentence": "我们都不知道说什么好。",
-    "targetPinyin": "wǒmen dū bù zhīdào shuō shíyāo hǎo。",
+    "targetPinyin": "wǒmen dōu bù zhīdào shuō shénme hǎo。",
     "targetMeaning": "We do n’t even know what to say.",
     "wordBank": [
       "我们",
@@ -9162,7 +9162,7 @@
     "id": "s4-460",
     "hskLevel": 4,
     "targetSentence": "这件事我不知道跟谁说好。",
-    "targetPinyin": "zhè jiàn shì wǒ bù zhīdào gēn shúi shuō hǎo。",
+    "targetPinyin": "zhè jiàn shì wǒ bù zhīdào gēn shuí shuō hǎo。",
     "targetMeaning": "I don't know who to tell me about this matter.",
     "wordBank": [
       "不",
@@ -9182,7 +9182,7 @@
     "id": "s4-461",
     "hskLevel": 4,
     "targetSentence": "老板不知道怪谁好。",
-    "targetPinyin": "lǎobǎn bù zhīdào guài shúi hǎo。",
+    "targetPinyin": "lǎobǎn bù zhīdào guài shuí hǎo。",
     "targetMeaning": "The boss doesn't know who is blaming.",
     "wordBank": [
       "怪",
@@ -9198,7 +9198,7 @@
     "id": "s4-462",
     "hskLevel": 4,
     "targetSentence": "他的短信我不知道怎么回复好。",
-    "targetPinyin": "tā de duǎnxìn wǒ bù zhīdào zěnyāo húifù hǎo。",
+    "targetPinyin": "tā de duǎnxìn wǒ bù zhīdào zěnme huífù hǎo。",
     "targetMeaning": "I don't know how to reply to his text message.",
     "wordBank": [
       "他",
@@ -9218,7 +9218,7 @@
     "id": "s4-463",
     "hskLevel": 4,
     "targetSentence": "对我来说，中文不容易。",
-    "targetPinyin": "dùi wǒ láishuō， zhōngwén bù róngyì。",
+    "targetPinyin": "duì wǒ láishuō， zhōngwén bù róngyì。",
     "targetMeaning": "For me, Chinese is not easy.",
     "wordBank": [
       "，",
@@ -9236,7 +9236,7 @@
     "id": "s4-464",
     "hskLevel": 4,
     "targetSentence": "对你来说，家庭重要还是工作重要？",
-    "targetPinyin": "dùi nǐ láishuō，jiātíng zhòngyào huánshì gōngzuò zhòngyào？",
+    "targetPinyin": "duì nǐ láishuō，jiātíng zhòngyào huánshì gōngzuò zhòngyào？",
     "targetMeaning": "For you, is family important or work important?",
     "wordBank": [
       "说",
@@ -9256,7 +9256,7 @@
     "id": "s4-465",
     "hskLevel": 4,
     "targetSentence": "对孩子来说，这个问题太复杂了。",
-    "targetPinyin": "dùi háizǐ láishuō，zhègè wèntí tài fùzá le。",
+    "targetPinyin": "duì háizǐ láishuō，zhègè wèntí tài fùzá le。",
     "targetMeaning": "This problem is too complicated for children.",
     "wordBank": [
       "太",
@@ -9277,7 +9277,7 @@
     "id": "s4-466",
     "hskLevel": 4,
     "targetSentence": "一般来说，私立学校都比较贵。",
-    "targetPinyin": "yībān láishuō，sīlì xuéxiào dū bǐjiào gùi。",
+    "targetPinyin": "yībān láishuō，sīlì xuéxiào dōu bǐjiào guì。",
     "targetMeaning": "Generally speaking, private schools are more expensive.",
     "wordBank": [
       "都",
@@ -9420,7 +9420,7 @@
     "id": "s4-473",
     "hskLevel": 4,
     "targetSentence": "饿死了，我一下课就要去吃午饭。",
-    "targetPinyin": "è sǐle，wǒ yī xiàkè jìu yào qù chī wǔfàn。",
+    "targetPinyin": "è sǐle，wǒ yī xiàkè jiù yào qù chī wǔfàn。",
     "targetMeaning": "Starved to death, I will go to lunch after class.",
     "wordBank": [
       "下",
@@ -9444,7 +9444,7 @@
     "id": "s4-474",
     "hskLevel": 4,
     "targetSentence": "你能不能一下班就去接孩子？",
-    "targetPinyin": "nǐ néng bù néng yī xiàbān jìu qù jiē háizǐ？",
+    "targetPinyin": "nǐ néng bù néng yī xiàbān jiù qù jiē háizǐ？",
     "targetMeaning": "Can you pick up your child after work?",
     "wordBank": [
       "就",
@@ -9465,7 +9465,7 @@
     "id": "s4-475",
     "hskLevel": 4,
     "targetSentence": "妈妈一到家就去做饭了。",
-    "targetPinyin": "māmā yī dào jiā jìu qù zuòfàn le。",
+    "targetPinyin": "māmā yī dào jiā jiù qù zuòfàn le。",
     "targetMeaning": "Mother went to cook as soon as she got home.",
     "wordBank": [
       "一",
@@ -9484,7 +9484,7 @@
     "id": "s4-476",
     "hskLevel": 4,
     "targetSentence": "老师一来大家就不说话了。",
-    "targetPinyin": "lǎoshī yī lái dàjiā jìu bù shuōhuà le。",
+    "targetPinyin": "lǎoshī yī lái dàjiā jiù bù shuōhuà le。",
     "targetMeaning": "When the teacher came, everyone stopped talking.",
     "wordBank": [
       "一",
@@ -9502,7 +9502,7 @@
     "id": "s4-477",
     "hskLevel": 4,
     "targetSentence": "我一进门，小狗就跑了过来。",
-    "targetPinyin": "wǒ yī jìnmén，xiǎogǒu jìu pǎo le guòlái。",
+    "targetPinyin": "wǒ yī jìnmén，xiǎogǒu jiù pǎo le guòlái。",
     "targetMeaning": "As soon as I entered, the puppy ran over.",
     "wordBank": [
       "进",
@@ -9524,7 +9524,7 @@
     "id": "s4-478",
     "hskLevel": 4,
     "targetSentence": "自己做饭一方面健康，一方面还能省点钱。",
-    "targetPinyin": "zìjǐ zuòfàn yī fāngmiàn jiànkāng，yī fāngmiàn huán néng shěng diǎn qián。",
+    "targetPinyin": "zìjǐ zuòfàn yī fāngmiàn jiànkāng，yī fāngmiàn hái néng shěng diǎn qián。",
     "targetMeaning": "Cooking on your own is healthy while saving money.",
     "wordBank": [
       "自己",
@@ -9594,7 +9594,7 @@
     "id": "s4-481",
     "hskLevel": 4,
     "targetSentence": "抽烟一方面对自己有害，一方面对身边的人也有害。",
-    "targetPinyin": "chōuyān yī fāngmiàn dùi zìjǐ yǒuhài，yī fāngmiàn dùi shēnbiān de rén yě yǒuhài。",
+    "targetPinyin": "chōuyān yī fāngmiàn duì zìjǐ yǒuhài，yī fāngmiàn duì shēnbiān de rén yě yǒuhài。",
     "targetMeaning": "Smoking is not only harmful to yourself, but also harmful to those around you.",
     "wordBank": [
       "有",
@@ -9668,7 +9668,7 @@
     "id": "s4-484",
     "hskLevel": 4,
     "targetSentence": "他不仅喜欢吃中国菜，而且也会做几个中国菜！",
-    "targetPinyin": "tā bùjǐn xǐhuān chī zhōngguó cài，érqiě yě hùi zuò jī gè zhōngguó cài！",
+    "targetPinyin": "tā bùjǐn xǐhuān chī zhōngguó cài，érqiě yě huì zuò jī gè zhōngguó cài！",
     "targetMeaning": "Not only does he like to eat Chinese food, but he also cooks a few Chinese dishes!",
     "wordBank": [
       "不仅",
@@ -9693,7 +9693,7 @@
     "id": "s4-485",
     "hskLevel": 4,
     "targetSentence": "这个外国人不只会唱民歌，还会说方言，真是了不起！",
-    "targetPinyin": "zhè gè wàiguórén bùzhǐ hùi chàng míngē，huán hùi shuō fāngyán，zhēn shì lebùqǐ！",
+    "targetPinyin": "zhè gè wàiguórén bùzhǐ huì chàng míngē，hái huì shuō fāngyán，zhēn shì lebùqǐ！",
     "targetMeaning": "This foreigner not only sings folk songs, but also speaks in dialect, which is really amazing!",
     "wordBank": [
       "是",
@@ -9723,7 +9723,7 @@
     "id": "s4-486",
     "hskLevel": 4,
     "targetSentence": "他不但聪明还很善良。",
-    "targetPinyin": "tā bùdàn cōngmíng huán hěn shànliáng。",
+    "targetPinyin": "tā bùdàn cōngmíng hái hěn shànliáng。",
     "targetMeaning": "He is not only smart but also kind.",
     "wordBank": [
       "不但",
@@ -9739,7 +9739,7 @@
     "id": "s4-487",
     "hskLevel": 4,
     "targetSentence": "生活本来就很不容易。",
-    "targetPinyin": "shēnghuóběnlái jìu hěn bù róngyì。",
+    "targetPinyin": "shēnghuóběnlái jiù hěn bù róngyì。",
     "targetMeaning": "Life is not easy.",
     "wordBank": [
       "本来",
@@ -9755,7 +9755,7 @@
     "id": "s4-488",
     "hskLevel": 4,
     "targetSentence": "搬家本来就很麻烦。",
-    "targetPinyin": "bānjiā běnláijìu hěn máfán。",
+    "targetPinyin": "bānjiā běnláijiù hěn máfán。",
     "targetMeaning": "Moving is already troublesome.",
     "wordBank": [
       "麻烦",
@@ -9771,7 +9771,7 @@
     "id": "s4-489",
     "hskLevel": 4,
     "targetSentence": "照顾孩子本来就是父母的责任。",
-    "targetPinyin": "zhàogù háizǐběnlái jìu shì fùmǔ de zérèn。",
+    "targetPinyin": "zhàogù háizǐběnlái jiù shì fùmǔ de zérèn。",
     "targetMeaning": "Taking care of children is always the responsibility of parents.",
     "wordBank": [
       "母",
@@ -9790,7 +9790,7 @@
     "id": "s4-490",
     "hskLevel": 4,
     "targetSentence": "老师本来就应该好好备课。",
-    "targetPinyin": "lǎoshīběnláijìu yìnggāi hǎohǎo bèikè。",
+    "targetPinyin": "lǎoshīběnláijiù yìnggāi hǎohǎo bèikè。",
     "targetMeaning": "The teacher should have prepared the lesson.",
     "wordBank": [
       "本来",
@@ -9808,7 +9808,7 @@
     "id": "s4-491",
     "hskLevel": 4,
     "targetSentence": "美国人本来就会说流利的英文。",
-    "targetPinyin": "měiguó rén běnláijìu hùi shuō líulì de yīngwén。",
+    "targetPinyin": "měiguó rén běnláijiù huì shuō liúlì de yīngwén。",
     "targetMeaning": "Americans are fluent in English.",
     "wordBank": [
       "文",
@@ -9873,7 +9873,7 @@
     "id": "s4-495",
     "hskLevel": 4,
     "targetSentence": "我刚到上海的时候，谁都不认识。",
-    "targetPinyin": "wǒ gāng dào shànghǎi de shíhòu，shúi dū bù rènshì。",
+    "targetPinyin": "wǒ gāng dào shànghǎi de shíhòu，shuí dōu bù rènshì。",
     "targetMeaning": "When I first arrived in Shanghai, no one knew.",
     "wordBank": [
       "我",
@@ -9910,7 +9910,7 @@
     "id": "s4-497",
     "hskLevel": 4,
     "targetSentence": "对于那个人我并不了解。",
-    "targetPinyin": "dùiyú nà gè rén wǒ bìng bù lejiě。",
+    "targetPinyin": "duìyú nà gè rén wǒ bìng bù lejiě。",
     "targetMeaning": "I don't understand that person.",
     "wordBank": [
       "那",
@@ -9927,7 +9927,7 @@
     "id": "s4-498",
     "hskLevel": 4,
     "targetSentence": "对于我们的工作表现，老板很满意。",
-    "targetPinyin": "dùiyú wǒmen de gōngzuò biǎoxiàn，lǎobǎn hěn mǎnyì。",
+    "targetPinyin": "duìyú wǒmen de gōngzuò biǎoxiàn，lǎobǎn hěn mǎnyì。",
     "targetMeaning": "The boss is very satisfied with our work performance.",
     "wordBank": [
       "工作",
@@ -9946,7 +9946,7 @@
     "id": "s4-499",
     "hskLevel": 4,
     "targetSentence": "对于这件事情他没什么看法。",
-    "targetPinyin": "dùiyú zhè jiàn shìqíng tā méishíyāo kànfǎ。",
+    "targetPinyin": "duìyú zhè jiàn shìqíng tā méishénme kànfǎ。",
     "targetMeaning": "He has no idea about this matter.",
     "wordBank": [
       "没",
@@ -10008,7 +10008,7 @@
     "id": "s4-502",
     "hskLevel": 4,
     "targetSentence": "从下个月起，公司会越来越忙。",
-    "targetPinyin": "cóng xià gè yuè qǐ，gōngsī hùi yuèláiyuè máng。",
+    "targetPinyin": "cóng xià gè yuè qǐ，gōngsī huì yuèláiyuè máng。",
     "targetMeaning": "From next month, the company will become increasingly busy.",
     "wordBank": [
       "忙",
@@ -10030,7 +10030,7 @@
     "id": "s4-503",
     "hskLevel": 4,
     "targetSentence": "从我上小学开始，就特别喜欢画画。",
-    "targetPinyin": "cóng wǒ shàng xiǎoxué kāishǐ，jìu tèbié xǐhuān huàhuà。",
+    "targetPinyin": "cóng wǒ shàng xiǎoxué kāishǐ，jiù tèbié xǐhuān huàhuà。",
     "targetMeaning": "Since I was in elementary school, I have always liked painting.",
     "wordBank": [
       "，",
@@ -10052,7 +10052,7 @@
     "id": "s4-504",
     "hskLevel": 4,
     "targetSentence": "从那以后，我们就没有联系了。",
-    "targetPinyin": "cóng nà yǐhòu，wǒmen jìu méiyǒu liánxì le。",
+    "targetPinyin": "cóng nà yǐhòu，wǒmen jiù méiyǒu liánxì le。",
     "targetMeaning": "Since then, we have no contact.",
     "wordBank": [
       "有",
@@ -10116,7 +10116,7 @@
     "id": "s4-507",
     "hskLevel": 4,
     "targetSentence": "这样做帮不了他，相反，还会害了他。",
-    "targetPinyin": "zhèyáng zuò bāng bùle tā，xiāngfǎn，huán hùi hài le tā。",
+    "targetPinyin": "zhèyáng zuò bāng bùle tā，xiāngfǎn，hái huì hài le tā。",
     "targetMeaning": "This will not help him, on the contrary, it will harm him.",
     "wordBank": [
       "害",
@@ -10141,7 +10141,7 @@
     "id": "s4-508",
     "hskLevel": 4,
     "targetSentence": "这样做不但帮不了他，反而会害了他。",
-    "targetPinyin": "zhèyáng zuò bùdàn bāng bùle tā，fǎnér hùi hài le tā。",
+    "targetPinyin": "zhèyáng zuò bùdàn bāng bùle tā，fǎnér huì hài le tā。",
     "targetMeaning": "This will not only help him, but will harm him.",
     "wordBank": [
       "会",
@@ -10165,7 +10165,7 @@
     "id": "s4-509",
     "hskLevel": 4,
     "targetSentence": "好好工作就会升职，相反，不好好工作是不会升职的。",
-    "targetPinyin": "hǎohǎo gōngzuò jìu hùi shēngzhí，xiāngfǎn，bù hǎohǎo gōngzuò shì bù hùi shēngzhí de。",
+    "targetPinyin": "hǎohǎo gōngzuò jiù huì shēngzhí，xiāngfǎn，bù hǎohǎo gōngzuò shì bù huì shēngzhí de。",
     "targetMeaning": "If you work well, you will be promoted. On the contrary, you will not be promoted if you do not work well.",
     "wordBank": [
       "不",
@@ -10214,7 +10214,7 @@
     "id": "s4-511",
     "hskLevel": 4,
     "targetSentence": "老板没有生气，相反，他还表扬了我。",
-    "targetPinyin": "lǎobǎn méiyǒu shēngqì，xiāngfǎn，tā huán biǎoyáng le wǒ。",
+    "targetPinyin": "lǎobǎn méiyǒu shēngqì，xiāngfǎn，tā hái biǎoyáng le wǒ。",
     "targetMeaning": "The boss was not angry. On the contrary, he praised me.",
     "wordBank": [
       "，",
@@ -10236,7 +10236,7 @@
     "id": "s4-512",
     "hskLevel": 4,
     "targetSentence": "老板肯定了我们团队的工作。",
-    "targetPinyin": "lǎobǎn kěndìng le wǒmen tuándùi de gōngzuò。",
+    "targetPinyin": "lǎobǎn kěndìng le wǒmen tuánduì de gōngzuò。",
     "targetMeaning": "The boss affirmed the work of our team.",
     "wordBank": [
       "团",
@@ -10254,7 +10254,7 @@
     "id": "s4-513",
     "hskLevel": 4,
     "targetSentence": "如果想让别人肯定你，你就要好好做。",
-    "targetPinyin": "rúguǒ xiǎng ràng biérén kěndìng nǐ，nǐ jìu yào hǎohǎo zuò。",
+    "targetPinyin": "rúguǒ xiǎng ràng biérén kěndìng nǐ，nǐ jiù yào hǎohǎo zuò。",
     "targetMeaning": "If you want others to affirm you, you must do it well.",
     "wordBank": [
       "，",
@@ -10277,7 +10277,7 @@
     "id": "s4-514",
     "hskLevel": 4,
     "targetSentence": "我敢肯定这就是他的声音。",
-    "targetPinyin": "wǒ gǎn kěndìng zhè jìu shì tā de shēngyīn。",
+    "targetPinyin": "wǒ gǎn kěndìng zhè jiù shì tā de shēngyīn。",
     "targetMeaning": "I'm sure this is his voice.",
     "wordBank": [
       "是",
@@ -10296,7 +10296,7 @@
     "id": "s4-515",
     "hskLevel": 4,
     "targetSentence": "我们还没有确定什么时候开始。",
-    "targetPinyin": "wǒmen huán méiyǒu quèdìng shíyāo shíhòu kāishǐ。",
+    "targetPinyin": "wǒmen hái méiyǒu quèdìng shénme shíhòu kāishǐ。",
     "targetMeaning": "We have not determined when to start.",
     "wordBank": [
       "时候",
@@ -10314,7 +10314,7 @@
     "id": "s4-516",
     "hskLevel": 4,
     "targetSentence": "已经确定了三个人，还差一个。",
-    "targetPinyin": "yǐjīng quèdìngle sān gè rén，huán chà yī gè。",
+    "targetPinyin": "yǐjīng quèdìngle sān gè rén，hái chà yī gè。",
     "targetMeaning": "Three people have been identified, and one is still missing.",
     "wordBank": [
       "个",
@@ -10351,7 +10351,7 @@
     "id": "s4-518",
     "hskLevel": 4,
     "targetSentence": "来中国以后我才发现中国菜那么好吃。",
-    "targetPinyin": "lái zhōngguó yǐhòu wǒ cái fāxiàn zhōngguó cài nàyāo hǎochī。",
+    "targetPinyin": "lái zhōngguó yǐhòu wǒ cái fāxiàn zhōngguó cài nàme hǎochī。",
     "targetMeaning": "I only found Chinese food so delicious after coming to China.",
     "wordBank": [
       "我",
