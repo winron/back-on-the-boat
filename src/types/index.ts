@@ -64,6 +64,7 @@ export interface ReadingPassage {
   hskLevel: 1 | 2 | 3 | 4 | 5 | 6;
   title: string;
   titleZh: string;
+  titlePinyin?: string;
   type: 'short' | 'story';
   paragraphs: { chinese: string; pinyin: string; english: string }[];
   vocabHighlights: string[];
