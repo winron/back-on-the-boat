@@ -1,7 +1,8 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, Suspense } from "react";
 import Link from "next/link";
+import { useSearchParams } from "next/navigation";
 import {
   DndContext,
   DragEndEvent,
@@ -98,7 +99,8 @@ function WordChip({ word, variant }: { word: string; variant: "selected" | "bank
 
 // ── Main page ─────────────────────────────────────────────────────────────────
 
-export default function SentencesPage() {
+function SentencesPageInner() {
+  const searchParams = useSearchParams();
   const { level, setLevel } = useHskLevel("sentences");
   const { unlockedLevel } = useUnlockedLevel();
 
@@ -119,7 +121,7 @@ export default function SentencesPage() {
     useSensor(TouchSensor, { activationConstraint: { delay: 120, tolerance: 6 } }),
   );
 
-  const loadSession = useCallback(async (exercises: SentenceExercise[], lv: HskLevel) => {
+  const loadSession = useCallback(async (exercises: SentenceExercise[], lv: HskLevel, resumeId?: string) => {
     const prefix = `s${lv}-`;
 
     const existing = await db.srsCards
@@ -145,8 +147,9 @@ export default function SentencesPage() {
       .toArray();
     const mastered = allCards.filter((c) => (c.bestGrade ?? 0) >= 3).length;
 
+    const startIndex = resumeId ? Math.max(0, session.findIndex((c) => c.id === resumeId)) : 0;
     setSessionCards(session);
-    setCurrentIndex(0);
+    setCurrentIndex(startIndex);
     setMasteredCount(mastered);
     setTotalCount(exercises.length);
     setResult(null);
@@ -155,11 +158,12 @@ export default function SentencesPage() {
   }, []);
 
   useEffect(() => {
+    const resumeId = searchParams.get("resume") ?? undefined;
     setLoaded(false);
     loadSentences(level)
       .then((data) => {
         setExerciseMap(new Map(data.map((e) => [e.id, e])));
-        loadSession(data, level);
+        loadSession(data, level, resumeId);
       })
       .catch(() => {
         setExerciseMap(new Map());
@@ -345,7 +349,7 @@ export default function SentencesPage() {
             </span>
             {exercise.grammarId && (
               <Link
-                href={`/grammar?id=${exercise.grammarId}&from=sentences`}
+                href={`/grammar?id=${exercise.grammarId}&from=sentences&sentenceId=${currentCard!.id}`}
                 className="text-xs text-primary/70 hover:text-primary font-mono border border-primary/30 hover:border-primary/60 rounded px-1.5 py-0.5 transition-colors"
               >
                 语法
@@ -444,6 +448,14 @@ export default function SentencesPage() {
         )}
       </div>
     </div>
+  );
+}
+
+export default function SentencesPage() {
+  return (
+    <Suspense>
+      <SentencesPageInner />
+    </Suspense>
   );
 }
 
