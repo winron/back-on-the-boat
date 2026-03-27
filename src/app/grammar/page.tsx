@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { loadGrammar } from "@/lib/data-loader";
@@ -16,6 +16,7 @@ export default function GrammarPage() {
   const { unlockedLevel } = useUnlockedLevel();
   const [patterns, setPatterns] = useState<GrammarPattern[]>([]);
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const topRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     loadGrammar(level)
@@ -23,6 +24,11 @@ export default function GrammarPage() {
       .catch(() => setPatterns([]));
     setSelectedId(null);
   }, [level]);
+
+  // Scroll to top whenever the view switches (browse ↔ detail)
+  useEffect(() => {
+    document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
+  }, [selectedId]);
 
   const selected = patterns.find((p) => p.id === selectedId);
 
@@ -76,9 +82,13 @@ export default function GrammarPage() {
         </div>
       ) : (
         <div className="space-y-3">
-          <p className="text-xs text-muted-foreground">
-            {toChineseNumber(patterns.length)}种语法点
-          </p>
+          <TrilingualLabel
+            chinese={`${toChineseNumber(patterns.length)}种语法点`}
+            pinyin={`${patterns.length} zhǒng yǔfǎ diǎn`}
+            english={`${patterns.length} grammar pattern${patterns.length !== 1 ? "s" : ""}`}
+            size="xs"
+            className="opacity-60"
+          />
           {patterns.map((pattern) => (
             <button
               key={pattern.id}
