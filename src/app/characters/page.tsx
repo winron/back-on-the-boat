@@ -167,6 +167,7 @@ export default function CharactersPage() {
                 {review.totalReviewed + 1} / {review.totalCards}
               </p>
               <ReviewCard
+                key={currentWord.id}
                 word={currentWord}
                 isFlipped={review.isFlipped}
                 onFlip={review.flip}

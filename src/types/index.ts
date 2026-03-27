@@ -40,6 +40,7 @@ export interface SentenceExercise {
   targetPinyin: string;
   targetMeaning: string;
   wordBank: string[];
+  grammarId?: string;
 }
 
 // === Dialogue ===
