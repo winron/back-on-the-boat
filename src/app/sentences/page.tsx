@@ -215,7 +215,7 @@ export default function SentencesPage() {
           <button
             key={`${word}-${i}`}
             onClick={() => handleSelectedTap(word, i)}
-            className="px-3 py-1.5 bg-primary text-primary-foreground rounded-lg text-sm font-medium"
+            className="px-3 py-2 bg-primary text-primary-foreground rounded-lg text-lg font-medium"
           >
             {word}
           </button>
@@ -228,7 +228,7 @@ export default function SentencesPage() {
           <button
             key={`${word}-${i}`}
             onClick={() => handleWordTap(word, i)}
-            className="px-3 py-1.5 bg-card border border-border rounded-lg text-sm font-medium hover:border-primary transition-colors"
+            className="px-3 py-2 bg-card border border-border rounded-lg text-lg font-medium hover:border-primary transition-colors"
           >
             {word}
           </button>
