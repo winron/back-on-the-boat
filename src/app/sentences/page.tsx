@@ -89,16 +89,14 @@ export default function SentencesPage() {
         <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
       </div>
 
-      <p className="text-sm text-muted-foreground">
-        {currentIndex + 1} / {exercises.length}
-      </p>
-
       {/* Target meaning */}
-      <div className="bg-card rounded-lg p-4 border border-border">
-        <p className="text-muted-foreground text-sm mb-1">
+      <div>
+        <p className="text-center opacity-50 mb-2">
           <TrilingualLabel chinese="翻译" pinyin="fānyì" english="Translate" size="xs" />
         </p>
-        <p className="text-base font-medium">{exercise.targetMeaning}</p>
+        <div className="bg-card rounded-lg p-4 border border-border">
+          <p className="text-base font-medium">{exercise.targetMeaning}</p>
+        </div>
       </div>
 
       {/* Selected words (answer area) */}
