@@ -131,9 +131,16 @@ export default function SentencesPage() {
     }
 
     setResult(isCorrect ? "correct" : "incorrect");
+    // Scroll to bottom so the action button is fully visible
+    setTimeout(() => {
+      document.querySelector("main")?.scrollTo({ top: 99999, behavior: "smooth" });
+    }, 50);
   }, [exercise, currentCard, selected, hasRated]);
 
-  const handleNext = () => setCurrentIndex((i) => i + 1);
+  const handleNext = () => {
+    document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
+    setCurrentIndex((i) => i + 1);
+  };
 
   const header = (
     <div className="flex items-center justify-between">
@@ -267,7 +274,10 @@ export default function SentencesPage() {
         )}
         {result === "incorrect" && (
           <button
-            onClick={() => setResult(null)}
+            onClick={() => {
+              document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
+              setResult(null);
+            }}
             className="flex-1 py-3 bg-muted text-foreground rounded-lg font-medium"
           >
             <TrilingualLabel chinese="再试" pinyin="zài shì" english="Try Again" size="xs" />
