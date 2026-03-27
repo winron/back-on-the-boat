@@ -243,7 +243,7 @@ export default function SentencesPage() {
             )}
           </p>
           {result === "incorrect" && (
-            <div className="mt-2 space-y-1">
+            <div className="mt-4 space-y-1">
               <p className="text-sm">{exercise.targetSentence}</p>
               <PinyinDisplay pinyin={exercise.targetPinyin} className="text-sm" />
             </div>
