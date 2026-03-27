@@ -160,8 +160,11 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
         style={{ minHeight: "3.2rem", fontSize: "0.95rem" }}
       >
         <div className="flex-1 min-w-0 py-2">
+          {showPinyin && currentPinyin && (
+            <div className="text-xs text-muted-foreground truncate">{currentPinyin}</div>
+          )}
           <div className="truncate">
-            {currentNameZh}{showPinyin ? ` ${currentPinyin}` : ""} ({currentGroup?.words.length ?? 0})
+            {currentNameZh} ({currentGroup?.words.length ?? 0})
           </div>
           {showEnglish && (
             <div className="text-xs text-muted-foreground truncate">
@@ -190,8 +193,11 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
                     : "text-foreground hover:bg-muted"
                 } ${i === 0 ? "rounded-t-lg" : ""} ${i === unitGroups.length - 1 ? "rounded-b-lg" : ""}`}
               >
+                {showPinyin && pinyin && (
+                  <div className="text-xs text-muted-foreground">{pinyin}</div>
+                )}
                 <div className="text-sm font-medium">
-                  {nameZh}{showPinyin ? ` ${pinyin}` : ""} ({group.words.length})
+                  {nameZh} ({group.words.length})
                 </div>
                 {showEnglish && (
                   <div className="text-xs text-muted-foreground">
