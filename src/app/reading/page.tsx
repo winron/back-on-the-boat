@@ -8,7 +8,6 @@ import { loadReadings } from "@/lib/data-loader";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
-import { toChineseNumber } from "@/lib/chinese-numbers";
 import type { ReadingPassage } from "@/types";
 
 type TabMode = "short" | "story";
@@ -55,30 +54,21 @@ export default function ReadingPage() {
             </svg>
           </button>
 
+          {/* Title card — no type badge, just title + pinyin */}
           <div className="bg-card rounded-lg p-4 border border-border">
-            <h2 className="font-semibold">
-              {selected.titleZh}
-              <span className="text-muted-foreground font-normal ml-2 text-sm">
-                {selected.title}
-              </span>
-            </h2>
-            <p className="text-xs text-muted-foreground mt-1">
-              {selected.type === "short" ? (
-                <TrilingualLabel chinese="短文" pinyin="duǎn wén" english="Short passage" size="xs" />
-              ) : (
-                <TrilingualLabel chinese="故事" pinyin="gùshi" english="Mini story" size="xs" />
-              )}
-              {" · "}
-              {toChineseNumber(selected.paragraphs.length)}段
-            </p>
+            <h2 className="font-semibold text-lg">{selected.titleZh}</h2>
+            {selected.titlePinyin && showPinyin && (
+              <p className="text-sm text-muted-foreground mt-0.5">{selected.titlePinyin}</p>
+            )}
+            {showEnglish && (
+              <p className="text-sm text-muted-foreground mt-0.5">{selected.title}</p>
+            )}
           </div>
 
-          <div className="space-y-4">
+          {/* Paragraphs — all in one container with dividers */}
+          <div className="bg-card rounded-lg border border-border divide-y divide-border">
             {selected.paragraphs.map((para, i) => (
-              <div
-                key={i}
-                className="bg-card rounded-lg p-4 border border-border space-y-2"
-              >
+              <div key={i} className="p-4 space-y-1.5">
                 <p className="text-base leading-relaxed">{para.chinese}</p>
                 {showPinyin && (
                   <PinyinDisplay pinyin={para.pinyin} className="text-sm" />
@@ -97,10 +87,7 @@ export default function ReadingPage() {
               </p>
               <div className="flex flex-wrap gap-2">
                 {selected.vocabHighlights.map((word) => (
-                  <span
-                    key={word}
-                    className="px-2 py-1 bg-muted rounded-lg text-sm"
-                  >
+                  <span key={word} className="px-2 py-1 bg-muted rounded-lg text-sm">
                     {word}
                   </span>
                 ))}
@@ -141,10 +128,12 @@ export default function ReadingPage() {
                 className="w-full text-left bg-card rounded-lg p-4 border border-border hover:border-primary transition-colors"
               >
                 <p className="font-medium">{r.titleZh}</p>
-                <p className="text-sm text-muted-foreground">{r.title}</p>
-                <p className="text-xs text-muted-foreground mt-1">
-                  {toChineseNumber(r.paragraphs.length)}段
-                </p>
+                {r.titlePinyin && showPinyin && (
+                  <p className="text-sm text-muted-foreground">{r.titlePinyin}</p>
+                )}
+                {showEnglish && (
+                  <p className="text-sm text-muted-foreground">{r.title}</p>
+                )}
               </button>
             ))}
             {filtered.length === 0 && (
