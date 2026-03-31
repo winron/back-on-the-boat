@@ -126,3 +126,18 @@ export interface DailyStats {
 }
 
 export type HskLevel = 1 | 2 | 3 | 4 | 5 | 6;
+
+// === Word Corrections (Audit Feature) ===
+export interface WordCorrection {
+  id: string;           // e.g. "hsk1-042"
+  pinyin?: string;      // corrected pinyin (tone after letters: sheng1)
+  meaning?: string;     // corrected meaning
+  correctedAt: string;  // ISO timestamp
+}
+
+// === Study Timers ===
+export interface StudyTimers {
+  date: string;               // YYYY-MM-DD in EST (primary key)
+  charactersSeconds: number;
+  sentencesSeconds: number;
+}

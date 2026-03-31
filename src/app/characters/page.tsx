@@ -1,17 +1,19 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { useReview, createNewSrsCard } from "@/hooks/useReview";
+import { usePageTimer } from "@/hooks/usePageTimer";
 import { loadVocabulary } from "@/lib/data-loader";
 import { db } from "@/lib/db";
 import { useTTS } from "@/hooks/useTTS";
 import ReviewCard from "@/components/character/ReviewCard";
+import AuditModal from "@/components/character/AuditModal";
 import LearnSection from "@/components/character/LearnSection";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
-import type { HskWord, HskLevel } from "@/types";
+import type { HskWord, HskLevel, WordCorrection } from "@/types";
 
 type Mode = "review" | "learn";
 
@@ -56,14 +58,26 @@ function expandPos(pos: string): string {
     .join(", ");
 }
 
+function applyCorrection(word: HskWord, correction: WordCorrection | undefined): HskWord {
+  if (!correction) return word;
+  return {
+    ...word,
+    pinyin: correction.pinyin ?? word.pinyin,
+    meaning: correction.meaning ?? word.meaning,
+  };
+}
+
 export default function CharactersPage() {
   const { level, setLevel } = useHskLevel("characters");
   const { unlockedLevel } = useUnlockedLevel();
   const [mode, setMode] = useState<Mode>("review");
   const [words, setWords] = useState<HskWord[]>([]);
+  const [corrections, setCorrections] = useState<Map<string, WordCorrection>>(new Map());
+  const [auditWord, setAuditWord] = useState<HskWord | null>(null);
   const review = useReview("characters");
 
   useTTS();
+  usePageTimer("characters");
 
   // Load vocab, seed SRS cards, then load review cards for current level
   useEffect(() => {
@@ -78,6 +92,10 @@ export default function CharactersPage() {
           allWords = [...allWords, ...prev];
         }
         setWords(allWords);
+
+        // Load corrections from DB
+        const correctionRecords = await db.wordCorrections.toArray();
+        setCorrections(new Map(correctionRecords.map((c) => [c.id, c])));
 
         // Seed SRS cards for current-level words that don't exist yet
         const existingIds = new Set(
@@ -106,9 +124,41 @@ export default function CharactersPage() {
       });
   }, [level]);
 
-  const currentWord = review.currentCard
+  const rawCurrentWord = review.currentCard
     ? words.find((w) => w.id === review.currentCard!.id)
     : null;
+
+  const currentWord = rawCurrentWord
+    ? applyCorrection(rawCurrentWord, corrections.get(rawCurrentWord.id))
+    : null;
+
+  const handleAuditSaved = useCallback(
+    (wordId: string, corr: { pinyin?: string; meaning?: string }) => {
+      setCorrections((prev) => {
+        const next = new Map(prev);
+        const existing = next.get(wordId);
+        next.set(wordId, {
+          id: wordId,
+          pinyin: corr.pinyin ?? existing?.pinyin,
+          meaning: corr.meaning ?? existing?.meaning,
+          correctedAt: new Date().toISOString(),
+        });
+        return next;
+      });
+    },
+    [],
+  );
+
+  const handleExportCorrections = useCallback(async () => {
+    const all = await db.wordCorrections.toArray();
+    const blob = new Blob([JSON.stringify(all, null, 2)], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "corrections.json";
+    a.click();
+    URL.revokeObjectURL(url);
+  }, []);
 
   // Group words by unit for learn mode
   const unitGroups = words.reduce<
@@ -122,7 +172,6 @@ export default function CharactersPage() {
     }
     return acc;
   }, []);
-
 
   return (
     <div className="tab-color-2 space-y-6">
@@ -164,7 +213,7 @@ export default function CharactersPage() {
                   ? `${review.totalReviewed} cards reviewed (${review.correctCount} correct)`
                   : "暂时没有要复习的，晚点再来。"}
               </p>
-              <div className="flex gap-2 justify-center mt-4">
+              <div className="flex gap-2 justify-center mt-4 flex-wrap">
                 <button
                   onClick={() => {
                     const recallPrefixes = Array.from({ length: level - 1 }, (_, i) => `hsk${i + 1}-`);
@@ -180,6 +229,14 @@ export default function CharactersPage() {
                 >
                   <TrilingualLabel chinese="练习" pinyin="liànxí" english="Practice all" size="xs" />
                 </button>
+                {corrections.size > 0 && (
+                  <button
+                    onClick={handleExportCorrections}
+                    className="px-4 py-2 bg-muted text-foreground rounded-lg text-sm"
+                  >
+                    Export Corrections
+                  </button>
+                )}
               </div>
             </div>
           ) : currentWord ? (
@@ -193,6 +250,7 @@ export default function CharactersPage() {
                 isFlipped={review.isFlipped}
                 onFlip={review.flip}
                 onRate={review.rate}
+                onAudit={() => setAuditWord(currentWord)}
               />
             </div>
           ) : (
@@ -205,6 +263,14 @@ export default function CharactersPage() {
 
       {mode === "learn" && (
         <LearnSection unitGroups={unitGroups} level={level} expandPos={expandPos} />
+      )}
+
+      {auditWord && (
+        <AuditModal
+          word={auditWord}
+          onClose={() => setAuditWord(null)}
+          onSaved={(corr) => handleAuditSaved(auditWord.id, corr)}
+        />
       )}
     </div>
   );

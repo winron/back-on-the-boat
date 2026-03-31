@@ -2,19 +2,21 @@
 
 import { useDisplaySettings } from '@/hooks/useDisplaySettings';
 import { useUnlockedLevel } from '@/hooks/useUnlockedLevel';
+import { useTodayTimers } from '@/hooks/usePageTimer';
 import TrilingualLabel from '@/components/shared/TrilingualLabel';
+import ProgressCard from '@/components/shared/ProgressCard';
 
 export default function HomePage() {
 	const { showPinyin, showEnglish, togglePinyin, toggleEnglish } = useDisplaySettings();
 	const {
-		currentProgressLevel,
+		charProgressLevel,
+		sentProgressLevel,
 		masteredCount, totalCount,
 		sentMasteredCount, sentTotalCount,
 		loading,
 	} = useUnlockedLevel();
 
-	const charPercent = totalCount > 0 ? Math.round((masteredCount / totalCount) * 100) : 0;
-	const sentPercent = sentTotalCount > 0 ? Math.round((sentMasteredCount / sentTotalCount) * 100) : 0;
+	const { charactersSeconds, sentencesSeconds } = useTodayTimers();
 
 	return (
 		<div className='tab-color-1 flex flex-col items-center justify-center h-[calc(100vh-8rem)] overflow-hidden space-y-8'>
@@ -26,46 +28,26 @@ export default function HomePage() {
 				size='lg'
 			/>
 
-			{/* Current Level */}
-			<p className='text-5xl font-bold' style={{ color: 'var(--color-tab-1)' }}>
-				HSK {currentProgressLevel}
-			</p>
-
-			{/* Progress Bars */}
-			<div className='w-full max-w-xs space-y-3'>
-				{/* Characters */}
-				<div>
-					<div className='flex justify-between text-xs font-medium text-foreground mb-1'>
-						<span>{loading ? '...' : `${masteredCount} / ${totalCount}`}</span>
-						<span>{loading ? '...' : `${charPercent}%`}</span>
-					</div>
-					<div className='relative h-[2.8rem] bg-muted rounded-lg overflow-hidden border border-white'>
-						<div
-							className='absolute inset-y-0 left-0 rounded-lg transition-all duration-500'
-							style={{
-								width: `${charPercent}%`,
-								background: 'linear-gradient(90deg, var(--color-tab-1), var(--color-tab-2))',
-							}}
-						/>
-					</div>
-				</div>
-
-				{/* Sentences */}
-				<div>
-					<div className='flex justify-between text-xs font-medium text-foreground mb-1'>
-						<span>{loading ? '...' : `${sentMasteredCount} / ${sentTotalCount}`}</span>
-						<span>{loading ? '...' : `${sentPercent}%`}</span>
-					</div>
-					<div className='relative h-[2.8rem] bg-muted rounded-lg overflow-hidden border border-white'>
-						<div
-							className='absolute inset-y-0 left-0 rounded-lg transition-all duration-500'
-							style={{
-								width: `${sentPercent}%`,
-								background: 'linear-gradient(90deg, var(--color-tab-1), var(--color-tab-4))',
-							}}
-						/>
-					</div>
-				</div>
+			{/* Progress Cards */}
+			<div className='w-full max-w-xs space-y-5'>
+				<ProgressCard
+					label='Characters'
+					hskLevel={charProgressLevel}
+					mastered={masteredCount}
+					total={totalCount}
+					timerSeconds={charactersSeconds}
+					gradient='linear-gradient(90deg, var(--color-tab-1), var(--color-tab-2))'
+					loading={loading}
+				/>
+				<ProgressCard
+					label='Sentences'
+					hskLevel={sentProgressLevel}
+					mastered={sentMasteredCount}
+					total={sentTotalCount}
+					timerSeconds={sentencesSeconds}
+					gradient='linear-gradient(90deg, var(--color-tab-1), var(--color-tab-4))'
+					loading={loading}
+				/>
 			</div>
 
 			{/* Display Toggles */}
