@@ -24,6 +24,7 @@ import {
 import { CSS } from "@dnd-kit/utilities";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
+import { usePageTimer } from "@/hooks/usePageTimer";
 import { loadSentences } from "@/lib/data-loader";
 import { db } from "@/lib/db";
 import { getDueCards, getNewCards, createNewSrsCard, reviewCard, Rating } from "@/lib/srs";
@@ -34,6 +35,12 @@ import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import PinyinDisplay from "@/components/shared/PinyinDisplay";
 import AudioButton from "@/components/shared/AudioButton";
 import type { SentenceExercise, SrsCardState, HskLevel } from "@/types";
+
+// Each bank slot has a stable ID and may be null (placeholder) when word is in the answer area
+interface BankSlot {
+  slotId: string;
+  word: string | null;
+}
 
 function shuffleArray<T>(arr: T[]): T[] {
   const copy = [...arr];
@@ -105,11 +112,13 @@ function SentencesPageInner() {
   const { level, setLevel } = useHskLevel("sentences");
   const { unlockedLevel } = useUnlockedLevel();
 
+  usePageTimer("sentences");
+
   const [exerciseMap, setExerciseMap] = useState<Map<string, SentenceExercise>>(new Map());
   const [sessionCards, setSessionCards] = useState<SrsCardState[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selected, setSelected] = useState<string[]>([]);
-  const [shuffledBank, setShuffledBank] = useState<string[]>([]);
+  const [shuffledBank, setShuffledBank] = useState<BankSlot[]>([]);
   const [result, setResult] = useState<"correct" | "incorrect" | null>(null);
   const [hasRated, setHasRated] = useState(false);
   const [loaded, setLoaded] = useState(false);
@@ -198,34 +207,47 @@ function SentencesPageInner() {
   const exercise = currentCard ? (exerciseMap.get(currentCard.id) ?? null) : null;
   const isComplete = loaded && currentIndex >= sessionCards.length;
 
+  // Reset bank slots with stable IDs when exercise changes
   useEffect(() => {
     if (exercise) {
-      setShuffledBank(shuffleArray(exercise.wordBank));
+      const shuffled = shuffleArray(exercise.wordBank);
+      setShuffledBank(shuffled.map((word, i) => ({ slotId: `slot-${i}`, word })));
       setSelected([]);
       setResult(null);
       setHasRated(false);
     }
   }, [exercise]);
 
-  // ── Tap handlers (keep existing tap-to-move behaviour) ────────────────────
+  // ── Tap handlers ──────────────────────────────────────────────────────────
 
-  const handleWordTap = (word: string, index: number) => {
+  const handleWordTap = (slotId: string) => {
+    const slot = shuffledBank.find((s) => s.slotId === slotId);
+    if (!slot?.word) return;
+    const word = slot.word;
+    setShuffledBank((slots) =>
+      slots.map((s) => (s.slotId === slotId ? { ...s, word: null } : s))
+    );
     setSelected((s) => [...s, word]);
-    setShuffledBank((b) => b.filter((_, i) => i !== index));
   };
 
   const handleSelectedTap = (word: string, index: number) => {
-    setShuffledBank((b) => [...b, word]);
     setSelected((s) => s.filter((_, i) => i !== index));
+    setShuffledBank((slots) => {
+      const maxSlot = slots.reduce((max, s) => {
+        const n = parseInt(s.slotId.slice(5));
+        return n > max ? n : max;
+      }, -1);
+      return [...slots, { slotId: `slot-${maxSlot + 1}`, word }];
+    });
   };
 
   // ── Drag handlers ─────────────────────────────────────────────────────────
 
   const handleDragStart = ({ active }: DragStartEvent) => {
     const id = String(active.id);
-    if (id.startsWith("bank-")) {
-      const idx = parseInt(id.slice(5));
-      setActiveDrag({ id, word: shuffledBank[idx], variant: "bank" });
+    if (id.startsWith("slot-")) {
+      const slot = shuffledBank.find((s) => s.slotId === id);
+      if (slot?.word) setActiveDrag({ id, word: slot.word, variant: "bank" });
     } else if (id.startsWith("sel-")) {
       const idx = parseInt(id.slice(4));
       setActiveDrag({ id, word: selected[idx], variant: "selected" });
@@ -239,10 +261,11 @@ function SentencesPageInner() {
     const activeId = String(active.id);
     const overId = String(over.id);
 
-    // Bank word → answer area (drop on answer zone or on an existing sel chip)
-    if (activeId.startsWith("bank-") && (overId === "answer-area" || overId.startsWith("sel-"))) {
-      const bankIdx = parseInt(activeId.slice(5));
-      const word = shuffledBank[bankIdx];
+    // Bank word → answer area
+    if (activeId.startsWith("slot-") && (overId === "answer-area" || overId.startsWith("sel-"))) {
+      const slot = shuffledBank.find((s) => s.slotId === activeId);
+      if (!slot?.word) return;
+      const word = slot.word;
       if (overId.startsWith("sel-")) {
         const targetIdx = parseInt(overId.slice(4));
         setSelected((s) => {
@@ -253,16 +276,24 @@ function SentencesPageInner() {
       } else {
         setSelected((s) => [...s, word]);
       }
-      setShuffledBank((b) => b.filter((_, i) => i !== bankIdx));
+      setShuffledBank((slots) =>
+        slots.map((s) => (s.slotId === activeId ? { ...s, word: null } : s))
+      );
       return;
     }
 
-    // Selected word → bank area (drag back)
-    if (activeId.startsWith("sel-") && (overId === "bank-area" || overId.startsWith("bank-"))) {
+    // Selected word → bank area
+    if (activeId.startsWith("sel-") && (overId === "bank-area" || overId.startsWith("slot-"))) {
       const selIdx = parseInt(activeId.slice(4));
       const word = selected[selIdx];
-      setShuffledBank((b) => [...b, word]);
       setSelected((s) => s.filter((_, i) => i !== selIdx));
+      setShuffledBank((slots) => {
+        const maxSlot = slots.reduce((max, s) => {
+          const n = parseInt(s.slotId.slice(5));
+          return n > max ? n : max;
+        }, -1);
+        return [...slots, { slotId: `slot-${maxSlot + 1}`, word }];
+      });
       return;
     }
 
@@ -285,10 +316,8 @@ function SentencesPageInner() {
       const updated = reviewCard(currentCard, grade);
       const prevBest = currentCard.bestGrade ?? 0;
       if (prevBest >= 3) {
-        // Mastered: allow drop to 3 but never below
         updated.bestGrade = Math.max(3, grade as number);
       } else {
-        // Not yet mastered: ratchet upward only
         updated.bestGrade = Math.max(prevBest, grade as number);
         if (updated.bestGrade >= 3 && prevBest < 3) setMasteredCount((n) => n + 1);
       }
@@ -380,10 +409,10 @@ function SentencesPageInner() {
   }
 
   const selIds = selected.map((_, i) => `sel-${i}`);
-  const bankIds = shuffledBank.map((_, i) => `bank-${i}`);
 
   return (
-    <div className="tab-color-4 space-y-6 pb-8">
+    // pb-24 leaves space above the fixed action bar (4.8rem nav + ~3.5rem bar + spacing)
+    <div className="tab-color-4 space-y-6 pb-24">
       {header}
 
       {/* 翻译 label left, counter right + target meaning */}
@@ -424,9 +453,8 @@ function SentencesPageInner() {
           onTap={handleSelectedTap}
         />
 
-        {/* Word bank */}
+        {/* Word bank — uses stable BankSlots */}
         <BankDropZone
-          bankIds={bankIds}
           shuffledBank={shuffledBank}
           onTap={handleWordTap}
         />
@@ -465,36 +493,41 @@ function SentencesPageInner() {
         </div>
       )}
 
-      {/* Actions */}
-      <div className="flex gap-3">
-        {!result && (
-          <button
-            onClick={handleCheck}
-            disabled={selected.length === 0}
-            className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium disabled:opacity-30"
-          >
-            <TrilingualLabel chinese="确认" pinyin="quèrèn" english="Confirm" size="xs" />
-          </button>
-        )}
-        {result === "incorrect" && (
-          <button
-            onClick={() => {
-              document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
-              setResult(null);
-            }}
-            className="flex-1 py-3 bg-muted text-foreground rounded-lg font-medium"
-          >
-            <TrilingualLabel chinese="再试" pinyin="zài shì" english="Try Again" size="xs" />
-          </button>
-        )}
-        {result === "correct" && (
-          <button
-            onClick={handleNext}
-            className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium"
-          >
-            <TrilingualLabel chinese="下一题" pinyin="xià yì tí" english="Next" size="xs" />
-          </button>
-        )}
+      {/* Spacer so content isn't hidden behind fixed action bar */}
+      <div className="h-4" />
+
+      {/* Fixed action bar — stays above the bottom nav while content scrolls */}
+      <div className="fixed bottom-[4.8rem] left-0 right-0 z-10 px-4 pb-3 bg-background/95 backdrop-blur-sm">
+        <div className="flex gap-3 max-w-lg mx-auto">
+          {!result && (
+            <button
+              onClick={handleCheck}
+              disabled={selected.length === 0}
+              className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium disabled:opacity-30"
+            >
+              <TrilingualLabel chinese="确认" pinyin="quèrèn" english="Confirm" size="xs" />
+            </button>
+          )}
+          {result === "incorrect" && (
+            <button
+              onClick={() => {
+                document.querySelector("main")?.scrollTo({ top: 0, behavior: "smooth" });
+                setResult(null);
+              }}
+              className="flex-1 py-3 bg-muted text-foreground rounded-lg font-medium"
+            >
+              <TrilingualLabel chinese="再试" pinyin="zài shì" english="Try Again" size="xs" />
+            </button>
+          )}
+          {result === "correct" && (
+            <button
+              onClick={handleNext}
+              className="flex-1 py-3 bg-primary text-primary-foreground rounded-lg font-medium"
+            >
+              <TrilingualLabel chinese="下一题" pinyin="xià yì tí" english="Next" size="xs" />
+            </button>
+          )}
+        </div>
       </div>
     </div>
   );
@@ -508,7 +541,7 @@ export default function SentencesPage() {
   );
 }
 
-// ── Drop zones (defined after main to keep hook rules happy) ──────────────────
+// ── Drop zones ────────────────────────────────────────────────────────────────
 
 function AnswerDropZone({
   selIds,
@@ -542,13 +575,11 @@ function AnswerDropZone({
 }
 
 function BankDropZone({
-  bankIds,
   shuffledBank,
   onTap,
 }: {
-  bankIds: string[];
-  shuffledBank: string[];
-  onTap: (word: string, i: number) => void;
+  shuffledBank: BankSlot[];
+  onTap: (slotId: string) => void;
 }) {
   const { setNodeRef, isOver } = useDroppable({ id: "bank-area" });
   return (
@@ -558,14 +589,27 @@ function BankDropZone({
         isOver ? "ring-2 ring-muted-foreground/30" : ""
       }`}
     >
-      {shuffledBank.map((word, i) => (
-        <DraggableWord
-          key={bankIds[i]}
-          id={bankIds[i]}
-          word={word}
-          onTap={() => onTap(word, i)}
-        />
-      ))}
+      {shuffledBank.map((slot) =>
+        slot.word === null ? (
+          // Invisible placeholder — preserves layout so other tiles don't shift
+          <div
+            key={slot.slotId}
+            className="px-3 py-2 text-lg font-medium opacity-0 pointer-events-none select-none"
+            aria-hidden="true"
+          >
+            {/* zero-width space keeps line-height */}
+            &#8203;
+          </div>
+        ) : (
+          <DraggableWord
+            key={slot.slotId}
+            id={slot.slotId}
+            word={slot.word}
+            onTap={() => onTap(slot.slotId)}
+          />
+        )
+      )}
     </div>
   );
 }
+

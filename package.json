@@ -8,7 +8,8 @@
     "prepare-data": "tsx scripts/prepare-data.ts",
     "improve-translations": "tsx scripts/improve-translations.ts",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "apply-corrections": "tsx scripts/apply-corrections.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.36.0",
