@@ -2,1700 +2,190 @@
   {
     "id": "g1-001",
     "hskLevel": 1,
-    "title": "Expressing actions in progress with 'zai'",
-    "structure": "Subj. + 在 + Verb + Obj.",
-    "explanation": "Expressing actions in progress with 'zai'. Used for describing actions, indicating conditions, referring to the present.",
+    "title": "Basic sentence with 是 (shì)",
+    "structure": "A + 是 + B",
+    "explanation": "The verb 是 (shì) means \"to be\" and is used to link a subject to a noun or noun phrase.",
     "examples": [
       {
-        "chinese": "妈妈在打电话。",
-        "pinyin": "māmā zài dǎ diànhuà 。",
-        "english": "Mom is calling."
+        "chinese": "我是学生。",
+        "pinyin": "Wǒ shì xuéshēng.",
+        "english": "I am a student."
       },
       {
-        "chinese": "谁在里面洗澡？",
-        "pinyin": "shúi zài lǐmiàn xǐzǎo ？",
-        "english": "Who is taking a bath inside?"
-      },
-      {
-        "chinese": "阿姨正在打扫我们的房间。",
-        "pinyin": "āyí zhèngzài dǎsǎo wǒmen de fángjiān 。",
-        "english": "The aunt is cleaning our room."
-      },
-      {
-        "chinese": "昨天晚上七点，我们在吃饭。",
-        "pinyin": "zuótiān wǎnshàng qīdiǎn，wǒmen zài chīfàn 。",
-        "english": "At 7 o'clock last night, we were eating."
-      },
-      {
-        "chinese": "我现在在上班，不方便离开。",
-        "pinyin": "wǒ xiànzài zài shàngbān，bùfāngbiàn líkāi 。",
-        "english": "I'm at work now and it's inconvenient to leave."
+        "chinese": "他是老师。",
+        "pinyin": "Tā shì lǎoshī.",
+        "english": "He is a teacher."
       }
     ]
   },
   {
     "id": "g1-002",
     "hskLevel": 1,
-    "title": "Negation of 'you' with 'mei'",
-    "structure": "没 + 有 (+ Obj.)",
-    "explanation": "Negation of 'you' with 'mei'. Used for negating, denying and refusing.",
+    "title": "Negation with 不 (bù)",
+    "structure": "Subject + 不 + Verb/Adj",
+    "explanation": "不 (bù) is placed before a verb or adjective to negate it. It changes to bú before a 4th tone.",
     "examples": [
       {
-        "chinese": "我没有问题。",
-        "pinyin": "wǒ méiyǒu wèntí 。",
-        "english": "I have no problem."
+        "chinese": "我不喝咖啡。",
+        "pinyin": "Wǒ bù hē kāfēi.",
+        "english": "I don't drink coffee."
       },
       {
-        "chinese": "我们现在没有钱。",
-        "pinyin": "wǒmen xiànzài méiyǒu qián 。",
-        "english": "We have no money now."
-      },
-      {
-        "chinese": "他没有工作吗？",
-        "pinyin": "tā méiyǒu gōngzuò ma ？",
-        "english": "Is he not working?"
-      },
-      {
-        "chinese": "他们没有爸爸妈妈。",
-        "pinyin": "tāmen méiyǒu bàbà māmā 。",
-        "english": "They don't have parents."
-      },
-      {
-        "chinese": "我们在北京没有房子。",
-        "pinyin": "wǒmen zài běijīng méiyǒu fángzǐ 。",
-        "english": "We don't have a house in Beijing."
+        "chinese": "她不是中国人。",
+        "pinyin": "Tā bú shì Zhōngguó rén.",
+        "english": "She is not Chinese."
       }
     ]
   },
   {
     "id": "g1-003",
     "hskLevel": 1,
-    "title": "Standard negation with 'bu'",
-    "structure": "Subj. + 不 + Verb + Obj.",
-    "explanation": "Standard negation with 'bu'. Used for negating, describing actions, denying and refusing, referring to habitual actions, referring to the present, referring to the future.",
+    "title": "Questions with 吗 (ma)",
+    "structure": "Statement + 吗？",
+    "explanation": "Adding 吗 to the end of a statement turns it into a yes/no question.",
     "examples": [
       {
-        "chinese": "他们不是坏孩子。",
-        "pinyin": "tāmen bù shì huài háizǐ 。",
-        "english": "They are not bad boys."
+        "chinese": "你好吗？",
+        "pinyin": "Nǐ hǎo ma?",
+        "english": "How are you?"
       },
       {
-        "chinese": "我们不喝酒。",
-        "pinyin": "wǒmen bù hē jǐu 。",
-        "english": "We don't drink."
-      },
-      {
-        "chinese": "我今天不想工作。",
-        "pinyin": "wǒ jīntiān bù xiǎng gōngzuò 。",
-        "english": "I don't want to work today."
-      },
-      {
-        "chinese": "你不喜欢我吗？",
-        "pinyin": "nǐ bù xǐhuān wǒ ma ？",
-        "english": "Don't you like me?"
-      },
-      {
-        "chinese": "为什么你不喜欢喝咖啡？",
-        "pinyin": "wèishíyāo nǐ bù xǐhuān hē kāfēi ？",
-        "english": "Why don't you like coffee?"
+        "chinese": "你是中国人吗？",
+        "pinyin": "Nǐ shì Zhōngguó rén ma?",
+        "english": "Are you Chinese?"
       }
     ]
   },
   {
     "id": "g1-004",
     "hskLevel": 1,
-    "title": "The 'all' adverb 'dou'",
-    "structure": "Subj. + 都 + [Verb Phrase]",
-    "explanation": "The 'all' adverb 'dou'. Used for emphasizing, expressing quantity.",
+    "title": "Subject + 很 + Adjective",
+    "structure": "Subject + 很 + Adj",
+    "explanation": "In Chinese, adjectives can act as verbs. 很 (hěn, \"very\") is often used before adjectives, but sometimes it just serves as a grammatical filler with a weakened meaning.",
     "examples": [
       {
-        "chinese": "你们都认识John吗？",
-        "pinyin": "nǐmen dū rènshì John ma ？",
-        "english": "Do you all know John?"
+        "chinese": "她很漂亮。",
+        "pinyin": "Tā hěn piàoliang.",
+        "english": "She is very pretty."
       },
       {
-        "chinese": "他们都在上海。",
-        "pinyin": "tāmen dū zài shànghǎi 。",
-        "english": "They are all in Shanghai."
-      },
-      {
-        "chinese": "明天我们都可以去。",
-        "pinyin": "míngtiān wǒmen dū kěyǐ qù 。",
-        "english": "We can all go tomorrow."
-      },
-      {
-        "chinese": "你们都用wiki吗？",
-        "pinyin": "nǐmen dū yòng wiki ma ？",
-        "english": "Do you all use wiki?"
-      },
-      {
-        "chinese": "我们都要冰水。",
-        "pinyin": "wǒmen dū yào bīngshǔi 。",
-        "english": "We all have ice water."
+        "chinese": "中文很难。",
+        "pinyin": "Zhōngwén hěn nán.",
+        "english": "Chinese is (very) hard."
       }
     ]
   },
   {
     "id": "g1-005",
     "hskLevel": 1,
-    "title": "The 'also' adverb 'ye'",
-    "structure": "Subj. + 也 + Verb / [Verb Phrase]",
-    "explanation": "The 'also' adverb 'ye'. Used for adding more explanation.",
+    "title": "Possessive with 的 (de)",
+    "structure": "Noun/Pronoun + 的 + Noun",
+    "explanation": "的 indicates possession, similar to 's in English or the word \"of\".",
     "examples": [
       {
-        "chinese": "我也喜欢。",
-        "pinyin": "wǒ yě xǐhuān 。",
-        "english": "I would also like."
+        "chinese": "我的书。",
+        "pinyin": "Wǒ de shū.",
+        "english": "My book."
       },
       {
-        "chinese": "我也是学生。",
-        "pinyin": "wǒ yě shì xuéshēng 。",
-        "english": "I am a student too."
-      },
-      {
-        "chinese": "她也有一个儿子。",
-        "pinyin": "tā yě yǒu yīgè érzǐ 。",
-        "english": "She also has a son."
-      },
-      {
-        "chinese": "他们也是法国人吗？",
-        "pinyin": "tāmen yě shì fǎguó rén ma ？",
-        "english": "Are they also French?"
-      },
-      {
-        "chinese": "我也想学中文。",
-        "pinyin": "wǒ yě xiǎng xué zhōngwén 。",
-        "english": "I also want to learn Chinese."
+        "chinese": "这是谁的电脑？",
+        "pinyin": "Zhè shì shéi de diànnǎo?",
+        "english": "Whose computer is this?"
       }
     ]
   },
   {
     "id": "g1-006",
     "hskLevel": 1,
-    "title": "Asking about degree with 'duo'",
-    "structure": "Subj. + 多 + Adj. ?",
-    "explanation": "Asking about degree with 'duo'. Used for asking questions, adding more explanation, expressing quality.",
+    "title": "Measure words with 个 (gè)",
+    "structure": "Number + 个 + Noun",
+    "explanation": "In Chinese, you need a measure word between a number and a noun. 个 (gè) is the most common and general-purpose measure word.",
     "examples": [
       {
-        "chinese": "她多高？",
-        "pinyin": "tā duō gāo ？",
-        "english": "How tall is she?"
+        "chinese": "三个人。",
+        "pinyin": "Sān gè rén.",
+        "english": "Three people."
       },
       {
-        "chinese": "你家多大？",
-        "pinyin": "nǐjiā duō dà ？",
-        "english": "How big is your home?"
-      },
-      {
-        "chinese": "你的孩子多大？",
-        "pinyin": "nǐ de háizǐ duō dà ？",
-        "english": "How old are you children?"
-      },
-      {
-        "chinese": "黄河多长？",
-        "pinyin": "huánghé duō cháng ？",
-        "english": "How long is the Yellow River?"
-      },
-      {
-        "chinese": "你家离这儿多远？",
-        "pinyin": "nǐ jiā lí zhèér duō yuǎn ？",
-        "english": "How far is your home from here?"
+        "chinese": "我有两个朋友。",
+        "pinyin": "Wǒ yǒu liǎng gè péngyǒu.",
+        "english": "I have two friends."
       }
     ]
   },
   {
     "id": "g1-007",
     "hskLevel": 1,
-    "title": "Expressing 'not very' with 'bu tai'",
-    "structure": "Subj. + 不太 + Adj.",
-    "explanation": "Expressing 'not very' with 'bu tai'. Used for adding more explanation.",
+    "title": "Asking questions with 什么 (shénme)",
+    "structure": "Subject + Verb + 什么？",
+    "explanation": "什么 means \"what\" and replaces the unknown thing in the sentence.",
     "examples": [
       {
-        "chinese": "我家不太大。",
-        "pinyin": "wǒ jiā bù tài dà 。",
-        "english": "My home is not too big."
+        "chinese": "你叫什么名字？",
+        "pinyin": "Nǐ jiào shénme míngzì?",
+        "english": "What is your name?"
       },
       {
-        "chinese": "那个地方不太远。",
-        "pinyin": "nà gè dìfāng bù tài yuǎn 。",
-        "english": "That place is not too far away."
-      },
-      {
-        "chinese": "老板今天不太高兴。",
-        "pinyin": "lǎobǎn jīntiān bù tài gāoxīng 。",
-        "english": "The boss is not very happy today."
-      },
-      {
-        "chinese": "这个店的衣服不太贵。",
-        "pinyin": "zhè gè diàn de yīfú bù tài gùi 。",
-        "english": "The clothes in this shop are not too expensive."
-      },
-      {
-        "chinese": "我觉得他不太聪明。",
-        "pinyin": "wǒ juédé tā bù tài cōngmíng 。",
-        "english": "I think he is not very smart."
+        "chinese": "你喜欢吃什么？",
+        "pinyin": "Nǐ xǐhuān chī shénme?",
+        "english": "What do you like to eat?"
       }
     ]
   },
   {
     "id": "g1-008",
     "hskLevel": 1,
-    "title": "Expressing 'and' with 'he'",
-    "structure": "Noun 1 + 和 + Noun 2",
-    "explanation": "Expressing 'and' with 'he'. Used for listing.",
+    "title": "Expressing existence with 有 (yǒu)",
+    "structure": "Subject + 有 + Object",
+    "explanation": "有 (yǒu) means \"to have\" or \"there is/are\". It is negated with 没 (méi), not 不.",
     "examples": [
       {
-        "chinese": "你和我",
-        "pinyin": "nǐ hé wǒ",
-        "english": "you and me"
+        "chinese": "我有一本书。",
+        "pinyin": "Wǒ yǒu yì běn shū.",
+        "english": "I have a book."
       },
       {
-        "chinese": "老板喜欢咖啡和茶。",
-        "pinyin": "lǎobǎn xǐhuān kāfēi hé chá 。",
-        "english": "The boss likes coffee and tea."
-      },
-      {
-        "chinese": "我的爷爷和奶奶都70岁。",
-        "pinyin": "wǒ de yéyé hé nǎinǎi dū 70 sùi 。",
-        "english": "My grandpa and grandma are both 70 years old."
-      },
-      {
-        "chinese": "他和他女朋友都喜欢中国菜。",
-        "pinyin": "tā hé tā nv̌péngyǒu dū xǐhuān zhōngguó cài 。",
-        "english": "He and his girlfriend love Chinese food."
-      },
-      {
-        "chinese": "你爸爸和你妈妈都是美国人吗？",
-        "pinyin": "nǐ bàbà hé nǐ māmā dū shì měiguó rén ma ？",
-        "english": "Are your father and mother both American?"
+        "chinese": "我没有钱。",
+        "pinyin": "Wǒ méiyǒu qián.",
+        "english": "I don't have money."
       }
     ]
   },
   {
     "id": "g1-009",
     "hskLevel": 1,
-    "title": "After a specific time with 'yihou'",
-    "structure": "Time / Verb + 以后, ....",
-    "explanation": "After a specific time with 'yihou'. Used for sequencing events in time, expressing time and date.",
+    "title": "Time words in sentences",
+    "structure": "Subject + Time + Verb + Object",
+    "explanation": "Time words come before the verb in Chinese, typically after the subject.",
     "examples": [
       {
-        "chinese": "下午三点以后，我不在家。",
-        "pinyin": "xiàwǔ sāndiǎn yǐhòu， wǒ bù zài jiā 。",
-        "english": "After three in the afternoon, I am not at home."
+        "chinese": "我今天很忙。",
+        "pinyin": "Wǒ jīntiān hěn máng.",
+        "english": "I am very busy today."
       },
       {
-        "chinese": "来中国以后，她认识了她的老公。",
-        "pinyin": "lái zhōngguó yǐhòu， tā rènshì le tā de lǎogōng 。",
-        "english": "After coming to China, she met her husband."
-      },
-      {
-        "chinese": "她一个月以后开始上班。",
-        "pinyin": "tā yīgèyuè yǐhòu kāishǐ shàngbān 。",
-        "english": "She started work one month later."
-      },
-      {
-        "chinese": "吃完午饭以后，我们要开会。",
-        "pinyin": "chī wán wǔfàn yǐhòu ， wǒmen yào kāihùi 。",
-        "english": "After lunch, we have a meeting."
-      },
-      {
-        "chinese": "几年以后，我们公司会更大。",
-        "pinyin": "jīnián yǐhòu ，wǒmen gōngsī hùi gèng dà 。",
-        "english": "In a few years, our company will be bigger."
+        "chinese": "他明天去北京。",
+        "pinyin": "Tā míngtiān qù Běijīng.",
+        "english": "He is going to Beijing tomorrow."
       }
     ]
   },
   {
     "id": "g1-010",
     "hskLevel": 1,
-    "title": "Before a specific time with 'yiqian'",
-    "structure": "Time / Verb + 以前 ，⋯⋯",
-    "explanation": "Before a specific time with 'yiqian'. Used for referring to the past, sequencing events in time, expressing time and date.",
+    "title": "Location with 在 (zài)",
+    "structure": "Subject + 在 + Place",
+    "explanation": "在 (zài) means \"to be at/in\" and indicates location.",
     "examples": [
       {
-        "chinese": "吃饭以前，你洗手了吗？",
-        "pinyin": "chīfàn yǐqián ，nǐ xǐ shǒu le ma ？",
-        "english": "Did you wash your hands before eating?"
+        "chinese": "他在家。",
+        "pinyin": "Tā zài jiā.",
+        "english": "He is at home."
       },
       {
-        "chinese": "睡觉以前，不要吃东西。",
-        "pinyin": "shùijué yǐqián ，bùyào chī dōngxī 。",
-        "english": "Don't eat anything before going to bed."
-      },
-      {
-        "chinese": "两年以前，你认识他吗？",
-        "pinyin": "liǎng nián yǐqián ， nǐ rènshì tā ma ？",
-        "english": "Did you know him two years ago?"
-      },
-      {
-        "chinese": "星期五以前，你要做完这些工作。",
-        "pinyin": "xīngqīwǔ yǐqián ，nǐ yào zuò wán zhèxiē gōngzuò 。",
-        "english": "Before Friday, you have to finish these tasks."
-      },
-      {
-        "chinese": "上大学以前，你来过上海吗？",
-        "pinyin": "shàng dàxué yǐqián，nǐ lái guò shànghǎi ma ？",
-        "english": "Have you been to Shanghai before going to university?"
-      }
-    ]
-  },
-  {
-    "id": "g1-011",
-    "hskLevel": 1,
-    "title": "Time words and word order",
-    "structure": "Subj. + Time + Verb + Obj. / Time + Subj. + Verb + Obj.",
-    "explanation": "Time words and word order. Used for sentence patterns, sequencing events in time, expressing time and date.",
-    "examples": [
-      {
-        "chinese": "昨天我去了酒吧。",
-        "pinyin": "zuótiān wǒ qù le jǐuba 。",
-        "english": "I went to the bar yesterday."
-      },
-      {
-        "chinese": "我昨天去了酒吧。",
-        "pinyin": "wǒ zuótiān qù le jǐuba 。",
-        "english": "I went to the bar yesterday."
-      },
-      {
-        "chinese": "下个星期他要回国。",
-        "pinyin": "xià gè xīngqī tā yào húi guó 。",
-        "english": "He will return to China next week."
-      },
-      {
-        "chinese": "他下个星期要回国。",
-        "pinyin": "tā xià gè xīngqī yào húi guó 。",
-        "english": "He will return home next week."
-      },
-      {
-        "chinese": "明年我要开一个公司。",
-        "pinyin": "míngnián wǒ yào kāi yī gè gōngsī 。",
-        "english": "I will start a company next year."
-      }
-    ]
-  },
-  {
-    "id": "g1-012",
-    "hskLevel": 1,
-    "title": "Age with 'sui'",
-    "structure": "Subj. + Number + 岁",
-    "explanation": "Age with 'sui'. Used for introducing people, describing people.",
-    "examples": [
-      {
-        "chinese": "我20岁。",
-        "pinyin": "wǒ 20 sùi 。",
-        "english": "I am 20 years old."
-      },
-      {
-        "chinese": "我儿子一岁。",
-        "pinyin": "wǒ érzǐ yī sùi 。",
-        "english": "My son is one year old."
-      },
-      {
-        "chinese": "我妈妈今年45岁。",
-        "pinyin": "wǒ māmā jīnnián 45 sùi 。",
-        "english": "My mother is 45 years old this year."
-      },
-      {
-        "chinese": "你爷爷今年80岁吗？",
-        "pinyin": "nǐ yéyé jīnnián 80 sùi ma ？",
-        "english": "Is your grandpa 80 years old this year?"
-      },
-      {
-        "chinese": "他女朋友也20岁吗？",
-        "pinyin": "tā nv̌péngyǒu yě 20 sùi ma ？",
-        "english": "Is his girlfriend 20 years old?"
-      }
-    ]
-  },
-  {
-    "id": "g1-013",
-    "hskLevel": 1,
-    "title": "Measure word 'ge'",
-    "structure": "Number + 个 + Noun",
-    "explanation": "Measure word 'ge'. Used for expressing quantity.",
-    "examples": [
-      {
-        "chinese": "十个男人，七个傻，八个坏。",
-        "pinyin": "shí gè nánrén， qī gè shǎ， bā gè huài 。",
-        "english": "Ten men, seven silly, and eight bad."
-      },
-      {
-        "chinese": "他是个老外。",
-        "pinyin": "tā shì gè lǎowài 。",
-        "english": "He is a foreigner."
-      },
-      {
-        "chinese": "我有个儿子。",
-        "pinyin": "wǒ yǒu gè érzǐ 。",
-        "english": "I have a son."
-      },
-      {
-        "chinese": "她是个好老师。",
-        "pinyin": "tā shì gè hǎo lǎoshī 。",
-        "english": "She is a good teacher."
-      },
-      {
-        "chinese": "你想吃个包子吗？",
-        "pinyin": "nǐ xiǎng chī gè bāozǐ ma ？",
-        "english": "Do you want to eat a bun?"
-      }
-    ]
-  },
-  {
-    "id": "g1-014",
-    "hskLevel": 1,
-    "title": "Structure of dates",
-    "structure": "x 年 + y 月 + z （日 /  号）",
-    "explanation": "Structure of dates. Used for expressing time and date.",
-    "examples": [
-      {
-        "chinese": "1910年8月9号",
-        "pinyin": "1910 nián 8 yuè 9 hào",
-        "english": "9-Aug-10"
-      },
-      {
-        "chinese": "2001年7月20日",
-        "pinyin": "2001 nián 7 yuè 20 rì",
-        "english": "20-Jul-01"
-      },
-      {
-        "chinese": "1月1日是新年。",
-        "pinyin": "1 yuè 1 rì shì xīnnián 。",
-        "english": "January 1st is the new year."
-      },
-      {
-        "chinese": "12月24日是平安夜。",
-        "pinyin": "12 yuè 24 rì shì píngānyè 。",
-        "english": "December 24 is Christmas Eve."
-      },
-      {
-        "chinese": "10月1号我们去上海。",
-        "pinyin": "10 yuè 1 hào wǒmen qù shànghǎi 。",
-        "english": "We will go to Shanghai on October 1."
-      }
-    ]
-  },
-  {
-    "id": "g1-015",
-    "hskLevel": 1,
-    "title": "Structure of times (advanced)",
-    "structure": "x 点 零 y 分",
-    "explanation": "Structure of times (advanced). Used for expressing time and date.",
-    "examples": [
-      {
-        "chinese": "两点零九分",
-        "pinyin": "liǎng diǎn líng jǐufēn",
-        "english": "2:09"
-      },
-      {
-        "chinese": "三点零八分",
-        "pinyin": "sān diǎn líng bā fēn",
-        "english": "3.08"
-      },
-      {
-        "chinese": "五点零三分",
-        "pinyin": "wǔ diǎn líng sān fēn",
-        "english": "5.03"
-      },
-      {
-        "chinese": "七点零一分",
-        "pinyin": "qī diǎn líng yī fēn",
-        "english": "7:01"
-      },
-      {
-        "chinese": "八点零五分",
-        "pinyin": "bā diǎn líng wǔ fēn",
-        "english": "8.05"
-      }
-    ]
-  },
-  {
-    "id": "g1-016",
-    "hskLevel": 1,
-    "title": "Structure of times (basic)",
-    "structure": "Hour + 点 + 差 + Minutes + 分",
-    "explanation": "Structure of times (basic). Used for expressing time and date.",
-    "examples": [
-      {
-        "chinese": "差五分八点半",
-        "pinyin": "chà wǔ fēn bā diǎn bàn",
-        "english": "5:08:30"
-      },
-      {
-        "chinese": "十点差两分",
-        "pinyin": "shí diǎn chà liǎng fēn",
-        "english": "Ten points to two points"
-      },
-      {
-        "chinese": "上午七点",
-        "pinyin": "shàngwǔ qī diǎn",
-        "english": "Seven o'clock in the morning"
-      },
-      {
-        "chinese": "下午四点",
-        "pinyin": "xiàwǔ sì diǎn",
-        "english": "Four p.m"
-      },
-      {
-        "chinese": "中午十二点",
-        "pinyin": "zhōngwǔ shíèr diǎn",
-        "english": "at noon"
-      }
-    ]
-  },
-  {
-    "id": "g1-017",
-    "hskLevel": 1,
-    "title": "Expressing close possession without 'de'",
-    "structure": "x 点 + 半",
-    "explanation": "Expressing close possession without 'de'. Used for expressing possession.",
-    "examples": [
-      {
-        "chinese": "昨天晚上七点半",
-        "pinyin": "zuótiān wǎnshàng qī diǎn bàn",
-        "english": "Last night at 7:30"
-      },
-      {
-        "chinese": "今天下午四点半",
-        "pinyin": "jīntiān xiàwǔ sì diǎn bàn",
-        "english": "This afternoon at 4:30"
-      },
-      {
-        "chinese": "我家很大。",
-        "pinyin": "wǒ jiā hěn dà 。",
-        "english": "My family is very big."
-      },
-      {
-        "chinese": "你哥哥很高。",
-        "pinyin": "nǐ gēgē hěn gāo 。",
-        "english": "Your brother is tall."
-      },
-      {
-        "chinese": "这是我女朋友。",
-        "pinyin": "zhè shì wǒ nv̌péngyǒu 。",
-        "english": "This is my girlfriend."
-      }
-    ]
-  },
-  {
-    "id": "g1-018",
-    "hskLevel": 1,
-    "title": "Expressing completion with 'le'",
-    "structure": "Pronoun + Noun",
-    "explanation": "Expressing completion with 'le'. Used for describing actions, referring to the past, expressing completion.",
-    "examples": [
-      {
-        "chinese": "我女儿会说英语。",
-        "pinyin": "wǒ nv̌ér hùi shuō yīngyǔ 。",
-        "english": "My daughter speaks English."
-      },
-      {
-        "chinese": "他爸爸是我们公司的老板。",
-        "pinyin": "tā bàbà shì wǒmen gōngsī de lǎobǎn 。",
-        "english": "His father is the boss of our company."
-      },
-      {
-        "chinese": "他们到了。",
-        "pinyin": "tāmen dào le 。",
-        "english": "They arrived."
-      },
-      {
-        "chinese": "我买了。",
-        "pinyin": "wǒ mǎi le 。",
-        "english": "I bought it."
-      },
-      {
-        "chinese": "我们都去了。",
-        "pinyin": "wǒmen dū qù le 。",
-        "english": "We have all gone."
-      }
-    ]
-  },
-  {
-    "id": "g1-019",
-    "hskLevel": 1,
-    "title": "Expressing 'not anymore' with 'le'",
-    "structure": "Subj. + Verb + 了 + [Number + Measure Word] + Obj.",
-    "explanation": "Expressing 'not anymore' with 'le'. Used for referring to changes of situation.",
-    "examples": [
-      {
-        "chinese": "我喝了两杯咖啡。",
-        "pinyin": "wǒ hē le liǎng bēi kāfēi 。",
-        "english": "I drank two cups of coffee."
-      },
-      {
-        "chinese": "我喝了两杯咖啡。",
-        "pinyin": "wǒ hē le liǎng bēi kāfēi 。",
-        "english": "I drank two cups of coffee."
-      },
-      {
-        "chinese": "我不想吃了。",
-        "pinyin": "wǒ bù xiǎng chī le 。",
-        "english": "I don't want to eat anymore."
-      },
-      {
-        "chinese": "你不喜欢我了吗？",
-        "pinyin": "nǐ bù xǐhuān wǒ le ma ？",
-        "english": "Don't you like me?"
-      },
-      {
-        "chinese": "你们不能打了。",
-        "pinyin": "nǐmen bù néng dǎ le 。",
-        "english": "You can't fight anymore."
-      }
-    ]
-  },
-  {
-    "id": "g1-020",
-    "hskLevel": 1,
-    "title": "Expressing 'now' with 'le'",
-    "structure": "已经 + 不 + [Verb Phrase] + 了",
-    "explanation": "Expressing 'now' with 'le'. Used for referring to changes of situation.",
-    "examples": [
-      {
-        "chinese": "他们已经不在一起了。",
-        "pinyin": "tāmen yǐjīng bù zài yīqǐ le 。",
-        "english": "They are no longer together."
-      },
-      {
-        "chinese": "我们已经没有钱了。",
-        "pinyin": "wǒmen yǐjīng méiyǒu qián le 。",
-        "english": "We have no money."
-      },
-      {
-        "chinese": "知道了。",
-        "pinyin": "zhīdào le 。",
-        "english": "Got it."
-      },
-      {
-        "chinese": "懂了。",
-        "pinyin": "dǒng le 。",
-        "english": "understood."
-      },
-      {
-        "chinese": "我20岁了！",
-        "pinyin": "wǒ 20 sùi le ！",
-        "english": "I am 20 years old!"
-      }
-    ]
-  },
-  {
-    "id": "g1-021",
-    "hskLevel": 1,
-    "title": "Expressing possession with 'de'",
-    "structure": "[New Situation] + 了",
-    "explanation": "Expressing possession with 'de'. Used for expressing possession.",
-    "examples": [
-      {
-        "chinese": "我去睡觉了。",
-        "pinyin": "wǒ qù shùijué le 。",
-        "english": "I'm going to bed."
-      },
-      {
-        "chinese": "快点儿，开会了！",
-        "pinyin": "kuài diǎnér ，kāihùi le ！",
-        "english": "Hurry up, it's time for a meeting!"
-      },
-      {
-        "chinese": "你的手机",
-        "pinyin": "nǐ de shǒujī",
-        "english": "your phone"
-      },
-      {
-        "chinese": "我们的钱",
-        "pinyin": "wǒmen de qián",
-        "english": "Our money"
-      },
-      {
-        "chinese": "他们的东西",
-        "pinyin": "tāmen de dōngxī",
-        "english": "Their stuff"
-      }
-    ]
-  },
-  {
-    "id": "g1-022",
-    "hskLevel": 1,
-    "title": "Questions with 'ne'",
-    "structure": "Noun 1 + 的 + Noun 2",
-    "explanation": "Questions with 'ne'. Used for asking questions, expressing attitude.",
-    "examples": [
-      {
-        "chinese": "上海的天气",
-        "pinyin": "shànghǎi de tiānqì",
-        "english": "Weather in Shanghai"
-      },
-      {
-        "chinese": "老师的朋友",
-        "pinyin": "lǎoshī de péngyǒu",
-        "english": "Teacher friend"
-      },
-      {
-        "chinese": "这个很好，那个呢？",
-        "pinyin": "zhè gè hěn hǎo ， nà gè ní ？",
-        "english": "This is good, what about that?"
-      },
-      {
-        "chinese": "这个很好，那个呢？",
-        "pinyin": "zhè gè hěn hǎo ， nà gè ní ？",
-        "english": "This is good, what about that?"
-      },
-      {
-        "chinese": "这个用中文怎么说？",
-        "pinyin": "zhè gè yòng zhōngwén zěnyāo shuō ？",
-        "english": "How do you say this in Chinese?"
-      }
-    ]
-  },
-  {
-    "id": "g1-023",
-    "hskLevel": 1,
-    "title": "Softening speech with 'ba'",
-    "structure": "[Missing Person / Thing] + 呢 ？",
-    "explanation": "Softening speech with 'ba'. Used for expressing attitude.",
-    "examples": [
-      {
-        "chinese": "你妈妈呢？",
-        "pinyin": "nǐ māmā ní ？",
-        "english": "where is your mom?"
-      },
-      {
-        "chinese": "我的手机呢？",
-        "pinyin": "wǒ de shǒujī ní ？",
-        "english": "What about my cell phone?"
-      },
-      {
-        "chinese": "这不太好吧。",
-        "pinyin": "zhè bù tài hǎo ba 。",
-        "english": "This is not so good."
-      },
-      {
-        "chinese": "算了吧。",
-        "pinyin": "suànle ba 。",
-        "english": "forget it."
-      },
-      {
-        "chinese": "应该是吧。",
-        "pinyin": "yìnggāi shì ba 。",
-        "english": "probably."
-      }
-    ]
-  },
-  {
-    "id": "g1-024",
-    "hskLevel": 1,
-    "title": "Suggestions with 'ba'",
-    "structure": "Statement + 吧",
-    "explanation": "Suggestions with 'ba'. Used for requesting, expressing attitude.",
-    "examples": [
-      {
-        "chinese": "太贵了吧，我不买了。",
-        "pinyin": "tài gùi le ba ， wǒ bù mǎi le 。",
-        "english": "It's too expensive, I won't buy it."
-      },
-      {
-        "chinese": "那个地方太远了吧，我不想去。",
-        "pinyin": "nà gè dìfāng tài yuǎn le ba，wǒ bù xiǎng qù 。",
-        "english": "That place is too far away, I don't want to go."
-      },
-      {
-        "chinese": "我们走吧。",
-        "pinyin": "wǒmen zǒu ba 。",
-        "english": "Let's go."
-      },
-      {
-        "chinese": "你说吧。",
-        "pinyin": "nǐ shuō ba 。",
-        "english": "You say it."
-      },
-      {
-        "chinese": "快点吃吧。",
-        "pinyin": "kuài diǎn chī ba 。",
-        "english": "Eat quickly."
-      }
-    ]
-  },
-  {
-    "id": "g1-025",
-    "hskLevel": 1,
-    "title": "Directional verbs 'lai' and 'qu'",
-    "structure": "Command + 吧",
-    "explanation": "Directional verbs 'lai' and 'qu'. Used for expressing movement.",
-    "examples": [
-      {
-        "chinese": "我们结婚吧。",
-        "pinyin": "wǒmen jiéhūn ba 。",
-        "english": "Let's get married."
-      },
-      {
-        "chinese": "老板，便宜一点吧。",
-        "pinyin": "lǎobǎn ，biànyí yīdiǎn ba 。",
-        "english": "Boss, cheaper."
-      },
-      {
-        "chinese": "妈妈要去超市。",
-        "pinyin": "māmā yào qù chāoshì 。",
-        "english": "Mom is going to the supermarket."
-      },
-      {
-        "chinese": "老板今天来公司吗？",
-        "pinyin": "lǎobǎn jīntiān lái gōngsī ma ？",
-        "english": "Does the boss come to the company today?"
-      },
-      {
-        "chinese": "你现在来南京路吧。",
-        "pinyin": "nǐ xiànzài láinánjīng lù ba 。",
-        "english": "Come to Nanjing Road now."
-      }
-    ]
-  },
-  {
-    "id": "g1-026",
-    "hskLevel": 1,
-    "title": "Expressing existence in a place with 'zai'",
-    "structure": "来 / 去 + Place",
-    "explanation": "Expressing existence in a place with 'zai'. Used for indicating conditions, expressing existence, expressing location.",
-    "examples": [
-      {
-        "chinese": "爸爸明天去北京出差。",
-        "pinyin": "bàbà míngtiān qù běijīng chūchà 。",
-        "english": "Dad will go on a business trip to Beijing tomorrow."
-      },
-      {
-        "chinese": "我今天不上班，你们可以来我家吃饭。",
-        "pinyin": "wǒ jīntiān bù shàngbān，nǐmen kěyǐ lái wǒ jiā chīfàn 。",
-        "english": "I don't go to work today, you can come to my house for dinner."
-      },
-      {
-        "chinese": "我在上海。",
-        "pinyin": "wǒ zài shànghǎi 。",
-        "english": "I am in Shanghai."
-      },
-      {
-        "chinese": "他们在英国。",
-        "pinyin": "tāmen zài yīngguó 。",
-        "english": "They are in the UK."
-      },
-      {
-        "chinese": "老板在外面。",
-        "pinyin": "lǎobǎn zài wàimiàn 。",
-        "english": "The boss is outside."
-      }
-    ]
-  },
-  {
-    "id": "g1-027",
-    "hskLevel": 1,
-    "title": "Expressing existence with 'you'",
-    "structure": "Subj. + 在 + Place",
-    "explanation": "Expressing existence with 'you'. Used for indicating conditions, describing places, expressing existence.",
-    "examples": [
-      {
-        "chinese": "我和朋友在酒吧。",
-        "pinyin": "wǒ hé péngyǒu zài jǐuba 。",
-        "english": "My friend and I are at the bar."
-      },
-      {
-        "chinese": "你们明天在北京吗？",
-        "pinyin": "nǐmen míngtiān zài běijīng ma ？",
-        "english": "Are you in Beijing tomorrow?"
-      },
-      {
-        "chinese": "我家有很多小狗。",
-        "pinyin": "wǒ jiā yǒu hěn duō xiǎo gǒu 。",
-        "english": "There are many puppies in my family."
-      },
-      {
-        "chinese": "我们学校有很多帅哥。",
-        "pinyin": "wǒmen xuéxiào yǒu hěn duō shuàigē 。",
-        "english": "There are many handsome guys in our school."
-      },
-      {
-        "chinese": "日本有很多中国人。",
-        "pinyin": "rìběn yǒu hěn duō zhōngguórén 。",
-        "english": "There are many Chinese in Japan."
-      }
-    ]
-  },
-  {
-    "id": "g1-028",
-    "hskLevel": 1,
-    "title": "Expressing possession with 'you'",
-    "structure": "Place + 有 + Obj.",
-    "explanation": "Expressing possession with 'you'. Used for expressing possession.",
-    "examples": [
-      {
-        "chinese": "我的手机里有你的号码。",
-        "pinyin": "wǒ de shǒujī lǐ yǒu nǐ de hàomǎ 。",
-        "english": "I have your number in my mobile phone."
-      },
-      {
-        "chinese": "现在办公室里有人吗？",
-        "pinyin": "xiànzài bàngōngshì lǐ yǒu rén ma ？",
-        "english": "Is anyone in the office now?"
-      },
-      {
-        "chinese": "我有钱。",
-        "pinyin": "wǒ yǒu qián 。",
-        "english": "I have money."
-      },
-      {
-        "chinese": "你有房子吗？",
-        "pinyin": "nǐ yǒu fángzǐ ma ？",
-        "english": "Do you have a house"
-      },
-      {
-        "chinese": "她没有车。",
-        "pinyin": "tā méi yǒu chē 。",
-        "english": "She has no car."
-      }
-    ]
-  },
-  {
-    "id": "g1-029",
-    "hskLevel": 1,
-    "title": "Polite requests with 'qing'",
-    "structure": "Subj. + 有 + Obj.",
-    "explanation": "Polite requests with 'qing'. Used for requesting.",
-    "examples": [
-      {
-        "chinese": "我爸爸没有工作。",
-        "pinyin": "wǒbàbà méi yǒu gōngzuò 。",
-        "english": "My dad has no job."
-      },
-      {
-        "chinese": "今天你有课吗？",
-        "pinyin": "jīntiān nǐ yǒu kè ma ？",
-        "english": "Do you have class today?"
-      },
-      {
-        "chinese": "请进。",
-        "pinyin": "qǐng jìn 。",
-        "english": "Please come in."
-      },
-      {
-        "chinese": "请坐。",
-        "pinyin": "qǐng zuò 。",
-        "english": "Please sit down."
-      },
-      {
-        "chinese": "请说。",
-        "pinyin": "qǐng shuō 。",
-        "english": "Please speak."
-      }
-    ]
-  },
-  {
-    "id": "g1-030",
-    "hskLevel": 1,
-    "title": "Using the verb 'jiao'",
-    "structure": "请 (+ 你) + Verb Phrase",
-    "explanation": "Using the verb 'jiao'. Used for introducing people.",
-    "examples": [
-      {
-        "chinese": "你能不能……？",
-        "pinyin": "nǐ néng bù néng …… ？",
-        "english": "Can you……?"
-      },
-      {
-        "chinese": "麻烦你……",
-        "pinyin": "máfán nǐ ……",
-        "english": "Trouble you ..."
-      },
-      {
-        "chinese": "我叫Tom。",
-        "pinyin": "wǒ jiào Tom 。",
-        "english": "My name is Tom."
-      },
-      {
-        "chinese": "他叫李小龙。",
-        "pinyin": "tā jiào lǐxiǎolóng 。",
-        "english": "His name is Bruce Lee."
-      },
-      {
-        "chinese": "我哥哥叫老马。",
-        "pinyin": "wǒ gēgē jiào lǎomǎ 。",
-        "english": "My brother is called Lao Ma."
-      }
-    ]
-  },
-  {
-    "id": "g1-031",
-    "hskLevel": 1,
-    "title": "Using the verb 'qu'",
-    "structure": "Subj. + 叫 + [Name]",
-    "explanation": "Using the verb 'qu'. Used for expressing movement.",
-    "examples": [
-      {
-        "chinese": "这个地方叫外滩。",
-        "pinyin": "zhè gè dìfāng jiào wàitān 。",
-        "english": "This place is called the Bund."
-      },
-      {
-        "chinese": "你叫什么名字？",
-        "pinyin": "nǐ jiào shíyāo míngzì ？",
-        "english": "What's your name?"
-      },
-      {
-        "chinese": "我去公司。",
-        "pinyin": "wǒ qù gōngsī 。",
-        "english": "I go to the company."
-      },
-      {
-        "chinese": "你去洗手间吗？",
-        "pinyin": "nǐ qù xǐshǒujiān ma ？",
-        "english": "Are you going to the bathroom?"
-      },
-      {
-        "chinese": "下午我会去超市。",
-        "pinyin": "xiàwǔ wǒ hùi qù chāoshì 。",
-        "english": "In the afternoon I will go to the supermarket."
-      }
-    ]
-  },
-  {
-    "id": "g1-032",
-    "hskLevel": 1,
-    "title": "Expressing ability or possibility with 'neng'",
-    "structure": "Subj. + 去 + Verb",
-    "explanation": "Expressing ability or possibility with 'neng'. Used for expressing possibility, expressing ability.",
-    "examples": [
-      {
-        "chinese": "我们去吃饭吧。",
-        "pinyin": "wǒmen qù chīfàn ba 。",
-        "english": "Let's go and eat."
-      },
-      {
-        "chinese": "九点我们去买。",
-        "pinyin": "jǐu diǎn wǒmen qù mǎi 。",
-        "english": "We will buy it at nine."
-      },
-      {
-        "chinese": "我能吃四十个饺子。",
-        "pinyin": "wǒ néng chī sì shí gè jiǎozǐ 。",
-        "english": "I can eat forty dumplings."
-      },
-      {
-        "chinese": "他能工作24个小时。",
-        "pinyin": "tā néng gōngzuò 24 gè xiǎoshí 。",
-        "english": "He can work 24 hours."
-      },
-      {
-        "chinese": "你能帮我找到他吗？",
-        "pinyin": "nǐ néng bāng wǒ zhǎodào tā ma ？",
-        "english": "Can you help me find him?"
-      }
-    ]
-  },
-  {
-    "id": "g1-033",
-    "hskLevel": 1,
-    "title": "Expressing a learned skill with 'hui'",
-    "structure": "Subj. + 能 + Verb + Obj.",
-    "explanation": "Expressing a learned skill with 'hui'. Used for expressing ability.",
-    "examples": [
-      {
-        "chinese": "上课的时候不能说英文。",
-        "pinyin": "shàngkè de shíhòu bù néng shuō yīngwén 。",
-        "english": "English cannot be spoken during class."
-      },
-      {
-        "chinese": "工作的时候不能玩手机。",
-        "pinyin": "gōngzuò de shíhòu bù néng wán shǒujī 。",
-        "english": "Can't play mobile phone while working."
-      },
-      {
-        "chinese": "他会说中文。",
-        "pinyin": "tā hùi shuō zhōngwén 。",
-        "english": "He can speak Chinese."
-      },
-      {
-        "chinese": "我会写汉字。",
-        "pinyin": "wǒ hùi xiě hànzì 。",
-        "english": "I can write Chinese characters."
-      },
-      {
-        "chinese": "你会做饭吗？",
-        "pinyin": "nǐ hùi zuòfàn ma ？",
-        "english": "Can you cook?"
-      }
-    ]
-  },
-  {
-    "id": "g1-034",
-    "hskLevel": 1,
-    "title": "Expressing 'will' with 'hui'",
-    "structure": "Subj. + 不 + 会 + Verb + Obj.",
-    "explanation": "Expressing 'will' with 'hui'. Used for referring to the future, sequencing events in time, expressing ability.",
-    "examples": [
-      {
-        "chinese": "我奶奶不会用电脑。",
-        "pinyin": "wǒ nǎinǎi bùhùi yòng diànnǎo 。",
-        "english": "My grandma can't use a computer."
-      },
-      {
-        "chinese": "你不会开车吗？",
-        "pinyin": "nǐ bùhùi kāichē ma ？",
-        "english": "Won't you drive"
-      },
-      {
-        "chinese": "明天你会来吗？",
-        "pinyin": "míngtiān nǐ hùi lái ma ？",
-        "english": "Will you come tomorrow?"
-      },
-      {
-        "chinese": "他会来看你吗？",
-        "pinyin": "tā hùi lái kàn nǐ ma ？",
-        "english": "Will he come to see you?"
-      },
-      {
-        "chinese": "明天会下雨吗？",
-        "pinyin": "míngtiān hùi xiàyǔ ma ？",
-        "english": "is it going to rain tomorrow?"
-      }
-    ]
-  },
-  {
-    "id": "g1-035",
-    "hskLevel": 1,
-    "title": "Expressing 'would like to' with 'xiang'",
-    "structure": "Subj. + 不 + 会 + Verb + Obj.",
-    "explanation": "Expressing 'would like to' with 'xiang'. Used for expressing desires, expressing purpose.",
-    "examples": [
-      {
-        "chinese": "他不会跟你结婚。",
-        "pinyin": "tā bù hùi gēn nǐ jiéhūn 。",
-        "english": "He will not marry you."
-      },
-      {
-        "chinese": "今晚我不会在外面吃饭。",
-        "pinyin": "jīnwǎn wǒ bù hùi zài wàimiàn chīfàn 。",
-        "english": "I will not eat out tonight."
-      },
-      {
-        "chinese": "你想去吗？",
-        "pinyin": "nǐ xiǎng qù ma ？",
-        "english": "do you want to go?"
-      },
-      {
-        "chinese": "我想吃面。",
-        "pinyin": "wǒ xiǎng chī miàn 。",
-        "english": "I want to eat noodles."
-      },
-      {
-        "chinese": "你想喝水吗？",
-        "pinyin": "nǐ xiǎng hē shǔi ma ？",
-        "english": "Do you want to drink water?"
-      }
-    ]
-  },
-  {
-    "id": "g1-036",
-    "hskLevel": 1,
-    "title": "How to do something with 'zenme'",
-    "structure": "Subj. + 不 + 想 + Verb + Obj.",
-    "explanation": "How to do something with 'zenme'. Used for asking questions.",
-    "examples": [
-      {
-        "chinese": "那个地方很近，我不想开车。",
-        "pinyin": "nàgè dìfāng hěn jìn，wǒ bù xiǎng kāichē 。",
-        "english": "That place is close, I don't want to drive."
-      },
-      {
-        "chinese": "他不想花父母的钱。",
-        "pinyin": "tā bù xiǎng huā fùmǔ de qián 。",
-        "english": "He didn't want to spend his parents' money."
-      },
-      {
-        "chinese": "你们怎么学中文？",
-        "pinyin": "nǐmen zěnyāo xué zhōngwén ？",
-        "english": "How do you learn Chinese?"
-      },
-      {
-        "chinese": "你怎么上班？",
-        "pinyin": "nǐ zěnyāo shàngbān ？",
-        "english": "How do you go to work?"
-      },
-      {
-        "chinese": "你知道怎么去外滩吗？",
-        "pinyin": "nǐ zhīdào zěnyāo qù wàitān ma ？",
-        "english": "Do you know how to get to the Bund?"
-      }
-    ]
-  },
-  {
-    "id": "g1-037",
-    "hskLevel": 1,
-    "title": "Indicating location with 'zai' before verbs",
-    "structure": "Topic + 怎么 + Verb",
-    "explanation": "Indicating location with 'zai' before verbs. Used for expressing location.",
-    "examples": [
-      {
-        "chinese": "中国菜怎么做？",
-        "pinyin": "zhōngguó cài zěnyāo zuò ？",
-        "english": "How to make Chinese food?"
-      },
-      {
-        "chinese": "Apple怎么说？",
-        "pinyin": "Apple zěnyāo shuō ？",
-        "english": "What does Apple say?"
-      },
-      {
-        "chinese": "我在上海上大学。",
-        "pinyin": "wǒ zài shànghǎi shàngdàxué 。",
-        "english": "I go to university in Shanghai."
-      },
-      {
-        "chinese": "你一直在这家公司工作吗？",
-        "pinyin": "nǐ yīzhí zài zhè jiā gōngsī gōngzuò ma ？",
-        "english": "Have you always worked in this company?"
-      },
-      {
-        "chinese": "我周末想在家睡觉。",
-        "pinyin": "wǒ zhōumò xiǎng zài jiā shùijué 。",
-        "english": "I want to sleep at home on the weekend."
-      }
-    ]
-  },
-  {
-    "id": "g1-038",
-    "hskLevel": 1,
-    "title": "Negation of past actions with 'meiyou'",
-    "structure": "Subj. + 在 + Place + Verb + Obj.",
-    "explanation": "Negation of past actions with 'meiyou'. Used for denying and refusing, referring to the past.",
-    "examples": [
-      {
-        "chinese": "老板在会议室见客户。",
-        "pinyin": "lǎobǎn zài hùiyìshì jiàn kèhù 。",
-        "english": "The boss meets the customer in the meeting room."
-      },
-      {
-        "chinese": "你在外面吃过晚饭了吗？",
-        "pinyin": "nǐ zài wàimiàn chī guò wǎnfàn le ma ？",
-        "english": "Have you eaten dinner outside?"
-      },
-      {
-        "chinese": "我没有去上班。",
-        "pinyin": "wǒ méiyǒu qù shàngbān 。",
-        "english": "I didn't go to work."
-      },
-      {
-        "chinese": "他们没有说话。",
-        "pinyin": "tāmen méiyǒu shuōhuà 。",
-        "english": "They did not speak."
-      },
-      {
-        "chinese": "我没有喝你的啤酒。",
-        "pinyin": "wǒ méiyǒu hē nǐ de píjǐu 。",
-        "english": "I didn't drink your beer."
-      }
-    ]
-  },
-  {
-    "id": "g1-039",
-    "hskLevel": 1,
-    "title": "Connecting nouns with 'shi'",
-    "structure": "Subj. + 没有 / 没 + Verb",
-    "explanation": "Connecting nouns with 'shi'. Used for introducing people, describing people, expressing existence, referring to the present.",
-    "examples": [
-      {
-        "chinese": "妈妈晚上没做饭。",
-        "pinyin": "māmā wǎnshàng méi zuòfàn 。",
-        "english": "Mom didn't cook at night."
-      },
-      {
-        "chinese": "我没有做。",
-        "pinyin": "wǒ méiyǒu zuò 。",
-        "english": "I didn't do it."
-      },
-      {
-        "chinese": "我是学生。",
-        "pinyin": "wǒ shì xuéshēng 。",
-        "english": "I am a student."
-      },
-      {
-        "chinese": "你是John吗？",
-        "pinyin": "nǐ shì John ma ？",
-        "english": "Are you John?"
-      },
-      {
-        "chinese": "他们是有钱人。",
-        "pinyin": "tāmen shì yǒuqián rén 。",
-        "english": "They are rich."
-      }
-    ]
-  },
-  {
-    "id": "g1-040",
-    "hskLevel": 1,
-    "title": "Expressing 'excessively' with 'tai'",
-    "structure": "Noun 1 + 是 + Noun 2",
-    "explanation": "Expressing 'excessively' with 'tai'. Used for emphasizing, expressing quality.",
-    "examples": [
-      {
-        "chinese": "你到了，是吗？",
-        "pinyin": "nǐ dào le，shì ma ？",
-        "english": "Are you here, are you?"
-      },
-      {
-        "chinese": "你有两个孩子，是吗？",
-        "pinyin": "nǐ yǒu liǎng gè háizǐ，shì ma ？",
-        "english": "You have two children, are you?"
-      },
-      {
-        "chinese": "米饭太多了。",
-        "pinyin": "mǐfàn tài duō le 。",
-        "english": "There is too much rice."
-      },
-      {
-        "chinese": "现在太晚了。",
-        "pinyin": "xiànzài tài wǎn le 。",
-        "english": "it is too late now."
-      },
-      {
-        "chinese": "老板太忙了。",
-        "pinyin": "lǎobǎn tài máng le 。",
-        "english": "The boss is too busy."
-      }
-    ]
-  },
-  {
-    "id": "g1-041",
-    "hskLevel": 1,
-    "title": "Simple 'noun + adjective' sentences",
-    "structure": "太 + Adj. + 了",
-    "explanation": "Simple 'noun + adjective' sentences. Used for describing things, expressing quality.",
-    "examples": [
-      {
-        "chinese": "小猫太可爱了！",
-        "pinyin": "xiǎomāo tài kěài le ！",
-        "english": "The kitten is so cute!"
-      },
-      {
-        "chinese": "你的孩子太聪明了。",
-        "pinyin": "nǐ de háizǐ tài cōngmíng le 。",
-        "english": "Your child is too smart."
-      },
-      {
-        "chinese": "我很好。",
-        "pinyin": "wǒ hěn hǎo 。",
-        "english": "I'm very good."
-      },
-      {
-        "chinese": "你很漂亮。",
-        "pinyin": "nǐ hěn piāoliàng 。",
-        "english": "you are very beautiful."
-      },
-      {
-        "chinese": "他很高兴。",
-        "pinyin": "tā hěn gāoxīng 。",
-        "english": "He is very happy."
-      }
-    ]
-  },
-  {
-    "id": "g1-042",
-    "hskLevel": 1,
-    "title": "Expressing 'some' with 'yixie'",
-    "structure": "Noun + 很 + Adj.",
-    "explanation": "Expressing 'some' with 'yixie'. Used for expressing quantity.",
-    "examples": [
-      {
-        "chinese": "他很高。",
-        "pinyin": "tā hěn gāo 。",
-        "english": "He is tall."
-      },
-      {
-        "chinese": "他非常高。",
-        "pinyin": "tā fēicháng gāo 。",
-        "english": "He is very tall."
-      },
-      {
-        "chinese": "妈妈去超市买了一些水果。",
-        "pinyin": "māmā qù chāoshì mǎi le yīxiē shǔiguǒ 。",
-        "english": "Mother went to the supermarket and bought some fruits."
-      },
-      {
-        "chinese": "上个周末他买了一些衣服。",
-        "pinyin": "shàng gè zhōumò tā mǎile yīxiē yīfú 。",
-        "english": "He bought some clothes last weekend."
-      },
-      {
-        "chinese": "我们很快会见到一些新同事。",
-        "pinyin": "wǒmen hěn kuài hùi jiàndào yīxiē xīn tóngshì 。",
-        "english": "We will soon meet some new colleagues."
-      }
-    ]
-  },
-  {
-    "id": "g1-043",
-    "hskLevel": 1,
-    "title": "Counting money",
-    "structure": "一些 + Noun",
-    "explanation": "Counting money. Used for expressing quantity.",
-    "examples": [
-      {
-        "chinese": "你想在咖啡里放一些糖吗？",
-        "pinyin": "nǐ xiǎng zài kāfēi lǐ fàng yīxiē táng ma ？",
-        "english": "Do you want to put some sugar in the coffee?"
-      },
-      {
-        "chinese": "我在中国的时候，去过一些很漂亮的地方。",
-        "pinyin": "wǒ zài zhōngguó de shíhòu，qù guò yīxiē hěn piāoliàng de dìfāng 。",
-        "english": "When I was in China, I visited some beautiful places."
-      },
-      {
-        "chinese": "多少钱？",
-        "pinyin": "duōshǎo qián ？",
-        "english": "how much is it?"
-      },
-      {
-        "chinese": "你的手机多少钱？",
-        "pinyin": "nǐ de shǒujī duōshǎo qián ？",
-        "english": "How much is your mobile phone?"
-      },
-      {
-        "chinese": "我们的午饭多少钱？",
-        "pinyin": "wǒmen de wǔfàn duōshǎo qián ？",
-        "english": "How much is our lunch?"
-      }
-    ]
-  },
-  {
-    "id": "g1-044",
-    "hskLevel": 1,
-    "title": "Measure words in quantity questions",
-    "structure": "Number + 块 + Number + 毛",
-    "explanation": "Measure words in quantity questions. Used for asking questions.",
-    "examples": [
-      {
-        "chinese": "二十三块八毛",
-        "pinyin": "èrshí sān kuài bāmáo",
-        "english": "Twenty-three pieces"
-      },
-      {
-        "chinese": "五十块五毛",
-        "pinyin": "wǔshí kuài wǔ máo",
-        "english": "Fifty dollars"
-      },
-      {
-        "chinese": "他有几个孩子？",
-        "pinyin": "tā yǒu jī gè háizǐ ？",
-        "english": "How many children does he have?"
-      },
-      {
-        "chinese": "你家有几个房间？",
-        "pinyin": "nǐ jiā yǒu jī gè fángjiān ？",
-        "english": "How many rooms does your family have?"
-      },
-      {
-        "chinese": "他们在这里住几个星期？",
-        "pinyin": "tāmen zài zhèlǐ zhù jī gè xīngqī ？",
-        "english": "How many weeks do they live here?"
-      }
-    ]
-  },
-  {
-    "id": "g1-045",
-    "hskLevel": 1,
-    "title": "Asking how something is with 'zenmeyang'",
-    "structure": "Subj. + Verb + 多少 + Measure Word + Noun ？",
-    "explanation": "Asking how something is with 'zenmeyang'. Used for asking questions, expressing attitude.",
-    "examples": [
-      {
-        "chinese": "他们昨天请了多少个朋友？",
-        "pinyin": "tāmen zuótiān qǐng le duōshǎo gè péngyǒu ？",
-        "english": "How many friends did they invite yesterday?"
-      },
-      {
-        "chinese": "上海有多少个外国公司？",
-        "pinyin": "shànghǎi yǒu duōshǎo gè wàiguó gōngsī ？",
-        "english": "How many foreign companies are there in Shanghai?"
-      },
-      {
-        "chinese": "你最近怎么样？",
-        "pinyin": "nǐ zùijìn zěnyāoyáng ？",
-        "english": "how have you been?"
-      },
-      {
-        "chinese": "中国怎么样？",
-        "pinyin": "zhōngguó zěnyāoyáng ？",
-        "english": "How is china?"
-      },
-      {
-        "chinese": "北京冬天怎么样？",
-        "pinyin": "běijīng dōngtiān zěnyāoyáng ？",
-        "english": "How is Beijing winter?"
-      }
-    ]
-  },
-  {
-    "id": "g1-046",
-    "hskLevel": 1,
-    "title": "Placement of question words",
-    "structure": "你 觉得 + Topic + 怎么样 ?",
-    "explanation": "Placement of question words. Used for sentence patterns, asking questions.",
-    "examples": [
-      {
-        "chinese": "你觉得我怎么样？",
-        "pinyin": "nǐ juédé wǒ zěnyāoyáng ？",
-        "english": "What do you think about me?"
-      },
-      {
-        "chinese": "你觉得中文怎么样？",
-        "pinyin": "nǐ juédé zhōngwén zěnyāoyáng ？",
-        "english": "What do you think of Chinese?"
-      },
-      {
-        "chinese": "这是什么？",
-        "pinyin": "zhè shì shíyāo ？",
-        "english": "what is this?"
-      },
-      {
-        "chinese": "你喜欢吃什么菜？",
-        "pinyin": "nǐ xǐhuān chī shíyāo cài ？",
-        "english": "what dishes do you like to eat?"
-      },
-      {
-        "chinese": "你在看什么书？",
-        "pinyin": "nǐ zài kàn shíyāo shū ？",
-        "english": "What book are you reading?"
-      }
-    ]
-  },
-  {
-    "id": "g1-047",
-    "hskLevel": 1,
-    "title": "Questions with 'le ma'",
-    "structure": "Subj. + 怎么 + Verb (+ Obj.) ?",
-    "explanation": "Questions with 'le ma'. Used for asking questions.",
-    "examples": [
-      {
-        "chinese": "你们怎么回家？",
-        "pinyin": "nǐmen zěnyāo húijiā ？",
-        "english": "How do you go home?"
-      },
-      {
-        "chinese": "你怎么买票？",
-        "pinyin": "nǐ zěnyāo mǎi piào ？",
-        "english": "How do you buy tickets?"
-      },
-      {
-        "chinese": "你吃饭了吗？",
-        "pinyin": "nǐ chīfàn le ma ？",
-        "english": "have you eaten?"
-      },
-      {
-        "chinese": "老板走了吗？",
-        "pinyin": "lǎobǎn zǒu le ma ？",
-        "english": "Is the boss gone?"
-      },
-      {
-        "chinese": "你男朋友找到新工作了吗？",
-        "pinyin": "nǐnánpéngyǒu zhǎodào xīn gōngzuò le ma ？",
-        "english": "Has your boyfriend found a new job?"
-      }
-    ]
-  },
-  {
-    "id": "g1-048",
-    "hskLevel": 1,
-    "title": "Yes-no questions with 'ma'",
-    "structure": "Topic (+ Subj.) + Verb + 了吗?",
-    "explanation": "Yes-no questions with 'ma'. Used for asking questions, requesting.",
-    "examples": [
-      {
-        "chinese": "这个电影你看了吗？",
-        "pinyin": "zhè gè diànyǐng nǐ kàn le ma ？",
-        "english": "Did you watch this movie?"
-      },
-      {
-        "chinese": "我的邮件你收到了吗？",
-        "pinyin": "wǒ de yóujiàn nǐ shōudào le ma ？",
-        "english": "Have you received my mail?"
-      },
-      {
-        "chinese": "你喜欢咖啡吗？",
-        "pinyin": "nǐ xǐhuān kāfēi ma ？",
-        "english": "Do you like coffee?"
-      },
-      {
-        "chinese": "你是大学生吗？",
-        "pinyin": "nǐ shì dà xuéshēng ma ？",
-        "english": "Are you a University student?"
-      },
-      {
-        "chinese": "他是老板吗？",
-        "pinyin": "tā shì lǎobǎn ma ？",
-        "english": "Is he the boss?"
-      }
-    ]
-  },
-  {
-    "id": "g1-049",
-    "hskLevel": 1,
-    "title": "The 'shi... de' construction for emphasizing details",
-    "structure": "[Statement] + 吗 ？",
-    "explanation": "The 'shi... de' construction for emphasizing details. Used for referring to the past, emphasizing.",
-    "examples": [
-      {
-        "chinese": "你喜欢中国菜吗？",
-        "pinyin": "nǐ xǐhuān zhōngguócài ma ？",
-        "english": "Do you like Chinese food?"
-      },
-      {
-        "chinese": "你不喜欢中国菜吗？",
-        "pinyin": "nǐ bù xǐhuān zhōngguócài ma ？",
-        "english": "Don't you like Chinese food?"
-      },
-      {
-        "chinese": "昨天我去杭州了。",
-        "pinyin": "zuótiān wǒ qù hángzhōu le 。",
-        "english": "I went to Hangzhou yesterday."
-      },
-      {
-        "chinese": "你是怎么去的？",
-        "pinyin": "nǐ shì zěnyāo qù de ？",
-        "english": "How did you get there"
-      },
-      {
-        "chinese": "我是坐火车去的。",
-        "pinyin": "wǒ shì zuò huǒchē qù de 。",
-        "english": "I went by train."
-      }
-    ]
-  },
-  {
-    "id": "g1-050",
-    "hskLevel": 1,
-    "title": "Comparing 'bu' and 'mei'",
-    "structure": "Subj. + 是 + [Information to be Emphasized] + Verb + 的",
-    "explanation": "Comparing 'bu' and 'mei'. Used for negating, describing actions, denying and refusing.",
-    "examples": [
-      {
-        "chinese": "那次我们是用Skype开会的。",
-        "pinyin": "nàcì wǒmen shì yòng Skype kāi hùi de 。",
-        "english": "We used Skype for the meeting."
-      },
-      {
-        "chinese": "我们平时是用Skype开会的。",
-        "pinyin": "wǒmen píngshí shì yòng Skype kāi hùi de 。",
-        "english": "We usually use Skype for meetings."
-      },
-      {
-        "chinese": "我今天晚上不喝酒。",
-        "pinyin": "wǒ jīntiān wǎnshàng bù hējǐu 。",
-        "english": "I don't drink alcohol tonight."
-      },
-      {
-        "chinese": "爸爸不回来吃晚饭。",
-        "pinyin": "bàbà bù húilái chī wǎnfàn 。",
-        "english": "Dad doesn't come back for dinner."
-      },
-      {
-        "chinese": "老板明天不来。",
-        "pinyin": "lǎobǎn míngtiān bù lái 。",
-        "english": "The boss will not come tomorrow."
+        "chinese": "书在桌子上。",
+        "pinyin": "Shū zài zhuōzi shàng.",
+        "english": "The book is on the table."
       }
     ]
   }

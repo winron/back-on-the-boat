@@ -13,6 +13,7 @@ import AuditModal from "@/components/character/AuditModal";
 import LearnSection from "@/components/character/LearnSection";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
+import Link from "next/link";
 import type { HskWord, HskLevel, WordCorrection } from "@/types";
 
 type Mode = "review" | "learn";
@@ -165,9 +166,18 @@ export default function CharactersPage() {
 
   return (
     <div className="tab-color-2 space-y-6">
-      <div className="flex items-center justify-between">
+      <div className="flex items-center justify-between gap-2">
         <TrilingualLabel chinese="汉字" pinyin="hànzì" english="Characters" size="lg" />
-        <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+        <div className="flex items-center gap-2">
+          <Link
+            href="/radicals"
+            className="inline-flex items-center justify-center w-10 h-10 rounded-lg bg-muted hover:bg-border transition-colors text-sm font-medium"
+            title="Radicals reference"
+          >
+            部
+          </Link>
+          <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+        </div>
       </div>
 
       {/* Mode tabs */}
