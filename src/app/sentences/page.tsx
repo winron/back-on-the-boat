@@ -173,9 +173,21 @@ function SentencesPageInner() {
       .toArray();
     const mastered = allCards.filter((c) => (c.bestGrade ?? 0) >= 3).length;
 
-    const startIndex = resumeId ? Math.max(0, session.findIndex((c) => c.id === resumeId)) : 0;
+    let startIndex = 0;
+    if (resumeId) {
+      let idx = session.findIndex((c) => c.id === resumeId);
+      if (idx === -1) {
+        // Card was rated Again and is scheduled for a future step — not in due/new lists.
+        // Fetch it directly and prepend so the user resumes on the same sentence.
+        const resumeCard = await db.srsCards.get(resumeId);
+        if (resumeCard) {
+          session = [resumeCard, ...session];
+          idx = 0;
+        }
+      }
+      startIndex = Math.max(0, idx);
+    }
     setSessionCards(session);
-    setCurrentIndex(startIndex);
     setMasteredCount(mastered);
     setTotalCount(exercises.length);
     setResult(null);
