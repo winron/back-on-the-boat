@@ -149,26 +149,16 @@ export default function CharactersPage() {
     [],
   );
 
-  const handleExportCorrections = useCallback(async () => {
-    const all = await db.wordCorrections.toArray();
-    const blob = new Blob([JSON.stringify(all, null, 2)], { type: "application/json" });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement("a");
-    a.href = url;
-    a.download = "corrections.json";
-    a.click();
-    URL.revokeObjectURL(url);
-  }, []);
-
-  // Group words by unit for learn mode
+  // Group words by unit for learn mode — apply corrections so learn view matches review view
   const unitGroups = words.reduce<
     { name: string; unitIndex: number; words: HskWord[] }[]
   >((acc, word) => {
+    const correctedWord = applyCorrection(word, corrections.get(word.id));
     const lastGroup = acc[acc.length - 1];
-    if (lastGroup && lastGroup.name === word.unitName) {
-      lastGroup.words.push(word);
+    if (lastGroup && lastGroup.name === correctedWord.unitName) {
+      lastGroup.words.push(correctedWord);
     } else {
-      acc.push({ name: word.unitName, unitIndex: word.unitIndex, words: [word] });
+      acc.push({ name: correctedWord.unitName, unitIndex: correctedWord.unitIndex, words: [correctedWord] });
     }
     return acc;
   }, []);
@@ -229,14 +219,6 @@ export default function CharactersPage() {
                 >
                   <TrilingualLabel chinese="练习" pinyin="liànxí" english="Practice all" size="xs" />
                 </button>
-                {corrections.size > 0 && (
-                  <button
-                    onClick={handleExportCorrections}
-                    className="px-4 py-2 bg-muted text-foreground rounded-lg text-sm"
-                  >
-                    Export Corrections
-                  </button>
-                )}
               </div>
             </div>
           ) : currentWord ? (
@@ -262,7 +244,7 @@ export default function CharactersPage() {
       )}
 
       {mode === "learn" && (
-        <LearnSection unitGroups={unitGroups} level={level} expandPos={expandPos} />
+        <LearnSection unitGroups={unitGroups} level={level} expandPos={expandPos} onAudit={(word) => setAuditWord(word)} />
       )}
 
       {auditWord && (

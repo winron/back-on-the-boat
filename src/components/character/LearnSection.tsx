@@ -17,9 +17,10 @@ interface LearnSectionProps {
   unitGroups: UnitGroup[];
   level: HskLevel;
   expandPos: (pos: string) => string;
+  onAudit?: (word: HskWord) => void;
 }
 
-export default function LearnSection({ unitGroups, level, expandPos }: LearnSectionProps) {
+export default function LearnSection({ unitGroups, level, expandPos, onAudit }: LearnSectionProps) {
   const { showPinyin, showEnglish } = useDisplaySettings();
   const [selectedUnit, setSelectedUnit] = useState(0);
   const [revealedCard, setRevealedCard] = useState<string | null>(null);
@@ -244,6 +245,7 @@ export default function LearnSection({ unitGroups, level, expandPos }: LearnSect
                 revealed={revealedCard === word.id}
                 onToggle={() => toggleReveal(word.id)}
                 expandPos={expandPos}
+                onAudit={onAudit}
               />
             </div>
           ))}
