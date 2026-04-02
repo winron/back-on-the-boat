@@ -58,9 +58,10 @@ interface LearnCardProps {
   revealed: boolean;
   onToggle: () => void;
   expandPos: (pos: string) => string;
+  onAudit?: (word: HskWord) => void;
 }
 
-export default function LearnCard({ word, revealed, onToggle, expandPos }: LearnCardProps) {
+export default function LearnCard({ word, revealed, onToggle, expandPos, onAudit }: LearnCardProps) {
   const chars = [...word.simplified];
   const [charIndex, setCharIndex] = useState(0);
   const [mode, setMode] = useState<"animate" | "quiz">("animate");
@@ -114,7 +115,30 @@ export default function LearnCard({ word, revealed, onToggle, expandPos }: Learn
         </span>
         <div className="flex-1 min-w-0" style={{ paddingLeft: "32px" }}>
           {revealed ? (
-            <p className="text-sm font-medium">{word.pinyin}</p>
+            <div className="flex items-center gap-2">
+              <p className="text-sm font-medium">{word.pinyin}</p>
+              {onAudit && (
+                <button
+                  onClick={(e) => { e.stopPropagation(); onAudit(word); }}
+                  className="inline-flex items-center justify-center w-8 h-8 rounded-full bg-muted hover:bg-border transition-colors shrink-0"
+                  aria-label="Edit word"
+                >
+                  <svg
+                    width="15"
+                    height="15"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7" />
+                    <path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z" />
+                  </svg>
+                </button>
+              )}
+            </div>
           ) : null}
         </div>
         {/* Chevron flush right */}
