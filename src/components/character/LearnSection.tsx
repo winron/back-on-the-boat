@@ -18,9 +18,10 @@ interface LearnSectionProps {
   level: HskLevel;
   expandPos: (pos: string) => string;
   onAudit?: (word: HskWord) => void;
+  onRadicalClick?: (radical: string) => void;
 }
 
-export default function LearnSection({ unitGroups, level, expandPos, onAudit }: LearnSectionProps) {
+export default function LearnSection({ unitGroups, level, expandPos, onAudit, onRadicalClick }: LearnSectionProps) {
   const { showPinyin, showEnglish } = useDisplaySettings();
   const [selectedUnit, setSelectedUnit] = useState(0);
   const [revealedCard, setRevealedCard] = useState<string | null>(null);
@@ -246,6 +247,7 @@ export default function LearnSection({ unitGroups, level, expandPos, onAudit }: 
                 onToggle={() => toggleReveal(word.id)}
                 expandPos={expandPos}
                 onAudit={onAudit}
+                onRadicalClick={onRadicalClick}
               />
             </div>
           ))}

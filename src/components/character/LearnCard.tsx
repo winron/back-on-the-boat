@@ -59,9 +59,10 @@ interface LearnCardProps {
   onToggle: () => void;
   expandPos: (pos: string) => string;
   onAudit?: (word: HskWord) => void;
+  onRadicalClick?: (radical: string) => void;
 }
 
-export default function LearnCard({ word, revealed, onToggle, expandPos, onAudit }: LearnCardProps) {
+export default function LearnCard({ word, revealed, onToggle, expandPos, onAudit, onRadicalClick }: LearnCardProps) {
   const chars = [...word.simplified];
   const [charIndex, setCharIndex] = useState(0);
   const [mode, setMode] = useState<"animate" | "quiz">("animate");
@@ -204,10 +205,13 @@ export default function LearnCard({ word, revealed, onToggle, expandPos, onAudit
               </div>
 
               {word.radical && (
-                <div className="flex items-center gap-2 text-sm bg-indigo-500/20 px-2.5 py-1.5 rounded-lg">
+                <button
+                  onClick={() => onRadicalClick?.(word.radical!)}
+                  className="flex items-center gap-2 text-sm bg-indigo-500/20 px-2.5 py-1.5 rounded-lg hover:bg-indigo-500/30 transition-colors cursor-pointer"
+                >
                   <span className="text-lg text-indigo-400">{word.radical}</span>
                   <span className="text-indigo-400 text-xs">部首 radical</span>
-                </div>
+                </button>
               )}
 
               {/* Stroke order box — centered */}

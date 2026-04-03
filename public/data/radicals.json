@@ -1,0 +1,1500 @@
+[
+  {
+    "number": 1,
+    "character": "一",
+    "pinyin": "yī",
+    "meaning": "one",
+    "strokeCount": 1
+  },
+  {
+    "number": 2,
+    "character": "丨",
+    "pinyin": "shù",
+    "meaning": "line",
+    "strokeCount": 1
+  },
+  {
+    "number": 3,
+    "character": "丶",
+    "pinyin": "zhǔ",
+    "meaning": "dot",
+    "strokeCount": 1
+  },
+  {
+    "number": 4,
+    "character": "丿",
+    "pinyin": "piě",
+    "meaning": "slash",
+    "strokeCount": 1
+  },
+  {
+    "number": 5,
+    "character": "乙",
+    "pinyin": "yǐ",
+    "meaning": "second",
+    "strokeCount": 1
+  },
+  {
+    "number": 6,
+    "character": "亅",
+    "pinyin": "jué",
+    "meaning": "hook",
+    "strokeCount": 1
+  },
+  {
+    "number": 7,
+    "character": "二",
+    "pinyin": "èr",
+    "meaning": "two",
+    "strokeCount": 2
+  },
+  {
+    "number": 8,
+    "character": "亠",
+    "pinyin": "tóu",
+    "meaning": "lid",
+    "strokeCount": 2
+  },
+  {
+    "number": 9,
+    "character": "人",
+    "pinyin": "rén",
+    "meaning": "person",
+    "strokeCount": 2
+  },
+  {
+    "number": 10,
+    "character": "儿",
+    "pinyin": "ér",
+    "meaning": "legs",
+    "strokeCount": 2
+  },
+  {
+    "number": 11,
+    "character": "入",
+    "pinyin": "rù",
+    "meaning": "enter",
+    "strokeCount": 2
+  },
+  {
+    "number": 12,
+    "character": "八",
+    "pinyin": "bā",
+    "meaning": "eight",
+    "strokeCount": 2
+  },
+  {
+    "number": 13,
+    "character": "冂",
+    "pinyin": "jiōng",
+    "meaning": "down box",
+    "strokeCount": 2
+  },
+  {
+    "number": 14,
+    "character": "冖",
+    "pinyin": "mì",
+    "meaning": "cover",
+    "strokeCount": 2
+  },
+  {
+    "number": 15,
+    "character": "冫",
+    "pinyin": "bīng",
+    "meaning": "ice",
+    "strokeCount": 2
+  },
+  {
+    "number": 16,
+    "character": "几",
+    "pinyin": "jī",
+    "meaning": "table",
+    "strokeCount": 2
+  },
+  {
+    "number": 17,
+    "character": "凵",
+    "pinyin": "kǎn",
+    "meaning": "open box",
+    "strokeCount": 2
+  },
+  {
+    "number": 18,
+    "character": "刀",
+    "pinyin": "dāo",
+    "meaning": "knife",
+    "strokeCount": 2
+  },
+  {
+    "number": 19,
+    "character": "力",
+    "pinyin": "lì",
+    "meaning": "power",
+    "strokeCount": 2
+  },
+  {
+    "number": 20,
+    "character": "勹",
+    "pinyin": "bāo",
+    "meaning": "wrap",
+    "strokeCount": 2
+  },
+  {
+    "number": 21,
+    "character": "匕",
+    "pinyin": "bǐ",
+    "meaning": "spoon",
+    "strokeCount": 2
+  },
+  {
+    "number": 22,
+    "character": "匚",
+    "pinyin": "fāng",
+    "meaning": "box",
+    "strokeCount": 2
+  },
+  {
+    "number": 23,
+    "character": "匸",
+    "pinyin": "xì",
+    "meaning": "hiding",
+    "strokeCount": 2
+  },
+  {
+    "number": 24,
+    "character": "十",
+    "pinyin": "shí",
+    "meaning": "ten",
+    "strokeCount": 2
+  },
+  {
+    "number": 25,
+    "character": "卜",
+    "pinyin": "bǔ",
+    "meaning": "divination",
+    "strokeCount": 2
+  },
+  {
+    "number": 26,
+    "character": "卩",
+    "pinyin": "jié",
+    "meaning": "seal",
+    "strokeCount": 2
+  },
+  {
+    "number": 27,
+    "character": "厂",
+    "pinyin": "hǎn",
+    "meaning": "cliff",
+    "strokeCount": 2
+  },
+  {
+    "number": 28,
+    "character": "厶",
+    "pinyin": "sī",
+    "meaning": "private",
+    "strokeCount": 2
+  },
+  {
+    "number": 29,
+    "character": "又",
+    "pinyin": "yòu",
+    "meaning": "again",
+    "strokeCount": 2
+  },
+  {
+    "number": 30,
+    "character": "口",
+    "pinyin": "kǒu",
+    "meaning": "mouth",
+    "strokeCount": 3
+  },
+  {
+    "number": 31,
+    "character": "囗",
+    "pinyin": "wéi",
+    "meaning": "enclosure",
+    "strokeCount": 3
+  },
+  {
+    "number": 32,
+    "character": "土",
+    "pinyin": "tǔ",
+    "meaning": "earth",
+    "strokeCount": 3
+  },
+  {
+    "number": 33,
+    "character": "士",
+    "pinyin": "shì",
+    "meaning": "scholar",
+    "strokeCount": 3
+  },
+  {
+    "number": 34,
+    "character": "夂",
+    "pinyin": "zhǐ",
+    "meaning": "go",
+    "strokeCount": 3
+  },
+  {
+    "number": 35,
+    "character": "夊",
+    "pinyin": "suī",
+    "meaning": "go slowly",
+    "strokeCount": 3
+  },
+  {
+    "number": 36,
+    "character": "夕",
+    "pinyin": "xī",
+    "meaning": "evening",
+    "strokeCount": 3
+  },
+  {
+    "number": 37,
+    "character": "大",
+    "pinyin": "dà",
+    "meaning": "big",
+    "strokeCount": 3
+  },
+  {
+    "number": 38,
+    "character": "女",
+    "pinyin": "nǚ",
+    "meaning": "woman",
+    "strokeCount": 3
+  },
+  {
+    "number": 39,
+    "character": "子",
+    "pinyin": "zǐ",
+    "meaning": "child",
+    "strokeCount": 3
+  },
+  {
+    "number": 40,
+    "character": "宀",
+    "pinyin": "mián",
+    "meaning": "roof",
+    "strokeCount": 3
+  },
+  {
+    "number": 41,
+    "character": "寸",
+    "pinyin": "cùn",
+    "meaning": "inch",
+    "strokeCount": 3
+  },
+  {
+    "number": 42,
+    "character": "小",
+    "pinyin": "xiǎo",
+    "meaning": "small",
+    "strokeCount": 3
+  },
+  {
+    "number": 43,
+    "character": "尢",
+    "pinyin": "wāng",
+    "meaning": "lame",
+    "strokeCount": 3
+  },
+  {
+    "number": 44,
+    "character": "尸",
+    "pinyin": "shī",
+    "meaning": "corpse",
+    "strokeCount": 3
+  },
+  {
+    "number": 45,
+    "character": "屮",
+    "pinyin": "chè",
+    "meaning": "sprout",
+    "strokeCount": 3
+  },
+  {
+    "number": 46,
+    "character": "山",
+    "pinyin": "shān",
+    "meaning": "mountain",
+    "strokeCount": 3
+  },
+  {
+    "number": 47,
+    "character": "巛",
+    "pinyin": "chuān",
+    "meaning": "river",
+    "strokeCount": 3
+  },
+  {
+    "number": 48,
+    "character": "工",
+    "pinyin": "gōng",
+    "meaning": "work",
+    "strokeCount": 3
+  },
+  {
+    "number": 49,
+    "character": "己",
+    "pinyin": "jǐ",
+    "meaning": "self",
+    "strokeCount": 3
+  },
+  {
+    "number": 50,
+    "character": "巾",
+    "pinyin": "jīn",
+    "meaning": "cloth",
+    "strokeCount": 3
+  },
+  {
+    "number": 51,
+    "character": "干",
+    "pinyin": "gān",
+    "meaning": "dry",
+    "strokeCount": 3
+  },
+  {
+    "number": 52,
+    "character": "幺",
+    "pinyin": "yāo",
+    "meaning": "small",
+    "strokeCount": 3
+  },
+  {
+    "number": 53,
+    "character": "广",
+    "pinyin": "guǎng",
+    "meaning": "wide",
+    "strokeCount": 3
+  },
+  {
+    "number": 54,
+    "character": "廴",
+    "pinyin": "yǐn",
+    "meaning": "stride",
+    "strokeCount": 3
+  },
+  {
+    "number": 55,
+    "character": "廾",
+    "pinyin": "gǒng",
+    "meaning": "two hands",
+    "strokeCount": 3
+  },
+  {
+    "number": 56,
+    "character": "弋",
+    "pinyin": "yì",
+    "meaning": "shoot",
+    "strokeCount": 3
+  },
+  {
+    "number": 57,
+    "character": "弓",
+    "pinyin": "gōng",
+    "meaning": "bow",
+    "strokeCount": 3
+  },
+  {
+    "number": 58,
+    "character": "彐",
+    "pinyin": "jì",
+    "meaning": "snout",
+    "strokeCount": 3
+  },
+  {
+    "number": 59,
+    "character": "彡",
+    "pinyin": "shān",
+    "meaning": "bristle",
+    "strokeCount": 3
+  },
+  {
+    "number": 60,
+    "character": "彳",
+    "pinyin": "chì",
+    "meaning": "step",
+    "strokeCount": 3
+  },
+  {
+    "number": 61,
+    "character": "心",
+    "pinyin": "xīn",
+    "meaning": "heart",
+    "strokeCount": 4
+  },
+  {
+    "number": 62,
+    "character": "戈",
+    "pinyin": "gē",
+    "meaning": "halberd",
+    "strokeCount": 4
+  },
+  {
+    "number": 63,
+    "character": "户",
+    "pinyin": "hù",
+    "meaning": "door",
+    "strokeCount": 4
+  },
+  {
+    "number": 64,
+    "character": "手",
+    "pinyin": "shǒu",
+    "meaning": "hand",
+    "strokeCount": 4
+  },
+  {
+    "number": 65,
+    "character": "支",
+    "pinyin": "zhī",
+    "meaning": "branch",
+    "strokeCount": 4
+  },
+  {
+    "number": 66,
+    "character": "攴",
+    "pinyin": "pū",
+    "meaning": "rap",
+    "strokeCount": 4
+  },
+  {
+    "number": 67,
+    "character": "文",
+    "pinyin": "wén",
+    "meaning": "script",
+    "strokeCount": 4
+  },
+  {
+    "number": 68,
+    "character": "斗",
+    "pinyin": "dǒu",
+    "meaning": "dipper",
+    "strokeCount": 4
+  },
+  {
+    "number": 69,
+    "character": "斤",
+    "pinyin": "jīn",
+    "meaning": "axe",
+    "strokeCount": 4
+  },
+  {
+    "number": 70,
+    "character": "方",
+    "pinyin": "fāng",
+    "meaning": "square",
+    "strokeCount": 4
+  },
+  {
+    "number": 71,
+    "character": "无",
+    "pinyin": "wú",
+    "meaning": "not",
+    "strokeCount": 4
+  },
+  {
+    "number": 72,
+    "character": "日",
+    "pinyin": "rì",
+    "meaning": "sun",
+    "strokeCount": 4
+  },
+  {
+    "number": 73,
+    "character": "曰",
+    "pinyin": "yuē",
+    "meaning": "say",
+    "strokeCount": 4
+  },
+  {
+    "number": 74,
+    "character": "月",
+    "pinyin": "yuè",
+    "meaning": "moon",
+    "strokeCount": 4
+  },
+  {
+    "number": 75,
+    "character": "木",
+    "pinyin": "mù",
+    "meaning": "tree",
+    "strokeCount": 4
+  },
+  {
+    "number": 76,
+    "character": "欠",
+    "pinyin": "qiàn",
+    "meaning": "lack",
+    "strokeCount": 4
+  },
+  {
+    "number": 77,
+    "character": "止",
+    "pinyin": "zhǐ",
+    "meaning": "stop",
+    "strokeCount": 4
+  },
+  {
+    "number": 78,
+    "character": "歹",
+    "pinyin": "dǎi",
+    "meaning": "death",
+    "strokeCount": 4
+  },
+  {
+    "number": 79,
+    "character": "殳",
+    "pinyin": "shū",
+    "meaning": "weapon",
+    "strokeCount": 4
+  },
+  {
+    "number": 80,
+    "character": "毋",
+    "pinyin": "wú",
+    "meaning": "do not",
+    "strokeCount": 4
+  },
+  {
+    "number": 81,
+    "character": "比",
+    "pinyin": "bǐ",
+    "meaning": "compare",
+    "strokeCount": 4
+  },
+  {
+    "number": 82,
+    "character": "毛",
+    "pinyin": "máo",
+    "meaning": "fur",
+    "strokeCount": 4
+  },
+  {
+    "number": 83,
+    "character": "氏",
+    "pinyin": "shì",
+    "meaning": "clan",
+    "strokeCount": 4
+  },
+  {
+    "number": 84,
+    "character": "气",
+    "pinyin": "qì",
+    "meaning": "steam",
+    "strokeCount": 4
+  },
+  {
+    "number": 85,
+    "character": "水",
+    "pinyin": "shuǐ",
+    "meaning": "water",
+    "strokeCount": 4
+  },
+  {
+    "number": 86,
+    "character": "火",
+    "pinyin": "huǒ",
+    "meaning": "fire",
+    "strokeCount": 4
+  },
+  {
+    "number": 87,
+    "character": "爪",
+    "pinyin": "zhǎo",
+    "meaning": "claw",
+    "strokeCount": 4
+  },
+  {
+    "number": 88,
+    "character": "父",
+    "pinyin": "fù",
+    "meaning": "father",
+    "strokeCount": 4
+  },
+  {
+    "number": 89,
+    "character": "爻",
+    "pinyin": "yáo",
+    "meaning": "lines",
+    "strokeCount": 4
+  },
+  {
+    "number": 90,
+    "character": "爿",
+    "pinyin": "pán",
+    "meaning": "split wood",
+    "strokeCount": 4
+  },
+  {
+    "number": 91,
+    "character": "片",
+    "pinyin": "piàn",
+    "meaning": "slice",
+    "strokeCount": 4
+  },
+  {
+    "number": 92,
+    "character": "牙",
+    "pinyin": "yá",
+    "meaning": "fang",
+    "strokeCount": 4
+  },
+  {
+    "number": 93,
+    "character": "牛",
+    "pinyin": "niú",
+    "meaning": "cow",
+    "strokeCount": 4
+  },
+  {
+    "number": 94,
+    "character": "犬",
+    "pinyin": "quǎn",
+    "meaning": "dog",
+    "strokeCount": 4
+  },
+  {
+    "number": 95,
+    "character": "玄",
+    "pinyin": "xuán",
+    "meaning": "dark",
+    "strokeCount": 5
+  },
+  {
+    "number": 96,
+    "character": "玉",
+    "pinyin": "yù",
+    "meaning": "jade",
+    "strokeCount": 5
+  },
+  {
+    "number": 97,
+    "character": "瓜",
+    "pinyin": "guā",
+    "meaning": "melon",
+    "strokeCount": 5
+  },
+  {
+    "number": 98,
+    "character": "瓦",
+    "pinyin": "wǎ",
+    "meaning": "tile",
+    "strokeCount": 5
+  },
+  {
+    "number": 99,
+    "character": "甘",
+    "pinyin": "gān",
+    "meaning": "sweet",
+    "strokeCount": 5
+  },
+  {
+    "number": 100,
+    "character": "生",
+    "pinyin": "shēng",
+    "meaning": "life",
+    "strokeCount": 5
+  },
+  {
+    "number": 101,
+    "character": "用",
+    "pinyin": "yòng",
+    "meaning": "use",
+    "strokeCount": 5
+  },
+  {
+    "number": 102,
+    "character": "田",
+    "pinyin": "tián",
+    "meaning": "field",
+    "strokeCount": 5
+  },
+  {
+    "number": 103,
+    "character": "疋",
+    "pinyin": "pǐ",
+    "meaning": "bolt of cloth",
+    "strokeCount": 5
+  },
+  {
+    "number": 104,
+    "character": "疒",
+    "pinyin": "nè",
+    "meaning": "sickness",
+    "strokeCount": 5
+  },
+  {
+    "number": 105,
+    "character": "癶",
+    "pinyin": "bō",
+    "meaning": "footsteps",
+    "strokeCount": 5
+  },
+  {
+    "number": 106,
+    "character": "白",
+    "pinyin": "bái",
+    "meaning": "white",
+    "strokeCount": 5
+  },
+  {
+    "number": 107,
+    "character": "皮",
+    "pinyin": "pí",
+    "meaning": "skin",
+    "strokeCount": 5
+  },
+  {
+    "number": 108,
+    "character": "皿",
+    "pinyin": "mǐn",
+    "meaning": "dish",
+    "strokeCount": 5
+  },
+  {
+    "number": 109,
+    "character": "目",
+    "pinyin": "mù",
+    "meaning": "eye",
+    "strokeCount": 5
+  },
+  {
+    "number": 110,
+    "character": "矛",
+    "pinyin": "máo",
+    "meaning": "spear",
+    "strokeCount": 5
+  },
+  {
+    "number": 111,
+    "character": "矢",
+    "pinyin": "shǐ",
+    "meaning": "arrow",
+    "strokeCount": 5
+  },
+  {
+    "number": 112,
+    "character": "石",
+    "pinyin": "shí",
+    "meaning": "stone",
+    "strokeCount": 5
+  },
+  {
+    "number": 113,
+    "character": "示",
+    "pinyin": "shì",
+    "meaning": "spirit",
+    "strokeCount": 5
+  },
+  {
+    "number": 114,
+    "character": "禸",
+    "pinyin": "róu",
+    "meaning": "track",
+    "strokeCount": 5
+  },
+  {
+    "number": 115,
+    "character": "禾",
+    "pinyin": "hé",
+    "meaning": "grain",
+    "strokeCount": 5
+  },
+  {
+    "number": 116,
+    "character": "穴",
+    "pinyin": "xué",
+    "meaning": "cave",
+    "strokeCount": 5
+  },
+  {
+    "number": 117,
+    "character": "立",
+    "pinyin": "lì",
+    "meaning": "stand",
+    "strokeCount": 5
+  },
+  {
+    "number": 118,
+    "character": "竹",
+    "pinyin": "zhú",
+    "meaning": "bamboo",
+    "strokeCount": 6
+  },
+  {
+    "number": 119,
+    "character": "米",
+    "pinyin": "mǐ",
+    "meaning": "rice",
+    "strokeCount": 6
+  },
+  {
+    "number": 120,
+    "character": "糸",
+    "pinyin": "mì",
+    "meaning": "silk",
+    "strokeCount": 6
+  },
+  {
+    "number": 121,
+    "character": "缶",
+    "pinyin": "fǒu",
+    "meaning": "jar",
+    "strokeCount": 6
+  },
+  {
+    "number": 122,
+    "character": "网",
+    "pinyin": "wǎng",
+    "meaning": "net",
+    "strokeCount": 6
+  },
+  {
+    "number": 123,
+    "character": "羊",
+    "pinyin": "yáng",
+    "meaning": "sheep",
+    "strokeCount": 6
+  },
+  {
+    "number": 124,
+    "character": "羽",
+    "pinyin": "yǔ",
+    "meaning": "feather",
+    "strokeCount": 6
+  },
+  {
+    "number": 125,
+    "character": "老",
+    "pinyin": "lǎo",
+    "meaning": "old",
+    "strokeCount": 6
+  },
+  {
+    "number": 126,
+    "character": "而",
+    "pinyin": "ér",
+    "meaning": "and",
+    "strokeCount": 6
+  },
+  {
+    "number": 127,
+    "character": "耒",
+    "pinyin": "lěi",
+    "meaning": "plow",
+    "strokeCount": 6
+  },
+  {
+    "number": 128,
+    "character": "耳",
+    "pinyin": "ěr",
+    "meaning": "ear",
+    "strokeCount": 6
+  },
+  {
+    "number": 129,
+    "character": "聿",
+    "pinyin": "yù",
+    "meaning": "brush",
+    "strokeCount": 6
+  },
+  {
+    "number": 130,
+    "character": "肉",
+    "pinyin": "ròu",
+    "meaning": "meat",
+    "strokeCount": 6
+  },
+  {
+    "number": 131,
+    "character": "臣",
+    "pinyin": "chén",
+    "meaning": "minister",
+    "strokeCount": 6
+  },
+  {
+    "number": 132,
+    "character": "自",
+    "pinyin": "zì",
+    "meaning": "self",
+    "strokeCount": 6
+  },
+  {
+    "number": 133,
+    "character": "至",
+    "pinyin": "zhì",
+    "meaning": "arrive",
+    "strokeCount": 6
+  },
+  {
+    "number": 134,
+    "character": "臼",
+    "pinyin": "jiù",
+    "meaning": "mortar",
+    "strokeCount": 6
+  },
+  {
+    "number": 135,
+    "character": "舌",
+    "pinyin": "shé",
+    "meaning": "tongue",
+    "strokeCount": 6
+  },
+  {
+    "number": 136,
+    "character": "舛",
+    "pinyin": "chuǎn",
+    "meaning": "oppose",
+    "strokeCount": 6
+  },
+  {
+    "number": 137,
+    "character": "舟",
+    "pinyin": "zhōu",
+    "meaning": "boat",
+    "strokeCount": 6
+  },
+  {
+    "number": 138,
+    "character": "艮",
+    "pinyin": "gèn",
+    "meaning": "stopping",
+    "strokeCount": 6
+  },
+  {
+    "number": 139,
+    "character": "色",
+    "pinyin": "sè",
+    "meaning": "color",
+    "strokeCount": 6
+  },
+  {
+    "number": 140,
+    "character": "艹",
+    "pinyin": "cǎo",
+    "meaning": "grass",
+    "strokeCount": 6
+  },
+  {
+    "number": 141,
+    "character": "虍",
+    "pinyin": "hū",
+    "meaning": "tiger",
+    "strokeCount": 6
+  },
+  {
+    "number": 142,
+    "character": "虫",
+    "pinyin": "chóng",
+    "meaning": "insect",
+    "strokeCount": 6
+  },
+  {
+    "number": 143,
+    "character": "血",
+    "pinyin": "xuè",
+    "meaning": "blood",
+    "strokeCount": 6
+  },
+  {
+    "number": 144,
+    "character": "行",
+    "pinyin": "xíng",
+    "meaning": "walk",
+    "strokeCount": 6
+  },
+  {
+    "number": 145,
+    "character": "衣",
+    "pinyin": "yī",
+    "meaning": "clothes",
+    "strokeCount": 6
+  },
+  {
+    "number": 146,
+    "character": "襾",
+    "pinyin": "yà",
+    "meaning": "west",
+    "strokeCount": 6
+  },
+  {
+    "number": 147,
+    "character": "见",
+    "pinyin": "jiàn",
+    "meaning": "see",
+    "strokeCount": 7
+  },
+  {
+    "number": 148,
+    "character": "角",
+    "pinyin": "jiǎo",
+    "meaning": "horn",
+    "strokeCount": 7
+  },
+  {
+    "number": 149,
+    "character": "言",
+    "pinyin": "yán",
+    "meaning": "speech",
+    "strokeCount": 7
+  },
+  {
+    "number": 150,
+    "character": "谷",
+    "pinyin": "gǔ",
+    "meaning": "valley",
+    "strokeCount": 7
+  },
+  {
+    "number": 151,
+    "character": "豆",
+    "pinyin": "dòu",
+    "meaning": "bean",
+    "strokeCount": 7
+  },
+  {
+    "number": 152,
+    "character": "豕",
+    "pinyin": "shǐ",
+    "meaning": "pig",
+    "strokeCount": 7
+  },
+  {
+    "number": 153,
+    "character": "豸",
+    "pinyin": "zhì",
+    "meaning": "badger",
+    "strokeCount": 7
+  },
+  {
+    "number": 154,
+    "character": "贝",
+    "pinyin": "bèi",
+    "meaning": "shell",
+    "strokeCount": 7
+  },
+  {
+    "number": 155,
+    "character": "赤",
+    "pinyin": "chì",
+    "meaning": "red",
+    "strokeCount": 7
+  },
+  {
+    "number": 156,
+    "character": "走",
+    "pinyin": "zǒu",
+    "meaning": "walk",
+    "strokeCount": 7
+  },
+  {
+    "number": 157,
+    "character": "足",
+    "pinyin": "zú",
+    "meaning": "foot",
+    "strokeCount": 7
+  },
+  {
+    "number": 158,
+    "character": "身",
+    "pinyin": "shēn",
+    "meaning": "body",
+    "strokeCount": 7
+  },
+  {
+    "number": 159,
+    "character": "车",
+    "pinyin": "chē",
+    "meaning": "cart",
+    "strokeCount": 7
+  },
+  {
+    "number": 160,
+    "character": "辛",
+    "pinyin": "xīn",
+    "meaning": "bitter",
+    "strokeCount": 7
+  },
+  {
+    "number": 161,
+    "character": "辰",
+    "pinyin": "chén",
+    "meaning": "morning",
+    "strokeCount": 7
+  },
+  {
+    "number": 162,
+    "character": "辶",
+    "pinyin": "chuò",
+    "meaning": "walk",
+    "strokeCount": 7
+  },
+  {
+    "number": 163,
+    "character": "邑",
+    "pinyin": "yì",
+    "meaning": "city",
+    "strokeCount": 7
+  },
+  {
+    "number": 164,
+    "character": "酉",
+    "pinyin": "yǒu",
+    "meaning": "wine",
+    "strokeCount": 7
+  },
+  {
+    "number": 165,
+    "character": "釆",
+    "pinyin": "biàn",
+    "meaning": "distinguish",
+    "strokeCount": 7
+  },
+  {
+    "number": 166,
+    "character": "里",
+    "pinyin": "lǐ",
+    "meaning": "village",
+    "strokeCount": 7
+  },
+  {
+    "number": 167,
+    "character": "金",
+    "pinyin": "jīn",
+    "meaning": "metal",
+    "strokeCount": 8
+  },
+  {
+    "number": 168,
+    "character": "长",
+    "pinyin": "cháng",
+    "meaning": "long",
+    "strokeCount": 8
+  },
+  {
+    "number": 169,
+    "character": "门",
+    "pinyin": "mén",
+    "meaning": "gate",
+    "strokeCount": 8
+  },
+  {
+    "number": 170,
+    "character": "阜",
+    "pinyin": "fù",
+    "meaning": "mound",
+    "strokeCount": 8
+  },
+  {
+    "number": 171,
+    "character": "隶",
+    "pinyin": "lì",
+    "meaning": "slave",
+    "strokeCount": 8
+  },
+  {
+    "number": 172,
+    "character": "隹",
+    "pinyin": "zhuī",
+    "meaning": "short-tailed bird",
+    "strokeCount": 8
+  },
+  {
+    "number": 173,
+    "character": "雨",
+    "pinyin": "yǔ",
+    "meaning": "rain",
+    "strokeCount": 8
+  },
+  {
+    "number": 174,
+    "character": "青",
+    "pinyin": "qīng",
+    "meaning": "blue-green",
+    "strokeCount": 8
+  },
+  {
+    "number": 175,
+    "character": "非",
+    "pinyin": "fēi",
+    "meaning": "wrong",
+    "strokeCount": 8
+  },
+  {
+    "number": 176,
+    "character": "面",
+    "pinyin": "miàn",
+    "meaning": "face",
+    "strokeCount": 9
+  },
+  {
+    "number": 177,
+    "character": "革",
+    "pinyin": "gé",
+    "meaning": "leather",
+    "strokeCount": 9
+  },
+  {
+    "number": 178,
+    "character": "韦",
+    "pinyin": "wéi",
+    "meaning": "tanned leather",
+    "strokeCount": 9
+  },
+  {
+    "number": 179,
+    "character": "韭",
+    "pinyin": "jiǔ",
+    "meaning": "leek",
+    "strokeCount": 9
+  },
+  {
+    "number": 180,
+    "character": "音",
+    "pinyin": "yīn",
+    "meaning": "sound",
+    "strokeCount": 9
+  },
+  {
+    "number": 181,
+    "character": "页",
+    "pinyin": "yè",
+    "meaning": "leaf",
+    "strokeCount": 9
+  },
+  {
+    "number": 182,
+    "character": "风",
+    "pinyin": "fēng",
+    "meaning": "wind",
+    "strokeCount": 9
+  },
+  {
+    "number": 183,
+    "character": "飞",
+    "pinyin": "fēi",
+    "meaning": "fly",
+    "strokeCount": 9
+  },
+  {
+    "number": 184,
+    "character": "食",
+    "pinyin": "shí",
+    "meaning": "eat",
+    "strokeCount": 9
+  },
+  {
+    "number": 185,
+    "character": "首",
+    "pinyin": "shǒu",
+    "meaning": "head",
+    "strokeCount": 9
+  },
+  {
+    "number": 186,
+    "character": "香",
+    "pinyin": "xiāng",
+    "meaning": "fragrant",
+    "strokeCount": 9
+  },
+  {
+    "number": 187,
+    "character": "马",
+    "pinyin": "mǎ",
+    "meaning": "horse",
+    "strokeCount": 10
+  },
+  {
+    "number": 188,
+    "character": "骨",
+    "pinyin": "gǔ",
+    "meaning": "bone",
+    "strokeCount": 10
+  },
+  {
+    "number": 189,
+    "character": "高",
+    "pinyin": "gāo",
+    "meaning": "tall",
+    "strokeCount": 10
+  },
+  {
+    "number": 190,
+    "character": "髟",
+    "pinyin": "biāo",
+    "meaning": "hair",
+    "strokeCount": 10
+  },
+  {
+    "number": 191,
+    "character": "鬥",
+    "pinyin": "dòu",
+    "meaning": "fight",
+    "strokeCount": 10
+  },
+  {
+    "number": 192,
+    "character": "鬯",
+    "pinyin": "chàng",
+    "meaning": "sacrificial wine",
+    "strokeCount": 10
+  },
+  {
+    "number": 193,
+    "character": "鬲",
+    "pinyin": "lì",
+    "meaning": "cauldron",
+    "strokeCount": 10
+  },
+  {
+    "number": 194,
+    "character": "鬼",
+    "pinyin": "guǐ",
+    "meaning": "ghost",
+    "strokeCount": 10
+  },
+  {
+    "number": 195,
+    "character": "鱼",
+    "pinyin": "yú",
+    "meaning": "fish",
+    "strokeCount": 11
+  },
+  {
+    "number": 196,
+    "character": "鸟",
+    "pinyin": "niǎo",
+    "meaning": "bird",
+    "strokeCount": 11
+  },
+  {
+    "number": 197,
+    "character": "卤",
+    "pinyin": "lǔ",
+    "meaning": "salt",
+    "strokeCount": 11
+  },
+  {
+    "number": 198,
+    "character": "鹿",
+    "pinyin": "lù",
+    "meaning": "deer",
+    "strokeCount": 11
+  },
+  {
+    "number": 199,
+    "character": "麦",
+    "pinyin": "mài",
+    "meaning": "wheat",
+    "strokeCount": 11
+  },
+  {
+    "number": 200,
+    "character": "麻",
+    "pinyin": "má",
+    "meaning": "hemp",
+    "strokeCount": 11
+  },
+  {
+    "number": 201,
+    "character": "黄",
+    "pinyin": "huáng",
+    "meaning": "yellow",
+    "strokeCount": 12
+  },
+  {
+    "number": 202,
+    "character": "黍",
+    "pinyin": "shǔ",
+    "meaning": "millet",
+    "strokeCount": 12
+  },
+  {
+    "number": 203,
+    "character": "黑",
+    "pinyin": "hēi",
+    "meaning": "black",
+    "strokeCount": 12
+  },
+  {
+    "number": 204,
+    "character": "黹",
+    "pinyin": "zhǐ",
+    "meaning": "embroidery",
+    "strokeCount": 12
+  },
+  {
+    "number": 205,
+    "character": "黾",
+    "pinyin": "mǐn",
+    "meaning": "frog",
+    "strokeCount": 13
+  },
+  {
+    "number": 206,
+    "character": "鼎",
+    "pinyin": "dǐng",
+    "meaning": "tripod",
+    "strokeCount": 13
+  },
+  {
+    "number": 207,
+    "character": "鼓",
+    "pinyin": "gǔ",
+    "meaning": "drum",
+    "strokeCount": 13
+  },
+  {
+    "number": 208,
+    "character": "鼠",
+    "pinyin": "shǔ",
+    "meaning": "rat",
+    "strokeCount": 13
+  },
+  {
+    "number": 209,
+    "character": "鼻",
+    "pinyin": "bí",
+    "meaning": "nose",
+    "strokeCount": 14
+  },
+  {
+    "number": 210,
+    "character": "齐",
+    "pinyin": "qí",
+    "meaning": "even",
+    "strokeCount": 14
+  },
+  {
+    "number": 211,
+    "character": "齿",
+    "pinyin": "chǐ",
+    "meaning": "tooth",
+    "strokeCount": 15
+  },
+  {
+    "number": 212,
+    "character": "龙",
+    "pinyin": "lóng",
+    "meaning": "dragon",
+    "strokeCount": 16
+  },
+  {
+    "number": 213,
+    "character": "龟",
+    "pinyin": "guī",
+    "meaning": "turtle",
+    "strokeCount": 16
+  },
+  {
+    "number": 214,
+    "character": "龠",
+    "pinyin": "yuè",
+    "meaning": "flute",
+    "strokeCount": 17
+  }
+]

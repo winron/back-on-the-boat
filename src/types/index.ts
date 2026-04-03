@@ -17,6 +17,15 @@ export interface HskWord {
   radical?: string;
 }
 
+// === Radical ===
+export interface Radical {
+  number: number;
+  character: string;
+  pinyin: string;
+  meaning: string;
+  strokeCount: number;
+}
+
 // === Grammar ===
 export interface GrammarPattern {
   id: string;

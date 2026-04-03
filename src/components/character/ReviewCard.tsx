@@ -13,6 +13,7 @@ interface ReviewCardProps {
   onFlip: () => void;
   onRate: (grade: Grade) => void;
   onAudit?: () => void;
+  onRadicalClick?: (radical: string) => void;
 }
 
 const ratingButtons: { grade: Grade; chinese: string; pinyin: string; english: string; color: string }[] = [
@@ -28,6 +29,7 @@ export default function ReviewCard({
   onFlip,
   onRate,
   onAudit,
+  onRadicalClick,
 }: ReviewCardProps) {
   return (
     <div className="space-y-4">
@@ -56,9 +58,15 @@ export default function ReviewCard({
               <PinyinDisplay pinyin={word.pinyin} className="text-xl" />
               <p className="text-lg text-muted-foreground">{word.meaning}</p>
               {word.radical && (
-                <p className="text-xs text-muted-foreground mt-1">
-                  部首: {word.radical}
-                </p>
+                <div className="mt-1" onClick={(e) => e.stopPropagation()}>
+                  <button
+                    onClick={() => onRadicalClick?.(word.radical!)}
+                    className="inline-flex items-center gap-1.5 text-xs bg-indigo-500/20 px-2 py-1 rounded-md hover:bg-indigo-500/30 transition-colors"
+                  >
+                    <span className="text-base text-indigo-400">{word.radical}</span>
+                    <span className="text-indigo-400">部首</span>
+                  </button>
+                </div>
               )}
               {word.exampleSentence && (
                 <div className="mt-4 pt-4 border-t border-border text-left">

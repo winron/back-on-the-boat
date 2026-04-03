@@ -11,6 +11,8 @@ import { useTTS } from "@/hooks/useTTS";
 import ReviewCard from "@/components/character/ReviewCard";
 import AuditModal from "@/components/character/AuditModal";
 import LearnSection from "@/components/character/LearnSection";
+import RadicalPopup from "@/components/radical/RadicalPopup";
+import RadicalList from "@/components/radical/RadicalList";
 import LevelSelector from "@/components/shared/LevelSelector";
 import TrilingualLabel from "@/components/shared/TrilingualLabel";
 import type { HskWord, HskLevel, WordCorrection } from "@/types";
@@ -74,6 +76,8 @@ export default function CharactersPage() {
   const [words, setWords] = useState<HskWord[]>([]);
   const [corrections, setCorrections] = useState<Map<string, WordCorrection>>(new Map());
   const [auditWord, setAuditWord] = useState<HskWord | null>(null);
+  const [radicalPopup, setRadicalPopup] = useState<string | null>(null);
+  const [showRadicalList, setShowRadicalList] = useState(false);
   const review = useReview("characters");
 
   useTTS();
@@ -167,7 +171,15 @@ export default function CharactersPage() {
     <div className="tab-color-2 space-y-6">
       <div className="flex items-center justify-between">
         <TrilingualLabel chinese="汉字" pinyin="hànzì" english="Characters" size="lg" />
-        <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+        <div className="flex items-center gap-2">
+          <button
+            onClick={() => setShowRadicalList(true)}
+            className="px-2.5 py-1.5 bg-indigo-500/20 text-indigo-400 rounded-lg text-sm font-medium hover:bg-indigo-500/30 transition-colors"
+          >
+            部首
+          </button>
+          <LevelSelector currentLevel={level} onSelect={setLevel} unlockedLevel={unlockedLevel} />
+        </div>
       </div>
 
       {/* Mode tabs */}
@@ -233,6 +245,7 @@ export default function CharactersPage() {
                 onFlip={review.flip}
                 onRate={review.rate}
                 onAudit={() => setAuditWord(currentWord)}
+                onRadicalClick={setRadicalPopup}
               />
             </div>
           ) : (
@@ -244,7 +257,7 @@ export default function CharactersPage() {
       )}
 
       {mode === "learn" && (
-        <LearnSection unitGroups={unitGroups} level={level} expandPos={expandPos} onAudit={(word) => setAuditWord(word)} />
+        <LearnSection unitGroups={unitGroups} level={level} expandPos={expandPos} onAudit={(word) => setAuditWord(word)} onRadicalClick={setRadicalPopup} />
       )}
 
       {auditWord && (
@@ -253,6 +266,14 @@ export default function CharactersPage() {
           onClose={() => setAuditWord(null)}
           onSaved={(corr) => handleAuditSaved(auditWord.id, corr)}
         />
+      )}
+
+      {radicalPopup && (
+        <RadicalPopup radicalChar={radicalPopup} onClose={() => setRadicalPopup(null)} />
+      )}
+
+      {showRadicalList && (
+        <RadicalList onClose={() => setShowRadicalList(false)} />
       )}
     </div>
   );
