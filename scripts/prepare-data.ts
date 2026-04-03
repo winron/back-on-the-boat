@@ -14,7 +14,6 @@
 import { writeFileSync, mkdirSync, existsSync } from "fs";
 import { join } from "path";
 import { thematicUnits } from "./thematic-units";
-import { RADICALS } from "./radicals-data";
 
 const OUTPUT_DIR = join(__dirname, "..", "public", "data");
 
@@ -150,7 +149,7 @@ async function prepareVocabulary(): Promise<void> {
           frequency: entry.frequency,
           unitIndex,
           unitName,
-          radical: entry.radical,
+          radical: entry.radical || undefined,
         });
       }
 
@@ -2106,47 +2105,6 @@ function generateSampleDialogues(): void {
   }
 }
 
-async function prepareRadicals(): Promise<void> {
-  try {
-    // Read all vocabulary files to collect example words for each radical
-    const allWords: (OutputWord & { wordId: string })[] = [];
-
-    for (let level = 1; level <= 6; level++) {
-      const vocabPath = join(OUTPUT_DIR, `hsk${level}-vocab.json`);
-      const content = require("fs").readFileSync(vocabPath, "utf-8");
-      const words = JSON.parse(content) as OutputWord[];
-      allWords.push(
-        ...words.map((w) => ({
-          ...w,
-          wordId: w.id,
-        }))
-      );
-    }
-
-    // Build radicals with example words
-    const radicalData = RADICALS.map((radical) => ({
-      ...radical,
-      exampleWords: allWords
-        .filter((w) => w.radical === radical.character)
-        .slice(0, 6) // Limit to 6 example words per radical
-        .map((w) => w.wordId),
-    }));
-
-    writeFileSync(
-      join(OUTPUT_DIR, "radicals.json"),
-      JSON.stringify(radicalData, null, 2)
-    );
-    console.log(`Radicals: ${radicalData.length} radicals with examples`);
-  } catch (err) {
-    console.error("Failed to prepare radicals:", err);
-    // Write empty array as fallback
-    writeFileSync(
-      join(OUTPUT_DIR, "radicals.json"),
-      JSON.stringify([])
-    );
-  }
-}
-
 async function main() {
   if (!existsSync(OUTPUT_DIR)) {
     mkdirSync(OUTPUT_DIR, { recursive: true });
@@ -2155,7 +2113,6 @@ async function main() {
   console.log("Preparing HSK data...\n");
 
   await prepareVocabulary();
-  await prepareRadicals();
   generateSampleGrammar();
   generateSampleSentences();
   generateSampleDialogues();
