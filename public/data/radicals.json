@@ -10,35 +10,35 @@
     "number": 2,
     "character": "丨",
     "pinyin": "shù",
-    "meaning": "line",
+    "meaning": "vertical stroke",
     "strokeCount": 1
   },
   {
     "number": 3,
     "character": "丶",
-    "pinyin": "zhǔ",
-    "meaning": "dot",
+    "pinyin": "diǎn",
+    "meaning": "dot stroke",
     "strokeCount": 1
   },
   {
     "number": 4,
     "character": "丿",
     "pinyin": "piě",
-    "meaning": "slash",
+    "meaning": "left-falling stroke",
     "strokeCount": 1
   },
   {
     "number": 5,
     "character": "乙",
     "pinyin": "yǐ",
-    "meaning": "second",
+    "meaning": "turning stroke",
     "strokeCount": 1
   },
   {
     "number": 6,
     "character": "亅",
     "pinyin": "jué",
-    "meaning": "hook",
+    "meaning": "barbed hook",
     "strokeCount": 1
   },
   {
@@ -52,7 +52,7 @@
     "number": 8,
     "character": "亠",
     "pinyin": "tóu",
-    "meaning": "lid",
+    "meaning": "top lid",
     "strokeCount": 2
   },
   {
@@ -87,7 +87,7 @@
     "number": 13,
     "character": "冂",
     "pinyin": "jiōng",
-    "meaning": "down box",
+    "meaning": "borders",
     "strokeCount": 2
   },
   {
@@ -136,7 +136,7 @@
     "number": 20,
     "character": "勹",
     "pinyin": "bāo",
-    "meaning": "wrap",
+    "meaning": "wrapping",
     "strokeCount": 2
   },
   {
@@ -150,14 +150,14 @@
     "number": 22,
     "character": "匚",
     "pinyin": "fāng",
-    "meaning": "box",
+    "meaning": "open box",
     "strokeCount": 2
   },
   {
     "number": 23,
     "character": "匸",
     "pinyin": "xì",
-    "meaning": "hiding",
+    "meaning": "hiding box",
     "strokeCount": 2
   },
   {
@@ -234,7 +234,7 @@
     "number": 34,
     "character": "夂",
     "pinyin": "zhǐ",
-    "meaning": "go",
+    "meaning": "go/arrive",
     "strokeCount": 3
   },
   {
@@ -297,7 +297,7 @@
     "number": 43,
     "character": "尢",
     "pinyin": "wāng",
-    "meaning": "lame",
+    "meaning": "lame leg",
     "strokeCount": 3
   },
   {
@@ -360,7 +360,7 @@
     "number": 52,
     "character": "幺",
     "pinyin": "yāo",
-    "meaning": "small",
+    "meaning": "tiny/thread",
     "strokeCount": 3
   },
   {
@@ -381,14 +381,14 @@
     "number": 55,
     "character": "廾",
     "pinyin": "gǒng",
-    "meaning": "two hands",
+    "meaning": "joined hands",
     "strokeCount": 3
   },
   {
     "number": 56,
     "character": "弋",
     "pinyin": "yì",
-    "meaning": "shoot",
+    "meaning": "stake/shoot",
     "strokeCount": 3
   },
   {
@@ -402,14 +402,14 @@
     "number": 58,
     "character": "彐",
     "pinyin": "jì",
-    "meaning": "snout",
+    "meaning": "pig snout",
     "strokeCount": 3
   },
   {
     "number": 59,
     "character": "彡",
     "pinyin": "shān",
-    "meaning": "bristle",
+    "meaning": "hair/bristle",
     "strokeCount": 3
   },
   {
@@ -430,7 +430,7 @@
     "number": 62,
     "character": "戈",
     "pinyin": "gē",
-    "meaning": "halberd",
+    "meaning": "weapon (戈)",
     "strokeCount": 4
   },
   {
@@ -458,7 +458,7 @@
     "number": 66,
     "character": "攴",
     "pinyin": "pū",
-    "meaning": "rap",
+    "meaning": "strike/tap",
     "strokeCount": 4
   },
   {
@@ -549,7 +549,7 @@
     "number": 79,
     "character": "殳",
     "pinyin": "shū",
-    "meaning": "weapon",
+    "meaning": "lance",
     "strokeCount": 4
   },
   {
@@ -584,7 +584,7 @@
     "number": 84,
     "character": "气",
     "pinyin": "qì",
-    "meaning": "steam",
+    "meaning": "air/breath",
     "strokeCount": 4
   },
   {
@@ -619,7 +619,7 @@
     "number": 89,
     "character": "爻",
     "pinyin": "yáo",
-    "meaning": "lines",
+    "meaning": "divination lines",
     "strokeCount": 4
   },
   {
@@ -640,7 +640,7 @@
     "number": 92,
     "character": "牙",
     "pinyin": "yá",
-    "meaning": "fang",
+    "meaning": "tooth",
     "strokeCount": 4
   },
   {
@@ -661,7 +661,7 @@
     "number": 95,
     "character": "玄",
     "pinyin": "xuán",
-    "meaning": "dark",
+    "meaning": "mysterious",
     "strokeCount": 5
   },
   {
@@ -723,7 +723,7 @@
   {
     "number": 104,
     "character": "疒",
-    "pinyin": "nè",
+    "pinyin": "chuáng",
     "meaning": "sickness",
     "strokeCount": 5
   },
@@ -787,14 +787,14 @@
     "number": 113,
     "character": "示",
     "pinyin": "shì",
-    "meaning": "spirit",
+    "meaning": "altar/spirit",
     "strokeCount": 5
   },
   {
     "number": 114,
     "character": "禸",
     "pinyin": "róu",
-    "meaning": "track",
+    "meaning": "animal track",
     "strokeCount": 5
   },
   {
@@ -899,7 +899,7 @@
     "number": 129,
     "character": "聿",
     "pinyin": "yù",
-    "meaning": "brush",
+    "meaning": "writing brush",
     "strokeCount": 6
   },
   {
@@ -934,7 +934,7 @@
     "number": 134,
     "character": "臼",
     "pinyin": "jiù",
-    "meaning": "mortar",
+    "meaning": "mortar/pestle",
     "strokeCount": 6
   },
   {
@@ -948,7 +948,7 @@
     "number": 136,
     "character": "舛",
     "pinyin": "chuǎn",
-    "meaning": "oppose",
+    "meaning": "contrary",
     "strokeCount": 6
   },
   {
@@ -962,7 +962,7 @@
     "number": 138,
     "character": "艮",
     "pinyin": "gèn",
-    "meaning": "stopping",
+    "meaning": "boundary",
     "strokeCount": 6
   },
   {
@@ -977,13 +977,13 @@
     "character": "艹",
     "pinyin": "cǎo",
     "meaning": "grass",
-    "strokeCount": 6
+    "strokeCount": 3
   },
   {
     "number": 141,
     "character": "虍",
     "pinyin": "hū",
-    "meaning": "tiger",
+    "meaning": "tiger stripes",
     "strokeCount": 6
   },
   {
@@ -1018,7 +1018,7 @@
     "number": 146,
     "character": "襾",
     "pinyin": "yà",
-    "meaning": "west",
+    "meaning": "cover (west)",
     "strokeCount": 6
   },
   {
@@ -1026,7 +1026,7 @@
     "character": "见",
     "pinyin": "jiàn",
     "meaning": "see",
-    "strokeCount": 7
+    "strokeCount": 4
   },
   {
     "number": 148,
@@ -1067,15 +1067,15 @@
     "number": 153,
     "character": "豸",
     "pinyin": "zhì",
-    "meaning": "badger",
+    "meaning": "cat-like animal",
     "strokeCount": 7
   },
   {
     "number": 154,
     "character": "贝",
     "pinyin": "bèi",
-    "meaning": "shell",
-    "strokeCount": 7
+    "meaning": "shell/money",
+    "strokeCount": 4
   },
   {
     "number": 155,
@@ -1110,7 +1110,7 @@
     "character": "车",
     "pinyin": "chē",
     "meaning": "cart",
-    "strokeCount": 7
+    "strokeCount": 4
   },
   {
     "number": 160,
@@ -1130,7 +1130,7 @@
     "number": 162,
     "character": "辶",
     "pinyin": "chuò",
-    "meaning": "walk",
+    "meaning": "walking (辶)",
     "strokeCount": 7
   },
   {
@@ -1151,7 +1151,7 @@
     "number": 165,
     "character": "釆",
     "pinyin": "biàn",
-    "meaning": "distinguish",
+    "meaning": "to distinguish",
     "strokeCount": 7
   },
   {
@@ -1173,14 +1173,14 @@
     "character": "长",
     "pinyin": "cháng",
     "meaning": "long",
-    "strokeCount": 8
+    "strokeCount": 4
   },
   {
     "number": 169,
     "character": "门",
     "pinyin": "mén",
     "meaning": "gate",
-    "strokeCount": 8
+    "strokeCount": 3
   },
   {
     "number": 170,
@@ -1193,7 +1193,7 @@
     "number": 171,
     "character": "隶",
     "pinyin": "lì",
-    "meaning": "slave",
+    "meaning": "servant",
     "strokeCount": 8
   },
   {
@@ -1243,7 +1243,7 @@
     "character": "韦",
     "pinyin": "wéi",
     "meaning": "tanned leather",
-    "strokeCount": 9
+    "strokeCount": 4
   },
   {
     "number": 179,
@@ -1263,22 +1263,22 @@
     "number": 181,
     "character": "页",
     "pinyin": "yè",
-    "meaning": "leaf",
-    "strokeCount": 9
+    "meaning": "page/head",
+    "strokeCount": 6
   },
   {
     "number": 182,
     "character": "风",
     "pinyin": "fēng",
     "meaning": "wind",
-    "strokeCount": 9
+    "strokeCount": 4
   },
   {
     "number": 183,
     "character": "飞",
     "pinyin": "fēi",
     "meaning": "fly",
-    "strokeCount": 9
+    "strokeCount": 3
   },
   {
     "number": 184,
@@ -1306,7 +1306,7 @@
     "character": "马",
     "pinyin": "mǎ",
     "meaning": "horse",
-    "strokeCount": 10
+    "strokeCount": 3
   },
   {
     "number": 188,
@@ -1326,7 +1326,7 @@
     "number": 190,
     "character": "髟",
     "pinyin": "biāo",
-    "meaning": "hair",
+    "meaning": "long hair",
     "strokeCount": 10
   },
   {
@@ -1340,14 +1340,14 @@
     "number": 192,
     "character": "鬯",
     "pinyin": "chàng",
-    "meaning": "sacrificial wine",
+    "meaning": "ritual wine",
     "strokeCount": 10
   },
   {
     "number": 193,
     "character": "鬲",
     "pinyin": "lì",
-    "meaning": "cauldron",
+    "meaning": "tripod vessel",
     "strokeCount": 10
   },
   {
@@ -1362,21 +1362,21 @@
     "character": "鱼",
     "pinyin": "yú",
     "meaning": "fish",
-    "strokeCount": 11
+    "strokeCount": 8
   },
   {
     "number": 196,
     "character": "鸟",
     "pinyin": "niǎo",
     "meaning": "bird",
-    "strokeCount": 11
+    "strokeCount": 5
   },
   {
     "number": 197,
     "character": "卤",
     "pinyin": "lǔ",
-    "meaning": "salt",
-    "strokeCount": 11
+    "meaning": "salt/brine",
+    "strokeCount": 7
   },
   {
     "number": 198,
@@ -1390,7 +1390,7 @@
     "character": "麦",
     "pinyin": "mài",
     "meaning": "wheat",
-    "strokeCount": 11
+    "strokeCount": 7
   },
   {
     "number": 200,
@@ -1438,7 +1438,7 @@
     "number": 206,
     "character": "鼎",
     "pinyin": "dǐng",
-    "meaning": "tripod",
+    "meaning": "tripod cauldron",
     "strokeCount": 13
   },
   {
@@ -1467,28 +1467,28 @@
     "character": "齐",
     "pinyin": "qí",
     "meaning": "even",
-    "strokeCount": 14
+    "strokeCount": 6
   },
   {
     "number": 211,
     "character": "齿",
     "pinyin": "chǐ",
     "meaning": "tooth",
-    "strokeCount": 15
+    "strokeCount": 8
   },
   {
     "number": 212,
     "character": "龙",
     "pinyin": "lóng",
     "meaning": "dragon",
-    "strokeCount": 16
+    "strokeCount": 5
   },
   {
     "number": 213,
     "character": "龟",
     "pinyin": "guī",
     "meaning": "turtle",
-    "strokeCount": 16
+    "strokeCount": 7
   },
   {
     "number": 214,

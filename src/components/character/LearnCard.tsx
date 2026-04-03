@@ -206,7 +206,7 @@ export default function LearnCard({ word, revealed, onToggle, expandPos, onAudit
 
               {word.radical && (
                 <button
-                  onClick={() => onRadicalClick?.(word.radical!)}
+                  onClick={(e) => { e.stopPropagation(); onRadicalClick?.(word.radical!); }}
                   className="flex items-center gap-2 text-sm bg-indigo-500/20 px-2.5 py-1.5 rounded-lg hover:bg-indigo-500/30 transition-colors cursor-pointer"
                 >
                   <span className="text-lg text-indigo-400">{word.radical}</span>
