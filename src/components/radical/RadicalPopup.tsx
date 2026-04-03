@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import { loadRadicals } from "@/lib/data-loader";
+import AudioButton from "@/components/shared/AudioButton";
 import type { Radical } from "@/types";
 
 interface RadicalPopupProps {
@@ -19,6 +20,17 @@ export default function RadicalPopup({ radicalChar, onClose }: RadicalPopupProps
       setRadical(match ?? null);
     });
   }, [radicalChar]);
+
+  // Lock background scroll while popup is open
+  useEffect(() => {
+    const main = document.querySelector("main");
+    if (main) main.style.overflow = "hidden";
+    document.body.style.overflow = "hidden";
+    return () => {
+      if (main) main.style.overflow = "";
+      document.body.style.overflow = "";
+    };
+  }, []);
 
   const handleClose = () => {
     setIsClosing(true);
@@ -42,6 +54,9 @@ export default function RadicalPopup({ radicalChar, onClose }: RadicalPopupProps
             <p className="text-xs text-muted-foreground">
               {radical.strokeCount} stroke{radical.strokeCount !== 1 ? "s" : ""}
             </p>
+            <div className="flex justify-center pt-1">
+              <AudioButton text={radical.character} />
+            </div>
           </>
         ) : (
           <p className="text-sm text-muted-foreground">{radicalChar}</p>

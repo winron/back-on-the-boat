@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { loadRadicals } from "@/lib/data-loader";
 import { useDisplaySettings } from "@/hooks/useDisplaySettings";
+import RadicalPopup from "@/components/radical/RadicalPopup";
 import type { Radical } from "@/types";
 
 interface RadicalListProps {
@@ -11,7 +12,7 @@ interface RadicalListProps {
 
 export default function RadicalList({ onClose }: RadicalListProps) {
   const [radicals, setRadicals] = useState<Radical[]>([]);
-  const [selected, setSelected] = useState<Radical | null>(null);
+  const [popupRadical, setPopupRadical] = useState<string | null>(null);
   const { showPinyin, showEnglish } = useDisplaySettings();
 
   useEffect(() => {
@@ -51,12 +52,8 @@ export default function RadicalList({ onClose }: RadicalListProps) {
               {grouped[count].map((r) => (
                 <button
                   key={r.number}
-                  onClick={() => setSelected(selected?.number === r.number ? null : r)}
-                  className={`flex flex-col items-center py-2 rounded-lg transition-colors ${
-                    selected?.number === r.number
-                      ? "bg-indigo-500/30 border border-indigo-500"
-                      : "bg-card border border-border"
-                  }`}
+                  onClick={() => setPopupRadical(r.character)}
+                  className="flex flex-col items-center py-2 rounded-lg transition-colors bg-card border border-border active:bg-indigo-500/20"
                 >
                   <span className="text-2xl">{r.character}</span>
                   {showPinyin && (
@@ -72,19 +69,8 @@ export default function RadicalList({ onClose }: RadicalListProps) {
         ))}
       </div>
 
-      {/* Detail bar at bottom when a radical is selected */}
-      {selected && (
-        <div className="border-t border-border px-4 py-3 bg-card flex items-center gap-4">
-          <span className="text-4xl">{selected.character}</span>
-          <div className="flex-1 min-w-0">
-            <p className="text-base text-indigo-400">{selected.pinyin}</p>
-            <p className="text-sm text-muted-foreground">{selected.meaning}</p>
-          </div>
-          <div className="text-xs text-muted-foreground text-right shrink-0">
-            <p>#{selected.number}</p>
-            <p>{selected.strokeCount} stroke{selected.strokeCount !== 1 ? "s" : ""}</p>
-          </div>
-        </div>
+      {popupRadical && (
+        <RadicalPopup radicalChar={popupRadical} onClose={() => setPopupRadical(null)} />
       )}
     </div>
   );

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useMemo } from "react";
 import { useHskLevel } from "@/hooks/useHskLevel";
 import { useUnlockedLevel } from "@/hooks/useUnlockedLevel";
 import { useReview, createNewSrsCard } from "@/hooks/useReview";
@@ -154,7 +154,7 @@ export default function CharactersPage() {
   );
 
   // Group words by unit for learn mode — apply corrections so learn view matches review view
-  const unitGroups = words.reduce<
+  const unitGroups = useMemo(() => words.reduce<
     { name: string; unitIndex: number; words: HskWord[] }[]
   >((acc, word) => {
     const correctedWord = applyCorrection(word, corrections.get(word.id));
@@ -165,7 +165,7 @@ export default function CharactersPage() {
       acc.push({ name: correctedWord.unitName, unitIndex: correctedWord.unitIndex, words: [correctedWord] });
     }
     return acc;
-  }, []);
+  }, []), [words, corrections]);
 
   return (
     <div className="tab-color-2 space-y-6">
