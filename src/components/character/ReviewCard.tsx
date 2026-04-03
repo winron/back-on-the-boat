@@ -55,11 +55,6 @@ export default function ReviewCard({
             <div className="space-y-3">
               <PinyinDisplay pinyin={word.pinyin} className="text-xl" />
               <p className="text-lg text-muted-foreground">{word.meaning}</p>
-              {word.radical && (
-                <p className="text-xs text-muted-foreground mt-1">
-                  部首: {word.radical}
-                </p>
-              )}
               {word.exampleSentence && (
                 <div className="mt-4 pt-4 border-t border-border text-left">
                   <p className="text-base">{word.exampleSentence}</p>

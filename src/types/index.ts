@@ -14,18 +14,6 @@ export interface HskWord {
   exampleSentence?: string;
   examplePinyin?: string;
   exampleMeaning?: string;
-  radical?: string;
-}
-
-// === Radical ===
-export interface Radical {
-  number: number;
-  character: string;
-  pinyin: string;
-  meaning: string;
-  strokeCount: number;
-  variants?: string[];
-  exampleWords?: string[];
 }
 
 // === Grammar ===

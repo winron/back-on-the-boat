@@ -4,7 +4,6 @@ import type {
   SentenceExercise,
   Dialogue,
   ReadingPassage,
-  Radical,
   HskLevel,
 } from "@/types";
 
@@ -39,8 +38,4 @@ export async function loadDialogues(level: HskLevel): Promise<Dialogue[]> {
 
 export async function loadReadings(level: HskLevel): Promise<ReadingPassage[]> {
   return loadJson<ReadingPassage[]>(`/data/hsk${level}-readings.json`);
-}
-
-export async function loadRadicals(): Promise<Radical[]> {
-  return loadJson<Radical[]>("/data/radicals.json");
 }

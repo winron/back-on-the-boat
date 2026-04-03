@@ -203,14 +203,6 @@ export default function LearnCard({ word, revealed, onToggle, expandPos, onAudit
                 <p className="text-sm text-foreground">{word.meaning}</p>
               </div>
 
-              {/* Radical display */}
-              {word.radical && (
-                <div className="flex items-center gap-2 text-sm bg-indigo-500/20 px-2.5 py-1.5 rounded-lg">
-                  <span className="text-lg text-indigo-400">{word.radical}</span>
-                  <span className="text-indigo-400 text-xs">radical</span>
-                </div>
-              )}
-
               {/* Stroke order box — centered */}
               <StrokeOrder
                 ref={strokeRef}
