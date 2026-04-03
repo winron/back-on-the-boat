@@ -1496,5 +1496,317 @@
     "pinyin": "yuè",
     "meaning": "flute",
     "strokeCount": 17
+  },
+  {
+    "number": 5,
+    "character": "乚",
+    "pinyin": "yǐ",
+    "meaning": "turning stroke",
+    "strokeCount": 1,
+    "variantOf": "乙"
+  },
+  {
+    "number": 5,
+    "character": "乛",
+    "pinyin": "yǐ",
+    "meaning": "bending stroke",
+    "strokeCount": 1,
+    "variantOf": "乙"
+  },
+  {
+    "number": 8,
+    "character": "⺀",
+    "pinyin": "tóu",
+    "meaning": "lid (variant)",
+    "strokeCount": 2,
+    "variantOf": "亠"
+  },
+  {
+    "number": 9,
+    "character": "亻",
+    "pinyin": "rén",
+    "meaning": "person (side)",
+    "strokeCount": 2,
+    "variantOf": "人"
+  },
+  {
+    "number": 12,
+    "character": "丷",
+    "pinyin": "bā",
+    "meaning": "eight (top)",
+    "strokeCount": 2,
+    "variantOf": "八"
+  },
+  {
+    "number": 18,
+    "character": "刂",
+    "pinyin": "dāo",
+    "meaning": "knife (side)",
+    "strokeCount": 2,
+    "variantOf": "刀"
+  },
+  {
+    "number": 25,
+    "character": "⺊",
+    "pinyin": "bǔ",
+    "meaning": "divination (variant)",
+    "strokeCount": 2,
+    "variantOf": "卜"
+  },
+  {
+    "number": 26,
+    "character": "㔾",
+    "pinyin": "jié",
+    "meaning": "seal (variant)",
+    "strokeCount": 2,
+    "variantOf": "卩"
+  },
+  {
+    "number": 42,
+    "character": "⺌",
+    "pinyin": "xiǎo",
+    "meaning": "small (top)",
+    "strokeCount": 3,
+    "variantOf": "小"
+  },
+  {
+    "number": 47,
+    "character": "川",
+    "pinyin": "chuān",
+    "meaning": "river",
+    "strokeCount": 3,
+    "variantOf": "巛"
+  },
+  {
+    "number": 49,
+    "character": "巳",
+    "pinyin": "sì",
+    "meaning": "6th earthly branch",
+    "strokeCount": 3,
+    "variantOf": "己"
+  },
+  {
+    "number": 61,
+    "character": "忄",
+    "pinyin": "xīn",
+    "meaning": "heart (side)",
+    "strokeCount": 4,
+    "variantOf": "心"
+  },
+  {
+    "number": 61,
+    "character": "⺗",
+    "pinyin": "xīn",
+    "meaning": "heart (bottom)",
+    "strokeCount": 4,
+    "variantOf": "心"
+  },
+  {
+    "number": 64,
+    "character": "扌",
+    "pinyin": "shǒu",
+    "meaning": "hand (side)",
+    "strokeCount": 4,
+    "variantOf": "手"
+  },
+  {
+    "number": 66,
+    "character": "攵",
+    "pinyin": "pū",
+    "meaning": "strike (side)",
+    "strokeCount": 4,
+    "variantOf": "攴"
+  },
+  {
+    "number": 71,
+    "character": "旡",
+    "pinyin": "jì",
+    "meaning": "without",
+    "strokeCount": 4,
+    "variantOf": "无"
+  },
+  {
+    "number": 80,
+    "character": "母",
+    "pinyin": "mǔ",
+    "meaning": "mother",
+    "strokeCount": 4,
+    "variantOf": "毋"
+  },
+  {
+    "number": 83,
+    "character": "民",
+    "pinyin": "mín",
+    "meaning": "people",
+    "strokeCount": 4,
+    "variantOf": "氏"
+  },
+  {
+    "number": 85,
+    "character": "氵",
+    "pinyin": "shuǐ",
+    "meaning": "water (side)",
+    "strokeCount": 4,
+    "variantOf": "水"
+  },
+  {
+    "number": 85,
+    "character": "氺",
+    "pinyin": "shuǐ",
+    "meaning": "water (bottom)",
+    "strokeCount": 4,
+    "variantOf": "水"
+  },
+  {
+    "number": 86,
+    "character": "灬",
+    "pinyin": "huǒ",
+    "meaning": "fire (dots)",
+    "strokeCount": 4,
+    "variantOf": "火"
+  },
+  {
+    "number": 87,
+    "character": "爫",
+    "pinyin": "zhǎo",
+    "meaning": "claw (top)",
+    "strokeCount": 4,
+    "variantOf": "爪"
+  },
+  {
+    "number": 90,
+    "character": "丬",
+    "pinyin": "pán",
+    "meaning": "split wood (side)",
+    "strokeCount": 4,
+    "variantOf": "爿"
+  },
+  {
+    "number": 94,
+    "character": "犭",
+    "pinyin": "quǎn",
+    "meaning": "dog (side)",
+    "strokeCount": 4,
+    "variantOf": "犬"
+  },
+  {
+    "number": 96,
+    "character": "王",
+    "pinyin": "wáng",
+    "meaning": "jade (side form 王)",
+    "strokeCount": 5,
+    "variantOf": "玉"
+  },
+  {
+    "number": 113,
+    "character": "礻",
+    "pinyin": "shì",
+    "meaning": "spirit (side)",
+    "strokeCount": 5,
+    "variantOf": "示"
+  },
+  {
+    "number": 118,
+    "character": "⺮",
+    "pinyin": "zhú",
+    "meaning": "bamboo (top)",
+    "strokeCount": 6,
+    "variantOf": "竹"
+  },
+  {
+    "number": 120,
+    "character": "纟",
+    "pinyin": "sī",
+    "meaning": "silk (simplified)",
+    "strokeCount": 6,
+    "variantOf": "糸"
+  },
+  {
+    "number": 122,
+    "character": "罒",
+    "pinyin": "wǎng",
+    "meaning": "net (top)",
+    "strokeCount": 6,
+    "variantOf": "网"
+  },
+  {
+    "number": 125,
+    "character": "耂",
+    "pinyin": "lǎo",
+    "meaning": "old (top)",
+    "strokeCount": 6,
+    "variantOf": "老"
+  },
+  {
+    "number": 130,
+    "character": "⺼",
+    "pinyin": "ròu",
+    "meaning": "meat (side)",
+    "strokeCount": 6,
+    "variantOf": "肉"
+  },
+  {
+    "number": 140,
+    "character": "⺳",
+    "pinyin": "cǎo",
+    "meaning": "grass (variant)",
+    "strokeCount": 3,
+    "variantOf": "艹"
+  },
+  {
+    "number": 145,
+    "character": "衤",
+    "pinyin": "yī",
+    "meaning": "clothes (side)",
+    "strokeCount": 6,
+    "variantOf": "衣"
+  },
+  {
+    "number": 146,
+    "character": "西",
+    "pinyin": "xī",
+    "meaning": "west",
+    "strokeCount": 6,
+    "variantOf": "襾"
+  },
+  {
+    "number": 146,
+    "character": "覀",
+    "pinyin": "xī",
+    "meaning": "west (top)",
+    "strokeCount": 6,
+    "variantOf": "襾"
+  },
+  {
+    "number": 149,
+    "character": "讠",
+    "pinyin": "yán",
+    "meaning": "speech (simplified)",
+    "strokeCount": 7,
+    "variantOf": "言"
+  },
+  {
+    "number": 167,
+    "character": "钅",
+    "pinyin": "jīn",
+    "meaning": "metal (simplified)",
+    "strokeCount": 8,
+    "variantOf": "金"
+  },
+  {
+    "number": 170,
+    "character": "阝",
+    "pinyin": "fù",
+    "meaning": "mound/city (ear)",
+    "strokeCount": 8,
+    "variantOf": "阜"
+  },
+  {
+    "number": 184,
+    "character": "饣",
+    "pinyin": "shí",
+    "meaning": "food (simplified)",
+    "strokeCount": 9,
+    "variantOf": "食"
   }
 ]

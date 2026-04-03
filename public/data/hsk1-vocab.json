@@ -45,7 +45,7 @@
     "frequency": 5,
     "unitIndex": 1,
     "unitName": "Greetings & Basics",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk1-005",
@@ -69,7 +69,7 @@
     "frequency": 10,
     "unitIndex": 1,
     "unitName": "Greetings & Basics",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk1-007",
@@ -141,7 +141,7 @@
     "frequency": 48,
     "unitIndex": 1,
     "unitName": "Greetings & Basics",
-    "radical": "邑"
+    "radical": "阝"
   },
   {
     "id": "hsk1-013",
@@ -177,7 +177,7 @@
     "frequency": 216,
     "unitIndex": 2,
     "unitName": "Polite Expressions",
-    "radical": "言"
+    "radical": "讠"
   },
   {
     "id": "hsk1-016",
@@ -189,7 +189,7 @@
     "frequency": 520,
     "unitIndex": 2,
     "unitName": "Polite Expressions",
-    "radical": "言"
+    "radical": "讠"
   },
   {
     "id": "hsk1-017",
@@ -213,7 +213,7 @@
     "frequency": 3541,
     "unitIndex": 2,
     "unitName": "Polite Expressions",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk1-019",
@@ -237,7 +237,7 @@
     "frequency": 55,
     "unitIndex": 3,
     "unitName": "Introductions & Names",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk1-021",
@@ -273,7 +273,7 @@
     "frequency": 142,
     "unitIndex": 3,
     "unitName": "Introductions & Names",
-    "radical": "言"
+    "radical": "讠"
   },
   {
     "id": "hsk1-024",
@@ -297,7 +297,7 @@
     "frequency": 463,
     "unitIndex": 3,
     "unitName": "Introductions & Names",
-    "radical": "言"
+    "radical": "讠"
   },
   {
     "id": "hsk1-026",
@@ -669,7 +669,7 @@
     "frequency": 58,
     "unitIndex": 7,
     "unitName": "Time & Dates",
-    "radical": "火"
+    "radical": "灬"
   },
   {
     "id": "hsk1-057",
@@ -681,7 +681,7 @@
     "frequency": 77,
     "unitIndex": 7,
     "unitName": "Time & Dates",
-    "radical": "玉"
+    "radical": "王"
   },
   {
     "id": "hsk1-058",
@@ -873,7 +873,7 @@
     "frequency": 53,
     "unitIndex": 8,
     "unitName": "Actions",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk1-074",
@@ -945,7 +945,7 @@
     "frequency": 240,
     "unitIndex": 8,
     "unitName": "Actions",
-    "radical": "乙"
+    "radical": "大"
   },
   {
     "id": "hsk1-080",
@@ -957,7 +957,7 @@
     "frequency": 280,
     "unitIndex": 8,
     "unitName": "Actions",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk1-081",
@@ -1029,7 +1029,7 @@
     "frequency": 880,
     "unitIndex": 8,
     "unitName": "Actions",
-    "radical": "言"
+    "radical": "讠"
   },
   {
     "id": "hsk1-087",
@@ -1053,7 +1053,7 @@
     "frequency": 1013,
     "unitIndex": 8,
     "unitName": "Actions",
-    "radical": "言"
+    "radical": "讠"
   },
   {
     "id": "hsk1-089",
@@ -1065,7 +1065,7 @@
     "frequency": 1218,
     "unitIndex": 8,
     "unitName": "Actions",
-    "radical": "手"
+    "radical": "扌"
   },
   {
     "id": "hsk1-090",
@@ -1125,7 +1125,7 @@
     "frequency": 46,
     "unitIndex": 9,
     "unitName": "Mental & Modal Verbs",
-    "radical": "肉"
+    "radical": "⺼"
   },
   {
     "id": "hsk1-095",
@@ -1137,7 +1137,7 @@
     "frequency": 63,
     "unitIndex": 9,
     "unitName": "Mental & Modal Verbs",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk1-096",
@@ -1149,7 +1149,7 @@
     "frequency": 130,
     "unitIndex": 9,
     "unitName": "Mental & Modal Verbs",
-    "radical": "爪"
+    "radical": "爫"
   },
   {
     "id": "hsk1-097",
@@ -1269,7 +1269,7 @@
     "frequency": 16449,
     "unitIndex": 10,
     "unitName": "Food & Drink",
-    "radical": "食"
+    "radical": "饣"
   },
   {
     "id": "hsk1-107",
@@ -1281,7 +1281,7 @@
     "frequency": 25,
     "unitIndex": 11,
     "unitName": "Descriptions",
-    "radical": "邑"
+    "radical": "阝"
   },
   {
     "id": "hsk1-108",
@@ -1365,7 +1365,7 @@
     "frequency": 915,
     "unitIndex": 11,
     "unitName": "Descriptions",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk1-115",
@@ -1389,7 +1389,7 @@
     "frequency": 938,
     "unitIndex": 11,
     "unitName": "Descriptions",
-    "radical": "火"
+    "radical": "灬"
   },
   {
     "id": "hsk1-117",
@@ -1485,7 +1485,7 @@
     "frequency": 218,
     "unitIndex": 13,
     "unitName": "Things & Objects",
-    "radical": "金"
+    "radical": "钅"
   },
   {
     "id": "hsk1-125",
@@ -1521,7 +1521,7 @@
     "frequency": 546,
     "unitIndex": 13,
     "unitName": "Things & Objects",
-    "radical": "田"
+    "radical": "曰"
   },
   {
     "id": "hsk1-128",
@@ -1533,7 +1533,7 @@
     "frequency": 560,
     "unitIndex": 13,
     "unitName": "Things & Objects",
-    "radical": "乙"
+    "radical": "丨"
   },
   {
     "id": "hsk1-129",
@@ -1545,7 +1545,7 @@
     "frequency": 779,
     "unitIndex": 13,
     "unitName": "Things & Objects",
-    "radical": "田"
+    "radical": "曰"
   },
   {
     "id": "hsk1-130",
@@ -1569,7 +1569,7 @@
     "frequency": 946,
     "unitIndex": 13,
     "unitName": "Things & Objects",
-    "radical": "田"
+    "radical": "曰"
   },
   {
     "id": "hsk1-132",
@@ -1617,7 +1617,7 @@
     "frequency": 13422,
     "unitIndex": 13,
     "unitName": "Things & Objects",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk1-136",
@@ -1725,7 +1725,7 @@
     "frequency": 1789,
     "unitIndex": 14,
     "unitName": "Position & Location",
-    "radical": "刀"
+    "radical": "刂"
   },
   {
     "id": "hsk1-145",
@@ -1737,7 +1737,7 @@
     "frequency": 620,
     "unitIndex": 15,
     "unitName": "Weather & Transport",
-    "radical": "犬"
+    "radical": "犭"
   },
   {
     "id": "hsk1-146",
@@ -1761,7 +1761,7 @@
     "frequency": 1150,
     "unitIndex": 15,
     "unitName": "Weather & Transport",
-    "radical": "犬"
+    "radical": "犭"
   },
   {
     "id": "hsk1-148",

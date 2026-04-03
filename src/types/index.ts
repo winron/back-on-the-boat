@@ -24,6 +24,7 @@ export interface Radical {
   pinyin: string;
   meaning: string;
   strokeCount: number;
+  variantOf?: string;
 }
 
 export interface RadicalCorrection {

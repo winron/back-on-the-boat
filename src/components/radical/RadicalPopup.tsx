@@ -124,6 +124,7 @@ export default function RadicalPopup({ radicalChar, onClose }: RadicalPopupProps
               <p className="text-base text-muted-foreground">{displayMeaning}</p>
               <p className="text-xs text-muted-foreground">
                 {radical.strokeCount} stroke{radical.strokeCount !== 1 ? "s" : ""}
+                {radical.variantOf && ` · variant of ${radical.variantOf}`}
               </p>
               <div className="flex justify-center gap-3 pt-1">
                 <AudioButton text={radical.character} />

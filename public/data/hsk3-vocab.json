@@ -9,7 +9,7 @@
     "frequency": 397,
     "unitIndex": 1,
     "unitName": "Family & Relationships",
-    "radical": "刀"
+    "radical": "刂"
   },
   {
     "id": "hsk3-002",
@@ -69,7 +69,7 @@
     "frequency": 3360,
     "unitIndex": 1,
     "unitName": "Family & Relationships",
-    "radical": "邑"
+    "radical": "阝"
   },
   {
     "id": "hsk3-007",
@@ -105,7 +105,7 @@
     "frequency": 4355,
     "unitIndex": 1,
     "unitName": "Family & Relationships",
-    "radical": "阜"
+    "radical": "阝"
   },
   {
     "id": "hsk3-010",
@@ -117,7 +117,7 @@
     "frequency": 629,
     "unitIndex": 2,
     "unitName": "Body & Appearance",
-    "radical": "肉"
+    "radical": "⺼"
   },
   {
     "id": "hsk3-011",
@@ -141,7 +141,7 @@
     "frequency": 1024,
     "unitIndex": 2,
     "unitName": "Body & Appearance",
-    "radical": "肉"
+    "radical": "⺼"
   },
   {
     "id": "hsk3-013",
@@ -165,7 +165,7 @@
     "frequency": 1216,
     "unitIndex": 2,
     "unitName": "Body & Appearance",
-    "radical": "肉"
+    "radical": "⺼"
   },
   {
     "id": "hsk3-015",
@@ -189,7 +189,7 @@
     "frequency": 2396,
     "unitIndex": 2,
     "unitName": "Body & Appearance",
-    "radical": "肉"
+    "radical": "⺼"
   },
   {
     "id": "hsk3-017",
@@ -249,7 +249,7 @@
     "frequency": 277,
     "unitIndex": 3,
     "unitName": "Health & Feelings",
-    "radical": "手"
+    "radical": "扌"
   },
   {
     "id": "hsk3-022",
@@ -273,7 +273,7 @@
     "frequency": 952,
     "unitIndex": 3,
     "unitName": "Health & Feelings",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk3-024",
@@ -285,7 +285,7 @@
     "frequency": 1477,
     "unitIndex": 3,
     "unitName": "Health & Feelings",
-    "radical": "食"
+    "radical": "饣"
   },
   {
     "id": "hsk3-025",
@@ -345,7 +345,7 @@
     "frequency": 2714,
     "unitIndex": 3,
     "unitName": "Health & Feelings",
-    "radical": "隹"
+    "radical": "又"
   },
   {
     "id": "hsk3-030",
@@ -381,7 +381,7 @@
     "frequency": 4742,
     "unitIndex": 3,
     "unitName": "Health & Feelings",
-    "radical": "食"
+    "radical": "饣"
   },
   {
     "id": "hsk3-033",
@@ -405,7 +405,7 @@
     "frequency": 9442,
     "unitIndex": 3,
     "unitName": "Health & Feelings",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk3-035",
@@ -585,7 +585,7 @@
     "frequency": 10486,
     "unitIndex": 4,
     "unitName": "Food & Kitchen",
-    "radical": "竹"
+    "radical": "⺮"
   },
   {
     "id": "hsk3-050",
@@ -597,7 +597,7 @@
     "frequency": 419,
     "unitIndex": 5,
     "unitName": "Clothing & Objects",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk3-051",
@@ -657,7 +657,7 @@
     "frequency": 3765,
     "unitIndex": 5,
     "unitName": "Clothing & Objects",
-    "radical": "衣"
+    "radical": "衤"
   },
   {
     "id": "hsk3-056",
@@ -693,7 +693,7 @@
     "frequency": 4988,
     "unitIndex": 5,
     "unitName": "Clothing & Objects",
-    "radical": "衣"
+    "radical": "衤"
   },
   {
     "id": "hsk3-059",
@@ -705,7 +705,7 @@
     "frequency": 5466,
     "unitIndex": 5,
     "unitName": "Clothing & Objects",
-    "radical": "衣"
+    "radical": "衤"
   },
   {
     "id": "hsk3-060",
@@ -729,7 +729,7 @@
     "frequency": 9108,
     "unitIndex": 5,
     "unitName": "Clothing & Objects",
-    "radical": "金"
+    "radical": "钅"
   },
   {
     "id": "hsk3-062",
@@ -741,7 +741,7 @@
     "frequency": 10452,
     "unitIndex": 5,
     "unitName": "Clothing & Objects",
-    "radical": "火"
+    "radical": "灬"
   },
   {
     "id": "hsk3-063",
@@ -813,7 +813,7 @@
     "frequency": 769,
     "unitIndex": 6,
     "unitName": "Places & Directions",
-    "radical": "金"
+    "radical": "钅"
   },
   {
     "id": "hsk3-069",
@@ -825,7 +825,7 @@
     "frequency": 958,
     "unitIndex": 6,
     "unitName": "Places & Directions",
-    "radical": "襾"
+    "radical": "西"
   },
   {
     "id": "hsk3-070",
@@ -837,7 +837,7 @@
     "frequency": 1020,
     "unitIndex": 6,
     "unitName": "Places & Directions",
-    "radical": "阜"
+    "radical": "阝"
   },
   {
     "id": "hsk3-071",
@@ -1017,7 +1017,7 @@
     "frequency": 9674,
     "unitIndex": 6,
     "unitName": "Places & Directions",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk3-086",
@@ -1053,7 +1053,7 @@
     "frequency": 1171,
     "unitIndex": 7,
     "unitName": "Nature & Environment",
-    "radical": "玉"
+    "radical": "王"
   },
   {
     "id": "hsk3-089",
@@ -1113,7 +1113,7 @@
     "frequency": 2245,
     "unitIndex": 7,
     "unitName": "Nature & Environment",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk3-094",
@@ -1197,7 +1197,7 @@
     "frequency": 5272,
     "unitIndex": 7,
     "unitName": "Nature & Environment",
-    "radical": "冫"
+    "radical": "⺀"
   },
   {
     "id": "hsk3-101",
@@ -1221,7 +1221,7 @@
     "frequency": 7123,
     "unitIndex": 7,
     "unitName": "Nature & Environment",
-    "radical": "火"
+    "radical": "灬"
   },
   {
     "id": "hsk3-103",
@@ -1245,7 +1245,7 @@
     "frequency": 988,
     "unitIndex": 8,
     "unitName": "School & Study",
-    "radical": "攴"
+    "radical": "攵"
   },
   {
     "id": "hsk3-105",
@@ -1257,7 +1257,7 @@
     "frequency": 1238,
     "unitIndex": 8,
     "unitName": "School & Study",
-    "radical": "玉"
+    "radical": "王"
   },
   {
     "id": "hsk3-106",
@@ -1293,7 +1293,7 @@
     "frequency": 2574,
     "unitIndex": 8,
     "unitName": "School & Study",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk3-109",
@@ -1305,7 +1305,7 @@
     "frequency": 3024,
     "unitIndex": 8,
     "unitName": "School & Study",
-    "radical": "攴"
+    "radical": "攵"
   },
   {
     "id": "hsk3-110",
@@ -1317,7 +1317,7 @@
     "frequency": 3084,
     "unitIndex": 8,
     "unitName": "School & Study",
-    "radical": "糸"
+    "radical": "纟"
   },
   {
     "id": "hsk3-111",
@@ -1353,7 +1353,7 @@
     "frequency": 10379,
     "unitIndex": 8,
     "unitName": "School & Study",
-    "radical": "言"
+    "radical": "讠"
   },
   {
     "id": "hsk3-114",
@@ -1473,7 +1473,7 @@
     "frequency": 1838,
     "unitIndex": 9,
     "unitName": "Work & Society",
-    "radical": "糸"
+    "radical": "纟"
   },
   {
     "id": "hsk3-124",
@@ -1497,7 +1497,7 @@
     "frequency": 280,
     "unitIndex": 10,
     "unitName": "Physical Actions",
-    "radical": "攴"
+    "radical": "攵"
   },
   {
     "id": "hsk3-126",
@@ -1533,7 +1533,7 @@
     "frequency": 425,
     "unitIndex": 10,
     "unitName": "Physical Actions",
-    "radical": "手"
+    "radical": "扌"
   },
   {
     "id": "hsk3-129",
@@ -1545,7 +1545,7 @@
     "frequency": 618,
     "unitIndex": 10,
     "unitName": "Physical Actions",
-    "radical": "手"
+    "radical": "扌"
   },
   {
     "id": "hsk3-130",
@@ -1581,7 +1581,7 @@
     "frequency": 1129,
     "unitIndex": 10,
     "unitName": "Physical Actions",
-    "radical": "八"
+    "radical": "丷"
   },
   {
     "id": "hsk3-133",
@@ -1605,7 +1605,7 @@
     "frequency": 1495,
     "unitIndex": 10,
     "unitName": "Physical Actions",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk3-135",
@@ -1629,7 +1629,7 @@
     "frequency": 2254,
     "unitIndex": 10,
     "unitName": "Physical Actions",
-    "radical": "手"
+    "radical": "扌"
   },
   {
     "id": "hsk3-137",
@@ -1641,7 +1641,7 @@
     "frequency": 3060,
     "unitIndex": 10,
     "unitName": "Physical Actions",
-    "radical": "刀"
+    "radical": "刂"
   },
   {
     "id": "hsk3-138",
@@ -1653,7 +1653,7 @@
     "frequency": 3512,
     "unitIndex": 10,
     "unitName": "Physical Actions",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk3-139",
@@ -1677,7 +1677,7 @@
     "frequency": 6258,
     "unitIndex": 10,
     "unitName": "Physical Actions",
-    "radical": "手"
+    "radical": "扌"
   },
   {
     "id": "hsk3-141",
@@ -1713,7 +1713,7 @@
     "frequency": 168,
     "unitIndex": 11,
     "unitName": "Mental Verbs",
-    "radical": "言"
+    "radical": "讠"
   },
   {
     "id": "hsk3-144",
@@ -1773,7 +1773,7 @@
     "frequency": 409,
     "unitIndex": 11,
     "unitName": "Mental Verbs",
-    "radical": "襾"
+    "radical": "覀"
   },
   {
     "id": "hsk3-149",
@@ -1797,7 +1797,7 @@
     "frequency": 547,
     "unitIndex": 11,
     "unitName": "Mental Verbs",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk3-151",
@@ -1833,7 +1833,7 @@
     "frequency": 699,
     "unitIndex": 11,
     "unitName": "Mental Verbs",
-    "radical": "言"
+    "radical": "讠"
   },
   {
     "id": "hsk3-154",
@@ -1845,7 +1845,7 @@
     "frequency": 902,
     "unitIndex": 11,
     "unitName": "Mental Verbs",
-    "radical": "攴"
+    "radical": "攵"
   },
   {
     "id": "hsk3-155",
@@ -1869,7 +1869,7 @@
     "frequency": 1374,
     "unitIndex": 11,
     "unitName": "Mental Verbs",
-    "radical": "手"
+    "radical": "扌"
   },
   {
     "id": "hsk3-157",
@@ -1905,7 +1905,7 @@
     "frequency": 544,
     "unitIndex": 12,
     "unitName": "Descriptions",
-    "radical": "隹"
+    "radical": "又"
   },
   {
     "id": "hsk3-160",
@@ -1929,7 +1929,7 @@
     "frequency": 726,
     "unitIndex": 12,
     "unitName": "Descriptions",
-    "radical": "竹"
+    "radical": "⺮"
   },
   {
     "id": "hsk3-162",
@@ -1941,7 +1941,7 @@
     "frequency": 766,
     "unitIndex": 12,
     "unitName": "Descriptions",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk3-163",
@@ -1965,7 +1965,7 @@
     "frequency": 951,
     "unitIndex": 12,
     "unitName": "Descriptions",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk3-165",
@@ -1989,7 +1989,7 @@
     "frequency": 1020,
     "unitIndex": 12,
     "unitName": "Descriptions",
-    "radical": "言"
+    "radical": "讠"
   },
   {
     "id": "hsk3-167",
@@ -2049,7 +2049,7 @@
     "frequency": 1761,
     "unitIndex": 12,
     "unitName": "Descriptions",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk3-172",
@@ -2109,7 +2109,7 @@
     "frequency": 2149,
     "unitIndex": 12,
     "unitName": "Descriptions",
-    "radical": "火"
+    "radical": "灬"
   },
   {
     "id": "hsk3-177",
@@ -2121,7 +2121,7 @@
     "frequency": 2430,
     "unitIndex": 12,
     "unitName": "Descriptions",
-    "radical": "干"
+    "radical": "十"
   },
   {
     "id": "hsk3-178",
@@ -2145,7 +2145,7 @@
     "frequency": 2608,
     "unitIndex": 12,
     "unitName": "Descriptions",
-    "radical": "糸"
+    "radical": "纟"
   },
   {
     "id": "hsk3-180",
@@ -2193,7 +2193,7 @@
     "frequency": 133,
     "unitIndex": 13,
     "unitName": "Time & Frequency",
-    "radical": "手"
+    "radical": "扌"
   },
   {
     "id": "hsk3-184",
@@ -2265,7 +2265,7 @@
     "frequency": 612,
     "unitIndex": 13,
     "unitName": "Time & Frequency",
-    "radical": "冂"
+    "radical": "曰"
   },
   {
     "id": "hsk3-190",
@@ -2277,7 +2277,7 @@
     "frequency": 625,
     "unitIndex": 13,
     "unitName": "Time & Frequency",
-    "radical": "糸"
+    "radical": "纟"
   },
   {
     "id": "hsk3-191",
@@ -2337,7 +2337,7 @@
     "frequency": 940,
     "unitIndex": 13,
     "unitName": "Time & Frequency",
-    "radical": "糸"
+    "radical": "纟"
   },
   {
     "id": "hsk3-196",
@@ -2349,7 +2349,7 @@
     "frequency": 1149,
     "unitIndex": 13,
     "unitName": "Time & Frequency",
-    "radical": "刀"
+    "radical": "刂"
   },
   {
     "id": "hsk3-197",
@@ -2397,7 +2397,7 @@
     "frequency": 3756,
     "unitIndex": 13,
     "unitName": "Time & Frequency",
-    "radical": "刀"
+    "radical": "刂"
   },
   {
     "id": "hsk3-201",
@@ -2577,7 +2577,7 @@
     "frequency": 50,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "手"
+    "radical": "扌"
   },
   {
     "id": "hsk3-216",
@@ -2589,7 +2589,7 @@
     "frequency": 54,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "衣"
+    "radical": "衤"
   },
   {
     "id": "hsk3-217",
@@ -2661,7 +2661,7 @@
     "frequency": 151,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk3-223",
@@ -2697,7 +2697,7 @@
     "frequency": 177,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk3-226",
@@ -2793,7 +2793,7 @@
     "frequency": 275,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "火"
+    "radical": "灬"
   },
   {
     "id": "hsk3-234",
@@ -2829,7 +2829,7 @@
     "frequency": 318,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "八"
+    "radical": "丷"
   },
   {
     "id": "hsk3-237",
@@ -2889,7 +2889,7 @@
     "frequency": 400,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk3-242",
@@ -2913,7 +2913,7 @@
     "frequency": 423,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "彐"
+    "radical": "⺌"
   },
   {
     "id": "hsk3-244",
@@ -2949,7 +2949,7 @@
     "frequency": 478,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "八"
+    "radical": "丷"
   },
   {
     "id": "hsk3-247",
@@ -2973,7 +2973,7 @@
     "frequency": 498,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "糸"
+    "radical": "纟"
   },
   {
     "id": "hsk3-249",
@@ -3009,7 +3009,7 @@
     "frequency": 555,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "言"
+    "radical": "讠"
   },
   {
     "id": "hsk3-252",
@@ -3057,7 +3057,7 @@
     "frequency": 603,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "水"
+    "radical": "氵"
   },
   {
     "id": "hsk3-256",
@@ -3069,7 +3069,7 @@
     "frequency": 638,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "阜"
+    "radical": "阝"
   },
   {
     "id": "hsk3-257",
@@ -3165,7 +3165,7 @@
     "frequency": 766,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "火"
+    "radical": "灬"
   },
   {
     "id": "hsk3-265",
@@ -3177,7 +3177,7 @@
     "frequency": 772,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "攴"
+    "radical": "攵"
   },
   {
     "id": "hsk3-266",
@@ -3213,7 +3213,7 @@
     "frequency": 867,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "糸"
+    "radical": "纟"
   },
   {
     "id": "hsk3-269",
@@ -3237,7 +3237,7 @@
     "frequency": 955,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk3-271",
@@ -3249,7 +3249,7 @@
     "frequency": 982,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "糸"
+    "radical": "纟"
   },
   {
     "id": "hsk3-272",
@@ -3309,7 +3309,7 @@
     "frequency": 1190,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "八"
+    "radical": "丷"
   },
   {
     "id": "hsk3-277",
@@ -3321,7 +3321,7 @@
     "frequency": 1197,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "示"
+    "radical": "礻"
   },
   {
     "id": "hsk3-278",
@@ -3333,7 +3333,7 @@
     "frequency": 1251,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "乙"
+    "radical": "冫"
   },
   {
     "id": "hsk3-279",
@@ -3381,7 +3381,7 @@
     "frequency": 1631,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "火"
+    "radical": "灬"
   },
   {
     "id": "hsk3-283",
@@ -3393,7 +3393,7 @@
     "frequency": 1673,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "示"
+    "radical": "礻"
   },
   {
     "id": "hsk3-284",
@@ -3405,7 +3405,7 @@
     "frequency": 1724,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "手"
+    "radical": "扌"
   },
   {
     "id": "hsk3-285",
@@ -3441,7 +3441,7 @@
     "frequency": 1874,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "田"
+    "radical": "曰"
   },
   {
     "id": "hsk3-288",
@@ -3477,7 +3477,7 @@
     "frequency": 2354,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "人"
+    "radical": "亻"
   },
   {
     "id": "hsk3-291",
@@ -3501,7 +3501,7 @@
     "frequency": 2458,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "攴"
+    "radical": "攵"
   },
   {
     "id": "hsk3-293",
@@ -3525,7 +3525,7 @@
     "frequency": 3764,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "金"
+    "radical": "钅"
   },
   {
     "id": "hsk3-295",
@@ -3537,7 +3537,7 @@
     "frequency": 3894,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "田"
+    "radical": "曰"
   },
   {
     "id": "hsk3-296",
@@ -3549,7 +3549,7 @@
     "frequency": 3910,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "刀"
+    "radical": "刂"
   },
   {
     "id": "hsk3-297",
@@ -3561,7 +3561,7 @@
     "frequency": 4902,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "爪"
+    "radical": "爫"
   },
   {
     "id": "hsk3-298",
@@ -3573,6 +3573,6 @@
     "frequency": 7152,
     "unitIndex": 15,
     "unitName": "Grammar & Miscellaneous",
-    "radical": "手"
+    "radical": "扌"
   }
 ]

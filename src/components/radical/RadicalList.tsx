@@ -40,8 +40,11 @@ export default function RadicalList({ onClose }: RadicalListProps) {
     };
   };
 
+  // Only show base radicals (not variants) in the grid
+  const baseRadicals = radicals.filter((r) => !r.variantOf);
+
   // Group by stroke count
-  const grouped = radicals.reduce<Record<number, Radical[]>>((acc, r) => {
+  const grouped = baseRadicals.reduce<Record<number, Radical[]>>((acc, r) => {
     (acc[r.strokeCount] ??= []).push(r);
     return acc;
   }, {});
