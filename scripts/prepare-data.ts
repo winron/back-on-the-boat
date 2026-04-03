@@ -43,6 +43,7 @@ interface OutputWord {
   frequency?: number;
   unitIndex: number;
   unitName: string;
+  radical?: string;
 }
 
 interface OutputGrammar {
@@ -148,6 +149,7 @@ async function prepareVocabulary(): Promise<void> {
           frequency: entry.frequency,
           unitIndex,
           unitName,
+          radical: entry.radical || undefined,
         });
       }
 

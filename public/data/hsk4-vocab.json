@@ -8,7 +8,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 749,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "心"
   },
   {
     "id": "hsk4-002",
@@ -19,7 +20,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 928,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "干"
   },
   {
     "id": "hsk4-003",
@@ -30,7 +32,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 1073,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "糸"
   },
   {
     "id": "hsk4-004",
@@ -41,7 +44,8 @@
     "partOfSpeech": "noun",
     "frequency": 1164,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "爪"
   },
   {
     "id": "hsk4-005",
@@ -52,7 +56,8 @@
     "partOfSpeech": "noun",
     "frequency": 1257,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "心"
   },
   {
     "id": "hsk4-006",
@@ -63,7 +68,8 @@
     "partOfSpeech": "noun",
     "frequency": 1302,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "心"
   },
   {
     "id": "hsk4-007",
@@ -74,7 +80,8 @@
     "partOfSpeech": "verb / adjective",
     "frequency": 1839,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "八"
   },
   {
     "id": "hsk4-008",
@@ -85,7 +92,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 1955,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "无"
   },
   {
     "id": "hsk4-009",
@@ -96,7 +104,8 @@
     "partOfSpeech": "adjective / verb",
     "frequency": 2449,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "辛"
   },
   {
     "id": "hsk4-010",
@@ -107,7 +116,8 @@
     "partOfSpeech": "adjective",
     "frequency": 2543,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "人"
   },
   {
     "id": "hsk4-011",
@@ -118,7 +128,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2667,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "口"
   },
   {
     "id": "hsk4-012",
@@ -129,7 +140,8 @@
     "partOfSpeech": "verb / adjective",
     "frequency": 2676,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "心"
   },
   {
     "id": "hsk4-013",
@@ -140,7 +152,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 2908,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "冫"
   },
   {
     "id": "hsk4-014",
@@ -151,7 +164,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 2934,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "力"
   },
   {
     "id": "hsk4-015",
@@ -162,7 +176,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 3023,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "马"
   },
   {
     "id": "hsk4-016",
@@ -173,7 +188,8 @@
     "partOfSpeech": "noun",
     "frequency": 3053,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "心"
   },
   {
     "id": "hsk4-017",
@@ -184,7 +200,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 3459,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "子"
   },
   {
     "id": "hsk4-018",
@@ -195,7 +212,8 @@
     "partOfSpeech": "adjective",
     "frequency": 3699,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "隹"
   },
   {
     "id": "hsk4-019",
@@ -206,7 +224,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 3806,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "竹"
   },
   {
     "id": "hsk4-020",
@@ -217,7 +236,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 3844,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "而"
   },
   {
     "id": "hsk4-021",
@@ -228,7 +248,8 @@
     "partOfSpeech": "noun",
     "frequency": 4017,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "肉"
   },
   {
     "id": "hsk4-022",
@@ -239,7 +260,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 4038,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "火"
   },
   {
     "id": "hsk4-023",
@@ -250,7 +272,8 @@
     "partOfSpeech": "adjective",
     "frequency": 4518,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "口"
   },
   {
     "id": "hsk4-024",
@@ -261,7 +284,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 4551,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "羊"
   },
   {
     "id": "hsk4-025",
@@ -272,7 +296,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 4810,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "幺"
   },
   {
     "id": "hsk4-026",
@@ -283,7 +308,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 5528,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "言"
   },
   {
     "id": "hsk4-027",
@@ -294,7 +320,8 @@
     "partOfSpeech": "adjective",
     "frequency": 6238,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "心"
   },
   {
     "id": "hsk4-028",
@@ -305,7 +332,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 6279,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "彳"
   },
   {
     "id": "hsk4-029",
@@ -316,7 +344,8 @@
     "partOfSpeech": "adjective",
     "frequency": 6831,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "宀"
   },
   {
     "id": "hsk4-030",
@@ -327,7 +356,8 @@
     "partOfSpeech": "adjective",
     "frequency": 8011,
     "unitIndex": 1,
-    "unitName": "Emotions & Character"
+    "unitName": "Emotions & Character",
+    "radical": "水"
   },
   {
     "id": "hsk4-031",
@@ -338,7 +368,8 @@
     "partOfSpeech": "noun",
     "frequency": 817,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "父"
   },
   {
     "id": "hsk4-032",
@@ -349,7 +380,8 @@
     "partOfSpeech": "noun",
     "frequency": 844,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "言"
   },
   {
     "id": "hsk4-033",
@@ -360,7 +392,8 @@
     "partOfSpeech": "noun",
     "frequency": 983,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "毋"
   },
   {
     "id": "hsk4-034",
@@ -371,7 +404,8 @@
     "partOfSpeech": "noun",
     "frequency": 1128,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "言"
   },
   {
     "id": "hsk4-035",
@@ -382,7 +416,8 @@
     "partOfSpeech": "noun",
     "frequency": 1246,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "彳"
   },
   {
     "id": "hsk4-036",
@@ -393,7 +428,8 @@
     "partOfSpeech": "noun",
     "frequency": 1260,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "见"
   },
   {
     "id": "hsk4-037",
@@ -404,7 +440,8 @@
     "partOfSpeech": "noun",
     "frequency": 1692,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "儿"
   },
   {
     "id": "hsk4-038",
@@ -415,7 +452,8 @@
     "partOfSpeech": "noun",
     "frequency": 2425,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "十"
   },
   {
     "id": "hsk4-039",
@@ -426,7 +464,8 @@
     "partOfSpeech": "noun",
     "frequency": 2706,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "页"
   },
   {
     "id": "hsk4-040",
@@ -437,7 +476,8 @@
     "partOfSpeech": "noun",
     "frequency": 2796,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "人"
   },
   {
     "id": "hsk4-041",
@@ -448,7 +488,8 @@
     "partOfSpeech": "noun",
     "frequency": 3724,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "氏"
   },
   {
     "id": "hsk4-042",
@@ -459,7 +500,8 @@
     "partOfSpeech": "noun",
     "frequency": 3782,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "手"
   },
   {
     "id": "hsk4-043",
@@ -470,7 +512,8 @@
     "partOfSpeech": "noun",
     "frequency": 4911,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "巾"
   },
   {
     "id": "hsk4-044",
@@ -481,7 +524,8 @@
     "partOfSpeech": "noun",
     "frequency": 5076,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "亠"
   },
   {
     "id": "hsk4-045",
@@ -492,7 +536,8 @@
     "partOfSpeech": "noun",
     "frequency": 5639,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "子"
   },
   {
     "id": "hsk4-046",
@@ -503,7 +548,8 @@
     "partOfSpeech": "noun",
     "frequency": 6248,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "大"
   },
   {
     "id": "hsk4-047",
@@ -514,7 +560,8 @@
     "partOfSpeech": "noun",
     "frequency": 9229,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "石"
   },
   {
     "id": "hsk4-048",
@@ -525,7 +572,8 @@
     "partOfSpeech": "noun",
     "frequency": 19954,
     "unitIndex": 2,
-    "unitName": "Family & People"
+    "unitName": "Family & People",
+    "radical": "口"
   },
   {
     "id": "hsk4-049",
@@ -536,7 +584,8 @@
     "partOfSpeech": "verb / adjective",
     "frequency": 177,
     "unitIndex": 3,
-    "unitName": "Body & Health"
+    "unitName": "Body & Health",
+    "radical": "歹"
   },
   {
     "id": "hsk4-050",
@@ -547,7 +596,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 203,
     "unitIndex": 3,
-    "unitName": "Body & Health"
+    "unitName": "Body & Health",
+    "radical": "生"
   },
   {
     "id": "hsk4-051",
@@ -558,7 +608,8 @@
     "partOfSpeech": "noun",
     "frequency": 705,
     "unitIndex": 3,
-    "unitName": "Body & Health"
+    "unitName": "Body & Health",
+    "radical": "生"
   },
   {
     "id": "hsk4-052",
@@ -569,7 +620,8 @@
     "partOfSpeech": "noun",
     "frequency": 726,
     "unitIndex": 3,
-    "unitName": "Body & Health"
+    "unitName": "Body & Health",
+    "radical": "血"
   },
   {
     "id": "hsk4-053",
@@ -580,7 +632,8 @@
     "partOfSpeech": "noun",
     "frequency": 1922,
     "unitIndex": 3,
-    "unitName": "Body & Health"
+    "unitName": "Body & Health",
+    "radical": "皮"
   },
   {
     "id": "hsk4-054",
@@ -591,7 +644,8 @@
     "partOfSpeech": "noun / measure word",
     "frequency": 2763,
     "unitIndex": 3,
-    "unitName": "Body & Health"
+    "unitName": "Body & Health",
+    "radical": "肉"
   },
   {
     "id": "hsk4-055",
@@ -602,7 +656,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3988,
     "unitIndex": 3,
-    "unitName": "Body & Health"
+    "unitName": "Body & Health",
+    "radical": "冫"
   },
   {
     "id": "hsk4-056",
@@ -613,7 +668,8 @@
     "partOfSpeech": "verb",
     "frequency": 7020,
     "unitIndex": 3,
-    "unitName": "Body & Health"
+    "unitName": "Body & Health",
+    "radical": "口"
   },
   {
     "id": "hsk4-057",
@@ -624,7 +680,8 @@
     "partOfSpeech": "noun",
     "frequency": 10888,
     "unitIndex": 3,
-    "unitName": "Body & Health"
+    "unitName": "Body & Health",
+    "radical": "丨"
   },
   {
     "id": "hsk4-058",
@@ -635,7 +692,8 @@
     "partOfSpeech": "verb",
     "frequency": 13196,
     "unitIndex": 3,
-    "unitName": "Body & Health"
+    "unitName": "Body & Health",
+    "radical": "手"
   },
   {
     "id": "hsk4-059",
@@ -646,7 +704,8 @@
     "partOfSpeech": "noun",
     "frequency": 1705,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "口"
   },
   {
     "id": "hsk4-060",
@@ -657,7 +716,8 @@
     "partOfSpeech": "noun / adjective",
     "frequency": 1953,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "香"
   },
   {
     "id": "hsk4-061",
@@ -668,7 +728,8 @@
     "partOfSpeech": "noun",
     "frequency": 2176,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "食"
   },
   {
     "id": "hsk4-062",
@@ -679,7 +740,8 @@
     "partOfSpeech": "noun",
     "frequency": 2237,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "水"
   },
   {
     "id": "hsk4-063",
@@ -690,7 +752,8 @@
     "partOfSpeech": "adjective",
     "frequency": 2791,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "辛"
   },
   {
     "id": "hsk4-064",
@@ -701,7 +764,8 @@
     "partOfSpeech": "noun",
     "frequency": 3003,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "工"
   },
   {
     "id": "hsk4-065",
@@ -712,7 +776,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 3361,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "酉"
   },
   {
     "id": "hsk4-066",
@@ -723,7 +788,8 @@
     "partOfSpeech": "noun",
     "frequency": 3463,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "食"
   },
   {
     "id": "hsk4-067",
@@ -734,7 +800,8 @@
     "partOfSpeech": "noun",
     "frequency": 3653,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "皿"
   },
   {
     "id": "hsk4-068",
@@ -745,7 +812,8 @@
     "partOfSpeech": "noun",
     "frequency": 6412,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "食"
   },
   {
     "id": "hsk4-069",
@@ -756,7 +824,8 @@
     "partOfSpeech": "adjective",
     "frequency": 7379,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "口"
   },
   {
     "id": "hsk4-070",
@@ -767,7 +836,8 @@
     "partOfSpeech": "noun",
     "frequency": 10725,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "襾"
   },
   {
     "id": "hsk4-071",
@@ -778,7 +848,8 @@
     "partOfSpeech": "noun",
     "frequency": 11834,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "食"
   },
   {
     "id": "hsk4-072",
@@ -789,7 +860,8 @@
     "partOfSpeech": "verb",
     "frequency": 14023,
     "unitIndex": 4,
-    "unitName": "Food & Dining"
+    "unitName": "Food & Dining",
+    "radical": "干"
   },
   {
     "id": "hsk4-073",
@@ -800,7 +872,8 @@
     "partOfSpeech": "noun",
     "frequency": 3133,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "宀"
   },
   {
     "id": "hsk4-074",
@@ -811,7 +884,8 @@
     "partOfSpeech": "noun",
     "frequency": 3354,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "金"
   },
   {
     "id": "hsk4-075",
@@ -822,7 +896,8 @@
     "partOfSpeech": "noun",
     "frequency": 3832,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "水"
   },
   {
     "id": "hsk4-076",
@@ -833,7 +908,8 @@
     "partOfSpeech": "noun",
     "frequency": 3935,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "竹"
   },
   {
     "id": "hsk4-077",
@@ -844,7 +920,8 @@
     "partOfSpeech": "noun",
     "frequency": 3960,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "人"
   },
   {
     "id": "hsk4-078",
@@ -855,7 +932,8 @@
     "partOfSpeech": "noun",
     "frequency": 4130,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "穴"
   },
   {
     "id": "hsk4-079",
@@ -866,7 +944,8 @@
     "partOfSpeech": "noun",
     "frequency": 4188,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "宀"
   },
   {
     "id": "hsk4-080",
@@ -877,7 +956,8 @@
     "partOfSpeech": "noun",
     "frequency": 5015,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "金"
   },
   {
     "id": "hsk4-081",
@@ -888,7 +968,8 @@
     "partOfSpeech": "noun",
     "frequency": 6250,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "皿"
   },
   {
     "id": "hsk4-082",
@@ -899,7 +980,8 @@
     "partOfSpeech": "noun",
     "frequency": 6566,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "衣"
   },
   {
     "id": "hsk4-083",
@@ -910,7 +992,8 @@
     "partOfSpeech": "noun",
     "frequency": 6574,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "毛"
   },
   {
     "id": "hsk4-084",
@@ -921,7 +1004,8 @@
     "partOfSpeech": "noun",
     "frequency": 6741,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "瓦"
   },
   {
     "id": "hsk4-085",
@@ -932,7 +1016,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 6784,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "人"
   },
   {
     "id": "hsk4-086",
@@ -943,7 +1028,8 @@
     "partOfSpeech": "noun",
     "frequency": 8961,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "衣"
   },
   {
     "id": "hsk4-087",
@@ -954,7 +1040,8 @@
     "partOfSpeech": "noun",
     "frequency": 9450,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "牙"
   },
   {
     "id": "hsk4-088",
@@ -965,7 +1052,8 @@
     "partOfSpeech": "noun",
     "frequency": 10344,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "水"
   },
   {
     "id": "hsk4-089",
@@ -976,7 +1064,8 @@
     "partOfSpeech": "noun",
     "frequency": 11938,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "土"
   },
   {
     "id": "hsk4-090",
@@ -987,7 +1076,8 @@
     "partOfSpeech": "noun",
     "frequency": 12101,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "土"
   },
   {
     "id": "hsk4-091",
@@ -998,7 +1088,8 @@
     "partOfSpeech": "noun",
     "frequency": 18663,
     "unitIndex": 5,
-    "unitName": "Home & Objects"
+    "unitName": "Home & Objects",
+    "radical": "言"
   },
   {
     "id": "hsk4-092",
@@ -1009,7 +1100,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 364,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "宀"
   },
   {
     "id": "hsk4-093",
@@ -1020,7 +1112,8 @@
     "partOfSpeech": "adjective",
     "frequency": 722,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "止"
   },
   {
     "id": "hsk4-094",
@@ -1031,7 +1124,8 @@
     "partOfSpeech": "adjective",
     "frequency": 785,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "一"
   },
   {
     "id": "hsk4-095",
@@ -1042,7 +1136,8 @@
     "partOfSpeech": "adjective",
     "frequency": 1014,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "水"
   },
   {
     "id": "hsk4-096",
@@ -1053,7 +1148,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 1141,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "囗"
   },
   {
     "id": "hsk4-097",
@@ -1064,7 +1160,8 @@
     "partOfSpeech": "adjective",
     "frequency": 1163,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "止"
   },
   {
     "id": "hsk4-098",
@@ -1075,7 +1172,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 1201,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "卩"
   },
   {
     "id": "hsk4-099",
@@ -1086,7 +1184,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 1262,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "羊"
   },
   {
     "id": "hsk4-100",
@@ -1097,7 +1196,8 @@
     "partOfSpeech": "",
     "frequency": 1436,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "艹"
   },
   {
     "id": "hsk4-101",
@@ -1108,7 +1208,8 @@
     "partOfSpeech": "adjective",
     "frequency": 1657,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "夊"
   },
   {
     "id": "hsk4-102",
@@ -1119,7 +1220,8 @@
     "partOfSpeech": "adjective",
     "frequency": 1729,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "车"
   },
   {
     "id": "hsk4-103",
@@ -1130,7 +1232,8 @@
     "partOfSpeech": "adjective / verb",
     "frequency": 1814,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "车"
   },
   {
     "id": "hsk4-104",
@@ -1141,7 +1244,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 1925,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "厂"
   },
   {
     "id": "hsk4-105",
@@ -1152,7 +1256,8 @@
     "partOfSpeech": "adjective",
     "frequency": 2104,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "口"
   },
   {
     "id": "hsk4-106",
@@ -1163,7 +1268,8 @@
     "partOfSpeech": "adjective",
     "frequency": 2274,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "人"
   },
   {
     "id": "hsk4-107",
@@ -1174,7 +1280,8 @@
     "partOfSpeech": "adjective / verb",
     "frequency": 2279,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "一"
   },
   {
     "id": "hsk4-108",
@@ -1185,7 +1292,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 2331,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "艹"
   },
   {
     "id": "hsk4-109",
@@ -1196,7 +1304,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 2439,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "水"
   },
   {
     "id": "hsk4-110",
@@ -1207,7 +1316,8 @@
     "partOfSpeech": "adjective / adverb",
     "frequency": 2476,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "石"
   },
   {
     "id": "hsk4-111",
@@ -1218,7 +1328,8 @@
     "partOfSpeech": "adjective",
     "frequency": 2594,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "日"
   },
   {
     "id": "hsk4-112",
@@ -1229,7 +1340,8 @@
     "partOfSpeech": "adjective / verb",
     "frequency": 2739,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "丨"
   },
   {
     "id": "hsk4-113",
@@ -1240,7 +1352,8 @@
     "partOfSpeech": "adjective",
     "frequency": 2864,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "冫"
   },
   {
     "id": "hsk4-114",
@@ -1251,7 +1364,8 @@
     "partOfSpeech": "adjective",
     "frequency": 2875,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "言"
   },
   {
     "id": "hsk4-115",
@@ -1262,7 +1376,8 @@
     "partOfSpeech": "adjective",
     "frequency": 3016,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "宀"
   },
   {
     "id": "hsk4-116",
@@ -1273,7 +1388,8 @@
     "partOfSpeech": "adjective",
     "frequency": 3178,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "车"
   },
   {
     "id": "hsk4-117",
@@ -1284,7 +1400,8 @@
     "partOfSpeech": "adjective",
     "frequency": 3471,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "宀"
   },
   {
     "id": "hsk4-118",
@@ -1295,7 +1412,8 @@
     "partOfSpeech": "adjective",
     "frequency": 3759,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "厂"
   },
   {
     "id": "hsk4-119",
@@ -1306,7 +1424,8 @@
     "partOfSpeech": "adjective / adverb",
     "frequency": 4355,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "穴"
   },
   {
     "id": "hsk4-120",
@@ -1317,7 +1436,8 @@
     "partOfSpeech": "adjective",
     "frequency": 4623,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "肉"
   },
   {
     "id": "hsk4-121",
@@ -1328,7 +1448,8 @@
     "partOfSpeech": "adjective",
     "frequency": 5800,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "日"
   },
   {
     "id": "hsk4-122",
@@ -1339,7 +1460,8 @@
     "partOfSpeech": "adjective",
     "frequency": 6073,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "火"
   },
   {
     "id": "hsk4-123",
@@ -1350,7 +1472,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 8013,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "干"
   },
   {
     "id": "hsk4-124",
@@ -1361,7 +1484,8 @@
     "partOfSpeech": "adjective / verb",
     "frequency": 8118,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "日"
   },
   {
     "id": "hsk4-125",
@@ -1372,7 +1496,8 @@
     "partOfSpeech": "adjective",
     "frequency": 8622,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "穴"
   },
   {
     "id": "hsk4-126",
@@ -1383,7 +1508,8 @@
     "partOfSpeech": "adjective",
     "frequency": 8739,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "攴"
   },
   {
     "id": "hsk4-127",
@@ -1394,7 +1520,8 @@
     "partOfSpeech": "adjective / verb",
     "frequency": 15795,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "水"
   },
   {
     "id": "hsk4-128",
@@ -1405,7 +1532,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 21668,
     "unitIndex": 6,
-    "unitName": "Descriptions"
+    "unitName": "Descriptions",
+    "radical": "米"
   },
   {
     "id": "hsk4-129",
@@ -1416,7 +1544,8 @@
     "partOfSpeech": "noun",
     "frequency": 664,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "人"
   },
   {
     "id": "hsk4-130",
@@ -1427,7 +1556,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 876,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "贝"
   },
   {
     "id": "hsk4-131",
@@ -1438,7 +1568,8 @@
     "partOfSpeech": "noun",
     "frequency": 1146,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "一"
   },
   {
     "id": "hsk4-132",
@@ -1449,7 +1580,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1202,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "竹"
   },
   {
     "id": "hsk4-133",
@@ -1460,7 +1592,8 @@
     "partOfSpeech": "noun / adjective",
     "frequency": 1317,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "木"
   },
   {
     "id": "hsk4-134",
@@ -1471,7 +1604,8 @@
     "partOfSpeech": "noun",
     "frequency": 1317,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "耳"
   },
   {
     "id": "hsk4-135",
@@ -1482,7 +1616,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1500,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "田"
   },
   {
     "id": "hsk4-136",
@@ -1493,7 +1628,8 @@
     "partOfSpeech": "verb",
     "frequency": 2163,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "贝"
   },
   {
     "id": "hsk4-137",
@@ -1504,7 +1640,8 @@
     "partOfSpeech": "adverb / adjective",
     "frequency": 2288,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "一"
   },
   {
     "id": "hsk4-138",
@@ -1515,7 +1652,8 @@
     "partOfSpeech": "noun",
     "frequency": 2532,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "工"
   },
   {
     "id": "hsk4-139",
@@ -1526,7 +1664,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 4602,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "手"
   },
   {
     "id": "hsk4-140",
@@ -1537,7 +1676,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 5951,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "力"
   },
   {
     "id": "hsk4-141",
@@ -1548,7 +1688,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 8004,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "手"
   },
   {
     "id": "hsk4-142",
@@ -1559,7 +1700,8 @@
     "partOfSpeech": "noun",
     "frequency": 8073,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "竹"
   },
   {
     "id": "hsk4-143",
@@ -1570,7 +1712,8 @@
     "partOfSpeech": "",
     "frequency": 9762,
     "unitIndex": 7,
-    "unitName": "Work & Career"
+    "unitName": "Work & Career",
+    "radical": "人"
   },
   {
     "id": "hsk4-144",
@@ -1581,7 +1724,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1197,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "攴"
   },
   {
     "id": "hsk4-145",
@@ -1592,7 +1736,8 @@
     "partOfSpeech": "noun / adjective",
     "frequency": 1299,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "禾"
   },
   {
     "id": "hsk4-146",
@@ -1603,7 +1748,8 @@
     "partOfSpeech": "noun",
     "frequency": 1488,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "艹"
   },
   {
     "id": "hsk4-147",
@@ -1614,7 +1760,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 1612,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "攴"
   },
   {
     "id": "hsk4-148",
@@ -1625,7 +1772,8 @@
     "partOfSpeech": "noun",
     "frequency": 1627,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "木"
   },
   {
     "id": "hsk4-149",
@@ -1636,7 +1784,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1755,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "比"
   },
   {
     "id": "hsk4-150",
@@ -1647,7 +1796,8 @@
     "partOfSpeech": "noun",
     "frequency": 1948,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "言"
   },
   {
     "id": "hsk4-151",
@@ -1658,7 +1808,8 @@
     "partOfSpeech": "noun",
     "frequency": 1958,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "文"
   },
   {
     "id": "hsk4-152",
@@ -1669,7 +1820,8 @@
     "partOfSpeech": "noun",
     "frequency": 2284,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "矢"
   },
   {
     "id": "hsk4-153",
@@ -1680,7 +1832,8 @@
     "partOfSpeech": "noun",
     "frequency": 2624,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "小"
   },
   {
     "id": "hsk4-154",
@@ -1691,7 +1844,8 @@
     "partOfSpeech": "",
     "frequency": 4025,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "羽"
   },
   {
     "id": "hsk4-155",
@@ -1702,7 +1856,8 @@
     "partOfSpeech": "noun",
     "frequency": 4078,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "竹"
   },
   {
     "id": "hsk4-156",
@@ -1713,7 +1868,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 4349,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "门"
   },
   {
     "id": "hsk4-157",
@@ -1724,7 +1880,8 @@
     "partOfSpeech": "noun",
     "frequency": 4636,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "日"
   },
   {
     "id": "hsk4-158",
@@ -1735,7 +1892,8 @@
     "partOfSpeech": "noun",
     "frequency": 7033,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "石"
   },
   {
     "id": "hsk4-159",
@@ -1746,7 +1904,8 @@
     "partOfSpeech": "noun",
     "frequency": 13430,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "言"
   },
   {
     "id": "hsk4-160",
@@ -1757,7 +1916,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 36044,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "页"
   },
   {
     "id": "hsk4-161",
@@ -1768,7 +1928,8 @@
     "partOfSpeech": "noun",
     "frequency": 40061,
     "unitIndex": 8,
-    "unitName": "Education & Knowledge"
+    "unitName": "Education & Knowledge",
+    "radical": "亠"
   },
   {
     "id": "hsk4-162",
@@ -1779,7 +1940,8 @@
     "partOfSpeech": "noun",
     "frequency": 1122,
     "unitIndex": 9,
-    "unitName": "Commerce & Economy"
+    "unitName": "Commerce & Economy",
+    "radical": "广"
   },
   {
     "id": "hsk4-163",
@@ -1790,7 +1952,8 @@
     "partOfSpeech": "noun",
     "frequency": 1190,
     "unitIndex": 9,
-    "unitName": "Commerce & Economy"
+    "unitName": "Commerce & Economy",
+    "radical": "巾"
   },
   {
     "id": "hsk4-164",
@@ -1801,7 +1964,8 @@
     "partOfSpeech": "noun",
     "frequency": 1376,
     "unitIndex": 9,
-    "unitName": "Commerce & Economy"
+    "unitName": "Commerce & Economy",
+    "radical": "糸"
   },
   {
     "id": "hsk4-165",
@@ -1812,7 +1976,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1416,
     "unitIndex": 9,
-    "unitName": "Commerce & Economy"
+    "unitName": "Commerce & Economy",
+    "radical": "儿"
   },
   {
     "id": "hsk4-166",
@@ -1823,7 +1988,8 @@
     "partOfSpeech": "noun",
     "frequency": 1783,
     "unitIndex": 9,
-    "unitName": "Commerce & Economy"
+    "unitName": "Commerce & Economy",
+    "radical": "人"
   },
   {
     "id": "hsk4-167",
@@ -1834,7 +2000,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 2243,
     "unitIndex": 9,
-    "unitName": "Commerce & Economy"
+    "unitName": "Commerce & Economy",
+    "radical": "攴"
   },
   {
     "id": "hsk4-168",
@@ -1845,7 +2012,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2912,
     "unitIndex": 9,
-    "unitName": "Commerce & Economy"
+    "unitName": "Commerce & Economy",
+    "radical": "贝"
   },
   {
     "id": "hsk4-169",
@@ -1856,7 +2024,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3320,
     "unitIndex": 9,
-    "unitName": "Commerce & Economy"
+    "unitName": "Commerce & Economy",
+    "radical": "广"
   },
   {
     "id": "hsk4-170",
@@ -1867,7 +2036,8 @@
     "partOfSpeech": "noun",
     "frequency": 3649,
     "unitIndex": 9,
-    "unitName": "Commerce & Economy"
+    "unitName": "Commerce & Economy",
+    "radical": "大"
   },
   {
     "id": "hsk4-171",
@@ -1878,7 +2048,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 10290,
     "unitIndex": 9,
-    "unitName": "Commerce & Economy"
+    "unitName": "Commerce & Economy",
+    "radical": "手"
   },
   {
     "id": "hsk4-172",
@@ -1889,7 +2060,8 @@
     "partOfSpeech": "noun",
     "frequency": 21641,
     "unitIndex": 9,
-    "unitName": "Commerce & Economy"
+    "unitName": "Commerce & Economy",
+    "radical": "人"
   },
   {
     "id": "hsk4-173",
@@ -1900,7 +2072,8 @@
     "partOfSpeech": "noun / adverb",
     "frequency": 929,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "自"
   },
   {
     "id": "hsk4-174",
@@ -1911,7 +2084,8 @@
     "partOfSpeech": "noun",
     "frequency": 1583,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "犬"
   },
   {
     "id": "hsk4-175",
@@ -1922,7 +2096,8 @@
     "partOfSpeech": "noun",
     "frequency": 1971,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "土"
   },
   {
     "id": "hsk4-176",
@@ -1933,7 +2108,8 @@
     "partOfSpeech": "noun",
     "frequency": 2043,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "阜"
   },
   {
     "id": "hsk4-177",
@@ -1944,7 +2120,8 @@
     "partOfSpeech": "noun",
     "frequency": 3164,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "二"
   },
   {
     "id": "hsk4-178",
@@ -1955,7 +2132,8 @@
     "partOfSpeech": "noun",
     "frequency": 3183,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "木"
   },
   {
     "id": "hsk4-179",
@@ -1966,7 +2144,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3379,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "水"
   },
   {
     "id": "hsk4-180",
@@ -1977,7 +2156,8 @@
     "partOfSpeech": "noun",
     "frequency": 3915,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "木"
   },
   {
     "id": "hsk4-181",
@@ -1988,7 +2168,8 @@
     "partOfSpeech": "noun",
     "frequency": 4121,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "水"
   },
   {
     "id": "hsk4-182",
@@ -1999,7 +2180,8 @@
     "partOfSpeech": "noun",
     "frequency": 4295,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "犬"
   },
   {
     "id": "hsk4-183",
@@ -2010,7 +2192,8 @@
     "partOfSpeech": "noun",
     "frequency": 5451,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "老"
   },
   {
     "id": "hsk4-184",
@@ -2021,7 +2204,8 @@
     "partOfSpeech": "noun",
     "frequency": 5675,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "犬"
   },
   {
     "id": "hsk4-185",
@@ -2032,7 +2216,8 @@
     "partOfSpeech": "noun",
     "frequency": 6570,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "气"
   },
   {
     "id": "hsk4-186",
@@ -2043,7 +2228,8 @@
     "partOfSpeech": "noun",
     "frequency": 9599,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "长"
   },
   {
     "id": "hsk4-187",
@@ -2054,7 +2240,8 @@
     "partOfSpeech": "noun",
     "frequency": 10287,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "口"
   },
   {
     "id": "hsk4-188",
@@ -2065,7 +2252,8 @@
     "partOfSpeech": "noun",
     "frequency": 20034,
     "unitIndex": 10,
-    "unitName": "Nature & Geography"
+    "unitName": "Nature & Geography",
+    "radical": "长"
   },
   {
     "id": "hsk4-189",
@@ -2076,7 +2264,8 @@
     "partOfSpeech": "noun",
     "frequency": 1337,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "辶"
   },
   {
     "id": "hsk4-190",
@@ -2087,7 +2276,8 @@
     "partOfSpeech": "noun",
     "frequency": 2120,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "木"
   },
   {
     "id": "hsk4-191",
@@ -2098,7 +2288,8 @@
     "partOfSpeech": "measure word / noun",
     "frequency": 2531,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "八"
   },
   {
     "id": "hsk4-192",
@@ -2109,7 +2300,8 @@
     "partOfSpeech": "noun",
     "frequency": 3730,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "舟"
   },
   {
     "id": "hsk4-193",
@@ -2120,7 +2312,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 5419,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "走"
   },
   {
     "id": "hsk4-194",
@@ -2131,7 +2324,8 @@
     "partOfSpeech": "verb",
     "frequency": 5499,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "丿"
   },
   {
     "id": "hsk4-195",
@@ -2142,7 +2336,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 5927,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "入"
   },
   {
     "id": "hsk4-196",
@@ -2153,7 +2348,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 6153,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "攴"
   },
   {
     "id": "hsk4-197",
@@ -2164,7 +2360,8 @@
     "partOfSpeech": "noun",
     "frequency": 7839,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "力"
   },
   {
     "id": "hsk4-198",
@@ -2175,7 +2372,8 @@
     "partOfSpeech": "noun",
     "frequency": 10258,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "寸"
   },
   {
     "id": "hsk4-199",
@@ -2186,7 +2384,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 10563,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "土"
   },
   {
     "id": "hsk4-200",
@@ -2197,7 +2396,8 @@
     "partOfSpeech": "noun",
     "frequency": 21410,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "宀"
   },
   {
     "id": "hsk4-201",
@@ -2208,7 +2408,8 @@
     "partOfSpeech": "",
     "frequency": 1000000,
     "unitIndex": 11,
-    "unitName": "Transport & Travel"
+    "unitName": "Transport & Travel",
+    "radical": "攴"
   },
   {
     "id": "hsk4-202",
@@ -2219,7 +2420,8 @@
     "partOfSpeech": "verb",
     "frequency": 862,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "言"
   },
   {
     "id": "hsk4-203",
@@ -2230,7 +2432,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1047,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "言"
   },
   {
     "id": "hsk4-204",
@@ -2241,7 +2444,8 @@
     "partOfSpeech": "verb",
     "frequency": 1090,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "阜"
   },
   {
     "id": "hsk4-205",
@@ -2252,7 +2456,8 @@
     "partOfSpeech": "verb",
     "frequency": 1238,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "手"
   },
   {
     "id": "hsk4-206",
@@ -2263,7 +2468,8 @@
     "partOfSpeech": "verb",
     "frequency": 1401,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "言"
   },
   {
     "id": "hsk4-207",
@@ -2274,7 +2480,8 @@
     "partOfSpeech": "noun",
     "frequency": 1647,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "心"
   },
   {
     "id": "hsk4-208",
@@ -2285,7 +2492,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1683,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "辶"
   },
   {
     "id": "hsk4-209",
@@ -2296,7 +2504,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2609,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "耳"
   },
   {
     "id": "hsk4-210",
@@ -2307,7 +2516,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2649,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "鼓"
   },
   {
     "id": "hsk4-211",
@@ -2318,7 +2528,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3168,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "辶"
   },
   {
     "id": "hsk4-212",
@@ -2329,7 +2540,8 @@
     "partOfSpeech": "adjective",
     "frequency": 3210,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "又"
   },
   {
     "id": "hsk4-213",
@@ -2340,7 +2552,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3504,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "手"
   },
   {
     "id": "hsk4-214",
@@ -2351,7 +2564,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3731,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "糸"
   },
   {
     "id": "hsk4-215",
@@ -2362,7 +2576,8 @@
     "partOfSpeech": "noun",
     "frequency": 3801,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "又"
   },
   {
     "id": "hsk4-216",
@@ -2373,7 +2588,8 @@
     "partOfSpeech": "verb",
     "frequency": 3878,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "廾"
   },
   {
     "id": "hsk4-217",
@@ -2384,7 +2600,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 4665,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "口"
   },
   {
     "id": "hsk4-218",
@@ -2395,7 +2612,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 4909,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "手"
   },
   {
     "id": "hsk4-219",
@@ -2406,7 +2624,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 6337,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "示"
   },
   {
     "id": "hsk4-220",
@@ -2417,7 +2636,8 @@
     "partOfSpeech": "verb",
     "frequency": 6623,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "鼓"
   },
   {
     "id": "hsk4-221",
@@ -2428,7 +2648,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 6920,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "手"
   },
   {
     "id": "hsk4-222",
@@ -2439,7 +2660,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 9042,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "衣"
   },
   {
     "id": "hsk4-223",
@@ -2450,7 +2672,8 @@
     "partOfSpeech": "verb",
     "frequency": 9854,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "言"
   },
   {
     "id": "hsk4-224",
@@ -2461,7 +2684,8 @@
     "partOfSpeech": "verb",
     "frequency": 10134,
     "unitIndex": 12,
-    "unitName": "Social Interaction"
+    "unitName": "Social Interaction",
+    "radical": "言"
   },
   {
     "id": "hsk4-225",
@@ -2472,7 +2696,8 @@
     "partOfSpeech": "verb / adjective",
     "frequency": 484,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "手"
   },
   {
     "id": "hsk4-226",
@@ -2483,7 +2708,8 @@
     "partOfSpeech": "verb / measure word",
     "frequency": 1092,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "手"
   },
   {
     "id": "hsk4-227",
@@ -2494,7 +2720,8 @@
     "partOfSpeech": "verb / adjective",
     "frequency": 1272,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "石"
   },
   {
     "id": "hsk4-228",
@@ -2505,7 +2732,8 @@
     "partOfSpeech": "verb",
     "frequency": 1277,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "手"
   },
   {
     "id": "hsk4-229",
@@ -2516,7 +2744,8 @@
     "partOfSpeech": "verb",
     "frequency": 1802,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "戈"
   },
   {
     "id": "hsk4-230",
@@ -2527,7 +2756,8 @@
     "partOfSpeech": "verb",
     "frequency": 1892,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "身"
   },
   {
     "id": "hsk4-231",
@@ -2538,7 +2768,8 @@
     "partOfSpeech": "verb",
     "frequency": 1952,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "手"
   },
   {
     "id": "hsk4-232",
@@ -2549,7 +2780,8 @@
     "partOfSpeech": "verb",
     "frequency": 2303,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "肉"
   },
   {
     "id": "hsk4-233",
@@ -2560,7 +2792,8 @@
     "partOfSpeech": "verb",
     "frequency": 2405,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "手"
   },
   {
     "id": "hsk4-234",
@@ -2571,7 +2804,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2520,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "弓"
   },
   {
     "id": "hsk4-235",
@@ -2582,7 +2816,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2737,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "攴"
   },
   {
     "id": "hsk4-236",
@@ -2593,7 +2828,8 @@
     "partOfSpeech": "verb",
     "frequency": 2842,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "宀"
   },
   {
     "id": "hsk4-237",
@@ -2604,7 +2840,8 @@
     "partOfSpeech": "verb",
     "frequency": 3266,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "攴"
   },
   {
     "id": "hsk4-238",
@@ -2615,7 +2852,8 @@
     "partOfSpeech": "verb",
     "frequency": 3574,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "手"
   },
   {
     "id": "hsk4-239",
@@ -2626,7 +2864,8 @@
     "partOfSpeech": "verb",
     "frequency": 4007,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "攴"
   },
   {
     "id": "hsk4-240",
@@ -2637,7 +2876,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 4394,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "手"
   },
   {
     "id": "hsk4-241",
@@ -2648,7 +2888,8 @@
     "partOfSpeech": "verb",
     "frequency": 4709,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "辶"
   },
   {
     "id": "hsk4-242",
@@ -2659,7 +2900,8 @@
     "partOfSpeech": "verb",
     "frequency": 4800,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "手"
   },
   {
     "id": "hsk4-243",
@@ -2670,7 +2912,8 @@
     "partOfSpeech": "verb",
     "frequency": 6409,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "手"
   },
   {
     "id": "hsk4-244",
@@ -2681,7 +2924,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 8233,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "手"
   },
   {
     "id": "hsk4-245",
@@ -2692,7 +2936,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 8340,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "手"
   },
   {
     "id": "hsk4-246",
@@ -2703,7 +2948,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 14608,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "夊"
   },
   {
     "id": "hsk4-247",
@@ -2714,7 +2960,8 @@
     "partOfSpeech": "verb",
     "frequency": 42424,
     "unitIndex": 13,
-    "unitName": "Physical Actions"
+    "unitName": "Physical Actions",
+    "radical": "土"
   },
   {
     "id": "hsk4-248",
@@ -2725,7 +2972,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 274,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "心"
   },
   {
     "id": "hsk4-249",
@@ -2736,7 +2984,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 403,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "言"
   },
   {
     "id": "hsk4-250",
@@ -2747,7 +2996,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 546,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "支"
   },
   {
     "id": "hsk4-251",
@@ -2758,7 +3008,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 607,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "老"
   },
   {
     "id": "hsk4-252",
@@ -2769,7 +3020,8 @@
     "partOfSpeech": "verb",
     "frequency": 751,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "土"
   },
   {
     "id": "hsk4-253",
@@ -2780,7 +3032,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 872,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "角"
   },
   {
     "id": "hsk4-254",
@@ -2791,7 +3044,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 884,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "玉"
   },
   {
     "id": "hsk4-255",
@@ -2802,7 +3056,8 @@
     "partOfSpeech": "noun",
     "frequency": 913,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "木"
   },
   {
     "id": "hsk4-256",
@@ -2813,7 +3068,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 968,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "言"
   },
   {
     "id": "hsk4-257",
@@ -2824,7 +3080,8 @@
     "partOfSpeech": "noun",
     "frequency": 995,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "心"
   },
   {
     "id": "hsk4-258",
@@ -2835,7 +3092,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1443,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "手"
   },
   {
     "id": "hsk4-259",
@@ -2846,7 +3104,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1586,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "人"
   },
   {
     "id": "hsk4-260",
@@ -2857,7 +3116,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1660,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "衣"
   },
   {
     "id": "hsk4-261",
@@ -2868,7 +3128,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1763,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "心"
   },
   {
     "id": "hsk4-262",
@@ -2879,7 +3140,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1963,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "人"
   },
   {
     "id": "hsk4-263",
@@ -2890,7 +3152,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2055,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "囗"
   },
   {
     "id": "hsk4-264",
@@ -2901,7 +3164,8 @@
     "partOfSpeech": "noun",
     "frequency": 2109,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "卩"
   },
   {
     "id": "hsk4-265",
@@ -2912,7 +3176,8 @@
     "partOfSpeech": "noun",
     "frequency": 2405,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "人"
   },
   {
     "id": "hsk4-266",
@@ -2923,7 +3188,8 @@
     "partOfSpeech": "noun",
     "frequency": 2435,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "目"
   },
   {
     "id": "hsk4-267",
@@ -2934,7 +3200,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2480,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "刀"
   },
   {
     "id": "hsk4-268",
@@ -2945,7 +3212,8 @@
     "partOfSpeech": "noun / adjective",
     "frequency": 2661,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "玉"
   },
   {
     "id": "hsk4-269",
@@ -2956,7 +3224,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 4880,
     "unitIndex": 14,
-    "unitName": "Thinking & Expression"
+    "unitName": "Thinking & Expression",
+    "radical": "言"
   },
   {
     "id": "hsk4-270",
@@ -2967,7 +3236,8 @@
     "partOfSpeech": "preposition / verb",
     "frequency": 28,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "寸"
   },
   {
     "id": "hsk4-271",
@@ -2978,7 +3248,8 @@
     "partOfSpeech": "verb / particle",
     "frequency": 60,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "辶"
   },
   {
     "id": "hsk4-272",
@@ -2989,7 +3260,8 @@
     "partOfSpeech": "conjunction / particle",
     "frequency": 75,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "而"
   },
   {
     "id": "hsk4-273",
@@ -3000,7 +3272,8 @@
     "partOfSpeech": "verb / particle",
     "frequency": 83,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "竹"
   },
   {
     "id": "hsk4-274",
@@ -3011,7 +3284,8 @@
     "partOfSpeech": "conjunction / preposition",
     "frequency": 147,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "一"
   },
   {
     "id": "hsk4-275",
@@ -3022,7 +3296,8 @@
     "partOfSpeech": "preposition / verb",
     "frequency": 155,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "彐"
   },
   {
     "id": "hsk4-276",
@@ -3033,7 +3308,8 @@
     "partOfSpeech": "particle / pronoun",
     "frequency": 160,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "丿"
   },
   {
     "id": "hsk4-277",
@@ -3044,7 +3320,8 @@
     "partOfSpeech": "preposition / conjunction",
     "frequency": 166,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-278",
@@ -3055,7 +3332,8 @@
     "partOfSpeech": "verb",
     "frequency": 172,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "走"
   },
   {
     "id": "hsk4-279",
@@ -3066,7 +3344,8 @@
     "partOfSpeech": "adverb",
     "frequency": 199,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "卩"
   },
   {
     "id": "hsk4-280",
@@ -3077,7 +3356,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 211,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "又"
   },
   {
     "id": "hsk4-281",
@@ -3088,7 +3368,8 @@
     "partOfSpeech": "conjunction / adverb",
     "frequency": 216,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "一"
   },
   {
     "id": "hsk4-282",
@@ -3099,7 +3380,8 @@
     "partOfSpeech": "adjective / verb",
     "frequency": 238,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "户"
   },
   {
     "id": "hsk4-283",
@@ -3110,7 +3392,8 @@
     "partOfSpeech": "noun",
     "frequency": 245,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "心"
   },
   {
     "id": "hsk4-284",
@@ -3121,7 +3404,8 @@
     "partOfSpeech": "noun",
     "frequency": 261,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "冂"
   },
   {
     "id": "hsk4-285",
@@ -3132,7 +3416,8 @@
     "partOfSpeech": "verb",
     "frequency": 267,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "戈"
   },
   {
     "id": "hsk4-286",
@@ -3143,7 +3428,8 @@
     "partOfSpeech": "verb / measure word",
     "frequency": 272,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "行"
   },
   {
     "id": "hsk4-287",
@@ -3154,7 +3440,8 @@
     "partOfSpeech": "verb",
     "frequency": 285,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "糸"
   },
   {
     "id": "hsk4-288",
@@ -3165,7 +3452,8 @@
     "partOfSpeech": "measure word",
     "frequency": 286,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "土"
   },
   {
     "id": "hsk4-289",
@@ -3176,7 +3464,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 299,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "辶"
   },
   {
     "id": "hsk4-290",
@@ -3187,7 +3476,8 @@
     "partOfSpeech": "noun",
     "frequency": 319,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "冂"
   },
   {
     "id": "hsk4-291",
@@ -3198,7 +3488,8 @@
     "partOfSpeech": "preposition / verb",
     "frequency": 343,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "辶"
   },
   {
     "id": "hsk4-292",
@@ -3209,7 +3500,8 @@
     "partOfSpeech": "verb",
     "frequency": 344,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "无"
   },
   {
     "id": "hsk4-293",
@@ -3220,7 +3512,8 @@
     "partOfSpeech": "pronoun",
     "frequency": 350,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "一"
   },
   {
     "id": "hsk4-294",
@@ -3231,7 +3524,8 @@
     "partOfSpeech": "preposition / verb",
     "frequency": 353,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "田"
   },
   {
     "id": "hsk4-295",
@@ -3242,7 +3536,8 @@
     "partOfSpeech": "pronoun",
     "frequency": 356,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-296",
@@ -3253,7 +3548,8 @@
     "partOfSpeech": "noun / adverb",
     "frequency": 364,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "糸"
   },
   {
     "id": "hsk4-297",
@@ -3264,7 +3560,8 @@
     "partOfSpeech": "adjective",
     "frequency": 393,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "宀"
   },
   {
     "id": "hsk4-298",
@@ -3275,7 +3572,8 @@
     "partOfSpeech": "verb / measure word",
     "frequency": 400,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "又"
   },
   {
     "id": "hsk4-299",
@@ -3286,7 +3584,8 @@
     "partOfSpeech": "conjunction / adverb",
     "frequency": 404,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-300",
@@ -3297,7 +3596,8 @@
     "partOfSpeech": "adverb / verb",
     "frequency": 406,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "辶"
   },
   {
     "id": "hsk4-301",
@@ -3308,7 +3608,8 @@
     "partOfSpeech": "particle",
     "frequency": 432,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-302",
@@ -3319,7 +3620,8 @@
     "partOfSpeech": "noun",
     "frequency": 441,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "厂"
   },
   {
     "id": "hsk4-303",
@@ -3330,7 +3632,8 @@
     "partOfSpeech": "noun",
     "frequency": 448,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-304",
@@ -3341,7 +3644,8 @@
     "partOfSpeech": "conjunction",
     "frequency": 452,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-305",
@@ -3352,7 +3656,8 @@
     "partOfSpeech": "verb / adjective",
     "frequency": 463,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "干"
   },
   {
     "id": "hsk4-306",
@@ -3363,7 +3668,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 465,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-307",
@@ -3374,7 +3680,8 @@
     "partOfSpeech": "pronoun",
     "frequency": 470,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "八"
   },
   {
     "id": "hsk4-308",
@@ -3385,7 +3692,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 476,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "戈"
   },
   {
     "id": "hsk4-309",
@@ -3396,7 +3704,8 @@
     "partOfSpeech": "adverb / conjunction",
     "frequency": 478,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "甘"
   },
   {
     "id": "hsk4-310",
@@ -3407,7 +3716,8 @@
     "partOfSpeech": "adverb / verb",
     "frequency": 494,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "肉"
   },
   {
     "id": "hsk4-311",
@@ -3418,7 +3728,8 @@
     "partOfSpeech": "noun",
     "frequency": 505,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "彐"
   },
   {
     "id": "hsk4-312",
@@ -3429,7 +3740,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 512,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "言"
   },
   {
     "id": "hsk4-313",
@@ -3440,7 +3752,8 @@
     "partOfSpeech": "noun / numeral",
     "frequency": 513,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "邑"
   },
   {
     "id": "hsk4-314",
@@ -3451,7 +3764,8 @@
     "partOfSpeech": "noun",
     "frequency": 534,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "肉"
   },
   {
     "id": "hsk4-315",
@@ -3462,7 +3776,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 536,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-316",
@@ -3473,7 +3788,8 @@
     "partOfSpeech": "adjective / adverb",
     "frequency": 544,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "目"
   },
   {
     "id": "hsk4-317",
@@ -3484,7 +3800,8 @@
     "partOfSpeech": "verb",
     "frequency": 549,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-318",
@@ -3495,7 +3812,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 551,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "攴"
   },
   {
     "id": "hsk4-319",
@@ -3506,7 +3824,8 @@
     "partOfSpeech": "noun",
     "frequency": 577,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "方"
   },
   {
     "id": "hsk4-320",
@@ -3517,7 +3836,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 586,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-321",
@@ -3528,7 +3848,8 @@
     "partOfSpeech": "adjective",
     "frequency": 588,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "目"
   },
   {
     "id": "hsk4-322",
@@ -3539,7 +3860,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 590,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "糸"
   },
   {
     "id": "hsk4-323",
@@ -3550,7 +3872,8 @@
     "partOfSpeech": "adverb / adjective",
     "frequency": 599,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-324",
@@ -3561,7 +3884,8 @@
     "partOfSpeech": "noun",
     "frequency": 601,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "方"
   },
   {
     "id": "hsk4-325",
@@ -3572,7 +3896,8 @@
     "partOfSpeech": "adverb",
     "frequency": 601,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "乙"
   },
   {
     "id": "hsk4-326",
@@ -3583,7 +3908,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 605,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-327",
@@ -3594,7 +3920,8 @@
     "partOfSpeech": "measure word",
     "frequency": 608,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-328",
@@ -3605,7 +3932,8 @@
     "partOfSpeech": "verb",
     "frequency": 621,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-329",
@@ -3616,7 +3944,8 @@
     "partOfSpeech": "verb",
     "frequency": 639,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-330",
@@ -3627,7 +3956,8 @@
     "partOfSpeech": "noun",
     "frequency": 640,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "米"
   },
   {
     "id": "hsk4-331",
@@ -3638,7 +3968,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 641,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-332",
@@ -3649,7 +3980,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 644,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-333",
@@ -3660,7 +3992,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 667,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "耳"
   },
   {
     "id": "hsk4-334",
@@ -3671,7 +4004,8 @@
     "partOfSpeech": "conjunction",
     "frequency": 668,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "囗"
   },
   {
     "id": "hsk4-335",
@@ -3682,7 +4016,8 @@
     "partOfSpeech": "noun / measure word",
     "frequency": 696,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-336",
@@ -3693,7 +4028,8 @@
     "partOfSpeech": "verb / adverb",
     "frequency": 698,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "竹"
   },
   {
     "id": "hsk4-337",
@@ -3704,7 +4040,8 @@
     "partOfSpeech": "verb",
     "frequency": 701,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "艹"
   },
   {
     "id": "hsk4-338",
@@ -3715,7 +4052,8 @@
     "partOfSpeech": "verb",
     "frequency": 705,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "田"
   },
   {
     "id": "hsk4-339",
@@ -3726,7 +4064,8 @@
     "partOfSpeech": "verb",
     "frequency": 715,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "亠"
   },
   {
     "id": "hsk4-340",
@@ -3737,7 +4076,8 @@
     "partOfSpeech": "numeral",
     "frequency": 718,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "入"
   },
   {
     "id": "hsk4-341",
@@ -3748,7 +4088,8 @@
     "partOfSpeech": "adverb",
     "frequency": 719,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "刀"
   },
   {
     "id": "hsk4-342",
@@ -3759,7 +4100,8 @@
     "partOfSpeech": "pronoun / conjunction",
     "frequency": 725,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-343",
@@ -3770,7 +4112,8 @@
     "partOfSpeech": "adverb / verb",
     "frequency": 737,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-344",
@@ -3781,7 +4124,8 @@
     "partOfSpeech": "verb",
     "frequency": 738,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "女"
   },
   {
     "id": "hsk4-345",
@@ -3792,7 +4136,8 @@
     "partOfSpeech": "adverb / verb",
     "frequency": 741,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "刀"
   },
   {
     "id": "hsk4-346",
@@ -3803,7 +4148,8 @@
     "partOfSpeech": "measure word",
     "frequency": 751,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "广"
   },
   {
     "id": "hsk4-347",
@@ -3814,7 +4160,8 @@
     "partOfSpeech": "noun",
     "frequency": 758,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-348",
@@ -3825,7 +4172,8 @@
     "partOfSpeech": "preposition / verb",
     "frequency": 760,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "彳"
   },
   {
     "id": "hsk4-349",
@@ -3836,7 +4184,8 @@
     "partOfSpeech": "verb",
     "frequency": 788,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "勹"
   },
   {
     "id": "hsk4-350",
@@ -3847,7 +4196,8 @@
     "partOfSpeech": "adverb / adjective",
     "frequency": 790,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "厂"
   },
   {
     "id": "hsk4-351",
@@ -3858,7 +4208,8 @@
     "partOfSpeech": "noun / adverb",
     "frequency": 800,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "儿"
   },
   {
     "id": "hsk4-352",
@@ -3869,7 +4220,8 @@
     "partOfSpeech": "noun",
     "frequency": 816,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-353",
@@ -3880,7 +4232,8 @@
     "partOfSpeech": "conjunction",
     "frequency": 827,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "干"
   },
   {
     "id": "hsk4-354",
@@ -3891,7 +4244,8 @@
     "partOfSpeech": "verb",
     "frequency": 834,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "攴"
   },
   {
     "id": "hsk4-355",
@@ -3902,7 +4256,8 @@
     "partOfSpeech": "noun",
     "frequency": 836,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "示"
   },
   {
     "id": "hsk4-356",
@@ -3913,7 +4268,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 838,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "言"
   },
   {
     "id": "hsk4-357",
@@ -3924,7 +4280,8 @@
     "partOfSpeech": "noun",
     "frequency": 849,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "广"
   },
   {
     "id": "hsk4-358",
@@ -3935,7 +4292,8 @@
     "partOfSpeech": "adjective / adverb",
     "frequency": 850,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "石"
   },
   {
     "id": "hsk4-359",
@@ -3946,7 +4304,8 @@
     "partOfSpeech": "conjunction / verb",
     "frequency": 854,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "一"
   },
   {
     "id": "hsk4-360",
@@ -3957,7 +4316,8 @@
     "partOfSpeech": "verb",
     "frequency": 858,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "又"
   },
   {
     "id": "hsk4-361",
@@ -3968,7 +4328,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 859,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "又"
   },
   {
     "id": "hsk4-362",
@@ -3979,7 +4340,8 @@
     "partOfSpeech": "adverb",
     "frequency": 868,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "至"
   },
   {
     "id": "hsk4-363",
@@ -3990,7 +4352,8 @@
     "partOfSpeech": "adverb / conjunction",
     "frequency": 878,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "首"
   },
   {
     "id": "hsk4-364",
@@ -4001,7 +4364,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 886,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-365",
@@ -4012,7 +4376,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 900,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "宀"
   },
   {
     "id": "hsk4-366",
@@ -4023,7 +4388,8 @@
     "partOfSpeech": "adverb",
     "frequency": 915,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "里"
   },
   {
     "id": "hsk4-367",
@@ -4034,7 +4400,8 @@
     "partOfSpeech": "noun",
     "frequency": 935,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "贝"
   },
   {
     "id": "hsk4-368",
@@ -4045,7 +4412,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 938,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "言"
   },
   {
     "id": "hsk4-369",
@@ -4056,7 +4424,8 @@
     "partOfSpeech": "verb",
     "frequency": 952,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "廾"
   },
   {
     "id": "hsk4-370",
@@ -4067,7 +4436,8 @@
     "partOfSpeech": "verb",
     "frequency": 952,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "贝"
   },
   {
     "id": "hsk4-371",
@@ -4078,7 +4448,8 @@
     "partOfSpeech": "adjective / verb",
     "frequency": 961,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-372",
@@ -4089,7 +4460,8 @@
     "partOfSpeech": "numeral",
     "frequency": 969,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "言"
   },
   {
     "id": "hsk4-373",
@@ -4100,7 +4472,8 @@
     "partOfSpeech": "noun",
     "frequency": 981,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "厂"
   },
   {
     "id": "hsk4-374",
@@ -4111,7 +4484,8 @@
     "partOfSpeech": "preposition / conjunction",
     "frequency": 982,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "田"
   },
   {
     "id": "hsk4-375",
@@ -4122,7 +4496,8 @@
     "partOfSpeech": "verb",
     "frequency": 994,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "攴"
   },
   {
     "id": "hsk4-376",
@@ -4133,7 +4508,8 @@
     "partOfSpeech": "noun",
     "frequency": 1002,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "辶"
   },
   {
     "id": "hsk4-377",
@@ -4144,7 +4520,8 @@
     "partOfSpeech": "conjunction",
     "frequency": 1004,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "卩"
   },
   {
     "id": "hsk4-378",
@@ -4155,7 +4532,8 @@
     "partOfSpeech": "conjunction / adverb",
     "frequency": 1014,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "尸"
   },
   {
     "id": "hsk4-379",
@@ -4166,7 +4544,8 @@
     "partOfSpeech": "pronoun",
     "frequency": 1022,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-380",
@@ -4177,7 +4556,8 @@
     "partOfSpeech": "adverb",
     "frequency": 1029,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-381",
@@ -4188,7 +4568,8 @@
     "partOfSpeech": "verb",
     "frequency": 1037,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-382",
@@ -4199,7 +4580,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1047,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "糸"
   },
   {
     "id": "hsk4-383",
@@ -4210,7 +4592,8 @@
     "partOfSpeech": "verb",
     "frequency": 1048,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "走"
   },
   {
     "id": "hsk4-384",
@@ -4221,7 +4604,8 @@
     "partOfSpeech": "noun / adjective",
     "frequency": 1053,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-385",
@@ -4232,7 +4616,8 @@
     "partOfSpeech": "noun",
     "frequency": 1055,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-386",
@@ -4243,7 +4628,8 @@
     "partOfSpeech": "noun",
     "frequency": 1059,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-387",
@@ -4254,7 +4640,8 @@
     "partOfSpeech": "noun",
     "frequency": 1067,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "土"
   },
   {
     "id": "hsk4-388",
@@ -4265,7 +4652,8 @@
     "partOfSpeech": "conjunction",
     "frequency": 1069,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "无"
   },
   {
     "id": "hsk4-389",
@@ -4276,7 +4664,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 1081,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "目"
   },
   {
     "id": "hsk4-390",
@@ -4287,7 +4676,8 @@
     "partOfSpeech": "adverb",
     "frequency": 1086,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "十"
   },
   {
     "id": "hsk4-391",
@@ -4298,7 +4688,8 @@
     "partOfSpeech": "adverb / adjective",
     "frequency": 1093,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "木"
   },
   {
     "id": "hsk4-392",
@@ -4309,7 +4700,8 @@
     "partOfSpeech": "noun",
     "frequency": 1104,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "木"
   },
   {
     "id": "hsk4-393",
@@ -4320,7 +4712,8 @@
     "partOfSpeech": "noun / adjective",
     "frequency": 1131,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "八"
   },
   {
     "id": "hsk4-394",
@@ -4331,7 +4724,8 @@
     "partOfSpeech": "noun",
     "frequency": 1140,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "木"
   },
   {
     "id": "hsk4-395",
@@ -4342,7 +4736,8 @@
     "partOfSpeech": "adverb",
     "frequency": 1147,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "隹"
   },
   {
     "id": "hsk4-396",
@@ -4353,7 +4748,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 1151,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "见"
   },
   {
     "id": "hsk4-397",
@@ -4364,7 +4760,8 @@
     "partOfSpeech": "conjunction",
     "frequency": 1151,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "二"
   },
   {
     "id": "hsk4-398",
@@ -4375,7 +4772,8 @@
     "partOfSpeech": "noun / measure word",
     "frequency": 1165,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "羊"
   },
   {
     "id": "hsk4-399",
@@ -4386,7 +4784,8 @@
     "partOfSpeech": "verb / adverb",
     "frequency": 1173,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "夕"
   },
   {
     "id": "hsk4-400",
@@ -4397,7 +4796,8 @@
     "partOfSpeech": "noun",
     "frequency": 1181,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "火"
   },
   {
     "id": "hsk4-401",
@@ -4408,7 +4808,8 @@
     "partOfSpeech": "noun",
     "frequency": 1183,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "方"
   },
   {
     "id": "hsk4-402",
@@ -4419,7 +4820,8 @@
     "partOfSpeech": "verb",
     "frequency": 1198,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "又"
   },
   {
     "id": "hsk4-403",
@@ -4430,7 +4832,8 @@
     "partOfSpeech": "adverb / adjective",
     "frequency": 1206,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "乙"
   },
   {
     "id": "hsk4-404",
@@ -4441,7 +4844,8 @@
     "partOfSpeech": "verb",
     "frequency": 1211,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "辶"
   },
   {
     "id": "hsk4-405",
@@ -4452,7 +4856,8 @@
     "partOfSpeech": "adjective",
     "frequency": 1215,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "止"
   },
   {
     "id": "hsk4-406",
@@ -4463,7 +4868,8 @@
     "partOfSpeech": "verb",
     "frequency": 1216,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "弓"
   },
   {
     "id": "hsk4-407",
@@ -4474,7 +4880,8 @@
     "partOfSpeech": "adverb",
     "frequency": 1222,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-408",
@@ -4485,7 +4892,8 @@
     "partOfSpeech": "noun",
     "frequency": 1246,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "冂"
   },
   {
     "id": "hsk4-409",
@@ -4496,7 +4904,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 1246,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "辶"
   },
   {
     "id": "hsk4-410",
@@ -4507,7 +4916,8 @@
     "partOfSpeech": "noun",
     "frequency": 1260,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "目"
   },
   {
     "id": "hsk4-411",
@@ -4518,7 +4928,8 @@
     "partOfSpeech": "noun",
     "frequency": 1262,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "囗"
   },
   {
     "id": "hsk4-412",
@@ -4529,7 +4940,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 1269,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "糸"
   },
   {
     "id": "hsk4-413",
@@ -4540,7 +4952,8 @@
     "partOfSpeech": "noun",
     "frequency": 1285,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "刀"
   },
   {
     "id": "hsk4-414",
@@ -4551,7 +4964,8 @@
     "partOfSpeech": "adjective",
     "frequency": 1320,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "米"
   },
   {
     "id": "hsk4-415",
@@ -4562,7 +4976,8 @@
     "partOfSpeech": "noun",
     "frequency": 1325,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "艹"
   },
   {
     "id": "hsk4-416",
@@ -4573,7 +4988,8 @@
     "partOfSpeech": "adverb / adjective",
     "frequency": 1340,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "宀"
   },
   {
     "id": "hsk4-417",
@@ -4584,7 +5000,8 @@
     "partOfSpeech": "noun",
     "frequency": 1352,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "攴"
   },
   {
     "id": "hsk4-418",
@@ -4595,7 +5012,8 @@
     "partOfSpeech": "measure word / adverb",
     "frequency": 1358,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "辶"
   },
   {
     "id": "hsk4-419",
@@ -4606,7 +5024,8 @@
     "partOfSpeech": "preposition / verb",
     "frequency": 1378,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-420",
@@ -4617,7 +5036,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1381,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "又"
   },
   {
     "id": "hsk4-421",
@@ -4628,7 +5048,8 @@
     "partOfSpeech": "adverb",
     "frequency": 1381,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "音"
   },
   {
     "id": "hsk4-422",
@@ -4639,7 +5060,8 @@
     "partOfSpeech": "noun / adverb",
     "frequency": 1381,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "里"
   },
   {
     "id": "hsk4-423",
@@ -4650,7 +5072,8 @@
     "partOfSpeech": "measure word / adverb",
     "frequency": 1396,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-424",
@@ -4661,7 +5084,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1399,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "酉"
   },
   {
     "id": "hsk4-425",
@@ -4672,7 +5096,8 @@
     "partOfSpeech": "verb",
     "frequency": 1403,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "车"
   },
   {
     "id": "hsk4-426",
@@ -4683,7 +5108,8 @@
     "partOfSpeech": "pronoun",
     "frequency": 1405,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-427",
@@ -4694,7 +5120,8 @@
     "partOfSpeech": "conjunction",
     "frequency": 1416,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-428",
@@ -4705,7 +5132,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 1418,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "力"
   },
   {
     "id": "hsk4-429",
@@ -4716,7 +5144,8 @@
     "partOfSpeech": "numeral",
     "frequency": 1419,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-430",
@@ -4727,7 +5156,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1419,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "土"
   },
   {
     "id": "hsk4-431",
@@ -4738,7 +5168,8 @@
     "partOfSpeech": "adjective",
     "frequency": 1452,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "巾"
   },
   {
     "id": "hsk4-432",
@@ -4749,7 +5180,8 @@
     "partOfSpeech": "conjunction",
     "frequency": 1467,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "一"
   },
   {
     "id": "hsk4-433",
@@ -4760,7 +5192,8 @@
     "partOfSpeech": "adjective",
     "frequency": 1475,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "页"
   },
   {
     "id": "hsk4-434",
@@ -4771,7 +5204,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 1492,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "麻"
   },
   {
     "id": "hsk4-435",
@@ -4782,7 +5216,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1568,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-436",
@@ -4793,7 +5228,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1584,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "立"
   },
   {
     "id": "hsk4-437",
@@ -4804,7 +5240,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1588,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "大"
   },
   {
     "id": "hsk4-438",
@@ -4815,7 +5252,8 @@
     "partOfSpeech": "noun",
     "frequency": 1599,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "一"
   },
   {
     "id": "hsk4-439",
@@ -4826,7 +5264,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1600,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "刀"
   },
   {
     "id": "hsk4-440",
@@ -4837,7 +5276,8 @@
     "partOfSpeech": "adverb",
     "frequency": 1606,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "一"
   },
   {
     "id": "hsk4-441",
@@ -4848,7 +5288,8 @@
     "partOfSpeech": "noun",
     "frequency": 1609,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "彐"
   },
   {
     "id": "hsk4-442",
@@ -4859,7 +5300,8 @@
     "partOfSpeech": "adverb / noun",
     "frequency": 1611,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "大"
   },
   {
     "id": "hsk4-443",
@@ -4870,7 +5312,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1611,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "儿"
   },
   {
     "id": "hsk4-444",
@@ -4881,7 +5324,8 @@
     "partOfSpeech": "measure word",
     "frequency": 1617,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "页"
   },
   {
     "id": "hsk4-445",
@@ -4892,7 +5336,8 @@
     "partOfSpeech": "verb",
     "frequency": 1617,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-446",
@@ -4903,7 +5348,8 @@
     "partOfSpeech": "adverb / adjective",
     "frequency": 1623,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "八"
   },
   {
     "id": "hsk4-447",
@@ -4914,7 +5360,8 @@
     "partOfSpeech": "conjunction",
     "frequency": 1629,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "无"
   },
   {
     "id": "hsk4-448",
@@ -4925,7 +5372,8 @@
     "partOfSpeech": "verb",
     "frequency": 1632,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-449",
@@ -4936,7 +5384,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1634,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-450",
@@ -4947,7 +5396,8 @@
     "partOfSpeech": "noun",
     "frequency": 1643,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-451",
@@ -4958,7 +5408,8 @@
     "partOfSpeech": "noun",
     "frequency": 1649,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-452",
@@ -4969,7 +5420,8 @@
     "partOfSpeech": "verb",
     "frequency": 1655,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "一"
   },
   {
     "id": "hsk4-453",
@@ -4980,7 +5432,8 @@
     "partOfSpeech": "noun",
     "frequency": 1670,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "攴"
   },
   {
     "id": "hsk4-454",
@@ -4991,7 +5444,8 @@
     "partOfSpeech": "noun",
     "frequency": 1688,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "亠"
   },
   {
     "id": "hsk4-455",
@@ -5002,7 +5456,8 @@
     "partOfSpeech": "adjective",
     "frequency": 1689,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-456",
@@ -5013,7 +5468,8 @@
     "partOfSpeech": "verb / adjective",
     "frequency": 1691,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "亠"
   },
   {
     "id": "hsk4-457",
@@ -5024,7 +5480,8 @@
     "partOfSpeech": "measure word",
     "frequency": 1691,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "竹"
   },
   {
     "id": "hsk4-458",
@@ -5035,7 +5492,8 @@
     "partOfSpeech": "adverb",
     "frequency": 1704,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "冂"
   },
   {
     "id": "hsk4-459",
@@ -5046,7 +5504,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1707,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "斤"
   },
   {
     "id": "hsk4-460",
@@ -5057,7 +5516,8 @@
     "partOfSpeech": "numeral / noun",
     "frequency": 1708,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "十"
   },
   {
     "id": "hsk4-461",
@@ -5068,7 +5528,8 @@
     "partOfSpeech": "verb",
     "frequency": 1714,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "凵"
   },
   {
     "id": "hsk4-462",
@@ -5079,7 +5540,8 @@
     "partOfSpeech": "noun / preposition",
     "frequency": 1725,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "足"
   },
   {
     "id": "hsk4-463",
@@ -5090,7 +5552,8 @@
     "partOfSpeech": "noun",
     "frequency": 1741,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "土"
   },
   {
     "id": "hsk4-464",
@@ -5101,7 +5564,8 @@
     "partOfSpeech": "verb",
     "frequency": 1778,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-465",
@@ -5112,7 +5576,8 @@
     "partOfSpeech": "adverb / noun",
     "frequency": 1812,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "穴"
   },
   {
     "id": "hsk4-466",
@@ -5123,7 +5588,8 @@
     "partOfSpeech": "conjunction",
     "frequency": 1818,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "火"
   },
   {
     "id": "hsk4-467",
@@ -5134,7 +5600,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1828,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "亠"
   },
   {
     "id": "hsk4-468",
@@ -5145,7 +5612,8 @@
     "partOfSpeech": "verb / adjective",
     "frequency": 1868,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "囗"
   },
   {
     "id": "hsk4-469",
@@ -5156,7 +5624,8 @@
     "partOfSpeech": "verb",
     "frequency": 1870,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "竹"
   },
   {
     "id": "hsk4-470",
@@ -5167,7 +5636,8 @@
     "partOfSpeech": "noun",
     "frequency": 1912,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "竹"
   },
   {
     "id": "hsk4-471",
@@ -5178,7 +5648,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1924,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-472",
@@ -5189,7 +5660,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1926,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "寸"
   },
   {
     "id": "hsk4-473",
@@ -5200,7 +5672,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 1931,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-474",
@@ -5211,7 +5684,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 1935,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "马"
   },
   {
     "id": "hsk4-475",
@@ -5222,7 +5696,8 @@
     "partOfSpeech": "verb / adjective",
     "frequency": 1942,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-476",
@@ -5233,7 +5708,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 1955,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "戈"
   },
   {
     "id": "hsk4-477",
@@ -5244,7 +5720,8 @@
     "partOfSpeech": "noun",
     "frequency": 1965,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "网"
   },
   {
     "id": "hsk4-478",
@@ -5255,7 +5732,8 @@
     "partOfSpeech": "noun / adjective",
     "frequency": 1981,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "宀"
   },
   {
     "id": "hsk4-479",
@@ -5266,7 +5744,8 @@
     "partOfSpeech": "noun",
     "frequency": 2013,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "干"
   },
   {
     "id": "hsk4-480",
@@ -5277,7 +5756,8 @@
     "partOfSpeech": "l",
     "frequency": 2024,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "工"
   },
   {
     "id": "hsk4-481",
@@ -5288,7 +5768,8 @@
     "partOfSpeech": "verb / adjective",
     "frequency": 2035,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-482",
@@ -5299,7 +5780,8 @@
     "partOfSpeech": "noun",
     "frequency": 2055,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "穴"
   },
   {
     "id": "hsk4-483",
@@ -5310,7 +5792,8 @@
     "partOfSpeech": "noun",
     "frequency": 2069,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "木"
   },
   {
     "id": "hsk4-484",
@@ -5321,7 +5804,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2070,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "火"
   },
   {
     "id": "hsk4-485",
@@ -5332,7 +5816,8 @@
     "partOfSpeech": "adjective / verb",
     "frequency": 2071,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "阜"
   },
   {
     "id": "hsk4-486",
@@ -5343,7 +5828,8 @@
     "partOfSpeech": "verb",
     "frequency": 2075,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-487",
@@ -5354,7 +5840,8 @@
     "partOfSpeech": "adverb / adjective",
     "frequency": 2091,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "二"
   },
   {
     "id": "hsk4-488",
@@ -5365,7 +5852,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 2106,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "大"
   },
   {
     "id": "hsk4-489",
@@ -5376,7 +5864,8 @@
     "partOfSpeech": "noun",
     "frequency": 2110,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-490",
@@ -5387,7 +5876,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2112,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "凵"
   },
   {
     "id": "hsk4-491",
@@ -5398,7 +5888,8 @@
     "partOfSpeech": "noun",
     "frequency": 2135,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "土"
   },
   {
     "id": "hsk4-492",
@@ -5409,7 +5900,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2147,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "辶"
   },
   {
     "id": "hsk4-493",
@@ -5420,7 +5912,8 @@
     "partOfSpeech": "verb",
     "frequency": 2168,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "犬"
   },
   {
     "id": "hsk4-494",
@@ -5431,7 +5924,8 @@
     "partOfSpeech": "adverb",
     "frequency": 2171,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "刀"
   },
   {
     "id": "hsk4-495",
@@ -5442,7 +5936,8 @@
     "partOfSpeech": "adverb",
     "frequency": 2186,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "大"
   },
   {
     "id": "hsk4-496",
@@ -5453,7 +5948,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2206,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-497",
@@ -5464,7 +5960,8 @@
     "partOfSpeech": "adverb / adjective",
     "frequency": 2209,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "日"
   },
   {
     "id": "hsk4-498",
@@ -5475,7 +5972,8 @@
     "partOfSpeech": "adjective",
     "frequency": 2212,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "禾"
   },
   {
     "id": "hsk4-499",
@@ -5486,7 +5984,8 @@
     "partOfSpeech": "adjective",
     "frequency": 2221,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "高"
   },
   {
     "id": "hsk4-500",
@@ -5497,7 +5996,8 @@
     "partOfSpeech": "verb / adjective",
     "frequency": 2237,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-501",
@@ -5508,7 +6008,8 @@
     "partOfSpeech": "adverb",
     "frequency": 2245,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "心"
   },
   {
     "id": "hsk4-502",
@@ -5519,7 +6020,8 @@
     "partOfSpeech": "adjective",
     "frequency": 2280,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "又"
   },
   {
     "id": "hsk4-503",
@@ -5530,7 +6032,8 @@
     "partOfSpeech": "noun",
     "frequency": 2299,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "工"
   },
   {
     "id": "hsk4-504",
@@ -5541,7 +6044,8 @@
     "partOfSpeech": "verb",
     "frequency": 2332,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "禾"
   },
   {
     "id": "hsk4-505",
@@ -5552,7 +6056,8 @@
     "partOfSpeech": "adverb",
     "frequency": 2400,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "尢"
   },
   {
     "id": "hsk4-506",
@@ -5563,7 +6068,8 @@
     "partOfSpeech": "measure word",
     "frequency": 2404,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "页"
   },
   {
     "id": "hsk4-507",
@@ -5574,7 +6080,8 @@
     "partOfSpeech": "adverb / adjective",
     "frequency": 2426,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "攴"
   },
   {
     "id": "hsk4-508",
@@ -5585,7 +6092,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2443,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "冫"
   },
   {
     "id": "hsk4-509",
@@ -5596,7 +6104,8 @@
     "partOfSpeech": "verb",
     "frequency": 2453,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "刀"
   },
   {
     "id": "hsk4-510",
@@ -5607,7 +6116,8 @@
     "partOfSpeech": "z",
     "frequency": 2469,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "止"
   },
   {
     "id": "hsk4-511",
@@ -5618,7 +6128,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 2470,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "丶"
   },
   {
     "id": "hsk4-512",
@@ -5629,7 +6140,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2479,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "阜"
   },
   {
     "id": "hsk4-513",
@@ -5640,7 +6152,8 @@
     "partOfSpeech": "noun",
     "frequency": 2512,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "玉"
   },
   {
     "id": "hsk4-514",
@@ -5651,7 +6164,8 @@
     "partOfSpeech": "adjective",
     "frequency": 2524,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "月"
   },
   {
     "id": "hsk4-515",
@@ -5662,7 +6176,8 @@
     "partOfSpeech": "noun",
     "frequency": 2534,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "女"
   },
   {
     "id": "hsk4-516",
@@ -5673,7 +6188,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 2566,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "匸"
   },
   {
     "id": "hsk4-517",
@@ -5684,7 +6200,8 @@
     "partOfSpeech": "noun",
     "frequency": 2601,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "寸"
   },
   {
     "id": "hsk4-518",
@@ -5695,7 +6212,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2669,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "丶"
   },
   {
     "id": "hsk4-519",
@@ -5706,7 +6224,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2717,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "糸"
   },
   {
     "id": "hsk4-520",
@@ -5717,7 +6236,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2724,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-521",
@@ -5728,7 +6248,8 @@
     "partOfSpeech": "verb",
     "frequency": 2738,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-522",
@@ -5739,7 +6260,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 2754,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "厂"
   },
   {
     "id": "hsk4-523",
@@ -5750,7 +6272,8 @@
     "partOfSpeech": "noun",
     "frequency": 2780,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "干"
   },
   {
     "id": "hsk4-524",
@@ -5761,7 +6284,8 @@
     "partOfSpeech": "noun",
     "frequency": 2805,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "贝"
   },
   {
     "id": "hsk4-525",
@@ -5772,7 +6296,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 2823,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "心"
   },
   {
     "id": "hsk4-526",
@@ -5783,7 +6308,8 @@
     "partOfSpeech": "verb",
     "frequency": 2897,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "示"
   },
   {
     "id": "hsk4-527",
@@ -5794,7 +6320,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 2899,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "囗"
   },
   {
     "id": "hsk4-528",
@@ -5805,7 +6332,8 @@
     "partOfSpeech": "noun",
     "frequency": 2916,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "攴"
   },
   {
     "id": "hsk4-529",
@@ -5816,7 +6344,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3058,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "阜"
   },
   {
     "id": "hsk4-530",
@@ -5827,7 +6356,8 @@
     "partOfSpeech": "adverb / conjunction",
     "frequency": 3104,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "木"
   },
   {
     "id": "hsk4-531",
@@ -5838,7 +6368,8 @@
     "partOfSpeech": "preposition",
     "frequency": 3104,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "阜"
   },
   {
     "id": "hsk4-532",
@@ -5849,7 +6380,8 @@
     "partOfSpeech": "adverb",
     "frequency": 3132,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-533",
@@ -5860,7 +6392,8 @@
     "partOfSpeech": "measure word",
     "frequency": 3174,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "走"
   },
   {
     "id": "hsk4-534",
@@ -5871,7 +6404,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3182,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "言"
   },
   {
     "id": "hsk4-535",
@@ -5882,7 +6416,8 @@
     "partOfSpeech": "verb",
     "frequency": 3212,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "小"
   },
   {
     "id": "hsk4-536",
@@ -5893,7 +6428,8 @@
     "partOfSpeech": "numeral",
     "frequency": 3215,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-537",
@@ -5904,7 +6440,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3221,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "寸"
   },
   {
     "id": "hsk4-538",
@@ -5915,7 +6452,8 @@
     "partOfSpeech": "adverb",
     "frequency": 3347,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "辶"
   },
   {
     "id": "hsk4-539",
@@ -5926,7 +6464,8 @@
     "partOfSpeech": "noun",
     "frequency": 3440,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-540",
@@ -5937,7 +6476,8 @@
     "partOfSpeech": "verb",
     "frequency": 3486,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-541",
@@ -5948,7 +6488,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3501,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "示"
   },
   {
     "id": "hsk4-542",
@@ -5959,7 +6500,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3506,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "里"
   },
   {
     "id": "hsk4-543",
@@ -5970,7 +6512,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3521,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "土"
   },
   {
     "id": "hsk4-544",
@@ -5981,7 +6524,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3525,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "目"
   },
   {
     "id": "hsk4-545",
@@ -5992,7 +6536,8 @@
     "partOfSpeech": "noun",
     "frequency": 3584,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "丶"
   },
   {
     "id": "hsk4-546",
@@ -6003,7 +6548,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3635,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-547",
@@ -6014,7 +6560,8 @@
     "partOfSpeech": "adverb / adjective",
     "frequency": 3731,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-548",
@@ -6025,7 +6572,8 @@
     "partOfSpeech": "l",
     "frequency": 3756,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "又"
   },
   {
     "id": "hsk4-549",
@@ -6036,7 +6584,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3793,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "厶"
   },
   {
     "id": "hsk4-550",
@@ -6047,7 +6596,8 @@
     "partOfSpeech": "adverb",
     "frequency": 3796,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "页"
   },
   {
     "id": "hsk4-551",
@@ -6058,7 +6608,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 3914,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "又"
   },
   {
     "id": "hsk4-552",
@@ -6069,7 +6620,8 @@
     "partOfSpeech": "noun / verb",
     "frequency": 3939,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "寸"
   },
   {
     "id": "hsk4-553",
@@ -6080,7 +6632,8 @@
     "partOfSpeech": "conjunction / pronoun",
     "frequency": 3998,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "八"
   },
   {
     "id": "hsk4-554",
@@ -6091,7 +6644,8 @@
     "partOfSpeech": "noun",
     "frequency": 4039,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "牛"
   },
   {
     "id": "hsk4-555",
@@ -6102,7 +6656,8 @@
     "partOfSpeech": "adverb",
     "frequency": 4050,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "彳"
   },
   {
     "id": "hsk4-556",
@@ -6113,7 +6668,8 @@
     "partOfSpeech": "noun",
     "frequency": 4068,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "风"
   },
   {
     "id": "hsk4-557",
@@ -6124,7 +6680,8 @@
     "partOfSpeech": "conjunction",
     "frequency": 4161,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "一"
   },
   {
     "id": "hsk4-558",
@@ -6135,7 +6692,8 @@
     "partOfSpeech": "verb",
     "frequency": 4167,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-559",
@@ -6146,7 +6704,8 @@
     "partOfSpeech": "measure word",
     "frequency": 4222,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "木"
   },
   {
     "id": "hsk4-560",
@@ -6157,7 +6716,8 @@
     "partOfSpeech": "verb",
     "frequency": 4232,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-561",
@@ -6168,7 +6728,8 @@
     "partOfSpeech": "adverb",
     "frequency": 4305,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "禾"
   },
   {
     "id": "hsk4-562",
@@ -6179,7 +6740,8 @@
     "partOfSpeech": "noun",
     "frequency": 4310,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-563",
@@ -6190,7 +6752,8 @@
     "partOfSpeech": "verb",
     "frequency": 4326,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "缶"
   },
   {
     "id": "hsk4-564",
@@ -6201,7 +6764,8 @@
     "partOfSpeech": "noun",
     "frequency": 4477,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "广"
   },
   {
     "id": "hsk4-565",
@@ -6212,7 +6776,8 @@
     "partOfSpeech": "noun",
     "frequency": 4483,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "首"
   },
   {
     "id": "hsk4-566",
@@ -6223,7 +6788,8 @@
     "partOfSpeech": "adverb",
     "frequency": 4518,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "心"
   },
   {
     "id": "hsk4-567",
@@ -6234,7 +6800,8 @@
     "partOfSpeech": "adverb",
     "frequency": 4627,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "木"
   },
   {
     "id": "hsk4-568",
@@ -6245,7 +6812,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 4753,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "心"
   },
   {
     "id": "hsk4-569",
@@ -6256,7 +6824,8 @@
     "partOfSpeech": "measure word",
     "frequency": 4920,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "木"
   },
   {
     "id": "hsk4-570",
@@ -6267,7 +6836,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 5048,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "口"
   },
   {
     "id": "hsk4-571",
@@ -6278,7 +6848,8 @@
     "partOfSpeech": "noun",
     "frequency": 5156,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "力"
   },
   {
     "id": "hsk4-572",
@@ -6289,7 +6860,8 @@
     "partOfSpeech": "noun",
     "frequency": 5178,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "缶"
   },
   {
     "id": "hsk4-573",
@@ -6300,7 +6872,8 @@
     "partOfSpeech": "verb",
     "frequency": 5335,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-574",
@@ -6311,7 +6884,8 @@
     "partOfSpeech": "noun",
     "frequency": 5430,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "网"
   },
   {
     "id": "hsk4-575",
@@ -6322,7 +6896,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 5571,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "隹"
   },
   {
     "id": "hsk4-576",
@@ -6333,7 +6908,8 @@
     "partOfSpeech": "noun",
     "frequency": 5641,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "人"
   },
   {
     "id": "hsk4-577",
@@ -6344,7 +6920,8 @@
     "partOfSpeech": "verb",
     "frequency": 5768,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "木"
   },
   {
     "id": "hsk4-578",
@@ -6355,7 +6932,8 @@
     "partOfSpeech": "noun",
     "frequency": 6178,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "页"
   },
   {
     "id": "hsk4-579",
@@ -6366,7 +6944,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 6248,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "冫"
   },
   {
     "id": "hsk4-580",
@@ -6377,7 +6956,8 @@
     "partOfSpeech": "noun",
     "frequency": 6459,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "丨"
   },
   {
     "id": "hsk4-581",
@@ -6388,7 +6968,8 @@
     "partOfSpeech": "noun",
     "frequency": 6513,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "心"
   },
   {
     "id": "hsk4-582",
@@ -6399,7 +6980,8 @@
     "partOfSpeech": "verb",
     "frequency": 6981,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "木"
   },
   {
     "id": "hsk4-583",
@@ -6410,7 +6992,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 7087,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "凵"
   },
   {
     "id": "hsk4-584",
@@ -6421,7 +7004,8 @@
     "partOfSpeech": "adverb",
     "frequency": 7233,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "手"
   },
   {
     "id": "hsk4-585",
@@ -6432,7 +7016,8 @@
     "partOfSpeech": "verb",
     "frequency": 7253,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-586",
@@ -6443,7 +7028,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 7912,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "艹"
   },
   {
     "id": "hsk4-587",
@@ -6454,7 +7040,8 @@
     "partOfSpeech": "noun",
     "frequency": 8305,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "冖"
   },
   {
     "id": "hsk4-588",
@@ -6465,7 +7052,8 @@
     "partOfSpeech": "verb",
     "frequency": 8722,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "禾"
   },
   {
     "id": "hsk4-589",
@@ -6476,7 +7064,8 @@
     "partOfSpeech": "noun",
     "frequency": 10217,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "丿"
   },
   {
     "id": "hsk4-590",
@@ -6487,7 +7076,8 @@
     "partOfSpeech": "noun",
     "frequency": 11530,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "大"
   },
   {
     "id": "hsk4-591",
@@ -6498,7 +7088,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 13078,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "八"
   },
   {
     "id": "hsk4-592",
@@ -6509,7 +7100,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 13406,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "玉"
   },
   {
     "id": "hsk4-593",
@@ -6520,7 +7112,8 @@
     "partOfSpeech": "verb / noun",
     "frequency": 15630,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "田"
   },
   {
     "id": "hsk4-594",
@@ -6531,7 +7124,8 @@
     "partOfSpeech": "noun",
     "frequency": 16966,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "羽"
   },
   {
     "id": "hsk4-595",
@@ -6542,7 +7136,8 @@
     "partOfSpeech": "adjective",
     "frequency": 17449,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "水"
   },
   {
     "id": "hsk4-596",
@@ -6553,7 +7148,8 @@
     "partOfSpeech": "adjective",
     "frequency": 19483,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "冫"
   },
   {
     "id": "hsk4-597",
@@ -6564,7 +7160,8 @@
     "partOfSpeech": "adjective / noun",
     "frequency": 20190,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "马"
   },
   {
     "id": "hsk4-598",
@@ -6575,6 +7172,7 @@
     "partOfSpeech": "numeral",
     "frequency": 42376,
     "unitIndex": 15,
-    "unitName": "Abstract & Grammar"
+    "unitName": "Abstract & Grammar",
+    "radical": "刀"
   }
 ]

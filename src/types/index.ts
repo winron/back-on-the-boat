@@ -14,6 +14,7 @@ export interface HskWord {
   exampleSentence?: string;
   examplePinyin?: string;
   exampleMeaning?: string;
+  radical?: string;
 }
 
 // === Grammar ===
