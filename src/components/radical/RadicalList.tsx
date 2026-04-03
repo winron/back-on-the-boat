@@ -2,9 +2,10 @@
 
 import { useEffect, useState } from "react";
 import { loadRadicals } from "@/lib/data-loader";
+import { db } from "@/lib/db";
 import { useDisplaySettings } from "@/hooks/useDisplaySettings";
 import RadicalPopup from "@/components/radical/RadicalPopup";
-import type { Radical } from "@/types";
+import type { Radical, RadicalCorrection } from "@/types";
 
 interface RadicalListProps {
   onClose: () => void;
@@ -12,12 +13,32 @@ interface RadicalListProps {
 
 export default function RadicalList({ onClose }: RadicalListProps) {
   const [radicals, setRadicals] = useState<Radical[]>([]);
+  const [corrections, setCorrections] = useState<Map<string, RadicalCorrection>>(new Map());
   const [popupRadical, setPopupRadical] = useState<string | null>(null);
   const { showPinyin, showEnglish } = useDisplaySettings();
 
   useEffect(() => {
     loadRadicals().then(setRadicals);
+    db.radicalCorrections.toArray().then((corrs) => {
+      setCorrections(new Map(corrs.map((c) => [c.id, c])));
+    });
   }, []);
+
+  // Reload corrections when popup closes (user may have edited)
+  const handlePopupClose = () => {
+    setPopupRadical(null);
+    db.radicalCorrections.toArray().then((corrs) => {
+      setCorrections(new Map(corrs.map((c) => [c.id, c])));
+    });
+  };
+
+  const getDisplay = (r: Radical) => {
+    const corr = corrections.get(r.character);
+    return {
+      pinyin: corr?.pinyin ?? r.pinyin,
+      meaning: corr?.meaning ?? r.meaning,
+    };
+  };
 
   // Group by stroke count
   const grouped = radicals.reduce<Record<number, Radical[]>>((acc, r) => {
@@ -49,28 +70,31 @@ export default function RadicalList({ onClose }: RadicalListProps) {
               {count} stroke{count !== 1 ? "s" : ""}
             </p>
             <div className="grid grid-cols-5 gap-2">
-              {grouped[count].map((r) => (
-                <button
-                  key={r.number}
-                  onClick={() => setPopupRadical(r.character)}
-                  className="flex flex-col items-center py-2 rounded-lg transition-colors bg-card border border-border active:bg-indigo-500/20"
-                >
-                  <span className="text-2xl">{r.character}</span>
-                  {showPinyin && (
-                    <span className="text-[10px] text-muted-foreground mt-0.5">{r.pinyin}</span>
-                  )}
-                  {showEnglish && (
-                    <span className="text-[9px] text-muted-foreground truncate max-w-full px-1">{r.meaning}</span>
-                  )}
-                </button>
-              ))}
+              {grouped[count].map((r) => {
+                const d = getDisplay(r);
+                return (
+                  <button
+                    key={r.number}
+                    onClick={() => setPopupRadical(r.character)}
+                    className="flex flex-col items-center py-2 rounded-lg transition-colors bg-card border border-border active:bg-indigo-500/20"
+                  >
+                    <span className="text-2xl">{r.character}</span>
+                    {showPinyin && (
+                      <span className="text-[10px] text-muted-foreground mt-0.5">{d.pinyin}</span>
+                    )}
+                    {showEnglish && (
+                      <span className="text-[9px] text-muted-foreground truncate max-w-full px-1">{d.meaning}</span>
+                    )}
+                  </button>
+                );
+              })}
             </div>
           </div>
         ))}
       </div>
 
       {popupRadical && (
-        <RadicalPopup radicalChar={popupRadical} onClose={() => setPopupRadical(null)} />
+        <RadicalPopup radicalChar={popupRadical} onClose={handlePopupClose} />
       )}
     </div>
   );

@@ -6,6 +6,7 @@ import type {
   DisplaySettings,
   PageLevels,
   WordCorrection,
+  RadicalCorrection,
   StudyTimers,
 } from "@/types";
 
@@ -16,6 +17,7 @@ const db = new Dexie("hsk-master") as Dexie & {
   displaySettings: EntityTable<DisplaySettings, "id">;
   pageLevels: EntityTable<PageLevels, "id">;
   wordCorrections: EntityTable<WordCorrection, "id">;
+  radicalCorrections: EntityTable<RadicalCorrection, "id">;
   studyTimers: EntityTable<StudyTimers, "date">;
 };
 
@@ -40,6 +42,17 @@ db.version(3).stores({
   displaySettings: "id",
   pageLevels: "id",
   wordCorrections: "id",
+  studyTimers: "date",
+});
+
+db.version(4).stores({
+  srsCards: "id, module, due, state, [module+state], [module+due]",
+  settings: "id",
+  dailyStats: "date",
+  displaySettings: "id",
+  pageLevels: "id",
+  wordCorrections: "id",
+  radicalCorrections: "id",
   studyTimers: "date",
 });
 

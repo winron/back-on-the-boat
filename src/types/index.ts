@@ -26,6 +26,13 @@ export interface Radical {
   strokeCount: number;
 }
 
+export interface RadicalCorrection {
+  id: string;            // radical character as key
+  pinyin?: string;
+  meaning?: string;
+  correctedAt: string;
+}
+
 // === Grammar ===
 export interface GrammarPattern {
   id: string;
